@@ -1,0 +1,8 @@
+[19:49:38]: Lhendy51 emptied a WATER_BUCKET at the location 1289, 62, 750.
+[19:49:43]: Lhendy51 emptied a WATER_BUCKET at the location 1289, 62, 751.
+[19:49:44]: Lhendy51 emptied a WATER_BUCKET at the location 1289, 62, 752.
+[20:54:36]: Lhendy51 emptied a WATER_BUCKET at the location 1278, 55, 765.
+[21:01:00]: Lhendy51 emptied a WATER_BUCKET at the location 1276, 53, 768.
+[21:01:01]: Lhendy51 emptied a WATER_BUCKET at the location 1277, 53, 767.
+[21:03:21]: Lhendy51 emptied a WATER_BUCKET at the location 1280, 54, 764.
+[21:03:35]: Lhendy51 emptied a WATER_BUCKET at the location 1278, 53, 768.

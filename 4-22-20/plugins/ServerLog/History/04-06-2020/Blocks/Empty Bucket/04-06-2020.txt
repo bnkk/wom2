@@ -1,0 +1,9 @@
+[21:43:21]: BenDoesMusic emptied a WATER_BUCKET at the location 202, 61, -1915.
+[22:46:35]: spotttedleaf emptied a WATER_BUCKET at the location -503, 58, 711.
+[22:46:52]: spotttedleaf emptied a WATER_BUCKET at the location -501, 58, 713.
+[22:47:01]: spotttedleaf emptied a WATER_BUCKET at the location -499, 59, 706.
+[22:47:06]: spotttedleaf emptied a WATER_BUCKET at the location -504, 58, 712.
+[22:47:09]: spotttedleaf emptied a WATER_BUCKET at the location -506, 58, 712.
+[22:55:35]: spotttedleaf emptied a WATER_BUCKET at the location -518, 45, 752.
+[22:56:35]: spotttedleaf emptied a WATER_BUCKET at the location -505, 58, 712.
+[22:56:53]: spotttedleaf emptied a WATER_BUCKET at the location -517, 46, 750.
