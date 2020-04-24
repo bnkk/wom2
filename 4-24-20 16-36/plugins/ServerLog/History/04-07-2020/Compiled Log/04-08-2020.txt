@@ -1,0 +1,284 @@
+[00:00:00]: Lhendy51 broke the block SAND at the location 1280, 35, 657.
+[00:00:00]: Lhendy51 placed the block TORCH at the location 1280, 35, 657.
+[00:00:01]: Lhendy51 picked up the item SAND.
+[00:00:01]: Lhendy51 picked up the item SAND.
+[00:00:02]: Lhendy51 broke the block SAND at the location 1280, 35, 656.
+[00:00:02]: Lhendy51 placed the block TORCH at the location 1280, 35, 656.
+[00:00:02]: Lhendy51 picked up the item SAND.
+[00:00:03]: Lhendy51 broke the block SAND at the location 1280, 35, 655.
+[00:00:03]: Lhendy51 placed the block TORCH at the location 1280, 35, 655.
+[00:00:04]: Lhendy51 picked up the item SAND.
+[00:00:04]: Lhendy51 picked up the item SAND.
+[00:00:04]: Lhendy51 picked up the item SAND.
+[00:00:04]: Lhendy51 picked up the item SAND.
+[00:00:05]: Lhendy51 picked up the item TORCH.
+[00:00:05]: Lhendy51 picked up the item SAND.
+[00:00:06]: Lhendy51 picked up the item SAND.
+[00:00:06]: TARDIS_360 placed the block SCAFFOLDING at the location -1819, 65, -1185.
+[00:00:06]: TARDIS_360 placed the block SCAFFOLDING at the location -1819, 66, -1185.
+[00:00:07]: TARDIS_360 placed the block SCAFFOLDING at the location -1819, 67, -1185.
+[00:00:07]: Lhendy51 broke the block TORCH at the location 1280, 35, 657.
+[00:00:07]: Lhendy51 picked up the item SAND.
+[00:00:07]: Lhendy51 picked up the item TORCH.
+[00:00:07]: Lhendy51 picked up the item SAND.
+[00:00:08]: Lhendy51 broke the block TORCH at the location 1280, 35, 656.
+[00:00:08]: Lhendy51 picked up the item SAND.
+[00:00:08]: Lhendy51 picked up the item SAND.
+[00:00:08]: Lhendy51 picked up the item TORCH.
+[00:00:09]: Lhendy51 broke the block TORCH at the location 1280, 35, 655.
+[00:00:09]: TARDIS_360 placed the block SCAFFOLDING at the location -1819, 68, -1185.
+[00:00:09]: Lhendy51 picked up the item TORCH.
+[00:00:10]: Lhendy51 broke the block SAND at the location 1280, 36, 654.
+[00:00:10]: TARDIS_360 broke the block SCAFFOLDING at the location -1819, 68, -1185.
+[00:00:10]: Lhendy51 broke the block SAND at the location 1280, 36, 653.
+[00:00:10]: Lhendy51 placed the block TORCH at the location 1280, 36, 653.
+[00:00:11]: Lhendy51 picked up the item SAND.
+[00:00:11]: Lhendy51 broke the block SAND at the location 1280, 36, 654.
+[00:00:12]: TARDIS_360 picked up the item SCAFFOLDING.
+[00:00:12]: Lhendy51 placed the block TORCH at the location 1280, 36, 654.
+[00:00:12]: Lhendy51 picked up the item SAND.
+[00:00:12]: Lhendy51 picked up the item SAND.
+[00:00:13]: Lhendy51 picked up the item SAND.
+[00:00:13]: TARDIS_360 placed the block SCAFFOLDING at the location -1819, 68, -1185.
+[00:00:14]: Lhendy51 picked up the item SAND.
+[00:00:14]: TARDIS_360 broke the block SCAFFOLDING at the location -1819, 68, -1185.
+[00:00:14]: Lhendy51 picked up the item SAND.
+[00:00:15]: TARDIS_360 picked up the item SCAFFOLDING.
+[00:00:15]: Lhendy51 picked up the item SAND.
+[00:00:16]: Lhendy51 picked up the item SAND.
+[00:00:17]: Lhendy51 broke the block TORCH at the location 1280, 36, 653.
+[00:00:17]: Lhendy51 broke the block TORCH at the location 1280, 36, 654.
+[00:00:17]: Lhendy51 picked up the item TORCH.
+[00:00:17]: Lhendy51 picked up the item TORCH.
+[00:00:18]: TARDIS_360 placed the block SCAFFOLDING at the location -1820, 67, -1185.
+[00:00:20]: TARDIS_360 placed the block SCAFFOLDING at the location -1821, 67, -1185.
+[00:00:22]: TARDIS_360 placed the block SCAFFOLDING at the location -1822, 67, -1185.
+[00:00:26]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1817, 69, -1186.
+[00:00:27]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1818, 69, -1186.
+[00:00:29]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1819, 69, -1186.
+[00:00:29]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1820, 69, -1186.
+[00:00:30]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1821, 69, -1186.
+[00:00:31]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1822, 69, -1186.
+[00:00:35]: TARDIS_360 broke the block SCAFFOLDING at the location -1819, 65, -1185.
+[00:00:36]: TARDIS_360 picked up the item SCAFFOLDING.
+[00:00:37]: TARDIS_360 picked up the item SCAFFOLDING.
+[00:00:38]: TARDIS_360 placed the block SCAFFOLDING at the location -1825, 65, -1185.
+[00:00:39]: Lhendy51 broke the block WET_SPONGE at the location 1277, 61, 657.
+[00:00:39]: TARDIS_360 placed the block SCAFFOLDING at the location -1825, 66, -1185.
+[00:00:39]: TARDIS_360 placed the block SCAFFOLDING at the location -1825, 67, -1185.
+[00:00:42]: Lhendy51 broke the block WET_SPONGE at the location 1277, 60, 653.
+[00:00:43]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1827, 69, -1186.
+[00:00:43]: Lhendy51 died because of FALL.
+[00:00:44]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1826, 69, -1186.
+[00:00:46]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1825, 69, -1186.
+[00:00:46]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1823, 69, -1186.
+[00:00:46]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1824, 69, -1186.
+[00:00:47]: Lhendy51 respawned.
+[00:00:51]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1827, 68, -1185.
+[00:00:54]: TARDIS_360 broke the block SCAFFOLDING at the location -1825, 65, -1185.
+[00:00:55]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1826, 68, -1185.
+[00:00:56]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1825, 68, -1185.
+[00:00:57]: TARDIS_360 picked up the item SCAFFOLDING.
+[00:01:03]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1824, 68, -1185.
+[00:01:03]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1823, 68, -1185.
+[00:01:05]: Lhendy51 picked up the item WET_SPONGE.
+[00:01:10]: Lhendy51 picked up the item Circumcisor IV (DIAMOND_SWORD).
+[00:01:10]: Lhendy51 picked up the item PRISMARINE_SHARD.
+[00:01:10]: Lhendy51 picked up the item toe condom II (DIAMOND_BOOTS).
+[00:01:10]: Lhendy51 picked up the item Bengay (DIAMOND_PICKAXE).
+[00:01:10]: Lhendy51 picked up the item PRISMARINE_CRYSTALS.
+[00:01:10]: Lhendy51 picked up the item POTION.
+[00:01:10]: Lhendy51 picked up the item Stefon Diggs (DIAMOND_SHOVEL).
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item POTION.
+[00:01:10]: Lhendy51 picked up the item POTION.
+[00:01:10]: Lhendy51 picked up the item TORCH.
+[00:01:10]: Lhendy51 picked up the item POTION.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item WET_SPONGE.
+[00:01:10]: Lhendy51 picked up the item Browns Logo but blue (DIAMOND_HELMET).
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item SAND.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item KELP.
+[00:01:10]: Lhendy51 picked up the item COD.
+[00:01:10]: Lhendy51 picked up the item SPONGE.
+[00:01:10]: Lhendy51 picked up the item SPONGE.
+[00:01:10]: Lhendy51 picked up the item GRAVEL.
+[00:01:10]: Lhendy51 picked up the item COOKED_COD.
+[00:01:10]: Lhendy51 picked up the item ELYTRA.
+[00:01:19]: Lhendy51 broke the block GRAVEL at the location 1277, 34, 654.
+[00:01:20]: Lhendy51 picked up the item GRAVEL.
+[00:01:21]: Lhendy51 broke the block GRAVEL at the location 1278, 34, 654.
+[00:01:21]: Lhendy51 picked up the item GRAVEL.
+[00:01:27]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 64, -1163.
+[00:01:27]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:27]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 65, -1163.
+[00:01:28]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:28]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 66, -1164.
+[00:01:29]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:29]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 67, -1164.
+[00:01:30]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:30]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1728, 66, -1164.
+[00:01:30]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:31]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1728, 67, -1164.
+[00:01:31]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:31]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1728, 68, -1164.
+[00:01:32]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1728, 69, -1164.
+[00:01:32]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:33]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:33]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 68, -1164.
+[00:01:34]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:34]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1726, 66, -1164.
+[00:01:35]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1726, 67, -1164.
+[00:01:36]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:36]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1726, 68, -1164.
+[00:01:36]: Lhendy51 broke the block SAND at the location 1276, 36, 653.
+[00:01:36]: Lhendy51 picked up the item SAND.
+[00:01:37]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:38]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:40]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 63, -1163.
+[00:01:40]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:41]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 64, -1162.
+[00:01:42]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 65, -1162.
+[00:01:42]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 66, -1163.
+[00:01:43]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:43]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 67, -1163.
+[00:01:44]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:44]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 66, -1162.
+[00:01:44]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:45]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1727, 67, -1162.
+[00:01:46]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1728, 67, -1161.
+[00:01:47]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:47]: TARDIS_360 broke the block DARK_OAK_LOG at the location -1728, 68, -1161.
+[00:01:48]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:49]: TARDIS_360 picked up the item DARK_OAK_LOG.
+[00:01:55]: Lhendy51 picked up the item WET_SPONGE.
+[00:01:57]: Lhendy51 broke the block WET_SPONGE at the location 1277, 57, 657.
+[00:02:00]: Lhendy51 broke the block WET_SPONGE at the location 1277, 55, 653.
+[00:02:01]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:03]: Lhendy51 broke the block WET_SPONGE at the location 1277, 52, 657.
+[00:02:03]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:06]: Lhendy51 broke the block WET_SPONGE at the location 1277, 50, 653.
+[00:02:07]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:09]: Lhendy51 broke the block WET_SPONGE at the location 1277, 47, 657.
+[00:02:10]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:12]: Lhendy51 broke the block WET_SPONGE at the location 1277, 45, 653.
+[00:02:13]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:16]: Lhendy51 placed the block SAND at the location 1278, 35, 656.
+[00:02:17]: Lhendy51 placed the block SAND at the location 1278, 36, 656.
+[00:02:17]: Lhendy51 placed the block SAND at the location 1278, 37, 656.
+[00:02:19]: Lhendy51 broke the block WET_SPONGE at the location 1277, 42, 657.
+[00:02:20]: Lhendy51 broke the block WET_SPONGE at the location 1277, 38, 657.
+[00:02:21]: TARDIS_360 broke the block SUGAR_CANE at the location -1819, 66, -1199.
+[00:02:21]: TARDIS_360 broke the block SUGAR_CANE at the location -1820, 66, -1199.
+[00:02:21]: TARDIS_360 broke the block SUGAR_CANE at the location -1821, 66, -1199.
+[00:02:21]: TARDIS_360 broke the block SUGAR_CANE at the location -1823, 66, -1199.
+[00:02:21]: TARDIS_360 broke the block SUGAR_CANE at the location -1824, 66, -1199.
+[00:02:21]: Lhendy51 broke the block WET_SPONGE at the location 1277, 40, 653.
+[00:02:22]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:23]: Lhendy51 broke the block WET_SPONGE at the location 1276, 37, 653.
+[00:02:24]: Lhendy51 broke the block SAND at the location 1278, 37, 656.
+[00:02:24]: Lhendy51 broke the block SAND at the location 1278, 36, 656.
+[00:02:24]: Lhendy51 teleported to 1278, 36, 656.
+[00:02:25]: Lhendy51 picked up the item SAND.
+[00:02:26]: Lhendy51 broke the block SAND at the location 1278, 35, 656.
+[00:02:26]: Lhendy51 picked up the item SAND.
+[00:02:26]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:27]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:27]: Lhendy51 picked up the item WET_SPONGE.
+[00:02:28]: TARDIS_360 broke the block SUGAR_CANE at the location -1822, 66, -1197.
+[00:02:29]: TARDIS_360 broke the block SUGAR_CANE at the location -1823, 66, -1197.
+[00:02:29]: TARDIS_360 broke the block SUGAR_CANE at the location -1824, 66, -1196.
+[00:02:30]: TARDIS_360 broke the block SUGAR_CANE at the location -1824, 66, -1197.
+[00:02:30]: TARDIS_360 broke the block SUGAR_CANE at the location -1825, 65, -1197.
+[00:02:32]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:34]: TARDIS_360 broke the block SUGAR_CANE at the location -1822, 66, -1196.
+[00:02:34]: TARDIS_360 broke the block SUGAR_CANE at the location -1820, 66, -1196.
+[00:02:35]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:35]: TARDIS_360 broke the block SUGAR_CANE at the location -1820, 66, -1197.
+[00:02:35]: TARDIS_360 broke the block SUGAR_CANE at the location -1818, 66, -1197.
+[00:02:36]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:36]: TARDIS_360 broke the block SUGAR_CANE at the location -1818, 66, -1196.
+[00:02:37]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:39]: TARDIS_360 broke the block SUGAR_CANE at the location -1822, 66, -1199.
+[00:02:39]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:40]: TARDIS_360 broke the block SUGAR_CANE at the location -1825, 66, -1199.
+[00:02:40]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:44]: TARDIS_360 broke the block SUGAR_CANE at the location -1824, 66, -1190.
+[00:02:45]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:46]: TARDIS_360 placed the block SUGAR_CANE at the location -1822, 65, -1190.
+[00:02:46]: TARDIS_360 placed the block SUGAR_CANE at the location -1823, 65, -1190.
+[00:02:47]: TARDIS_360 placed the block SUGAR_CANE at the location -1820, 65, -1190.
+[00:02:47]: TARDIS_360 placed the block SUGAR_CANE at the location -1821, 65, -1190.
+[00:02:47]: TARDIS_360 placed the block SUGAR_CANE at the location -1818, 65, -1190.
+[00:02:48]: TARDIS_360 placed the block SUGAR_CANE at the location -1819, 65, -1190.
+[00:02:48]: TARDIS_360 placed the block SUGAR_CANE at the location -1818, 65, -1189.
+[00:02:49]: TARDIS_360 placed the block SUGAR_CANE at the location -1819, 65, -1189.
+[00:02:49]: TARDIS_360 placed the block SUGAR_CANE at the location -1820, 65, -1189.
+[00:02:50]: TARDIS_360 placed the block SUGAR_CANE at the location -1822, 65, -1189.
+[00:02:50]: TARDIS_360 placed the block SUGAR_CANE at the location -1821, 65, -1189.
+[00:02:51]: TARDIS_360 placed the block SUGAR_CANE at the location -1824, 65, -1189.
+[00:02:51]: TARDIS_360 placed the block SUGAR_CANE at the location -1823, 65, -1189.
+[00:02:51]: TARDIS_360 placed the block SUGAR_CANE at the location -1826, 65, -1189.
+[00:02:52]: TARDIS_360 placed the block SUGAR_CANE at the location -1825, 65, -1189.
+[00:02:53]: TARDIS_360 placed the block SUGAR_CANE at the location -1826, 65, -1187.
+[00:02:53]: TARDIS_360 placed the block SUGAR_CANE at the location -1825, 65, -1187.
+[00:02:54]: TARDIS_360 placed the block SUGAR_CANE at the location -1824, 65, -1187.
+[00:02:57]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:02:57]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:02:58]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:02:58]: TARDIS_360 broke the block SUGAR_CANE at the location -1823, 66, -1196.
+[00:02:58]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:02:58]: TARDIS_360 picked up the item SUGAR_CANE.
+[00:02:58]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:02:59]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:00]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:00]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:01]: TARDIS_360 placed the block SUGAR_CANE at the location -1823, 65, -1187.
+[00:03:01]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:01]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:02]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:03]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:03]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:04]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:04]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:05]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:06]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:06]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:07]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:07]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:08]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:09]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:09]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:09]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:10]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:10]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:11]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:12]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:12]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:13]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:13]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:14]: Lhendy51 placed the block SAND at the location 1232, 62, 654.
+[00:03:14]: Lhendy51 placed the block SAND at the location 1232, 63, 654.
+[00:03:16]: Lhendy51 broke the block SAND at the location 1232, 63, 654.
+[00:03:17]: Lhendy51 picked up the item SAND.
+[00:03:23]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1827, 68, -1201.
+[00:03:25]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1826, 68, -1201.
+[00:03:25]: Lhendy51 placed the block SAND at the location 1232, 48, 655.
+[00:03:26]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1825, 68, -1201.
+[00:03:27]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1824, 68, -1201.
+[00:03:28]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1823, 68, -1201.
+[00:03:28]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1822, 68, -1201.
+[00:03:30]: TARDIS_360 placed the block DARK_OAK_SLAB at the location -1821, 68, -1201.

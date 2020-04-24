@@ -1,0 +1,13 @@
+[00:00:00]: Alizray picked up the item DIORITE.
+[00:00:01]: Alizray picked up the item DIORITE.
+[00:00:01]: Alizray picked up the item DIORITE.
+[00:00:02]: ya_boi_ehoff picked up the item COBBLESTONE.
+[00:00:02]: ya_boi_ehoff picked up the item COAL.
+[00:00:02]: Alizray picked up the item DIORITE.
+[00:00:03]: Alizray picked up the item DIORITE.
+[00:00:03]: Alizray picked up the item DIORITE.
+[00:00:04]: Alizray picked up the item DIORITE.
+[00:00:05]: Alizray picked up the item DIORITE.
+[00:00:06]: Alizray picked up the item DIORITE.
+[00:00:06]: Alizray picked up the item DIORITE.
+[00:00:07]: Alizray picked up the item DIORITE.
