@@ -1,0 +1,12 @@
+[20:15:19]: felipe_boss died because of PROJECTILE.
+[21:04:12]: felipe_boss died because of ENTITY_EXPLOSION.
+[21:05:45]: felipe_boss died because of FALL.
+[22:54:51]: felipe_boss died because of FALL.
+[22:55:23]: felipe_boss died because of ENTITY_ATTACK by Enderman.
+[22:55:42]: felipe_boss died because of ENTITY_ATTACK by Enderman.
+[22:55:54]: felipe_boss died because of ENTITY_ATTACK by Enderman.
+[22:56:37]: felipe_boss died because of ENTITY_ATTACK by Enderman.
+[22:57:43]: felipe_boss died because of ENTITY_ATTACK by Enderman.
+[23:51:43]: Lhendy51 died because of ENTITY_EXPLOSION.
+[23:54:25]: Lhendy51 died because of WITHER.
+[23:55:46]: Comrade91 died because of FALL.

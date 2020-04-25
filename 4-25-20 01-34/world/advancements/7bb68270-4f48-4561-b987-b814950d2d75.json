@@ -1,0 +1,45 @@
+{
+  "main:main/player_graves": {
+    "criteria": {
+      "tick": "2020-04-14 09:04:26 -0400"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-03-26 19:07:17 -0400"
+    },
+    "done": true
+  },
+  "main:main/dp": {
+    "criteria": {
+      "tick": "2020-03-26 19:07:17 -0400"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-03-26 19:07:17 -0400"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-03-26 19:07:17 -0400"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-03-26 19:07:17 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-26 19:07:17 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

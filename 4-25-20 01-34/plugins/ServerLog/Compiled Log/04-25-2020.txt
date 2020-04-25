@@ -1,0 +1,57 @@
+[00:00:04]: The TPS is 20.
+[00:00:04]: The current RAM usage is 1772MB / 3072MB (57.68%).
+[00:00:04]: The current player count is 0.
+[00:05:04]: The TPS is 20.
+[00:05:04]: The current RAM usage is 1794MB / 3072MB (58.4%).
+[00:05:04]: The current player count is 0.
+[00:10:05]: The TPS is 20.
+[00:10:06]: The current RAM usage is 1304MB / 3072MB (42.45%).
+[00:10:06]: The current player count is 0.
+[00:15:04]: The TPS is 20.
+[00:15:04]: The current RAM usage is 1469MB / 3072MB (47.82%).
+[00:15:04]: The current player count is 0.
+[00:20:04]: The TPS is 20.
+[00:20:04]: The current RAM usage is 1286MB / 3072MB (41.86%).
+[00:20:04]: The current player count is 0.
+[00:25:04]: The TPS is 20.
+[00:25:04]: The current RAM usage is 1618MB / 3072MB (52.67%).
+[00:25:04]: The current player count is 0.
+[00:30:04]: The TPS is 20.
+[00:30:04]: The current RAM usage is 1397MB / 3072MB (45.48%).
+[00:30:04]: The current player count is 0.
+[00:35:04]: The TPS is 20.
+[00:35:04]: The current RAM usage is 1552MB / 3072MB (50.52%).
+[00:35:04]: The current player count is 0.
+[00:40:04]: The TPS is 20.
+[00:40:04]: The current RAM usage is 1385MB / 3072MB (45.08%).
+[00:40:04]: The current player count is 0.
+[00:45:04]: The TPS is 20.
+[00:45:04]: The current RAM usage is 1723MB / 3072MB (56.09%).
+[00:45:04]: The current player count is 0.
+[00:50:04]: The TPS is 20.
+[00:50:04]: The current RAM usage is 1477MB / 3072MB (48.08%).
+[00:50:04]: The current player count is 0.
+[00:55:04]: The TPS is 20.
+[00:55:04]: The current RAM usage is 2264MB / 3072MB (73.7%).
+[00:55:04]: The current player count is 0.
+[01:00:04]: The TPS is 20.
+[01:00:04]: The current RAM usage is 1698MB / 3072MB (55.27%).
+[01:00:04]: The current player count is 0.
+[01:05:04]: The TPS is 20.
+[01:05:04]: The current RAM usage is 1263MB / 3072MB (41.11%).
+[01:05:04]: The current player count is 0.
+[01:10:04]: The TPS is 20.
+[01:10:04]: The current RAM usage is 1573MB / 3072MB (51.2%).
+[01:10:04]: The current player count is 0.
+[01:15:04]: The TPS is 20.
+[01:15:04]: The current RAM usage is 1637MB / 3072MB (53.29%).
+[01:15:04]: The current player count is 0.
+[01:20:04]: The TPS is 20.
+[01:20:04]: The current RAM usage is 1521MB / 3072MB (49.51%).
+[01:20:04]: The current player count is 0.
+[01:25:04]: The TPS is 20.
+[01:25:04]: The current RAM usage is 1400MB / 3072MB (45.57%).
+[01:25:04]: The current player count is 0.
+[01:30:04]: The TPS is 20.
+[01:30:04]: The current RAM usage is 1685MB / 3072MB (54.85%).
+[01:30:04]: The current player count is 0.

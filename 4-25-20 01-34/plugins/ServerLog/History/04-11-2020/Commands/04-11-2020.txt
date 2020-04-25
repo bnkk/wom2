@@ -1,0 +1,59 @@
+[00:17:13]: Comrade91 ran the command /msg ya_boi_ehoff how do i do the nether roof thing.
+[00:17:29]: ya_boi_ehoff ran the command /tell Comrade91 idk ben did it for me.
+[00:17:38]: Comrade91 ran the command /msg ya_boi_ehoff dammit.
+[00:17:46]: ya_boi_ehoff ran the command /tell Comrade91 sorry.
+[00:19:26]: ya_boi_ehoff ran the command /tell Comrade91 i think you need to take the cords of your house devide the x/z by 8 and then go into the nether and place a portal at those cords.
+[00:19:43]: Comrade91 ran the command /msg ya_boi_ehoff ya ben can do that for me.
+[00:27:40]: Comrade91 ran the command /msg ya_boi_ehoff ill call u in a little im on the phone w bobby.
+[00:27:57]: ya_boi_ehoff ran the command /tell Comrade91 okey.
+[01:35:28]: Comrade91 ran the command /msg bendoesmusic we're gonna go do a raid on our server u can come if u want.
+[02:54:33]: Borps ran the command /pluginmanager.
+[02:54:37]: Borps ran the command /pluginmanager gui.
+[02:56:28]: Borps ran the command /gamemode creative.
+[02:57:03]: Borps ran the command /gamemode survival.
+[02:57:37]: Borps ran the command /gamemode creative.
+[02:58:12]: Borps ran the command /gamemode survival.
+[14:16:04]: BenDoesMusic ran the command /gamemode spectator.
+[14:16:19]: BenDoesMusic ran the command /gamemode creative.
+[14:25:47]: BenDoesMusic ran the command /gamemode survival.
+[14:41:20]: BenDoesMusic ran the command /gamemode creative.
+[14:41:48]: BenDoesMusic ran the command /gamemode survival.
+[14:44:29]: BenDoesMusic ran the command /gamemode creative.
+[14:44:48]: BenDoesMusic ran the command /gamemode spectator.
+[14:45:06]: BenDoesMusic ran the command /gamemode survival.
+[20:18:14]: Xestra ran the command /pl.
+[20:21:27]: Xestra ran the command /dmarker add "Nick's Base".
+[20:21:55]: Xestra ran the command /dmap.
+[21:15:44]: Comrade91 ran the command /msg lhendy51 whos xestra.
+[21:26:12]: Xestra ran the command /seed.
+[23:05:36]: Comrade91 ran the command /msg lhendy51 who.
+[23:05:50]: Lhendy51 ran the command /tell Comrade91 erik bloomquist.
+[23:05:51]: Alizray ran the command /gamemode 1.
+[23:06:05]: Alizray ran the command /help.
+[23:06:25]: Alizray ran the command /aliases.
+[23:06:32]: Alizray ran the command /help2.
+[23:06:37]: Alizray ran the command /help 2.
+[23:17:38]: BenDoesMusic ran the command /msg Comrade91 btw i kinda told erik the thing on ft lmao.
+[23:18:05]: Comrade91 ran the command /msg bendoesmusic okay.
+[23:18:14]: BenDoesMusic ran the command /msg Comrade91 is that okay?.
+[23:18:31]: Comrade91 ran the command /msg bendoesmusic yeah of course.
+[23:18:42]: BenDoesMusic ran the command /msg Comrade91 okay lol just checking :).
+[23:34:53]: Comrade91 ran the command /msg ya_boi_ehoff ethan help im so scared.
+[23:35:09]: ya_boi_ehoff ran the command /tell Comrade91 there all here!.
+[23:35:22]: Comrade91 ran the command /msg ya_boi_ehoff YES I KNOWWW.
+[23:35:31]: Comrade91 ran the command /msg ya_boi_ehoff AND ERIK KNOWS.
+[23:35:45]: ya_boi_ehoff ran the command /tell Comrade91 bout ben.
+[23:36:02]: Comrade91 ran the command /msg ya_boi_ehoff yea cuz ben told me that he told erik.
+[23:36:20]: ya_boi_ehoff ran the command /tell Comrade91 AHHHHHHHHHHHH Logan is the only cluelss one then.
+[23:36:28]: Comrade91 ran the command /msg ya_boi_ehoff theo?.
+[23:36:55]: ya_boi_ehoff ran the command /tell Comrade91 hes not on!.
+[23:37:29]: Comrade91 ran the command /msg ya_boi_ehoff moral of the story is that im freaking out.
+[23:37:40]: ya_boi_ehoff ran the command /tell Comrade91 yes you are.
+[23:38:22]: Comrade91 ran the command /msg ya_boi_ehoff very helpful.
+[23:38:43]: ya_boi_ehoff ran the command /tell Comrade91 im on a vc with them all and they are saying nothin.
+[23:38:59]: Comrade91 ran the command /msg ya_boi_ehoff get on a vc with me before i kille mesekf.
+[23:39:32]: ya_boi_ehoff ran the command /tell Comrade91 i just got on with them ill be with you in a bit.
+[23:39:43]: Comrade91 ran the command /msg ya_boi_ehoff promise?.
+[23:39:55]: ya_boi_ehoff ran the command /tell Comrade91 of course dont worry.
+[23:39:59]: Comrade91 ran the command /msg ya_boi_ehoff <3.
+[23:40:16]: ya_boi_ehoff ran the command /tell Comrade91 <3.
