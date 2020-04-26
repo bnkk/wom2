@@ -1,3 +1,0 @@
-[01:16:06]: ya_boi_ehoff died because of ENTITY_ATTACK by Zombie.
-[02:42:35]: BenDoesMusic died because of ENTITY_ATTACK by Zombie.
-[23:07:13]: Alizray died because of PROJECTILE.

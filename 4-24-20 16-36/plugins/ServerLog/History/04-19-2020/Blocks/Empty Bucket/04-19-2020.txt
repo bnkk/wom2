@@ -1,5 +1,0 @@
-[00:36:47]: ya_boi_ehoff emptied a WATER_BUCKET at the location -5200, 69, -3249.
-[00:36:51]: ya_boi_ehoff emptied a WATER_BUCKET at the location -5200, 69, -3249.
-[00:48:45]: Comrade91 emptied a WATER_BUCKET at the location -5199, 60, -3239.
-[00:53:11]: BenDoesMusic emptied a AIR at the location 1, 61, -7.
-[01:02:17]: Comrade91 emptied a WATER_BUCKET at the location -31, 87, -27.

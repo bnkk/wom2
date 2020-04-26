@@ -1,0 +1,394 @@
+[00:00:02]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 144, 592.
+[00:00:02]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 144, 591.
+[00:00:02]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 144, 590.
+[00:00:02]: Comrade91 placed the block PRISMARINE_BRICK_SLAB at the location -975, 139, 589.
+[00:00:05]: ya_boi_ehoff dropped the item ORANGE_CONCRETE.
+[00:00:07]: ya_boi_ehoff picked up the item ORANGE_CONCRETE.
+[00:00:08]: Comrade91 broke the block SNOW at the location -980, 134, 589.
+[00:00:08]: Comrade91 picked up the item SNOWBALL.
+[00:00:08]: Comrade91 broke the block SNOW at the location -981, 134, 590.
+[00:00:09]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 144, 589.
+[00:00:09]: Comrade91 broke the block SNOW at the location -982, 134, 589.
+[00:00:09]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 144, 588.
+[00:00:10]: Comrade91 picked up the item SNOWBALL.
+[00:00:10]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -970, 144, 587.
+[00:00:10]: Comrade91 broke the block SNOW at the location -980, 134, 593.
+[00:00:10]: Comrade91 broke the block SNOW at the location -981, 134, 592.
+[00:00:10]: Comrade91 broke the block SNOW at the location -982, 134, 593.
+[00:00:11]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -971, 144, 586.
+[00:00:11]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -972, 144, 585.
+[00:00:11]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -973, 144, 584.
+[00:00:11]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -974, 144, 584.
+[00:00:11]: Comrade91 broke the block SNOW at the location -979, 134, 594.
+[00:00:11]: Comrade91 picked up the item SNOWBALL.
+[00:00:11]: Comrade91 broke the block SNOW at the location -978, 134, 595.
+[00:00:11]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -975, 144, 584.
+[00:00:11]: Comrade91 picked up the item SNOWBALL.
+[00:00:12]: Comrade91 broke the block SNOW at the location -977, 134, 596.
+[00:00:12]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -976, 144, 584.
+[00:00:12]: Comrade91 broke the block SNOW at the location -978, 134, 597.
+[00:00:12]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -977, 144, 584.
+[00:00:12]: Comrade91 picked up the item SNOWBALL.
+[00:00:12]: Comrade91 picked up the item SNOWBALL.
+[00:00:13]: Comrade91 broke the block SNOW at the location -974, 134, 595.
+[00:00:13]: Comrade91 broke the block SNOW at the location -974, 134, 597.
+[00:00:14]: Comrade91 broke the block SNOW at the location -975, 134, 596.
+[00:00:15]: ya_boi_ehoff broke the block ORANGE_CONCRETE at the location -977, 144, 584.
+[00:00:15]: Comrade91 picked up the item SNOWBALL.
+[00:00:15]: Comrade91 broke the block SNOW at the location -973, 134, 594.
+[00:00:15]: ya_boi_ehoff picked up the item ORANGE_CONCRETE.
+[00:00:15]: ya_boi_ehoff broke the block ORANGE_CONCRETE at the location -976, 144, 584.
+[00:00:15]: Comrade91 broke the block SNOW at the location -972, 134, 593.
+[00:00:15]: Comrade91 picked up the item SNOWBALL.
+[00:00:15]: Comrade91 picked up the item SNOWBALL.
+[00:00:15]: Comrade91 broke the block SNOW at the location -971, 134, 592.
+[00:00:15]: ya_boi_ehoff picked up the item ORANGE_CONCRETE.
+[00:00:16]: Comrade91 broke the block SNOW at the location -970, 134, 593.
+[00:00:16]: Comrade91 picked up the item SNOWBALL.
+[00:00:16]: Comrade91 picked up the item SNOWBALL.
+[00:00:16]: ya_boi_ehoff broke the block ORANGE_CONCRETE at the location -975, 144, 584.
+[00:00:16]: Comrade91 broke the block SNOW at the location -971, 134, 590.
+[00:00:17]: ya_boi_ehoff picked up the item ORANGE_CONCRETE.
+[00:00:17]: Comrade91 broke the block SNOW at the location -970, 134, 589.
+[00:00:17]: Comrade91 broke the block SNOW at the location -972, 134, 589.
+[00:00:18]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -975, 144, 584.
+[00:00:18]: Comrade91 broke the block SNOW at the location -973, 134, 588.
+[00:00:18]: Comrade91 picked up the item SNOWBALL.
+[00:00:18]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -976, 144, 584.
+[00:00:18]: Comrade91 broke the block SNOW at the location -974, 134, 587.
+[00:00:18]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -977, 144, 584.
+[00:00:18]: Comrade91 picked up the item SNOWBALL.
+[00:00:18]: Comrade91 broke the block SNOW at the location -975, 134, 586.
+[00:00:19]: Comrade91 picked up the item SNOWBALL.
+[00:00:19]: Comrade91 broke the block SNOW at the location -977, 134, 586.
+[00:00:20]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -979, 144, 584.
+[00:00:20]: Comrade91 picked up the item SNOWBALL.
+[00:00:20]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -978, 144, 584.
+[00:00:20]: Comrade91 broke the block SNOW at the location -978, 134, 587.
+[00:00:21]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -980, 144, 585.
+[00:00:21]: Comrade91 picked up the item SNOWBALL.
+[00:00:21]: Comrade91 broke the block SNOW at the location -978, 134, 585.
+[00:00:21]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -981, 144, 586.
+[00:00:21]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -982, 144, 587.
+[00:00:22]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 144, 588.
+[00:00:22]: Comrade91 broke the block SNOW at the location -974, 134, 585.
+[00:00:22]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 144, 589.
+[00:00:23]: Comrade91 picked up the item SNOWBALL.
+[00:00:23]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -983, 144, 591.
+[00:00:24]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -983, 144, 590.
+[00:00:24]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -983, 144, 592.
+[00:00:26]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 144, 594.
+[00:00:26]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 144, 593.
+[00:00:27]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -982, 144, 595.
+[00:00:27]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -981, 144, 596.
+[00:00:28]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -980, 144, 597.
+[00:00:28]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -979, 144, 598.
+[00:00:29]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -978, 144, 598.
+[00:00:31]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -975, 144, 598.
+[00:00:31]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -976, 144, 598.
+[00:00:31]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -977, 144, 598.
+[00:00:32]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -973, 144, 598.
+[00:00:33]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -974, 144, 598.
+[00:00:33]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -972, 144, 597.
+[00:00:34]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -971, 144, 596.
+[00:00:34]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -970, 144, 595.
+[00:00:34]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 144, 594.
+[00:00:35]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 144, 593.
+[00:00:36]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 593.
+[00:00:36]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 594.
+[00:00:37]: BenDoesMusic joined from the IP 98.111.229.85.
+[00:00:38]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 590.
+[00:00:38]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 591.
+[00:00:38]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 592.
+[00:00:38]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 588.
+[00:00:39]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -969, 145, 589.
+[00:00:39]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -970, 145, 587.
+[00:00:40]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -971, 145, 586.
+[00:00:40]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -972, 145, 585.
+[00:00:40]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -974, 145, 584.
+[00:00:40]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -973, 145, 584.
+[00:00:41]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -977, 145, 584.
+[00:00:41]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -976, 145, 584.
+[00:00:42]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -975, 145, 584.
+[00:00:42]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -979, 145, 584.
+[00:00:43]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -978, 145, 584.
+[00:00:43]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -980, 145, 585.
+[00:00:43]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -981, 145, 586.
+[00:00:44]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -982, 145, 587.
+[00:00:45]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 145, 589.
+[00:00:45]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 145, 588.
+[00:00:46]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 145, 591.
+[00:00:46]: ya_boi_ehoff placed the block ORANGE_CONCRETE at the location -983, 145, 590.
+[00:00:51]: Lhendy51 said -> oh you do music? name every song.
+[00:01:01]: BenDoesMusic said -> blue bossa.
+[00:01:10]: Lhendy51 said -> guys he really does do music.
+[00:01:18]: Comrade91 said -> dawg.
+[00:01:19]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 140, 586.
+[00:01:20]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 142, 587.
+[00:01:21]: BenDoesMusic broke the block BEACON at the location 194, 9, -1948.
+[00:01:21]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 143, 587.
+[00:01:21]: BenDoesMusic picked up the item BEACON.
+[00:01:21]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 8, -1948.
+[00:01:21]: ya_boi_ehoff placed the block PRISMARINE_BRICKS at the location -969, 144, 587.
+[00:01:22]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:22]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 8, -1949.
+[00:01:22]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:22]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 8, -1949.
+[00:01:23]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:23]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 8, -1948.
+[00:01:23]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:23]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 8, -1947.
+[00:01:24]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:24]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 8, -1947.
+[00:01:24]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:24]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 8, -1947.
+[00:01:25]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:25]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -970, 145, 595.
+[00:01:25]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 8, -1948.
+[00:01:25]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -971, 145, 596.
+[00:01:25]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 8, -1949.
+[00:01:25]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:25]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -972, 145, 597.
+[00:01:26]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:26]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -973, 145, 598.
+[00:01:26]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -974, 145, 598.
+[00:01:26]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 7, -1950.
+[00:01:26]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -975, 145, 598.
+[00:01:27]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:27]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -977, 145, 598.
+[00:01:27]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 7, -1949.
+[00:01:27]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -976, 145, 598.
+[00:01:27]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 7, -1950.
+[00:01:28]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:28]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 7, -1949.
+[00:01:28]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -978, 145, 598.
+[00:01:28]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:28]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 7, -1948.
+[00:01:28]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -979, 145, 598.
+[00:01:29]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:29]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -980, 145, 597.
+[00:01:29]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -981, 145, 596.
+[00:01:29]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 7, -1948.
+[00:01:29]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -982, 145, 595.
+[00:01:30]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 7, -1947.
+[00:01:30]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:30]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -983, 145, 594.
+[00:01:30]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:30]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 7, -1947.
+[00:01:30]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -983, 145, 593.
+[00:01:31]: ya_boi_ehoff placed the block ORANGE_CONCRETE_POWDER at the location -983, 145, 592.
+[00:01:31]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:31]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 7, -1946.
+[00:01:31]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:31]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 7, -1946.
+[00:01:32]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:32]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 7, -1946.
+[00:01:32]: ya_boi_ehoff emptied a WATER_BUCKET at the location -983, 145, 592.
+[00:01:32]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:32]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 7, -1946.
+[00:01:33]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:33]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 7, -1946.
+[00:01:33]: ya_boi_ehoff emptied a WATER_BUCKET at the location -983, 145, 593.
+[00:01:33]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 7, -1947.
+[00:01:33]: ya_boi_ehoff emptied a WATER_BUCKET at the location -983, 145, 594.
+[00:01:33]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:34]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 7, -1947.
+[00:01:34]: ya_boi_ehoff emptied a WATER_BUCKET at the location -982, 145, 595.
+[00:01:34]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:34]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:34]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 7, -1947.
+[00:01:34]: ya_boi_ehoff emptied a WATER_BUCKET at the location -981, 145, 596.
+[00:01:35]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:35]: ya_boi_ehoff emptied a WATER_BUCKET at the location -980, 145, 597.
+[00:01:35]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 7, -1948.
+[00:01:35]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:35]: ya_boi_ehoff emptied a WATER_BUCKET at the location -979, 145, 598.
+[00:01:35]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 7, -1948.
+[00:01:35]: ya_boi_ehoff emptied a WATER_BUCKET at the location -979, 145, 598.
+[00:01:36]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:36]: ya_boi_ehoff emptied a WATER_BUCKET at the location -978, 145, 598.
+[00:01:36]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 7, -1948.
+[00:01:36]: ya_boi_ehoff emptied a WATER_BUCKET at the location -977, 145, 598.
+[00:01:36]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:36]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 7, -1949.
+[00:01:36]: ya_boi_ehoff emptied a WATER_BUCKET at the location -977, 145, 598.
+[00:01:37]: ya_boi_ehoff emptied a WATER_BUCKET at the location -976, 145, 598.
+[00:01:37]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:37]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 7, -1949.
+[00:01:37]: ya_boi_ehoff emptied a WATER_BUCKET at the location -975, 145, 598.
+[00:01:37]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:37]: ya_boi_ehoff emptied a WATER_BUCKET at the location -974, 145, 598.
+[00:01:38]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 7, -1949.
+[00:01:38]: ya_boi_ehoff emptied a WATER_BUCKET at the location -974, 145, 598.
+[00:01:38]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:38]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 7, -1950.
+[00:01:38]: ya_boi_ehoff emptied a WATER_BUCKET at the location -973, 145, 598.
+[00:01:39]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:39]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 7, -1950.
+[00:01:39]: ya_boi_ehoff emptied a WATER_BUCKET at the location -972, 145, 597.
+[00:01:39]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:39]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 7, -1950.
+[00:01:39]: ya_boi_ehoff emptied a WATER_BUCKET at the location -971, 145, 596.
+[00:01:40]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:01:40]: ya_boi_ehoff emptied a WATER_BUCKET at the location -970, 145, 595.
+[00:01:46]: ya_boi_ehoff placed the block PRISMARINE_BRICK_STAIRS at the location -977, 140, 591.
+[00:01:48]: ya_boi_ehoff placed the block SEA_LANTERN at the location -976, 142, 591.
+[00:01:49]: ya_boi_ehoff placed the block SEA_LANTERN at the location -976, 143, 591.
+[00:01:49]: ya_boi_ehoff placed the block SEA_LANTERN at the location -976, 144, 591.
+[00:01:50]: Comrade91 picked up the item SNOWBALL.
+[00:01:50]: ya_boi_ehoff placed the block SEA_LANTERN at the location -976, 145, 591.
+[00:01:50]: ya_boi_ehoff placed the block SEA_LANTERN at the location -976, 146, 591.
+[00:02:06]: ya_boi_ehoff said -> slabs.
+[00:02:12]: Comrade91 dropped the item PRISMARINE_BRICK_SLAB.
+[00:02:14]: ya_boi_ehoff picked up the item PRISMARINE_BRICK_SLAB.
+[00:02:21]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1951.
+[00:02:21]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -977, 140, 590.
+[00:02:21]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:22]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1950.
+[00:02:22]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:22]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1949.
+[00:02:22]: ya_boi_ehoff placed the block PRISMARINE_BRICK_STAIRS at the location -976, 141, 590.
+[00:02:23]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:23]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1948.
+[00:02:23]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1947.
+[00:02:23]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:24]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:24]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1946.
+[00:02:24]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:24]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 6, -1945.
+[00:02:25]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:25]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1945.
+[00:02:25]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:25]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1946.
+[00:02:26]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -975, 141, 590.
+[00:02:26]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:26]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1947.
+[00:02:27]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:27]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1948.
+[00:02:27]: ya_boi_ehoff placed the block PRISMARINE_BRICK_STAIRS at the location -975, 142, 591.
+[00:02:27]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:27]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1949.
+[00:02:28]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1950.
+[00:02:28]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:28]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:28]: BenDoesMusic broke the block IRON_BLOCK at the location 192, 6, -1951.
+[00:02:29]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -975, 142, 592.
+[00:02:29]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:29]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1951.
+[00:02:29]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:29]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1950.
+[00:02:30]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:30]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1949.
+[00:02:30]: ya_boi_ehoff placed the block PRISMARINE_BRICK_STAIRS at the location -976, 143, 592.
+[00:02:30]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:30]: Comrade91 said -> eaf its snowing.
+[00:02:30]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1948.
+[00:02:31]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1947.
+[00:02:31]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:32]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:32]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1946.
+[00:02:32]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:32]: BenDoesMusic broke the block IRON_BLOCK at the location 193, 6, -1945.
+[00:02:32]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -977, 143, 592.
+[00:02:33]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:33]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1945.
+[00:02:33]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:33]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1945.
+[00:02:33]: ya_boi_ehoff placed the block PRISMARINE_BRICK_STAIRS at the location -977, 144, 591.
+[00:02:34]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:34]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1945.
+[00:02:34]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:34]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1945.
+[00:02:35]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:35]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1946.
+[00:02:35]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:35]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1946.
+[00:02:36]: Comrade91 broke the block SNOW at the location -985, 134, 593.
+[00:02:36]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1946.
+[00:02:37]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1946.
+[00:02:37]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:37]: Comrade91 broke the block SNOW at the location -985, 134, 592.
+[00:02:37]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:37]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1947.
+[00:02:37]: Comrade91 broke the block SNOW at the location -984, 134, 593.
+[00:02:38]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:38]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1947.
+[00:02:38]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:38]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1947.
+[00:02:38]: Comrade91 broke the block SNOW at the location -985, 134, 594.
+[00:02:39]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1947.
+[00:02:39]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:39]: Comrade91 broke the block SNOW at the location -984, 134, 595.
+[00:02:39]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:39]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1948.
+[00:02:40]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:40]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1949.
+[00:02:40]: ya_boi_ehoff said -> yeah its kinda lame doe.
+[00:02:40]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:40]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1950.
+[00:02:41]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:41]: BenDoesMusic broke the block IRON_BLOCK at the location 197, 6, -1951.
+[00:02:41]: Comrade91 broke the block SNOW at the location -980, 134, 599.
+[00:02:41]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:41]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1951.
+[00:02:42]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:42]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1951.
+[00:02:42]: Comrade91 broke the block SNOW at the location -979, 134, 600.
+[00:02:42]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:43]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1951.
+[00:02:43]: Comrade91 broke the block SNOW at the location -979, 134, 599.
+[00:02:43]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:43]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1950.
+[00:02:44]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:44]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1950.
+[00:02:44]: Comrade91 broke the block SNOW at the location -978, 134, 599.
+[00:02:44]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:44]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1950.
+[00:02:44]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -977, 144, 590.
+[00:02:45]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:45]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1949.
+[00:02:45]: Comrade91 broke the block SNOW at the location -978, 134, 600.
+[00:02:45]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:45]: BenDoesMusic broke the block IRON_BLOCK at the location 196, 6, -1948.
+[00:02:45]: ya_boi_ehoff placed the block PRISMARINE_BRICK_STAIRS at the location -976, 145, 590.
+[00:02:46]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:46]: Comrade91 broke the block SNOW at the location -977, 134, 600.
+[00:02:46]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1948.
+[00:02:46]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:46]: BenDoesMusic broke the block IRON_BLOCK at the location 195, 6, -1949.
+[00:02:47]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:47]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1949.
+[00:02:47]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:48]: BenDoesMusic broke the block IRON_BLOCK at the location 194, 6, -1948.
+[00:02:48]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:48]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -975, 145, 590.
+[00:02:49]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -974, 145, 590.
+[00:02:49]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1952.
+[00:02:50]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:50]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1951.
+[00:02:50]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -973, 145, 590.
+[00:02:50]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:50]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1950.
+[00:02:51]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:52]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1949.
+[00:02:52]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -972, 145, 590.
+[00:02:52]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1948.
+[00:02:53]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1947.
+[00:02:53]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -971, 145, 590.
+[00:02:54]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:54]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1946.
+[00:02:54]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -970, 145, 590.
+[00:02:54]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:54]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1945.
+[00:02:55]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:55]: BenDoesMusic broke the block IRON_BLOCK at the location 190, 5, -1944.
+[00:02:55]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:56]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 5, -1944.
+[00:02:56]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:56]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 5, -1945.
+[00:02:56]: ya_boi_ehoff placed the block PRISMARINE_BRICK_SLAB at the location -975, 145, 591.
+[00:02:57]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:57]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 5, -1946.
+[00:02:57]: BenDoesMusic picked up the item IRON_BLOCK.
+[00:02:57]: BenDoesMusic broke the block IRON_BLOCK at the location 191, 5, -1947.
+[00:02:58]: BenDoesMusic picked up the item IRON_BLOCK.

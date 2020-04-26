@@ -1,2 +1,0 @@
-# Teleport grave items above Minecart hopper to fix 1.15 tp bug
-execute at @e[type=minecraft:item,tag=pg_graveItem] positioned ~ ~300 ~ as @e[type=minecraft:hopper_minecart,tag=pg_hopper,sort=nearest,limit=9] at @s run tp @e[type=minecraft:item,tag=pg_graveItem] ~ ~1 ~
