@@ -1,8 +1,0 @@
-[00:04:49]: Lhendy51 picked up the item REDSTONE.
-[00:04:52]: Lhendy51 picked up the item DAYLIGHT_DETECTOR.
-[00:05:44]: Lhendy51 picked up the item REDSTONE_LAMP.
-[00:06:00]: Lhendy51 picked up the item REDSTONE_LAMP.
-[00:06:06]: Lhendy51 picked up the item REDSTONE_LAMP.
-[00:06:08]: Lhendy51 picked up the item REDSTONE_LAMP.
-[00:07:24]: Lhendy51 picked up the item SAND.
-[00:10:09]: Lhendy51 picked up the item SAND.

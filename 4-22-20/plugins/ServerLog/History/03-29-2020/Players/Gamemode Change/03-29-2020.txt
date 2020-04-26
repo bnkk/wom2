@@ -1,6 +1,0 @@
-[19:16:29]: Borps changed their gamemode from SURVIVAL to CREATIVE.
-[19:16:34]: Borps changed their gamemode from CREATIVE to SPECTATOR.
-[19:21:25]: Borps changed their gamemode from SPECTATOR to CREATIVE.
-[19:22:15]: Borps changed their gamemode from CREATIVE to SPECTATOR.
-[19:24:38]: Borps changed their gamemode from SPECTATOR to CREATIVE.
-[19:26:03]: Borps changed their gamemode from CREATIVE to SURVIVAL.
