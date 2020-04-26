@@ -1,6 +1,0 @@
-[17:14:44]: Xestra kicked. Their IP was 74.111.112.184. Reason: Timed out
-[18:57:17]: TARDIS_360 kicked. Their IP was 73.154.210.58. Reason: Flying is not enabled on this server
-[19:16:20]: felipe_boss kicked. Their IP was 173.71.170.247. Reason: Flying is not enabled on this server
-[19:16:20]: Lhendy51 kicked. Their IP was 73.154.195.184. Reason: Flying is not enabled on this server
-[20:38:05]: ya_boi_ehoff kicked. Their IP was 173.233.15.90. Reason: Flying is not enabled on this server
-[22:40:06]: Comrade91 kicked. Their IP was 98.219.194.204. Reason: Timed out
