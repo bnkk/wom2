@@ -1,0 +1,23 @@
+[00:38:53]: ya_boi_ehoff ran the command /imagemap italian,jpg download data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAACCCAMAAADMpYxRAAAAG1BMVEUAkkb////OKzcAkEE+nl/r8+757O3TTFPNJDGIey9XAAAAh0lEQVR4nO3PSREAIAwEsHLjXzEi9sckDlKVGXO1zD63Z8KCg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O.
+[00:39:46]: ya_boi_ehoff ran the command /imagemap italian,jpg download https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg.
+[00:40:28]: ya_boi_ehoff ran the command /imagemap italian,jpg scale 4 6.
+[00:40:54]: ya_boi_ehoff ran the command /imagemap italian,jpg.
+[00:41:33]: ya_boi_ehoff ran the command /imagemap italian2,jpg download https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg.
+[00:41:52]: ya_boi_ehoff ran the command /imagemap italian2,jpg download https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg.
+[00:42:05]: ya_boi_ehoff ran the command /imagemap italian2,jpg scale 1 1.
+[00:42:23]: ya_boi_ehoff ran the command /imagemap doge.png scale 1 1.
+[00:43:54]: ya_boi_ehoff ran the command /imagemap italian,png download https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg.
+[00:44:07]: ya_boi_ehoff ran the command /imagemap.
+[00:44:19]: ya_boi_ehoff ran the command /imagemap italian.png scale 1 1.
+[00:44:31]: ya_boi_ehoff ran the command /imagemap italian.png.
+[00:44:56]: ya_boi_ehoff ran the command /imagemap italian,png.
+[00:45:13]: ya_boi_ehoff ran the command /imagemap italian,png download https://cdn10.bigcommerce.com/s-ey7tq/products/3332/images/18818/italy-flag__19720.1575327320.1280.1280.jpg?c=2.
+[00:45:35]: ya_boi_ehoff ran the command /imagemap italian,png scale 1 1.
+[00:46:32]: ya_boi_ehoff ran the command /imagemap italian2.png download https://cdn10.bigcommerce.com/s-ey7tq/products/3332/images/18818/italy-flag__19720.1575327320.1280.1280.jpg?c=2.
+[00:47:00]: ya_boi_ehoff ran the command /imagemap italian2.png scale 1 1.
+[00:47:22]: ya_boi_ehoff ran the command /imagemap italian2.png scale 6 4.
+[00:47:33]: ya_boi_ehoff ran the command /imagemap italian2.png scale 4 6.
+[00:47:54]: ya_boi_ehoff ran the command /imagemap italian2.png scale 4 6.
+[00:49:59]: ya_boi_ehoff ran the command /imagemap pizza.png downloald https://freesvg.org/img/meltypizza.png.
+[00:50:05]: ya_boi_ehoff ran the command /imagemap pizza.png downloald https://freesvg.org/img/meltypizza.png.
+[00:50:57]: ya_boi_ehoff ran the command /imagemap pizza.png downloald https://cdn.pixabay.com/photo/2019/06/29/21/58/pizza-4306977_960_720.png.

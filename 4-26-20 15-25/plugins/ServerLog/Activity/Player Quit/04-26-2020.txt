@@ -1,7 +1,0 @@
-[00:42:18]: Comrade91 quit at the location -597, 102, 341. Their IP was 24.154.121.93.
-[01:00:29]: ya_boi_ehoff quit at the location -820, 78, 504. Their IP was 173.233.15.90.
-[01:01:00]: Lhendy51 quit at the location 1285, 65, 769. Their IP was 174.229.5.27.
-[01:01:53]: Comrade91 quit at the location -975, 153, 593. Their IP was 24.154.121.93.
-[01:06:21]: BenDoesMusic quit at the location 214, 66, -1896. Their IP was 98.111.229.85.
-[13:32:11]: Lhendy51 quit at the location 1264, 11, 640. Their IP was 73.154.195.184.
-[14:51:30]: Borps quit at the location 743, 63, 307. Their IP was 98.111.253.154.

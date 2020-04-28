@@ -1,0 +1,8 @@
+[18:11:20]: Borps changed their gamemode from SURVIVAL to SPECTATOR.
+[18:11:41]: Borps changed their gamemode from SPECTATOR to SURVIVAL.
+[18:11:56]: Borps changed their gamemode from SURVIVAL to SPECTATOR.
+[18:12:02]: Borps changed their gamemode from SPECTATOR to SURVIVAL.
+[18:12:29]: Borps changed their gamemode from SURVIVAL to SPECTATOR.
+[18:12:39]: Borps changed their gamemode from SPECTATOR to SURVIVAL.
+[18:12:49]: Borps changed their gamemode from SURVIVAL to SPECTATOR.
+[18:13:00]: Borps changed their gamemode from SPECTATOR to SURVIVAL.
