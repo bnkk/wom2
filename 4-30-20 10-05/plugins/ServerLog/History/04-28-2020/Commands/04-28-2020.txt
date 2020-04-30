@@ -1,0 +1,136 @@
+[21:24:02]: Borps ran the command /team list.
+[21:32:22]: Borps ran the command /gamemode spectator.
+[21:32:51]: Borps ran the command /gamemode survival.
+[22:03:27]: Borps ran the command /tellraw @a {"text":"e","color":"yellow"}.
+[22:03:36]: BenDoesMusic ran the command /msg Alizray operation alpha-beta.
+[22:03:44]: Borps ran the command /tellraw @a {"text":"cock joined the game","color":"yellow"}.
+[22:04:18]: Borps ran the command /give @a minecraft:player_head{SkullOwner:"cock"}.
+[22:04:50]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:"Borps"}.
+[22:22:48]: Borps ran the command /tp BenDoesMusic.
+[22:24:01]: Borps ran the command /kill @e[type=minecraft:item_frame,distance=100].
+[22:24:07]: Borps ran the command /kill @e[type=minecraft:item_frame,distance=1000].
+[22:25:23]: Borps ran the command /kill @e[type=minecraft:item_frame,dx=100].
+[22:25:41]: Borps ran the command /kill @e[type=minecraft:item_frame,dx=100,dy=100,dz=100].
+[22:26:07]: BenDoesMusic ran the command /time set day.
+[22:26:10]: Borps ran the command /kill @e[type=minecraft:item_frame,distance=100].
+[22:26:13]: Borps ran the command /time set day.
+[22:27:01]: Borps ran the command /kill @e[type=minecraft:item_frame,dx=100,dy=100,dz=100].
+[22:27:36]: Borps ran the command /kill @e[type=minecraft:item_frame,distance=..100].
+[22:28:35]: Borps ran the command /lp group moderator permission set minecraft.command.time true.
+[22:29:48]: Borps ran the command /openinv xestra.
+[22:30:01]: BenDoesMusic ran the command /imagemap dotheswag.png scale 7 7.
+[22:30:23]: BenDoesMusic ran the command /imagemap dotheswag.png scale 7 7.
+[22:30:51]: BenDoesMusic ran the command /imagemap dotheswag.png scale 5 5.
+[22:31:11]: BenDoesMusic ran the command /imagemap dotheswag.png scale 4 4.
+[22:32:33]: Borps ran the command /imagemap duck.png download.
+[22:32:36]: Borps ran the command /imagemap duck.png download https://i.redd.it/7zj5as4tuwv31.jpg.
+[22:32:50]: Borps ran the command /imagemap duck.png scale 1 1.
+[22:37:04]: Borps ran the command /time set day.
+[22:38:31]: Borps ran the command /imagemap tenders.png download https://pbs.twimg.com/media/EUFWq23WoAAecD2?format=jpg&name=360x360.
+[22:38:43]: Borps ran the command /imagemap tenders.png scale 1 1.
+[22:40:18]: Borps ran the command /imagemap thekindsmeet.png download https://pbs.twimg.com/media/EWiu3Z3XQAErgbM?format=jpg&name=small.
+[22:43:37]: Borps ran the command /tp Lhendy51 Borps.
+[22:45:29]: Borps ran the command /summon minecraft:item ~5 ~ ~ {Item:{id:"minecraft:diamond_sword",Count:1b,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:5}]}}}.
+[22:46:52]: Borps ran the command /summon minecraft:item ~5 ~ ~ {Item:{id:"minecraft:diamond_sword",Count:1b,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:5}]}}}.
+[22:47:06]: Borps ran the command /summon minecraft:item ~5 ~ ~ {Item:{id:"minecraft:diamond_sword",Count:1b,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:100}]}}}.
+[22:47:14]: Borps ran the command /time set day.
+[22:47:19]: Borps ran the command /openinv Lhendy51.
+[22:47:51]: BenDoesMusic ran the command /give BenDoesMusic minecraft:command_block.
+[22:47:55]: Borps ran the command /lp group moderator permission info.
+[22:50:02]: Lhendy51 ran the command /tell Borps give me the sword now.
+[22:50:12]: Borps ran the command /summon minecraft:item ~5 ~ ~ {Item:{id:"minecraft:diamond_sword",Count:1b,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:100}]}}}.
+[22:50:27]: Borps ran the command /tp Lhendy51 Borps.
+[22:52:31]: Borps ran the command /gamemode spectator.
+[22:53:02]: Borps ran the command /tp BenDoesMusic Lhendy51.
+[22:53:13]: Borps ran the command /openinv Lhendy51.
+[22:53:33]: Borps ran the command /gamemode creative.
+[22:53:35]: Borps ran the command /openinv Lhendy51.
+[22:54:02]: Borps ran the command /gamemode spectator.
+[22:54:26]: Borps ran the command /gamemode creative.
+[23:02:16]: Borps ran the command //wand.
+[23:02:34]: Borps ran the command //set stone.
+[23:02:48]: Borps ran the command //hollow.
+[23:03:00]: Borps ran the command //undo.
+[23:03:26]: Borps ran the command //pos1 ~7 ~ ~7.
+[23:04:09]: Borps ran the command //hollow help.
+[23:04:21]: Borps ran the command //hollow ##.
+[23:04:27]: Borps ran the command //hollow stone.
+[23:04:45]: Borps ran the command /gamemode spectator.
+[23:05:30]: Borps ran the command /gamemode creative.
+[23:06:48]: Borps ran the command //hollow.
+[23:07:37]: Borps ran the command //set air.
+[23:07:47]: Borps ran the command //set air.
+[23:08:06]: Borps ran the command /effect give Borps minecraft:night_vision 1000000 255.
+[23:08:19]: Borps ran the command /effect give Borps minecraft:night_vision 1000000 255.
+[23:08:21]: Borps ran the command //set air.
+[23:08:55]: Borps ran the command //walls minecraft:bedrock.
+[23:09:05]: Borps ran the command //set minecraft:bedrock.
+[23:09:14]: Borps ran the command //set bedrock.
+[23:09:21]: Borps ran the command //center minecraft:glowstone.
+[23:12:38]: Borps ran the command //set minecraft:smooth_quartz.
+[23:12:59]: Borps ran the command //set minecraft:smooth_quartz.
+[23:13:03]: Borps ran the command //hollow.
+[23:13:09]: Borps ran the command //undo.
+[23:13:30]: Borps ran the command //hollow.
+[23:18:24]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Borps}.
+[23:19:18]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:BenDoesMusic}.
+[23:21:00]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Xestra}.
+[23:21:30]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:benjaboyq}.
+[23:21:40]: Borps ran the command /effect clear Borps.
+[23:22:58]: Borps ran the command /ban Asus9 Alt Account, Appeal by messaging @Borps#3934 on Discord.
+[23:23:51]: Borps ran the command /ban GodlyComputer Alt Account, Appeal by messaging @Borps#3934 on Discord.
+[23:24:14]: Borps ran the command /openinv spottedleaf.
+[23:24:22]: Borps ran the command /openinv BenDoesMusic.
+[23:24:46]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:spotttedleaf}.
+[23:25:10]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:felipe_boss}.
+[23:25:55]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:ya_boi_ehoff}.
+[23:26:22]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:ZavCorvette}.
+[23:26:44]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Alizaray}.
+[23:26:56]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Alizray}.
+[23:27:34]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Zephyr1K}.
+[23:28:40]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:AnzeBanzi21}.
+[23:29:10]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Comrade91}.
+[23:29:36]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Lhendy51}.
+[23:30:04]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:CreeperMKB}.
+[23:30:52]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Gabo329}.
+[23:31:06]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:Gabo329}.
+[23:31:35]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:TARDIS_360}.
+[23:32:05]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:soniceyebrows}.
+[23:32:45]: Borps ran the command /give Borps minecraft:player_head{SkullOwner:lilcheezit48}.
+[23:33:40]: BenDoesMusic ran the command /time set day.
+[23:33:40]: Borps ran the command /time set day.
+[23:34:27]: Borps ran the command /openender.
+[23:34:44]: Borps ran the command /openender.
+[23:35:42]: Borps ran the command /openinv BenDoesMusic.
+[23:36:05]: Borps ran the command /openender BenDoesMusic.
+[23:36:28]: Borps ran the command /openender BenDoesMusic.
+[23:36:43]: Borps ran the command /openinv BenDoesMusic.
+[23:36:47]: Borps ran the command /openinv BenDoesMusic.
+[23:36:57]: Borps ran the command /openinv xestra.
+[23:37:40]: Borps ran the command /openinv benjaboyq.
+[23:38:28]: Borps ran the command /openinv spotttedleaf.
+[23:41:04]: Borps ran the command /openinv felipe_boss.
+[23:42:14]: Borps ran the command /openinv ya_boi_ehoff.
+[23:43:13]: Borps ran the command /openinv zavcorvette.
+[23:43:41]: Borps ran the command /openinv alizray.
+[23:44:43]: Borps ran the command /openinv Zephry1k.
+[23:45:22]: Borps ran the command /openinv Zephyr1k.
+[23:46:04]: Borps ran the command /openinv anzebanzi21.
+[23:46:41]: Borps ran the command /openinv comrade91.
+[23:47:46]: Borps ran the command /openinv Lhendy51.
+[23:49:06]: Borps ran the command /openinv creppermkb.
+[23:49:27]: Borps ran the command /openinv BenDoesMusic.
+[23:49:43]: Borps ran the command /openinv Lhendy51.
+[23:49:58]: Borps ran the command /openinv Lhendy51.
+[23:50:21]: Borps ran the command /openinv gabo329.
+[23:50:54]: Borps ran the command /openinv tardis_360.
+[23:51:24]: Borps ran the command /openinv soniceyebrows.
+[23:51:51]: Borps ran the command /openinv lilcheezit48.
+[23:52:56]: Borps ran the command /gamemode spectator.
+[23:53:05]: Borps ran the command /gamemode creative.
+[23:53:15]: Borps ran the command /dmarker.
+[23:53:25]: Borps ran the command /dmarker add "Admin Room".
+[23:53:37]: Borps ran the command /dmarker remove 7.
+[23:53:44]: Borps ran the command /dmarker delete 7.
+[23:53:49]: Borps ran the command /dmarker delete "Admin Room".
+[23:54:24]: Borps ran the command /dmarker add "QARoom".
