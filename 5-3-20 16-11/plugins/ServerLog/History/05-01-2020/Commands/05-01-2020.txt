@@ -1,0 +1,283 @@
+[00:06:31]: BenDoesMusic ran the command /day.
+[00:06:31]: BenDoesMusic ran the command /time set day.
+[00:16:25]: BenDoesMusic ran the command /day.
+[00:16:25]: BenDoesMusic ran the command /time set day.
+[00:26:29]: BenDoesMusic ran the command /day.
+[00:26:29]: BenDoesMusic ran the command /time set day.
+[15:49:13]: Borps ran the command /gamemode spectator.
+[15:49:26]: Borps ran the command /day.
+[15:49:26]: Borps ran the command /time set day.
+[15:49:57]: Borps ran the command /gamemode creative.
+[15:50:02]: Borps ran the command //wand.
+[15:50:35]: Borps ran the command //copy.
+[15:50:41]: Borps ran the command //paste.
+[16:11:42]: Borps ran the command /scoreboard players add @p purge_killcount.
+[16:11:44]: Borps ran the command /scoreboard players add @p purge_killcount 1.
+[16:15:58]: Borps ran the command /fill 128 68 -74.
+[16:17:25]: Borps ran the command /toggleplace.
+[16:17:29]: Borps ran the command /toggledownfall.
+[16:17:34]: Borps ran the command /weather clear.
+[16:17:43]: Borps ran the command /fill.
+[16:17:46]: Borps ran the command /fill 128 68 -74.
+[16:18:09]: Borps ran the command /fill 128 68 -74 110 68 -74.
+[16:18:14]: Borps ran the command /fill 128 68 -74 110 68 -74 glass.
+[16:19:23]: Borps ran the command /fill 128 68 -74.
+[16:19:35]: Borps ran the command /fill 128 68 -74 128 68 -92 glass.
+[16:20:54]: Borps ran the command /fill 128 68 -92.
+[16:21:08]: Borps ran the command /fill 128 68 -92 110 68 -92.
+[16:21:14]: Borps ran the command /fill 128 68 -92 110 68 -92 glass.
+[16:22:02]: Borps ran the command /fill 110 68 -92.
+[16:22:06]: Borps ran the command /day.
+[16:22:06]: Borps ran the command /time set day.
+[16:22:13]: Borps ran the command /fill 110 68 -92 110 68 -74 glass.
+[16:23:09]: Borps ran the command /fill 127 68 -75.
+[16:23:18]: Borps ran the command /fill 127 68 -75 111 68 -91 water.
+[16:24:04]: Borps ran the command /fill 128 68 -74.
+[16:24:13]: Borps ran the command /fill 128 68 -74 110 68 -92 air.
+[16:24:57]: Borps ran the command /fill 128 125 -74.
+[16:25:04]: Borps ran the command /fill 128 125 -74 110 125 -92.
+[16:30:14]: Borps ran the command //wand.
+[16:30:28]: Borps ran the command //center minecraft:glowstone.
+[16:30:51]: Borps ran the command /thru.
+[16:30:56]: Borps ran the command /setblock 119 125 -83 minecraft:glowstone.
+[16:30:59]: Borps ran the command /thru.
+[16:31:31]: Borps ran the command /thru.
+[16:34:52]: Borps ran the command /thru.
+[16:49:20]: Borps ran the command /gamerule commandBlockOutput.
+[16:49:22]: Borps ran the command /gamerule commandBlockOutput false.
+[16:49:40]: Borps ran the command /weather clear 1000000.
+[17:37:05]: Borps ran the command /day.
+[17:37:05]: Borps ran the command /time set day.
+[17:39:59]: Borps ran the command /scoreboard objectives add Health health.
+[17:40:04]: Borps ran the command /scoreboard objectives setdisplay list.
+[17:40:19]: Borps ran the command /scoreboard objectives modify Health rendertype hearts.
+[17:40:29]: Borps ran the command /scoreboard objectives setdisplay list Health.
+[17:40:41]: Borps ran the command /gamemode survival.
+[17:41:19]: Borps ran the command /gamemode creative.
+[17:45:03]: Borps ran the command /g.
+[17:45:13]: Borps ran the command /greets.
+[17:46:20]: Borps ran the command /tp Lhendy51.
+[17:48:37]: Borps ran the command /day.
+[17:48:37]: Borps ran the command /time set day.
+[17:51:21]: Borps ran the command /gm spectator.
+[17:51:21]: Borps ran the command /gamemode spectator.
+[17:52:23]: Borps ran the command /tp 0 ~ 0.
+[17:52:50]: Borps ran the command /gamemode creative.
+[17:53:31]: Lhendy51 ran the command /generate-sword1.
+[17:54:31]: Borps ran the command /openinv bendoesmusic.
+[17:55:18]: Borps ran the command /weather clear 1000000.
+[17:55:30]: Borps ran the command /gamerule doWeatherCycle false.
+[17:56:07]: Borps ran the command /openinv bendoesmusic.
+[17:56:29]: Borps ran the command /openinv bendoesmusic.
+[17:56:54]: Borps ran the command /openinv xestra.
+[17:57:11]: Borps ran the command /openinv benjaboyq.
+[17:58:02]: Borps ran the command /openinv spotttedleaf.
+[17:58:25]: Borps ran the command /team.
+[17:58:28]: Borps ran the command /team list.
+[18:02:20]: Borps ran the command /lp group default permission set luckperms.info.
+[18:02:35]: Borps ran the command /lp group default permission set luckperms.log.grouphistory.
+[18:02:39]: Borps ran the command /lp group default permission set luckperms.log.notify.
+[18:02:43]: Borps ran the command /lp group default permission set luckperms.log.recent.
+[18:02:47]: Borps ran the command /lp group default permission set luckperms.log.search.
+[18:02:51]: Borps ran the command /lp group default permission set luckperms.log.trackhistory.
+[18:03:20]: Borps ran the command /lp group default permission set luckperms.log.userhistory.
+[18:04:26]: Borps ran the command /openinv felipe_boss.
+[18:05:51]: Borps ran the command /lp user bendoesmusic permission info.
+[18:06:04]: Borps ran the command /lp user borps permission info.
+[18:06:25]: Borps ran the command /gmask.
+[18:06:27]: Borps ran the command /gmask.
+[18:08:30]: Borps ran the command /gamemode spectator.
+[18:08:41]: Borps ran the command /gm creative.
+[18:08:41]: Borps ran the command /gamemode creative.
+[18:09:15]: Borps ran the command /i.
+[18:09:31]: Borps ran the command /give borps barrier.
+[18:09:54]: Borps ran the command /day.
+[18:09:54]: Borps ran the command /time set day.
+[18:09:56]: Borps ran the command /weather clear.
+[18:10:06]: Borps ran the command /gamerule doWeatherCycle.
+[18:10:30]: Borps ran the command /give @s glass.
+[18:10:52]: Borps ran the command //wand.
+[18:11:32]: Borps ran the command /setblock ~ ~ ~ glass.
+[18:11:36]: Borps ran the command /setblock ~ ~ ~ glass.
+[18:11:48]: Borps ran the command //walls glass.
+[18:11:54]: Borps ran the command //undo.
+[18:12:13]: Borps ran the command //walls barrier.
+[18:12:35]: Borps ran the command //set barrier.
+[18:12:52]: Borps ran the command //set barrier.
+[18:13:06]: Borps ran the command /thru.
+[18:13:22]: Borps ran the command /thru.
+[18:18:25]: Borps ran the command /gm spectator.
+[18:18:25]: Borps ran the command /gamemode spectator.
+[18:20:50]: Borps ran the command /weather clear.
+[18:21:58]: Borps ran the command /gamemode creative.
+[18:23:01]: Borps ran the command /function player_graves:get_grave_coords.
+[18:23:21]: Borps ran the command /function player_graves:check_claim.
+[18:27:22]: Borps ran the command //wand.
+[18:27:29]: Borps ran the command //set air.
+[18:27:40]: Borps ran the command //pos1.
+[18:27:46]: Borps ran the command //pos2.
+[18:27:48]: Borps ran the command //set air.
+[18:32:32]: Borps ran the command /weather clear.
+[18:35:19]: Borps ran the command /weather clear.
+[18:40:49]: Borps ran the command /lp group default permission info.
+[18:42:21]: Borps ran the command /day.
+[18:42:21]: Borps ran the command /time set day.
+[18:44:17]: Borps ran the command /summon cow ~ ~ ~ {NoAi:1}.
+[18:44:23]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:45:14]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:45:25]: Borps ran the command /generate-sword1.
+[18:45:25]: Borps ran the command /give @s minecraft:diamond_sword{Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:10},{id:"minecraft:fire_aspect",lvl:10},{id:"minecraft:knockback",lvl:100},{id:"minecraft:looting",lvl:10},{id:"minecraft:mending",lvl:1},{id:"minecraft:sharpness",lvl:100},{id:"minecraft:smite",lvl:10},{id:"minecraft:sweeping",lvl:10}],Unbreakable:1,display:{Name:"{\"text\":\"Borp's Sharp Object\",\"color\":\"gold\"}"}}.
+[18:45:35]: Borps ran the command /summon minecraft:eye_of_ender ~ ~ ~ {NoAI:1}.
+[18:46:14]: Borps ran the command /summon witch ~ ~ ~ {NoAI:1}.
+[18:47:36]: Borps ran the command //walls barrier.
+[18:49:04]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:51:52]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:51:53]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}\.
+[18:51:56]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}\.
+[18:51:57]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:51:58]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:51:58]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:51:59]: Borps ran the command /summon cow ~ ~ ~ {NoAI:1}.
+[18:52:02]: Borps ran the command /day.
+[18:52:02]: Borps ran the command /time set day.
+[18:56:28]: Borps ran the command /openinv BenDoesMusic.
+[18:56:35]: Borps ran the command /openinv BenDoesMusic.
+[18:57:42]: Borps ran the command /gm spectator.
+[18:57:42]: Borps ran the command /gamemode spectator.
+[18:58:06]: Borps ran the command /lp group default permission info.
+[18:58:13]: Borps ran the command /tps.
+[18:58:39]: Borps ran the command /gamemode creative.
+[19:01:54]: Borps ran the command /weather clear.
+[19:04:17]: Comrade91 ran the command /msg ya_boi_ehoff gimme ur bruh shovel mine sux.
+[19:10:49]: Borps ran the command /thru.
+[19:11:10]: Borps ran the command /tp @a Borps.
+[19:11:34]: Borps ran the command /gm spectator comrade91.
+[19:11:34]: Borps ran the command /gamemode spectator comrade91.
+[19:11:43]: BenDoesMusic ran the command /gamemode spectator.
+[19:11:54]: BenDoesMusic ran the command /gamemode survival.
+[19:11:59]: Borps ran the command /lp user BenDoesMusic parent set default.
+[19:12:06]: Borps ran the command /tp BenDoesMusic borps.
+[19:12:30]: BenDoesMusic ran the command /gamemode spectator.
+[19:12:48]: Borps ran the command /thru.
+[19:14:19]: Borps ran the command /thru.
+[19:14:35]: Borps ran the command /openinv BenDoesMusic.
+[19:16:35]: Borps ran the command /give BenDoesMusic minecraft:shield{Enchantments:[{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:3}]}.
+[19:16:56]: Borps ran the command /day.
+[19:16:56]: Borps ran the command /time set day.
+[19:18:28]: Borps ran the command /tp BenDoesMusic borps.
+[19:18:41]: Borps ran the command /tp @a Borps.
+[19:18:53]: Borps ran the command /thru.
+[19:19:07]: Borps ran the command /gamemode adventure @a.
+[19:19:17]: Borps ran the command /gamemode creative @p.
+[19:19:26]: Borps ran the command /gamemode spectator Comrade91.
+[19:19:30]: Borps ran the command /thru.
+[19:19:49]: Borps ran the command /thru.
+[19:19:56]: Borps ran the command /gm spectator.
+[19:19:56]: Borps ran the command /gamemode spectator.
+[19:21:35]: Borps ran the command /gamerule doWeatherCycle true.
+[19:25:37]: Borps ran the command /gamemode adventure BenjaboyQ.
+[19:26:06]: Borps ran the command /gamemode survival ya_boi_ehoff.
+[19:27:07]: Borps ran the command /msg BenDoesMusic do the job.
+[19:27:23]: Borps ran the command /msg BenDoesMusic murder.
+[19:27:51]: Borps ran the command /msg ya_boi_ehoff murder.
+[19:28:02]: Borps ran the command /msg ya_boi_ehoff murder.
+[19:28:02]: Borps ran the command /msg ya_boi_ehoff murder.
+[19:28:03]: Borps ran the command /msg ya_boi_ehoff murder.
+[19:28:03]: Borps ran the command /msg ya_boi_ehoff murder.
+[19:30:54]: Borps ran the command /gamemode creative.
+[19:32:55]: Borps ran the command /gm spectator.
+[19:32:55]: Borps ran the command /gamemode spectator.
+[19:33:27]: Borps ran the command /playsound minecraft:block.anvil.fall master @a.
+[19:33:29]: Borps ran the command /playsound minecraft:block.anvil.fall master @a.
+[19:33:30]: Borps ran the command /playsound minecraft:block.anvil.fall master @a.
+[19:33:30]: Borps ran the command //.
+[19:33:32]: Borps ran the command /playsound minecraft:block.anvil.fall master @a.
+[19:33:33]: Borps ran the command /playsound minecraft:block.anvil.fall master @a.
+[19:33:33]: Borps ran the command /playsound minecraft:block.anvil.fall master @a.
+[19:33:37]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:38]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:38]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:39]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:47]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:48]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:49]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:49]: Borps ran the command /playsound minecraft:block.anvil.fall master @a ~ ~ ~.
+[19:33:55]: Borps ran the command /playsound minecraft:block.anvil.place master @a ~ ~ ~.
+[19:33:56]: Borps ran the command /playsound minecraft:block.anvil.place master @a ~ ~ ~.
+[19:33:57]: Borps ran the command /playsound minecraft:block.anvil.place master @a ~ ~ ~.
+[19:34:04]: Borps ran the command /gm creative.
+[19:34:04]: Borps ran the command /gamemode creative.
+[19:34:09]: Borps ran the command /give Borps minecraft:command_block.
+[19:34:49]: Borps ran the command /gm spectator.
+[19:34:49]: Borps ran the command /gamemode spectator.
+[19:36:49]: Borps ran the command /lp group default permission set imagemaps.download.
+[19:36:52]: Borps ran the command /lp group default permission set imagemaps.use.
+[19:37:07]: ya_boi_ehoff ran the command /imagemap 7degrees.png scale 1 1.
+[19:37:30]: ya_boi_ehoff ran the command /imagemap barack.png scale 1 1.
+[19:38:28]: ya_boi_ehoff ran the command /imagemap obama.png scale 1 1.
+[19:39:08]: Borps ran the command /gm creative.
+[19:39:08]: Borps ran the command /gamemode creative.
+[19:39:11]: Borps ran the command /gm spectator.
+[19:39:11]: Borps ran the command /gamemode spectator.
+[19:39:52]: Borps ran the command /tp BenDoesMusic.
+[19:46:30]: Borps ran the command /team modify logans_sister nametagVisibility hideForOtherTeams.
+[19:46:41]: Borps ran the command /team modify dookie_champions nametagVisibility hideForOtherTeams.
+[19:46:52]: Borps ran the command /team modify thicc_rats nametagVisibility hideForOtherTeams.
+[19:47:59]: Borps ran the command /team add ben-q-team "Ben Quint's Team".
+[19:48:11]: Borps ran the command /team join ben-q-team BenjaboyQ.
+[19:48:19]: Borps ran the command /team modify ben-q-team nametagVisibility hideForOtherTeams.
+[19:48:53]: BenDoesMusic ran the command /msg ya_boi_ehoff do you think that was hunters basement or the bunker.
+[19:49:17]: Borps ran the command /pm gui.
+[19:49:25]: ya_boi_ehoff ran the command /tell BenDoesMusic bunker.
+[19:49:42]: BenDoesMusic ran the command /msg ya_boi_ehoff i think the stone bricks was the bunker but idk about the other thing.
+[19:51:13]: Borps ran the command /msg BenDoesMusic come back.
+[19:51:30]: Borps ran the command /msg BenDoesMusic you were really close and you missed something.
+[19:51:49]: BenDoesMusic ran the command /msg ya_boi_ehoff im in.
+[19:52:16]: Borps ran the command /msg BenDoesMusic oh hey, you found it.
+[19:53:15]: Borps ran the command /msg Lhendy51 i helped them a little bit so its only fair that i tell you where they are, they are at your secret base.
+[19:53:31]: Lhendy51 ran the command /tell Borps bruh.
+[19:53:32]: BenDoesMusic ran the command /msg ya_boi_ehoff stay here ill go find it from the other side.
+[19:53:40]: ya_boi_ehoff ran the command /tell BenDoesMusic okay.
+[19:53:47]: BenDoesMusic ran the command /msg ya_boi_ehoff come back up to the door.
+[19:53:56]: Borps ran the command /msg Lhendy51 you can get them if you are quick.
+[19:54:42]: ya_boi_ehoff ran the command /tell BenDoesMusic how do we get out.
+[19:54:52]: BenDoesMusic ran the command /msg ya_boi_ehoff same way we got in.
+[19:57:46]: Borps ran the command /gm creative.
+[19:57:46]: Borps ran the command /gamemode creative.
+[19:57:56]: Borps ran the command /gm spectator.
+[19:57:56]: Borps ran the command /gamemode spectator.
+[20:01:43]: Borps ran the command /gm creative.
+[20:01:43]: Borps ran the command /gamemode creative.
+[20:06:59]: Borps ran the command /msg Comrade91 you do realize you can teleport right?.
+[20:07:16]: Borps ran the command /tp Lhendy51 @s.
+[20:09:21]: Borps ran the command /openinv ya_boi_ehoff.
+[20:11:22]: Borps ran the command /tp BenDoesMusic.
+[20:12:54]: Borps ran the command /gm spectator.
+[20:12:54]: Borps ran the command /gamemode spectator.
+[20:15:10]: Borps ran the command /gm survival comrade91.
+[20:15:10]: Borps ran the command /gamemode survival comrade91.
+[20:16:30]: Borps ran the command /gamemode creative.
+[20:17:14]: Borps ran the command /thru.
+[20:19:32]: Borps ran the command /summon minecraft:boat ~ ~ ~ {NoAI:1}.
+[20:19:51]: Borps ran the command /summon minecraft:cod ~ ~ ~ {NoAI:1}.
+[20:20:30]: Borps ran the command /summon minecraft:cod ~ ~ ~ {NoAI:1,Invulnerable:1}.
+[20:21:40]: Borps ran the command /summon minecraft:cod ~ ~ ~ {NoAI:1,Invulnerable:1}.
+[20:25:48]: Borps ran the command /thru.
+[20:27:00]: Borps ran the command /thru.
+[20:40:52]: Borps ran the command /gm spectator.
+[20:40:52]: Borps ran the command /gamemode spectator.
+[20:41:07]: Borps ran the command /gm creative.
+[20:41:07]: Borps ran the command /gamemode creative.
+[20:42:27]: Borps ran the command /gm spectator.
+[20:42:27]: Borps ran the command /gamemode spectator.
+[20:42:37]: Borps ran the command /gm survival.
+[20:42:37]: Borps ran the command /gamemode survival.
+[20:42:46]: Borps ran the command /day.
+[20:42:46]: Borps ran the command /time set day.
+[20:43:37]: Borps ran the command /gm creative.
+[20:43:38]: Borps ran the command /gamemode creative.
+[20:52:22]: BenDoesMusic ran the command /gamemode spectator.
+[21:16:42]: BenDoesMusic ran the command /day.
+[21:26:58]: BenDoesMusic ran the command /day.
+[21:36:56]: TARDIS_360 ran the command /tell Lhendy51 cum.
+[21:37:10]: Lhendy51 ran the command /tell TARDIS_360 whatever u say daddy.
