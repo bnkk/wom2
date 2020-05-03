@@ -1,0 +1,27 @@
+[03:54:47]: ya_boi_ehoff died because of ENTITY_ATTACK by Vindicator.
+[19:28:06]: BenjaboyQ died because of FIRE_TICK.
+[19:56:26]: Lhendy51 died because of ENTITY_ATTACK by ya_boi_ehoff with THIS TOOK 32 GODAMN LEVES TO RENAME (DIAMOND_SWORD).
+[20:00:45]: Lhendy51 died because of PROJECTILE.
+[20:07:00]: Lhendy51 died because of PROJECTILE.
+[22:07:35]: Austin_Powers_ died because of PROJECTILE.
+[22:08:47]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with Morning Wood Mk. 3 (DIAMOND_AXE).
+[22:09:39]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with Diggy Diggy Hole Mk. 3 (DIAMOND_SHOVEL).
+[22:10:33]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with Silky Smooth Mk 3. (DIAMOND_PICKAXE).
+[22:11:53]: Austin_Powers_ died because of THORNS.
+[22:13:15]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[22:14:00]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[22:14:38]: Austin_Powers_ died because of PROJECTILE.
+[22:16:30]: Austin_Powers_ died because of FIRE_TICK.
+[22:17:25]: Austin_Powers_ died because of PROJECTILE.
+[22:18:51]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[22:19:13]: Austin_Powers_ died because of ENTITY_ATTACK by Lhendy51 with Circumcisor IV (DIAMOND_SWORD).
+[22:19:36]: Austin_Powers_ died because of ENTITY_ATTACK by Lhendy51 with The Loraxe (DIAMOND_AXE).
+[22:20:33]: Austin_Powers_ died because of PROJECTILE.
+[22:21:15]: Austin_Powers_ died because of FALL.
+[22:21:33]: Austin_Powers_ died because of ENTITY_ATTACK by TARDIS_360 with DIAMOND_SWORD.
+[22:22:16]: Austin_Powers_ died because of ENTITY_ATTACK by TARDIS_360 with DIAMOND_SWORD.
+[22:22:35]: Austin_Powers_ died because of ENTITY_ATTACK by TARDIS_360 with DIAMOND_SWORD.
+[22:22:50]: Austin_Powers_ died because of ENTITY_ATTACK by TARDIS_360 with DIAMOND_SWORD.
+[22:32:49]: Austin_Powers_ died because of FALL.
+[22:35:03]: TARDIS_360 died because of FALL.
+[22:41:20]: Austin_Powers_ died because of FALL.
