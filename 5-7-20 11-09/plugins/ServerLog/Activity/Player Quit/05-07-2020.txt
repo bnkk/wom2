@@ -1,0 +1,7 @@
+[00:07:27]: Lhendy51 quit at the location -16, 67, 54. Their IP was 73.154.195.184.
+[00:08:29]: Borps quit at the location -40, 63, 27. Their IP was 2.0.0.10.
+[00:08:42]: BenDoesMusic quit at the location -34, 69, 28. Their IP was 98.111.229.85.
+[00:08:46]: captainasia_ quit at the location -10, 50, 44. Their IP was 24.154.114.227.
+[00:09:14]: Austin_Powers_ quit at the location 81, 69, 44. Their IP was 73.154.194.210.
+[01:56:15]: Austin_Powers_ quit at the location 135, 11, -167. Their IP was 73.154.194.210.
+[03:05:12]: Austin_Powers_ quit at the location 76, 69, 44. Their IP was 73.154.194.210.

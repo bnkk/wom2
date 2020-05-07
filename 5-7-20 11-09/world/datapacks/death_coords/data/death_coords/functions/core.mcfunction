@@ -1,0 +1,1 @@
+function death_coords:loop
