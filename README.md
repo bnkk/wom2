@@ -5,7 +5,7 @@ All backups of the World O' Meme SMP server from season 2
 
 ### How to add SMP world as a single player world.
 ```
-1. Select the date at which you want to download the world by clicking on the dropdown list labeled branch, then choose a date.
+1. Go to https://github.com/borps/world-o-meme-season-2/releases and find the date for the version you wish to download, then click Source Code (zip)
 2. Click the green button that is labeled "Clone or download" the click "Download ZIP"
 3. Open with an archive extraction software such as WinRAR or 7-ZIP.
 4. Hold down the Windows key + R and type in %appdata%\.minecraft\saves then click Ok.
