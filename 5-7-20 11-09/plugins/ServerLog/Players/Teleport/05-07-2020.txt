@@ -1,0 +1,13 @@
+[01:37:51]: Austin_Powers_ teleported to -13, 70, -32.
+[01:41:01]: Austin_Powers_ teleported to 5, 129, -1.
+[01:41:25]: Austin_Powers_ teleported to 1297, 65, 761.
+[01:41:25]: Austin_Powers_ teleported to 1297, 65, 761.
+[01:45:26]: Austin_Powers_ teleported to 171, 129, 105.
+[01:45:42]: Austin_Powers_ teleported to 58, 74, 1.
+[01:52:02]: Austin_Powers_ teleported to 135, 19, -61.
+[01:52:04]: Austin_Powers_ teleported to 135, 16, -64.
+[02:02:46]: Austin_Powers_ teleported to 135, 11, -223.
+[02:02:46]: Austin_Powers_ teleported to 135, 11, -223.
+[02:02:48]: Austin_Powers_ teleported to 135, 11, -214.
+[02:03:29]: Austin_Powers_ teleported to 135, 10, -263.
+[02:15:06]: Austin_Powers_ teleported to 130, 11, -318.

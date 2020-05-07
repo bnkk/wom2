@@ -1,0 +1,2 @@
+[00:00:03]: BenDoesMusic picked up the item BLUE_SHULKER_BOX.
+[00:03:31]: BenDoesMusic picked up the item Valuables (LIGHT_BLUE_SHULKER_BOX).

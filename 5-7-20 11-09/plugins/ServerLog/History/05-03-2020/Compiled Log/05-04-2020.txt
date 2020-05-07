@@ -1,0 +1,13 @@
+[00:00:01]: BenDoesMusic placed the block BLUE_SHULKER_BOX at the location 223, 63, -1916.
+[00:00:03]: BenDoesMusic broke the block BLUE_SHULKER_BOX at the location 223, 63, -1916.
+[00:00:03]: BenDoesMusic picked up the item BLUE_SHULKER_BOX.
+[00:00:18]: Borps quit at the location 32, 72, -9. Their IP was 98.111.253.154.
+[00:00:24]: BenDoesMusic teleported to 26, 129, -242.
+[00:01:17]: BenDoesMusic teleported to -6315, 70, -3136.
+[00:01:18]: Austin_Powers_ quit at the location 78, 69, 46. Their IP was 73.154.194.210.
+[00:01:33]: BenDoesMusic placed the block CHEST at the location -6333, 69, -3150.
+[00:01:44]: BenDoesMusic teleported to -790, 129, -392.
+[00:02:36]: BenDoesMusic teleported to 44, 72, 0.
+[00:03:29]: BenDoesMusic placed the block Valuables (LIGHT_BLUE_SHULKER_BOX) at the location 37, 75, -34.
+[00:03:31]: BenDoesMusic broke the block LIGHT_BLUE_SHULKER_BOX at the location 37, 75, -34.
+[00:03:31]: BenDoesMusic picked up the item Valuables (LIGHT_BLUE_SHULKER_BOX).
