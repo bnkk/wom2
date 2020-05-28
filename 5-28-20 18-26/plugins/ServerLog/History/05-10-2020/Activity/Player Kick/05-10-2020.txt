@@ -1,0 +1,9 @@
+[00:22:35]: BenDoesMusic kicked. Their IP was 98.111.229.85. Reason: §c§lWorld O' Meme SMP Server §8§l» §7You got kicked
+§7
+§cReason §8» §7none
+§7
+[01:37:09]: BenDoesMusic kicked. Their IP was 98.111.229.85. Reason: You logged in from another location
+[18:23:48]: Borps kicked. Their IP was 2.0.0.10. Reason: You logged in from another location
+[18:24:03]: Borps kicked. Their IP was 2.0.0.10. Reason: You logged in from another location
+[19:16:24]: Borps kicked. Their IP was 2.0.0.10. Reason: You logged in from another location
+[19:16:31]: Borps kicked. Their IP was 98.111.253.154. Reason: You logged in from another location

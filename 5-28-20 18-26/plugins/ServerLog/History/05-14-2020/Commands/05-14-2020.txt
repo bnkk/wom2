@@ -1,0 +1,14 @@
+[21:12:19]: Borps ran the command /help\.
+[21:12:28]: Borps ran the command /day.
+[21:12:28]: Borps ran the command /time set day.
+[21:12:31]: Borps ran the command /weather clear.
+[21:21:00]: BenjaboyQ ran the command /tell captainasia_ thomas did you see the red lobster.
+[21:21:13]: captainasia_ ran the command /tell.
+[21:21:32]: captainasia_ ran the command /tell BenjaboyQ <yes, was that you?>.
+[21:21:32]: BenjaboyQ ran the command /tell captainasia_ do you want me to de-vandalise.
+[21:21:53]: captainasia_ ran the command /tell BenjaboyQ <nah its appropriate for red lobster>.
+[21:21:54]: BenjaboyQ ran the command /tell captainasia_ no but i am the protector of he area.
+[21:30:33]: BenjaboyQ ran the command /pvt.7degreesbrassband.
+[21:30:49]: BenjaboyQ ran the command /pvt.7degreesbrassband.com/8123.
+[21:30:56]: BenjaboyQ ran the command /pvt.7degreesbrassband.com:8123.
+[22:33:23]: Lhendy51 ran the command /say h.

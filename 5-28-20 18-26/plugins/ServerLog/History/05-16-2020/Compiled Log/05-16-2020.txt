@@ -1,0 +1,2638 @@
+[00:00:13]: The TPS is 20.
+[00:00:13]: The current RAM usage is 2768MB / 3072MB (90.1%).
+[00:00:13]: The current player count is 1.
+[00:00:56]: Lhendy51 quit at the location 1266, 36, 648. Their IP was 73.154.195.184.
+[00:01:04]: Lhendy51 joined from the IP 73.154.195.184.
+[00:01:38]: Lhendy51 placed the block OAK_SIGN at the location 1263, 40, 649.
+[00:01:43]: Lhendy51 broke the block OAK_SIGN at the location 1263, 40, 649.
+[00:01:43]: Lhendy51 picked up the item OAK_SIGN.
+[00:01:48]: Lhendy51 placed the block TRIPWIRE at the location 1264, 40, 656.
+[00:01:48]: Lhendy51 broke the block TRIPWIRE at the location 1264, 40, 656.
+[00:01:49]: Lhendy51 picked up the item STRING.
+[00:01:57]: Lhendy51 placed the block TRIPWIRE at the location 1264, 63, 656.
+[00:01:58]: Lhendy51 broke the block TRIPWIRE at the location 1264, 63, 656.
+[00:01:58]: Lhendy51 picked up the item STRING.
+[00:02:01]: Lhendy51 placed the block TRIPWIRE at the location 1264, 63, 639.
+[00:02:02]: Lhendy51 broke the block TRIPWIRE at the location 1264, 63, 639.
+[00:02:03]: Lhendy51 picked up the item STRING.
+[00:02:03]: Lhendy51 picked up the item ROTTEN_FLESH.
+[00:02:05]: Lhendy51 dropped the item ROTTEN_FLESH.
+[00:02:07]: Lhendy51 placed the block TRIPWIRE at the location 1263, 63, 630.
+[00:02:07]: Lhendy51 placed the block TRIPWIRE at the location 1263, 64, 630.
+[00:02:08]: Lhendy51 broke the block TRIPWIRE at the location 1263, 64, 630.
+[00:02:08]: Lhendy51 broke the block TRIPWIRE at the location 1263, 63, 630.
+[00:02:09]: Lhendy51 picked up the item STRING.
+[00:02:12]: Lhendy51 placed the block OAK_SIGN at the location 1263, 63, 632.
+[00:02:30]: Lhendy51 placed the block OAK_SIGN at the location 1264, 63, 632.
+[00:03:15]: Lhendy51 placed the block TRIPWIRE at the location 1258, 63, 623.
+[00:03:16]: Lhendy51 broke the block TRIPWIRE at the location 1258, 63, 623.
+[00:03:17]: Lhendy51 picked up the item STRING.
+[00:03:23]: Lhendy51 quit at the location 1260, 63, 631. Their IP was 73.154.195.184.
+[00:05:13]: The TPS is 20.
+[00:05:13]: The current RAM usage is 2821MB / 3072MB (91.83%).
+[00:05:13]: The current player count is 0.
+[00:10:13]: The TPS is 20.
+[00:10:13]: The current RAM usage is 2573MB / 3072MB (83.76%).
+[00:10:13]: The current player count is 0.
+[00:15:13]: The TPS is 20.
+[00:15:13]: The current RAM usage is 2792MB / 3072MB (90.89%).
+[00:15:13]: The current player count is 0.
+[00:20:13]: The TPS is 20.
+[00:20:13]: The current RAM usage is 2533MB / 3072MB (82.45%).
+[00:20:13]: The current player count is 0.
+[00:25:13]: The TPS is 20.
+[00:25:13]: The current RAM usage is 2810MB / 3072MB (91.47%).
+[00:25:13]: The current player count is 0.
+[00:30:13]: The TPS is 20.
+[00:30:13]: The current RAM usage is 2621MB / 3072MB (85.32%).
+[00:30:13]: The current player count is 0.
+[00:35:13]: The TPS is 20.
+[00:35:13]: The current RAM usage is 2796MB / 3072MB (91.02%).
+[00:35:13]: The current player count is 0.
+[00:40:13]: The TPS is 20.
+[00:40:13]: The current RAM usage is 2493MB / 3072MB (81.15%).
+[00:40:13]: The current player count is 0.
+[00:45:13]: The TPS is 20.
+[00:45:13]: The current RAM usage is 2820MB / 3072MB (91.8%).
+[00:45:13]: The current player count is 0.
+[00:50:13]: The TPS is 20.
+[00:50:13]: The current RAM usage is 2614MB / 3072MB (85.09%).
+[00:50:13]: The current player count is 0.
+[00:55:13]: The TPS is 20.
+[00:55:13]: The current RAM usage is 2806MB / 3072MB (91.34%).
+[00:55:13]: The current player count is 0.
+[01:00:13]: The TPS is 20.
+[01:00:13]: The current RAM usage is 2504MB / 3072MB (81.51%).
+[01:00:13]: The current player count is 0.
+[01:05:13]: The TPS is 20.
+[01:05:13]: The current RAM usage is 2864MB / 3072MB (93.23%).
+[01:05:13]: The current player count is 0.
+[01:10:13]: The TPS is 20.
+[01:10:13]: The current RAM usage is 2695MB / 3072MB (87.73%).
+[01:10:13]: The current player count is 0.
+[01:15:13]: The TPS is 20.
+[01:15:13]: The current RAM usage is 2440MB / 3072MB (79.43%).
+[01:15:13]: The current player count is 0.
+[01:20:13]: The TPS is 20.
+[01:20:13]: The current RAM usage is 2612MB / 3072MB (85.03%).
+[01:20:13]: The current player count is 0.
+[01:25:13]: The TPS is 20.
+[01:25:13]: The current RAM usage is 2518MB / 3072MB (81.97%).
+[01:25:13]: The current player count is 0.
+[01:30:13]: The TPS is 20.
+[01:30:13]: The current RAM usage is 2882MB / 3072MB (93.82%).
+[01:30:13]: The current player count is 0.
+[01:35:13]: The TPS is 20.
+[01:35:13]: The current RAM usage is 2675MB / 3072MB (87.08%).
+[01:35:13]: The current player count is 0.
+[01:40:13]: The TPS is 20.
+[01:40:13]: The current RAM usage is 2510MB / 3072MB (81.71%).
+[01:40:13]: The current player count is 0.
+[01:45:13]: The TPS is 20.
+[01:45:13]: The current RAM usage is 2869MB / 3072MB (93.39%).
+[01:45:13]: The current player count is 0.
+[01:50:13]: The TPS is 20.
+[01:50:13]: The current RAM usage is 2765MB / 3072MB (90.01%).
+[01:50:13]: The current player count is 0.
+[01:55:13]: The TPS is 20.
+[01:55:13]: The current RAM usage is 2584MB / 3072MB (84.11%).
+[01:55:13]: The current player count is 0.
+[02:00:13]: The TPS is 20.
+[02:00:13]: The current RAM usage is 2490MB / 3072MB (81.05%).
+[02:00:13]: The current player count is 0.
+[02:05:13]: The TPS is 20.
+[02:05:13]: The current RAM usage is 2863MB / 3072MB (93.2%).
+[02:05:13]: The current player count is 0.
+[02:10:13]: The TPS is 20.
+[02:10:13]: The current RAM usage is 2790MB / 3072MB (90.82%).
+[02:10:13]: The current player count is 0.
+[02:15:13]: The TPS is 20.
+[02:15:13]: The current RAM usage is 2588MB / 3072MB (84.24%).
+[02:15:13]: The current player count is 0.
+[02:20:13]: The TPS is 20.
+[02:20:13]: The current RAM usage is 2445MB / 3072MB (79.59%).
+[02:20:13]: The current player count is 0.
+[02:25:13]: The TPS is 20.
+[02:25:13]: The current RAM usage is 2887MB / 3072MB (93.98%).
+[02:25:13]: The current player count is 0.
+[02:30:13]: The TPS is 20.
+[02:30:13]: The current RAM usage is 2809MB / 3072MB (91.44%).
+[02:30:13]: The current player count is 0.
+[02:35:13]: The TPS is 20.
+[02:35:13]: The current RAM usage is 2593MB / 3072MB (84.41%).
+[02:35:13]: The current player count is 0.
+[02:40:13]: The TPS is 20.
+[02:40:13]: The current RAM usage is 2859MB / 3072MB (93.07%).
+[02:40:13]: The current player count is 0.
+[02:45:13]: The TPS is 20.
+[02:45:13]: The current RAM usage is 2871MB / 3072MB (93.46%).
+[02:45:13]: The current player count is 0.
+[02:50:13]: The TPS is 20.
+[02:50:13]: The current RAM usage is 2800MB / 3072MB (91.15%).
+[02:50:13]: The current player count is 0.
+[02:55:13]: The TPS is 20.
+[02:55:13]: The current RAM usage is 2666MB / 3072MB (86.78%).
+[02:55:13]: The current player count is 0.
+[03:00:13]: The TPS is 20.
+[03:00:13]: The current RAM usage is 2535MB / 3072MB (82.52%).
+[03:00:13]: The current player count is 0.
+[03:05:13]: The TPS is 20.
+[03:05:13]: The current RAM usage is 2545MB / 3072MB (82.85%).
+[03:05:13]: The current player count is 0.
+[03:10:13]: The TPS is 20.
+[03:10:13]: The current RAM usage is 2504MB / 3072MB (81.51%).
+[03:10:13]: The current player count is 0.
+[03:15:13]: The TPS is 20.
+[03:15:13]: The current RAM usage is 2771MB / 3072MB (90.2%).
+[03:15:13]: The current player count is 0.
+[03:20:13]: The TPS is 20.
+[03:20:13]: The current RAM usage is 2711MB / 3072MB (88.25%).
+[03:20:13]: The current player count is 0.
+[03:25:13]: The TPS is 20.
+[03:25:13]: The current RAM usage is 2726MB / 3072MB (88.74%).
+[03:25:13]: The current player count is 0.
+[03:30:13]: The TPS is 20.
+[03:30:13]: The current RAM usage is 2722MB / 3072MB (88.61%).
+[03:30:13]: The current player count is 0.
+[03:35:13]: The TPS is 20.
+[03:35:13]: The current RAM usage is 2560MB / 3072MB (83.33%).
+[03:35:13]: The current player count is 0.
+[03:40:13]: The TPS is 20.
+[03:40:13]: The current RAM usage is 2489MB / 3072MB (81.02%).
+[03:40:13]: The current player count is 0.
+[03:45:13]: The TPS is 20.
+[03:45:13]: The current RAM usage is 2524MB / 3072MB (82.16%).
+[03:45:13]: The current player count is 0.
+[03:50:13]: The TPS is 20.
+[03:50:13]: The current RAM usage is 2552MB / 3072MB (83.07%).
+[03:50:13]: The current player count is 0.
+[03:55:13]: The TPS is 20.
+[03:55:13]: The current RAM usage is 2485MB / 3072MB (80.89%).
+[03:55:13]: The current player count is 0.
+[04:00:13]: The TPS is 20.
+[04:00:13]: The current RAM usage is 2458MB / 3072MB (80.01%).
+[04:00:13]: The current player count is 0.
+[04:05:13]: The TPS is 20.
+[04:05:13]: The current RAM usage is 2534MB / 3072MB (82.49%).
+[04:05:13]: The current player count is 0.
+[04:10:13]: The TPS is 20.
+[04:10:13]: The current RAM usage is 2544MB / 3072MB (82.81%).
+[04:10:13]: The current player count is 0.
+[04:15:13]: The TPS is 20.
+[04:15:13]: The current RAM usage is 2529MB / 3072MB (82.32%).
+[04:15:13]: The current player count is 0.
+[04:20:13]: The TPS is 20.
+[04:20:13]: The current RAM usage is 2836MB / 3072MB (92.32%).
+[04:20:13]: The current player count is 0.
+[04:25:13]: The TPS is 20.
+[04:25:13]: The current RAM usage is 2448MB / 3072MB (79.69%).
+[04:25:13]: The current player count is 0.
+[04:30:13]: The TPS is 20.
+[04:30:13]: The current RAM usage is 2507MB / 3072MB (81.61%).
+[04:30:13]: The current player count is 0.
+[04:35:13]: The TPS is 20.
+[04:35:13]: The current RAM usage is 2453MB / 3072MB (79.85%).
+[04:35:13]: The current player count is 0.
+[04:40:13]: The TPS is 20.
+[04:40:13]: The current RAM usage is 2851MB / 3072MB (92.81%).
+[04:40:13]: The current player count is 0.
+[04:45:13]: The TPS is 20.
+[04:45:13]: The current RAM usage is 2562MB / 3072MB (83.4%).
+[04:45:13]: The current player count is 0.
+[04:50:13]: The TPS is 20.
+[04:50:13]: The current RAM usage is 2666MB / 3072MB (86.78%).
+[04:50:13]: The current player count is 0.
+[04:55:13]: The TPS is 20.
+[04:55:13]: The current RAM usage is 2658MB / 3072MB (86.52%).
+[04:55:13]: The current player count is 0.
+[05:00:13]: The TPS is 20.
+[05:00:13]: The current RAM usage is 2678MB / 3072MB (87.17%).
+[05:00:13]: The current player count is 0.
+[05:05:13]: The TPS is 20.
+[05:05:13]: The current RAM usage is 2760MB / 3072MB (89.84%).
+[05:05:13]: The current player count is 0.
+[05:10:13]: The TPS is 20.
+[05:10:13]: The current RAM usage is 2878MB / 3072MB (93.68%).
+[05:10:13]: The current player count is 0.
+[05:15:13]: The TPS is 20.
+[05:15:13]: The current RAM usage is 2447MB / 3072MB (79.65%).
+[05:15:13]: The current player count is 0.
+[05:20:13]: The TPS is 20.
+[05:20:13]: The current RAM usage is 2857MB / 3072MB (93%).
+[05:20:13]: The current player count is 0.
+[05:25:13]: The TPS is 20.
+[05:25:13]: The current RAM usage is 2508MB / 3072MB (81.64%).
+[05:25:13]: The current player count is 0.
+[05:30:13]: The TPS is 20.
+[05:30:13]: The current RAM usage is 2629MB / 3072MB (85.58%).
+[05:30:13]: The current player count is 0.
+[05:35:13]: The TPS is 20.
+[05:35:13]: The current RAM usage is 2644MB / 3072MB (86.07%).
+[05:35:13]: The current player count is 0.
+[05:40:13]: The TPS is 20.
+[05:40:13]: The current RAM usage is 2714MB / 3072MB (88.35%).
+[05:40:13]: The current player count is 0.
+[05:45:13]: The TPS is 20.
+[05:45:13]: The current RAM usage is 2461MB / 3072MB (80.11%).
+[05:45:13]: The current player count is 0.
+[05:50:13]: The TPS is 20.
+[05:50:13]: The current RAM usage is 2579MB / 3072MB (83.95%).
+[05:50:13]: The current player count is 0.
+[05:55:13]: The TPS is 20.
+[05:55:13]: The current RAM usage is 2687MB / 3072MB (87.47%).
+[05:55:13]: The current player count is 0.
+[06:00:13]: The TPS is 20.
+[06:00:13]: The current RAM usage is 2710MB / 3072MB (88.22%).
+[06:00:13]: The current player count is 0.
+[06:05:13]: The TPS is 20.
+[06:05:13]: The current RAM usage is 2517MB / 3072MB (81.93%).
+[06:05:13]: The current player count is 0.
+[06:10:13]: The TPS is 20.
+[06:10:13]: The current RAM usage is 2673MB / 3072MB (87.01%).
+[06:10:13]: The current player count is 0.
+[06:15:13]: The TPS is 20.
+[06:15:13]: The current RAM usage is 2761MB / 3072MB (89.88%).
+[06:15:13]: The current player count is 0.
+[06:20:13]: The TPS is 20.
+[06:20:13]: The current RAM usage is 2834MB / 3072MB (92.25%).
+[06:20:13]: The current player count is 0.
+[06:25:13]: The TPS is 20.
+[06:25:13]: The current RAM usage is 2594MB / 3072MB (84.44%).
+[06:25:13]: The current player count is 0.
+[06:30:13]: The TPS is 20.
+[06:30:13]: The current RAM usage is 2753MB / 3072MB (89.62%).
+[06:30:13]: The current player count is 0.
+[06:35:13]: The TPS is 20.
+[06:35:13]: The current RAM usage is 2774MB / 3072MB (90.3%).
+[06:35:13]: The current player count is 0.
+[06:40:13]: The TPS is 20.
+[06:40:13]: The current RAM usage is 2846MB / 3072MB (92.64%).
+[06:40:13]: The current player count is 0.
+[06:45:13]: The TPS is 20.
+[06:45:13]: The current RAM usage is 2574MB / 3072MB (83.79%).
+[06:45:13]: The current player count is 0.
+[06:50:13]: The TPS is 20.
+[06:50:13]: The current RAM usage is 2767MB / 3072MB (90.07%).
+[06:50:13]: The current player count is 0.
+[06:55:13]: The TPS is 20.
+[06:55:13]: The current RAM usage is 2835MB / 3072MB (92.29%).
+[06:55:13]: The current player count is 0.
+[07:00:13]: The TPS is 20.
+[07:00:13]: The current RAM usage is 2531MB / 3072MB (82.39%).
+[07:00:13]: The current player count is 0.
+[07:05:13]: The TPS is 20.
+[07:05:13]: The current RAM usage is 2718MB / 3072MB (88.48%).
+[07:05:13]: The current player count is 0.
+[07:10:13]: The TPS is 20.
+[07:10:13]: The current RAM usage is 2520MB / 3072MB (82.03%).
+[07:10:13]: The current player count is 0.
+[07:15:13]: The TPS is 20.
+[07:15:13]: The current RAM usage is 2644MB / 3072MB (86.07%).
+[07:15:13]: The current player count is 0.
+[07:20:13]: The TPS is 20.
+[07:20:13]: The current RAM usage is 2798MB / 3072MB (91.08%).
+[07:20:13]: The current player count is 0.
+[07:25:13]: The TPS is 20.
+[07:25:13]: The current RAM usage is 2651MB / 3072MB (86.3%).
+[07:25:13]: The current player count is 0.
+[07:30:13]: The TPS is 20.
+[07:30:13]: The current RAM usage is 2512MB / 3072MB (81.77%).
+[07:30:13]: The current player count is 0.
+[07:35:13]: The TPS is 20.
+[07:35:13]: The current RAM usage is 2751MB / 3072MB (89.55%).
+[07:35:13]: The current player count is 0.
+[07:40:13]: The TPS is 20.
+[07:40:13]: The current RAM usage is 2472MB / 3072MB (80.47%).
+[07:40:13]: The current player count is 0.
+[07:45:13]: The TPS is 20.
+[07:45:13]: The current RAM usage is 2748MB / 3072MB (89.45%).
+[07:45:13]: The current player count is 0.
+[07:50:13]: The TPS is 20.
+[07:50:13]: The current RAM usage is 2541MB / 3072MB (82.71%).
+[07:50:13]: The current player count is 0.
+[07:55:13]: The TPS is 20.
+[07:55:13]: The current RAM usage is 2735MB / 3072MB (89.03%).
+[07:55:13]: The current player count is 0.
+[08:00:13]: The TPS is 20.
+[08:00:13]: The current RAM usage is 2460MB / 3072MB (80.08%).
+[08:00:13]: The current player count is 0.
+[08:05:13]: The TPS is 20.
+[08:05:13]: The current RAM usage is 2775MB / 3072MB (90.33%).
+[08:05:13]: The current player count is 0.
+[08:10:13]: The TPS is 20.
+[08:10:13]: The current RAM usage is 2643MB / 3072MB (86.04%).
+[08:10:13]: The current player count is 0.
+[08:15:13]: The TPS is 20.
+[08:15:13]: The current RAM usage is 2850MB / 3072MB (92.77%).
+[08:15:13]: The current player count is 0.
+[08:20:13]: The TPS is 20.
+[08:20:13]: The current RAM usage is 2630MB / 3072MB (85.61%).
+[08:20:13]: The current player count is 0.
+[08:25:13]: The TPS is 20.
+[08:25:13]: The current RAM usage is 2488MB / 3072MB (80.99%).
+[08:25:13]: The current player count is 0.
+[08:30:13]: The TPS is 20.
+[08:30:13]: The current RAM usage is 2817MB / 3072MB (91.7%).
+[08:30:13]: The current player count is 0.
+[08:35:13]: The TPS is 20.
+[08:35:13]: The current RAM usage is 2587MB / 3072MB (84.21%).
+[08:35:13]: The current player count is 0.
+[08:40:13]: The TPS is 20.
+[08:40:13]: The current RAM usage is 2834MB / 3072MB (92.25%).
+[08:40:13]: The current player count is 0.
+[08:45:13]: The TPS is 20.
+[08:45:13]: The current RAM usage is 2756MB / 3072MB (89.71%).
+[08:45:13]: The current player count is 0.
+[08:50:13]: The TPS is 20.
+[08:50:13]: The current RAM usage is 2673MB / 3072MB (87.01%).
+[08:50:13]: The current player count is 0.
+[08:55:13]: The TPS is 20.
+[08:55:13]: The current RAM usage is 2506MB / 3072MB (81.58%).
+[08:55:13]: The current player count is 0.
+[09:00:13]: The TPS is 20.
+[09:00:13]: The current RAM usage is 2769MB / 3072MB (90.14%).
+[09:00:13]: The current player count is 0.
+[09:05:13]: The TPS is 20.
+[09:05:13]: The current RAM usage is 2682MB / 3072MB (87.3%).
+[09:05:13]: The current player count is 0.
+[09:10:13]: The TPS is 20.
+[09:10:13]: The current RAM usage is 2567MB / 3072MB (83.56%).
+[09:10:13]: The current player count is 0.
+[09:15:13]: The TPS is 20.
+[09:15:13]: The current RAM usage is 2829MB / 3072MB (92.09%).
+[09:15:13]: The current player count is 0.
+[09:20:13]: The TPS is 20.
+[09:20:13]: The current RAM usage is 2639MB / 3072MB (85.9%).
+[09:20:13]: The current player count is 0.
+[09:21:35]: Borps joined from the IP 2.0.0.10.
+[09:21:46]: Borps quit at the location 35, 72, -16. Their IP was 2.0.0.10.
+[09:21:48]: Borps joined from the IP 2.0.0.10.
+[09:21:49]: Borps quit at the location 35, 72, -16. Their IP was 2.0.0.10.
+[09:21:53]: Borps joined from the IP 98.111.253.154.
+[09:21:55]: Borps quit at the location 35, 72, -16. Their IP was 98.111.253.154.
+[09:22:01]: Borps joined from the IP 98.111.253.154.
+[09:25:13]: The TPS is 20.
+[09:25:13]: The current RAM usage is 2679MB / 3072MB (87.21%).
+[09:25:13]: The current player count is 1.
+[09:29:21]: Borps ran the command /day.
+[09:29:21]: Borps ran the command /time set day.
+[09:29:42]: Borps quit at the location 38, 69, 54. Their IP was 98.111.253.154.
+[09:30:13]: The TPS is 20.
+[09:30:13]: The current RAM usage is 2506MB / 3072MB (81.58%).
+[09:30:13]: The current player count is 0.
+[09:35:13]: The TPS is 20.
+[09:35:13]: The current RAM usage is 2524MB / 3072MB (82.16%).
+[09:35:13]: The current player count is 0.
+[09:40:13]: The TPS is 20.
+[09:40:13]: The current RAM usage is 2797MB / 3072MB (91.05%).
+[09:40:13]: The current player count is 0.
+[09:45:13]: The TPS is 20.
+[09:45:13]: The current RAM usage is 2686MB / 3072MB (87.43%).
+[09:45:13]: The current player count is 0.
+[09:50:13]: The TPS is 20.
+[09:50:13]: The current RAM usage is 2523MB / 3072MB (82.13%).
+[09:50:13]: The current player count is 0.
+[09:55:13]: The TPS is 20.
+[09:55:13]: The current RAM usage is 2473MB / 3072MB (80.5%).
+[09:55:13]: The current player count is 0.
+[10:00:13]: The TPS is 20.
+[10:00:13]: The current RAM usage is 2765MB / 3072MB (90.01%).
+[10:00:13]: The current player count is 0.
+[10:05:13]: The TPS is 20.
+[10:05:13]: The current RAM usage is 2584MB / 3072MB (84.11%).
+[10:05:13]: The current player count is 0.
+[10:10:13]: The TPS is 20.
+[10:10:13]: The current RAM usage is 2872MB / 3072MB (93.49%).
+[10:10:13]: The current player count is 0.
+[10:15:13]: The TPS is 20.
+[10:15:13]: The current RAM usage is 2825MB / 3072MB (91.96%).
+[10:15:13]: The current player count is 0.
+[10:20:13]: The TPS is 20.
+[10:20:13]: The current RAM usage is 2817MB / 3072MB (91.7%).
+[10:20:13]: The current player count is 0.
+[10:25:13]: The TPS is 20.
+[10:25:13]: The current RAM usage is 2617MB / 3072MB (85.19%).
+[10:25:13]: The current player count is 0.
+[10:30:13]: The TPS is 20.
+[10:30:13]: The current RAM usage is 2517MB / 3072MB (81.93%).
+[10:30:13]: The current player count is 0.
+[10:35:13]: The TPS is 20.
+[10:35:13]: The current RAM usage is 2486MB / 3072MB (80.92%).
+[10:35:13]: The current player count is 0.
+[10:40:13]: The TPS is 20.
+[10:40:13]: The current RAM usage is 2874MB / 3072MB (93.55%).
+[10:40:13]: The current player count is 0.
+[10:45:13]: The TPS is 20.
+[10:45:13]: The current RAM usage is 2777MB / 3072MB (90.4%).
+[10:45:13]: The current player count is 0.
+[10:50:13]: The TPS is 20.
+[10:50:13]: The current RAM usage is 2659MB / 3072MB (86.56%).
+[10:50:13]: The current player count is 0.
+[10:55:13]: The TPS is 20.
+[10:55:13]: The current RAM usage is 2686MB / 3072MB (87.43%).
+[10:55:13]: The current player count is 0.
+[11:00:13]: The TPS is 20.
+[11:00:13]: The current RAM usage is 2619MB / 3072MB (85.25%).
+[11:00:13]: The current player count is 0.
+[11:05:13]: The TPS is 20.
+[11:05:13]: The current RAM usage is 2554MB / 3072MB (83.14%).
+[11:05:13]: The current player count is 0.
+[11:10:13]: The TPS is 20.
+[11:10:13]: The current RAM usage is 2487MB / 3072MB (80.96%).
+[11:10:13]: The current player count is 0.
+[11:15:13]: The TPS is 20.
+[11:15:13]: The current RAM usage is 2542MB / 3072MB (82.75%).
+[11:15:13]: The current player count is 0.
+[11:20:13]: The TPS is 20.
+[11:20:13]: The current RAM usage is 2493MB / 3072MB (81.15%).
+[11:20:13]: The current player count is 0.
+[11:25:13]: The TPS is 20.
+[11:25:13]: The current RAM usage is 2867MB / 3072MB (93.33%).
+[11:25:13]: The current player count is 0.
+[11:30:13]: The TPS is 20.
+[11:30:13]: The current RAM usage is 2832MB / 3072MB (92.19%).
+[11:30:13]: The current player count is 0.
+[11:35:13]: The TPS is 20.
+[11:35:13]: The current RAM usage is 2518MB / 3072MB (81.97%).
+[11:35:13]: The current player count is 0.
+[11:40:13]: The TPS is 20.
+[11:40:13]: The current RAM usage is 2496MB / 3072MB (81.25%).
+[11:40:13]: The current player count is 0.
+[11:45:13]: The TPS is 20.
+[11:45:13]: The current RAM usage is 2483MB / 3072MB (80.83%).
+[11:45:13]: The current player count is 0.
+[11:50:13]: The TPS is 20.
+[11:50:13]: The current RAM usage is 2572MB / 3072MB (83.72%).
+[11:50:13]: The current player count is 0.
+[11:55:13]: The TPS is 20.
+[11:55:13]: The current RAM usage is 2641MB / 3072MB (85.97%).
+[11:55:13]: The current player count is 0.
+[12:00:13]: The TPS is 20.
+[12:00:13]: The current RAM usage is 2707MB / 3072MB (88.12%).
+[12:00:13]: The current player count is 0.
+[12:05:13]: The TPS is 20.
+[12:05:13]: The current RAM usage is 2695MB / 3072MB (87.73%).
+[12:05:13]: The current player count is 0.
+[12:10:13]: The TPS is 20.
+[12:10:13]: The current RAM usage is 2725MB / 3072MB (88.7%).
+[12:10:13]: The current player count is 0.
+[12:15:13]: The TPS is 20.
+[12:15:13]: The current RAM usage is 2808MB / 3072MB (91.41%).
+[12:15:13]: The current player count is 0.
+[12:20:13]: The TPS is 20.
+[12:20:13]: The current RAM usage is 2483MB / 3072MB (80.83%).
+[12:20:13]: The current player count is 0.
+[12:21:28]: theredbook joined from the IP 73.52.219.140.
+[12:23:31]: theredbook teleported to 35, 72, 3.
+[12:23:40]: theredbook teleported to 5, 129, -1.
+[12:24:35]: theredbook teleported to 1228, 65, 606.
+[12:24:36]: theredbook teleported to 1228, 65, 606.
+[12:24:51]: theredbook teleported to 154, 129, 76.
+[12:25:03]: theredbook teleported to 1297, 65, 761.
+[12:25:04]: theredbook teleported to 1297, 65, 761.
+[12:25:13]: The TPS is 20.
+[12:25:13]: The current RAM usage is 2415MB / 3072MB (78.61%).
+[12:25:13]: The current player count is 1.
+[12:27:08]: theredbook teleported to 154, 129, 76.
+[12:28:17]: theredbook teleported to 58, 74, 3.
+[12:28:21]: theredbook quit at the location 58, 74, 3. Their IP was 73.52.219.140.
+[12:28:38]: theredbook joined from the IP 73.52.219.140.
+[12:30:13]: The TPS is 20.
+[12:30:13]: The current RAM usage is 2339MB / 3072MB (76.14%).
+[12:30:13]: The current player count is 1.
+[12:34:07]: theredbook died because of FALL.
+[12:34:08]: theredbook respawned.
+[12:35:01]: theredbook picked up the item GRANITE.
+[12:35:01]: theredbook picked up the item IRON_HELMET.
+[12:35:01]: theredbook picked up the item IRON_SWORD.
+[12:35:01]: theredbook picked up the item BIRCH_PLANKS.
+[12:35:01]: theredbook picked up the item BONE.
+[12:35:01]: theredbook picked up the item IRON_PICKAXE.
+[12:35:01]: theredbook picked up the item IRON_CHESTPLATE.
+[12:35:01]: theredbook picked up the item IRON_AXE.
+[12:35:01]: theredbook picked up the item IRON_PICKAXE.
+[12:35:01]: theredbook picked up the item COOKED_PORKCHOP.
+[12:35:01]: theredbook picked up the item IRON_PICKAXE.
+[12:35:01]: theredbook picked up the item BIRCH_BOAT.
+[12:35:01]: theredbook picked up the item STICK.
+[12:35:01]: theredbook picked up the item ARROW.
+[12:35:01]: theredbook picked up the item WHEAT_SEEDS.
+[12:35:01]: theredbook picked up the item TORCH.
+[12:35:01]: theredbook picked up the item GLOWSTONE.
+[12:35:01]: theredbook picked up the item STRING.
+[12:35:01]: theredbook picked up the item IRON_LEGGINGS.
+[12:35:01]: theredbook picked up the item IRON_SHOVEL.
+[12:35:01]: theredbook picked up the item COOKED_COD.
+[12:35:01]: theredbook picked up the item IRON_BOOTS.
+[12:35:03]: theredbook picked up the item COBBLESTONE.
+[12:35:13]: The TPS is 20.
+[12:35:13]: The current RAM usage is 2795MB / 3072MB (90.98%).
+[12:35:13]: The current player count is 1.
+[12:36:25]: theredbook dropped the item BIRCH_BOAT.
+[12:36:27]: theredbook picked up the item BIRCH_BOAT.
+[12:39:32]: theredbook teleported to -730, 63, 178.
+[12:39:32]: theredbook teleported to -730, 63, 178.
+[12:39:33]: theredbook picked up the item BIRCH_BOAT.
+[12:39:38]: theredbook teleported to -743, 62, 173.
+[12:39:45]: theredbook teleported to -779, 63, 174.
+[12:39:46]: theredbook picked up the item BIRCH_BOAT.
+[12:39:59]: theredbook broke the block BEE_NEST at the location -794, 69, 160.
+[12:40:13]: The TPS is 20.
+[12:40:13]: The current RAM usage is 2479MB / 3072MB (80.7%).
+[12:40:13]: The current player count is 1.
+[12:41:06]: theredbook placed the block GRANITE at the location -1002, 77, 143.
+[12:43:14]: theredbook teleported to -1185, 63, 361.
+[12:43:19]: theredbook picked up the item SPRUCE_SLAB.
+[12:43:22]: theredbook broke the block SPRUCE_PLANKS at the location -1180, 62, 357.
+[12:43:22]: theredbook picked up the item SPRUCE_PLANKS.
+[12:43:23]: theredbook broke the block OAK_PLANKS at the location -1180, 61, 357.
+[12:43:24]: theredbook broke the block SPRUCE_PLANKS at the location -1180, 62, 358.
+[12:43:25]: theredbook picked up the item SPRUCE_PLANKS.
+[12:43:25]: theredbook picked up the item OAK_PLANKS.
+[12:43:26]: theredbook broke the block OAK_PLANKS at the location -1180, 61, 358.
+[12:43:26]: theredbook picked up the item OAK_PLANKS.
+[12:43:26]: theredbook broke the block OAK_PLANKS at the location -1180, 60, 358.
+[12:43:27]: theredbook picked up the item OAK_PLANKS.
+[12:43:38]: theredbook placed the block SPRUCE_SLAB at the location -1180, 62, 358.
+[12:44:14]: theredbook picked up the item BIRCH_BOAT.
+[12:45:13]: The TPS is 20.
+[12:45:13]: The current RAM usage is 2781MB / 3072MB (90.53%).
+[12:45:13]: The current player count is 1.
+[12:47:42]: theredbook teleported to -1453, 63, 875.
+[12:47:43]: theredbook picked up the item BIRCH_BOAT.
+[12:48:12]: theredbook placed the block CRAFTING_TABLE at the location -1403, 55, 830.
+[12:48:21]: theredbook broke the block CRAFTING_TABLE at the location -1403, 55, 830.
+[12:48:21]: theredbook picked up the item CRAFTING_TABLE.
+[12:48:53]: theredbook placed the block GRANITE at the location -1417, 37, 838.
+[12:48:58]: theredbook broke the block STONE at the location -1411, 39, 836.
+[12:48:58]: theredbook picked up the item COBBLESTONE.
+[12:49:00]: theredbook broke the block COBBLESTONE at the location -1411, 38, 836.
+[12:49:09]: theredbook placed the block GRANITE at the location -1411, 37, 835.
+[12:49:10]: theredbook placed the block GRANITE at the location -1411, 38, 835.
+[12:49:11]: theredbook placed the block GRANITE at the location -1411, 37, 836.
+[12:49:14]: theredbook placed the block CHEST at the location -1411, 38, 836.
+[12:49:52]: theredbook teleported to 100, 49, 0.
+[12:50:13]: The TPS is 20.
+[12:50:13]: The current RAM usage is 2793MB / 3072MB (90.92%).
+[12:50:13]: The current player count is 1.
+[12:51:37]: theredbook teleported to -882, 74, 634.
+[12:52:16]: theredbook broke the block CHORUS_PLANT at the location -784, 62, 742.
+[12:52:18]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:26]: theredbook broke the block CHORUS_PLANT at the location -863, 57, 931.
+[12:53:27]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:27]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:42]: theredbook broke the block CHORUS_PLANT at the location -848, 57, 960.
+[12:53:43]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:43]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:44]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:48]: theredbook broke the block CHORUS_PLANT at the location -839, 60, 979.
+[12:53:49]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:49]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:50]: theredbook broke the block CHORUS_PLANT at the location -839, 59, 979.
+[12:53:50]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:50]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:53]: theredbook broke the block CHORUS_PLANT at the location -835, 58, 986.
+[12:53:54]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:54]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:55]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:55]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:58]: theredbook broke the block CHORUS_PLANT at the location -828, 58, 988.
+[12:53:59]: theredbook picked up the item CHORUS_FRUIT.
+[12:53:59]: theredbook broke the block CHORUS_PLANT at the location -828, 57, 988.
+[12:54:00]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:00]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:01]: theredbook broke the block CHORUS_PLANT at the location -826, 57, 990.
+[12:54:02]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:04]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:06]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:06]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:08]: theredbook broke the block CHORUS_PLANT at the location -844, 59, 981.
+[12:54:08]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:09]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:10]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:12]: theredbook broke the block CHORUS_PLANT at the location -847, 58, 987.
+[12:54:12]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:13]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:14]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:14]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:19]: theredbook broke the block CHORUS_PLANT at the location -825, 58, 979.
+[12:54:20]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:20]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:21]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:21]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:25]: theredbook broke the block CHORUS_PLANT at the location -818, 57, 971.
+[12:54:25]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:32]: theredbook picked up the item CHORUS_FRUIT.
+[12:54:49]: theredbook broke the block DIRT at the location -747, 64, 988.
+[12:54:50]: theredbook broke the block DIRT at the location -747, 62, 988.
+[12:54:50]: theredbook picked up the item DIRT.
+[12:54:52]: theredbook broke the block DIRT at the location -747, 65, 988.
+[12:54:53]: theredbook picked up the item DIRT.
+[12:54:53]: theredbook broke the block DIRT at the location -747, 66, 988.
+[12:54:54]: theredbook broke the block DIRT at the location -747, 67, 988.
+[12:54:55]: theredbook picked up the item DIRT.
+[12:54:57]: theredbook picked up the item DIRT.
+[12:54:57]: theredbook picked up the item DIRT.
+[12:54:59]: theredbook placed the block DIRT at the location -747, 62, 988.
+[12:55:00]: theredbook placed the block DIRT at the location -747, 63, 988.
+[12:55:00]: theredbook placed the block DIRT at the location -747, 64, 988.
+[12:55:01]: theredbook placed the block DIRT at the location -747, 65, 988.
+[12:55:03]: theredbook broke the block DIRT at the location -747, 68, 988.
+[12:55:03]: theredbook picked up the item DIRT.
+[12:55:04]: theredbook broke the block DIRT at the location -747, 69, 989.
+[12:55:04]: theredbook picked up the item DIRT.
+[12:55:07]: theredbook broke the block DIRT at the location -748, 69, 989.
+[12:55:08]: theredbook broke the block DIRT at the location -748, 69, 990.
+[12:55:12]: theredbook broke the block DIRT at the location -747, 69, 988.
+[12:55:12]: theredbook picked up the item DIRT.
+[12:55:13]: theredbook broke the block DIRT at the location -747, 70, 988.
+[12:55:13]: The TPS is 20.
+[12:55:13]: The current RAM usage is 2542MB / 3072MB (82.75%).
+[12:55:13]: The current player count is 1.
+[12:55:14]: theredbook broke the block DIRT at the location -747, 65, 988.
+[12:55:15]: theredbook picked up the item DIRT.
+[12:55:15]: theredbook broke the block DIRT at the location -747, 64, 988.
+[12:55:16]: theredbook picked up the item DIRT.
+[12:55:16]: theredbook broke the block DIRT at the location -747, 63, 988.
+[12:55:17]: theredbook picked up the item DIRT.
+[12:55:17]: theredbook broke the block DIRT at the location -747, 62, 988.
+[12:55:18]: theredbook picked up the item DIRT.
+[12:55:18]: theredbook broke the block DIRT at the location -747, 61, 988.
+[12:55:20]: theredbook picked up the item DIRT.
+[12:55:31]: theredbook broke the block DIRT at the location -742, 59, 1014.
+[12:55:31]: theredbook picked up the item DIRT.
+[12:55:32]: theredbook broke the block DIRT at the location -742, 60, 1014.
+[12:55:33]: theredbook picked up the item DIRT.
+[12:55:33]: theredbook broke the block DIRT at the location -742, 61, 1014.
+[12:55:34]: theredbook picked up the item DIRT.
+[12:55:35]: theredbook broke the block DIRT at the location -742, 61, 1013.
+[12:55:35]: theredbook picked up the item DIRT.
+[12:55:36]: theredbook broke the block DIRT at the location -743, 61, 1013.
+[12:55:36]: theredbook picked up the item DIRT.
+[12:55:37]: theredbook broke the block DIRT at the location -744, 61, 1012.
+[12:55:38]: theredbook broke the block DIRT at the location -743, 61, 1012.
+[12:55:39]: theredbook picked up the item DIRT.
+[12:55:40]: theredbook picked up the item DIRT.
+[12:55:42]: theredbook broke the block DIRT at the location -744, 61, 1011.
+[12:55:42]: theredbook picked up the item DIRT.
+[12:55:47]: theredbook broke the block DIRT at the location -742, 58, 1014.
+[12:55:47]: theredbook picked up the item DIRT.
+[12:55:58]: theredbook broke the block CHORUS_PLANT at the location -707, 60, 1042.
+[12:55:59]: theredbook broke the block CHORUS_PLANT at the location -706, 61, 1042.
+[12:55:59]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:00]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:01]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:03]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:18]: theredbook broke the block CHORUS_PLANT at the location -716, 63, 1084.
+[12:56:18]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:21]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:22]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:23]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:30]: theredbook broke the block CHORUS_PLANT at the location -707, 61, 1091.
+[12:56:33]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:34]: theredbook picked up the item CHORUS_FRUIT.
+[12:56:54]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:09]: theredbook broke the block CHORUS_PLANT at the location -789, 61, 1124.
+[12:57:10]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:11]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:12]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:15]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:20]: theredbook broke the block CHORUS_PLANT at the location -787, 61, 1134.
+[12:57:21]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:23]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:24]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:26]: theredbook broke the block CHORUS_PLANT at the location -791, 60, 1146.
+[12:57:27]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:28]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:31]: theredbook broke the block CHORUS_PLANT at the location -785, 59, 1150.
+[12:57:33]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:34]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:35]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:40]: theredbook broke the block CHORUS_PLANT at the location -807, 62, 1126.
+[12:57:41]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:43]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:46]: theredbook broke the block CHORUS_PLANT at the location -800, 62, 1128.
+[12:57:46]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:47]: theredbook broke the block CHORUS_PLANT at the location -798, 62, 1127.
+[12:57:47]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:48]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:48]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:50]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:52]: theredbook picked up the item CHORUS_FRUIT.
+[12:57:53]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:04]: theredbook broke the block CHORUS_PLANT at the location -754, 62, 1089.
+[12:58:04]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:04]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:05]: theredbook broke the block CHORUS_PLANT at the location -755, 62, 1086.
+[12:58:06]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:07]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:08]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:10]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:14]: theredbook broke the block CHORUS_PLANT at the location -768, 61, 1072.
+[12:58:16]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:17]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:24]: theredbook broke the block CHORUS_PLANT at the location -753, 63, 1084.
+[12:58:26]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:27]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:29]: theredbook broke the block CHORUS_PLANT at the location -748, 64, 1080.
+[12:58:30]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:30]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:33]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:36]: theredbook broke the block CHORUS_PLANT at the location -738, 64, 1083.
+[12:58:40]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:42]: theredbook broke the block CHORUS_PLANT at the location -729, 63, 1085.
+[12:58:43]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:44]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:45]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:46]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:47]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:51]: theredbook broke the block CHORUS_PLANT at the location -731, 65, 1074.
+[12:58:53]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:53]: theredbook picked up the item CHORUS_FRUIT.
+[12:58:56]: theredbook teleported to -721, 71, 1066.
+[12:58:56]: theredbook teleported to -721, 65, 1066.
+[12:59:07]: theredbook broke the block CHORUS_PLANT at the location -736, 63, 1055.
+[12:59:07]: theredbook picked up the item CHORUS_FRUIT.
+[12:59:17]: theredbook placed the block DIRT at the location -747, 57, 1010.
+[12:59:18]: theredbook placed the block DIRT at the location -747, 58, 1010.
+[12:59:20]: theredbook placed the block DIRT at the location -747, 59, 1010.
+[12:59:20]: theredbook placed the block DIRT at the location -747, 60, 1010.
+[12:59:21]: theredbook placed the block DIRT at the location -747, 61, 1010.
+[12:59:27]: theredbook placed the block DIRT at the location -749, 61, 989.
+[12:59:27]: theredbook placed the block DIRT at the location -749, 62, 989.
+[12:59:28]: theredbook placed the block DIRT at the location -749, 63, 989.
+[12:59:28]: theredbook placed the block DIRT at the location -749, 64, 989.
+[12:59:29]: theredbook placed the block DIRT at the location -749, 65, 989.
+[12:59:29]: theredbook placed the block DIRT at the location -749, 66, 989.
+[12:59:31]: theredbook placed the block DIRT at the location -749, 67, 989.
+[12:59:32]: theredbook placed the block DIRT at the location -749, 68, 989.
+[12:59:39]: theredbook placed the block DIRT at the location -748, 68, 989.
+[12:59:42]: theredbook dropped the item DIRT.
+[12:59:44]: theredbook picked up the item DIRT.
+[12:59:45]: theredbook placed the block DIRT at the location -748, 68, 990.
+[12:59:54]: theredbook dropped the item COOKED_COD.
+[13:00:06]: theredbook broke the block DIRT at the location -749, 62, 989.
+[13:00:06]: theredbook picked up the item DIRT.
+[13:00:06]: theredbook placed the block DIRT at the location -749, 61, 988.
+[13:00:07]: theredbook placed the block DIRT at the location -749, 62, 988.
+[13:00:07]: theredbook placed the block DIRT at the location -749, 63, 988.
+[13:00:08]: theredbook placed the block DIRT at the location -749, 64, 988.
+[13:00:08]: theredbook placed the block DIRT at the location -749, 65, 988.
+[13:00:09]: theredbook placed the block DIRT at the location -749, 66, 988.
+[13:00:09]: theredbook placed the block DIRT at the location -749, 67, 988.
+[13:00:11]: theredbook broke the block DIRT at the location -748, 68, 990.
+[13:00:12]: theredbook picked up the item DIRT.
+[13:00:13]: theredbook broke the block DIRT at the location -748, 68, 989.
+[13:00:13]: The TPS is 20.
+[13:00:13]: The current RAM usage is 2858MB / 3072MB (93.03%).
+[13:00:13]: The current player count is 1.
+[13:00:13]: theredbook picked up the item DIRT.
+[13:00:14]: theredbook broke the block DIRT at the location -749, 68, 989.
+[13:00:14]: theredbook picked up the item DIRT.
+[13:00:15]: theredbook broke the block DIRT at the location -749, 67, 989.
+[13:00:15]: theredbook picked up the item DIRT.
+[13:00:16]: theredbook broke the block DIRT at the location -749, 67, 988.
+[13:00:16]: theredbook picked up the item DIRT.
+[13:00:17]: theredbook broke the block DIRT at the location -749, 66, 989.
+[13:00:18]: theredbook picked up the item DIRT.
+[13:00:18]: theredbook broke the block DIRT at the location -749, 66, 988.
+[13:00:19]: theredbook picked up the item DIRT.
+[13:00:19]: theredbook broke the block DIRT at the location -749, 65, 989.
+[13:00:20]: theredbook picked up the item DIRT.
+[13:00:20]: theredbook broke the block DIRT at the location -749, 65, 988.
+[13:00:21]: theredbook picked up the item DIRT.
+[13:00:21]: theredbook broke the block DIRT at the location -749, 64, 989.
+[13:00:22]: theredbook broke the block DIRT at the location -749, 64, 988.
+[13:00:23]: theredbook picked up the item DIRT.
+[13:00:23]: theredbook broke the block DIRT at the location -749, 63, 988.
+[13:00:24]: theredbook picked up the item DIRT.
+[13:00:24]: theredbook broke the block DIRT at the location -749, 63, 989.
+[13:00:25]: theredbook picked up the item DIRT.
+[13:00:26]: theredbook broke the block DIRT at the location -749, 61, 989.
+[13:00:27]: theredbook broke the block DIRT at the location -749, 62, 988.
+[13:00:27]: theredbook picked up the item DIRT.
+[13:00:28]: theredbook broke the block DIRT at the location -749, 61, 988.
+[13:00:29]: theredbook picked up the item DIRT.
+[13:00:48]: theredbook broke the block CHORUS_PLANT at the location -855, 58, 958.
+[13:00:49]: theredbook broke the block CHORUS_PLANT at the location -855, 58, 954.
+[13:00:50]: theredbook picked up the item CHORUS_FRUIT.
+[13:00:51]: theredbook picked up the item CHORUS_FRUIT.
+[13:00:52]: theredbook picked up the item CHORUS_FRUIT.
+[13:00:54]: theredbook broke the block CHORUS_PLANT at the location -864, 59, 956.
+[13:00:57]: theredbook picked up the item CHORUS_FRUIT.
+[13:00:59]: theredbook broke the block CHORUS_PLANT at the location -868, 60, 951.
+[13:01:00]: theredbook picked up the item CHORUS_FRUIT.
+[13:01:01]: theredbook picked up the item CHORUS_FRUIT.
+[13:01:02]: theredbook picked up the item CHORUS_FRUIT.
+[13:01:03]: theredbook picked up the item CHORUS_FRUIT.
+[13:01:15]: theredbook broke the block CHORUS_PLANT at the location -887, 60, 935.
+[13:01:16]: theredbook picked up the item CHORUS_FRUIT.
+[13:01:18]: theredbook picked up the item CHORUS_FRUIT.
+[13:01:20]: theredbook picked up the item CHORUS_FRUIT.
+[13:02:32]: theredbook placed the block DIRT at the location -881, 64, 640.
+[13:02:32]: theredbook placed the block DIRT at the location -881, 65, 640.
+[13:02:33]: theredbook placed the block DIRT at the location -881, 66, 640.
+[13:02:33]: theredbook placed the block DIRT at the location -881, 67, 640.
+[13:02:34]: theredbook placed the block DIRT at the location -881, 68, 640.
+[13:02:34]: theredbook placed the block DIRT at the location -881, 69, 640.
+[13:02:35]: theredbook placed the block DIRT at the location -881, 70, 640.
+[13:02:35]: theredbook placed the block DIRT at the location -881, 71, 640.
+[13:02:38]: theredbook teleported to -78, 75, 58.
+[13:02:54]: theredbook broke the block OAK_TRAPDOOR at the location -77, 76, 57.
+[13:02:54]: theredbook picked up the item OAK_TRAPDOOR.
+[13:03:02]: theredbook teleported to -754, 61, 986.
+[13:04:56]: theredbook placed the block DIRT at the location -880, 65, 640.
+[13:04:57]: theredbook placed the block DIRT at the location -880, 66, 640.
+[13:04:57]: theredbook placed the block DIRT at the location -880, 67, 640.
+[13:04:58]: theredbook placed the block DIRT at the location -880, 68, 640.
+[13:04:59]: theredbook placed the block DIRT at the location -880, 69, 640.
+[13:04:59]: theredbook placed the block DIRT at the location -880, 70, 640.
+[13:05:00]: theredbook placed the block DIRT at the location -880, 71, 640.
+[13:05:01]: theredbook placed the block DIRT at the location -879, 72, 639.
+[13:05:04]: theredbook teleported to -78, 75, 58.
+[13:05:07]: theredbook placed the block OAK_TRAPDOOR at the location -77, 76, 57.
+[13:05:13]: The TPS is 20.
+[13:05:13]: The current RAM usage is 2753MB / 3072MB (89.62%).
+[13:05:13]: The current player count is 1.
+[13:06:35]: theredbook teleported to 9, 63, 3.
+[13:06:35]: theredbook teleported to 9, 63, 3.
+[13:10:13]: The TPS is 20.
+[13:10:13]: The current RAM usage is 2655MB / 3072MB (86.43%).
+[13:10:13]: The current player count is 1.
+[13:11:36]: theredbook respawned.
+[13:15:13]: The TPS is 20.
+[13:15:13]: The current RAM usage is 2809MB / 3072MB (91.44%).
+[13:15:13]: The current player count is 1.
+[13:17:36]: theredbook broke the block BEETROOTS at the location -783, 71, 585.
+[13:17:36]: theredbook broke the block WHEAT at the location -781, 71, 585.
+[13:17:36]: theredbook picked up the item BEETROOT.
+[13:17:36]: theredbook picked up the item BEETROOT_SEEDS.
+[13:17:36]: theredbook broke the block WHEAT at the location -781, 71, 586.
+[13:17:36]: theredbook picked up the item WHEAT.
+[13:17:36]: theredbook broke the block CARROTS at the location -780, 71, 586.
+[13:17:36]: theredbook broke the block WHEAT at the location -780, 71, 585.
+[13:17:37]: theredbook picked up the item WHEAT.
+[13:17:37]: theredbook picked up the item WHEAT_SEEDS.
+[13:17:37]: theredbook broke the block WHEAT at the location -779, 71, 585.
+[13:17:37]: theredbook broke the block WHEAT at the location -779, 71, 586.
+[13:17:37]: theredbook broke the block CARROTS at the location -778, 71, 586.
+[13:17:37]: theredbook picked up the item CARROT.
+[13:17:37]: theredbook broke the block WHEAT at the location -778, 71, 585.
+[13:17:37]: theredbook broke the block POTATOES at the location -777, 71, 585.
+[13:17:37]: theredbook picked up the item CARROT.
+[13:17:37]: theredbook broke the block WHEAT at the location -777, 71, 586.
+[13:17:38]: theredbook picked up the item POTATO.
+[13:17:38]: theredbook picked up the item WHEAT_SEEDS.
+[13:17:38]: theredbook picked up the item WHEAT.
+[13:17:38]: theredbook picked up the item WHEAT_SEEDS.
+[13:17:38]: theredbook broke the block CARROTS at the location -782, 71, 586.
+[13:17:39]: theredbook picked up the item CARROT.
+[13:17:39]: theredbook broke the block CARROTS at the location -783, 71, 583.
+[13:17:39]: theredbook picked up the item CARROT.
+[13:17:39]: theredbook picked up the item CARROT.
+[13:17:39]: theredbook teleported to -782, 71, 582.
+[13:17:40]: theredbook teleported to -780, 71, 586.
+[13:18:09]: theredbook broke the block OAK_LOG at the location -759, 73, 561.
+[13:18:09]: theredbook picked up the item OAK_LOG.
+[13:18:15]: theredbook placed the block OAK_PLANKS at the location -756, 72, 561.
+[13:18:15]: theredbook placed the block OAK_PLANKS at the location -757, 73, 562.
+[13:18:16]: theredbook placed the block OAK_PLANKS at the location -757, 72, 562.
+[13:18:17]: theredbook placed the block OAK_PLANKS at the location -759, 73, 561.
+[13:18:21]: theredbook broke the block OAK_PLANKS at the location -756, 72, 561.
+[13:18:21]: theredbook picked up the item OAK_PLANKS.
+[13:18:28]: theredbook placed the block OAK_PLANKS at the location -756, 73, 559.
+[13:20:13]: The TPS is 20.
+[13:20:13]: The current RAM usage is 2464MB / 3072MB (80.21%).
+[13:20:13]: The current player count is 1.
+[13:21:19]: theredbook broke the block OAK_PLANKS at the location -757, 73, 562.
+[13:21:19]: theredbook picked up the item OAK_PLANKS.
+[13:22:33]: theredbook broke the block OAK_PLANKS at the location -757, 72, 562.
+[13:22:33]: theredbook picked up the item ROTTEN_FLESH.
+[13:22:33]: theredbook picked up the item OAK_PLANKS.
+[13:22:42]: theredbook dropped the item ROTTEN_FLESH.
+[13:22:42]: theredbook dropped the item CARROT.
+[13:22:44]: theredbook picked up the item ROTTEN_FLESH.
+[13:22:44]: theredbook picked up the item CARROT.
+[13:22:46]: theredbook dropped the item OAK_PLANKS.
+[13:22:46]: theredbook dropped the item ROTTEN_FLESH.
+[13:22:46]: theredbook dropped the item ROTTEN_FLESH.
+[13:22:47]: theredbook dropped the item OAK_PLANKS.
+[13:22:48]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:48]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:48]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:48]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:49]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:49]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:49]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:49]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:49]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:50]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:50]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:50]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:51]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:51]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:51]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:52]: theredbook dropped the item WHEAT_SEEDS.
+[13:22:52]: theredbook dropped the item WHEAT.
+[13:22:52]: theredbook dropped the item WHEAT.
+[13:22:54]: theredbook dropped the item WHEAT.
+[13:22:54]: theredbook dropped the item WHEAT.
+[13:22:55]: theredbook dropped the item WHEAT.
+[13:22:55]: theredbook dropped the item WHEAT.
+[13:22:56]: theredbook dropped the item BEETROOT_SEEDS.
+[13:22:57]: theredbook dropped the item BEETROOT_SEEDS.
+[13:22:58]: theredbook dropped the item BEETROOT.
+[13:25:13]: The TPS is 20.
+[13:25:13]: The current RAM usage is 2646MB / 3072MB (86.13%).
+[13:25:13]: The current player count is 1.
+[13:27:03]: theredbook placed the block CRAFTING_TABLE at the location -1429, 37, 838.
+[13:27:51]: theredbook broke the block CRAFTING_TABLE at the location -1429, 37, 838.
+[13:27:52]: theredbook picked up the item CRAFTING_TABLE.
+[13:28:19]: theredbook teleported to -182, 129, 112.
+[13:29:17]: theredbook teleported to 58, 74, -1.
+[13:29:20]: theredbook quit at the location 58, 74, -1. Their IP was 73.52.219.140.
+[13:29:29]: theredbook joined from the IP 73.52.219.140.
+[13:29:44]: theredbook teleported to 38, 72, 4.
+[13:29:44]: theredbook teleported to 38, 72, 4.
+[13:29:48]: theredbook teleported to 32, 75, -4.
+[13:29:48]: theredbook teleported to 32, 72, -4.
+[13:29:49]: theredbook quit at the location 32, 72, -4. Their IP was 73.52.219.140.
+[13:29:52]: theredbook joined from the IP 73.52.219.140.
+[13:29:53]: theredbook quit at the location 32, 72, -4. Their IP was 73.52.219.140.
+[13:29:59]: theredbook joined from the IP 73.52.219.140.
+[13:30:03]: theredbook teleported to 28, 78, -11.
+[13:30:03]: theredbook teleported to 28, 72, -11.
+[13:30:09]: theredbook teleported to 35, 64, -1.
+[13:30:09]: theredbook teleported to 35, 64, -1.
+[13:30:09]: theredbook teleported to 29, 72, -8.
+[13:30:09]: theredbook teleported to 36, 71, -7.
+[13:30:09]: theredbook teleported to 36, 70, -7.
+[13:30:09]: theredbook teleported to 29, 72, -8.
+[13:30:09]: theredbook teleported to 26, 67, -4.
+[13:30:09]: theredbook teleported to 26, 67, -4.
+[13:30:09]: theredbook teleported to 29, 72, -8.
+[13:30:09]: theredbook teleported to 37, 65, -12.
+[13:30:10]: theredbook teleported to 37, 65, -12.
+[13:30:10]: theredbook teleported to 29, 72, -8.
+[13:30:10]: theredbook teleported to 23, 70, -14.
+[13:30:10]: theredbook teleported to 23, 70, -14.
+[13:30:10]: theredbook teleported to 29, 72, -8.
+[13:30:10]: theredbook teleported to 35, 77, -4.
+[13:30:10]: theredbook teleported to 35, 72, -4.
+[13:30:13]: theredbook teleported to 32, 67, 2.
+[13:30:13]: theredbook teleported to 32, 67, 2.
+[13:30:13]: theredbook teleported to 35, 72, -4.
+[13:30:13]: theredbook teleported to 31, 70, -8.
+[13:30:13]: theredbook teleported to 31, 67, -8.
+[13:30:13]: The TPS is 20.
+[13:30:13]: The current RAM usage is 2827MB / 3072MB (92.02%).
+[13:30:13]: The current player count is 1.
+[13:30:18]: theredbook teleported to 28, 71, -5.
+[13:30:18]: theredbook teleported to 28, 71, -5.
+[13:30:18]: theredbook teleported to 30, 67, -10.
+[13:30:18]: theredbook teleported to 31, 59, -16.
+[13:30:18]: theredbook teleported to 31, 59, -16.
+[13:30:18]: theredbook teleported to 30, 67, -10.
+[13:30:18]: theredbook teleported to 37, 60, -15.
+[13:30:18]: theredbook teleported to 37, 60, -15.
+[13:30:18]: theredbook teleported to 30, 67, -10.
+[13:30:18]: theredbook teleported to 29, 67, -9.
+[13:30:18]: theredbook teleported to 29, 66, -9.
+[13:30:21]: theredbook teleported to 30, 61, -11.
+[13:30:21]: theredbook teleported to 30, 61, -11.
+[13:30:21]: theredbook teleported to 29, 67, -9.
+[13:30:21]: theredbook teleported to 25, 60, -14.
+[13:30:21]: theredbook teleported to 25, 60, -14.
+[13:30:21]: theredbook teleported to 29, 67, -9.
+[13:30:21]: theredbook teleported to 31, 71, -16.
+[13:30:21]: theredbook teleported to 31, 71, -16.
+[13:30:21]: theredbook teleported to 29, 67, -9.
+[13:30:21]: theredbook teleported to 31, 59, -6.
+[13:30:21]: theredbook teleported to 31, 59, -6.
+[13:30:21]: theredbook teleported to 29, 67, -9.
+[13:30:21]: theredbook teleported to 22, 74, -11.
+[13:30:21]: theredbook teleported to 22, 72, -11.
+[13:30:24]: theredbook teleported to 19, 72, -10.
+[13:30:24]: theredbook teleported to 19, 70, -10.
+[13:30:24]: theredbook teleported to 25, 72, -10.
+[13:30:24]: theredbook teleported to 23, 69, -8.
+[13:30:24]: theredbook teleported to 23, 69, -8.
+[13:30:24]: theredbook teleported to 25, 72, -10.
+[13:30:24]: theredbook teleported to 30, 71, -10.
+[13:30:24]: theredbook teleported to 30, 70, -10.
+[13:30:24]: theredbook teleported to 25, 72, -10.
+[13:30:24]: theredbook teleported to 28, 67, -5.
+[13:30:24]: theredbook teleported to 28, 67, -5.
+[13:30:24]: theredbook teleported to 25, 72, -10.
+[13:30:24]: theredbook teleported to 33, 76, -8.
+[13:30:24]: theredbook teleported to 33, 72, -8.
+[13:30:29]: theredbook teleported to 32, 79, -12.
+[13:30:29]: theredbook teleported to 32, 72, -12.
+[13:30:32]: theredbook teleported to 27, 66, -12.
+[13:30:32]: theredbook teleported to 27, 66, -12.
+[13:30:32]: theredbook teleported to 26, 73, -11.
+[13:30:32]: theredbook teleported to 23, 70, -15.
+[13:30:32]: theredbook teleported to 23, 70, -15.
+[13:30:32]: theredbook teleported to 26, 73, -11.
+[13:30:32]: theredbook teleported to 27, 77, -16.
+[13:30:32]: theredbook teleported to 27, 72, -16.
+[13:30:34]: theredbook teleported to 28, 70, -12.
+[13:30:34]: theredbook teleported to 28, 70, -12.
+[13:30:34]: theredbook teleported to 20, 71, -16.
+[13:30:34]: theredbook teleported to 28, 72, -14.
+[13:30:34]: theredbook teleported to 28, 72, -14.
+[13:30:37]: theredbook teleported to 25, 76, -17.
+[13:30:37]: theredbook teleported to 25, 71, -17.
+[13:30:40]: theredbook teleported to 17, 78, -19.
+[13:30:40]: theredbook teleported to 17, 71, -19.
+[13:30:43]: theredbook teleported to 20, 74, -13.
+[13:30:43]: theredbook teleported to 20, 71, -13.
+[13:30:46]: theredbook teleported to 26, 78, -14.
+[13:30:46]: theredbook teleported to 26, 72, -14.
+[13:30:48]: theredbook teleported to 19, 67, -9.
+[13:30:48]: theredbook teleported to 19, 67, -9.
+[13:30:48]: theredbook teleported to 26, 72, -14.
+[13:30:48]: theredbook teleported to 29, 65, -14.
+[13:30:48]: theredbook teleported to 29, 65, -14.
+[13:30:48]: theredbook teleported to 26, 72, -14.
+[13:30:48]: theredbook teleported to 29, 70, -9.
+[13:30:48]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 27, 59, -13.
+[13:30:51]: theredbook teleported to 27, 59, -13.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 23, 58, -3.
+[13:30:51]: theredbook teleported to 23, 58, -3.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 25, 65, -4.
+[13:30:51]: theredbook teleported to 25, 65, -4.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 24, 67, -8.
+[13:30:51]: theredbook teleported to 24, 67, -8.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 34, 63, -15.
+[13:30:51]: theredbook teleported to 34, 63, -15.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 23, 71, -8.
+[13:30:51]: theredbook teleported to 23, 71, -8.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 32, 60, -2.
+[13:30:51]: theredbook teleported to 32, 60, -2.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 31, 65, -7.
+[13:30:51]: theredbook teleported to 31, 65, -7.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 37, 60, -4.
+[13:30:51]: theredbook teleported to 37, 60, -4.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 29, 60, -7.
+[13:30:51]: theredbook teleported to 29, 60, -7.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 31, 62, -13.
+[13:30:51]: theredbook teleported to 31, 62, -13.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 23, 61, -15.
+[13:30:51]: theredbook teleported to 23, 61, -15.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 35, 68, -1.
+[13:30:51]: theredbook teleported to 35, 68, -1.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 32, 62, -12.
+[13:30:51]: theredbook teleported to 32, 62, -12.
+[13:30:51]: theredbook teleported to 29, 66, -9.
+[13:30:51]: theredbook teleported to 21, 73, -4.
+[13:30:51]: theredbook teleported to 21, 72, -4.
+[13:31:57]: theredbook quit at the location -217, 69, -76. Their IP was 73.52.219.140.
+[13:35:13]: The TPS is 20.
+[13:35:13]: The current RAM usage is 2641MB / 3072MB (85.97%).
+[13:35:13]: The current player count is 0.
+[13:40:13]: The TPS is 20.
+[13:40:13]: The current RAM usage is 2546MB / 3072MB (82.88%).
+[13:40:13]: The current player count is 0.
+[13:45:13]: The TPS is 20.
+[13:45:13]: The current RAM usage is 2860MB / 3072MB (93.1%).
+[13:45:13]: The current player count is 0.
+[13:50:13]: The TPS is 20.
+[13:50:13]: The current RAM usage is 2777MB / 3072MB (90.4%).
+[13:50:13]: The current player count is 0.
+[13:55:13]: The TPS is 20.
+[13:55:13]: The current RAM usage is 2534MB / 3072MB (82.49%).
+[13:55:13]: The current player count is 0.
+[14:00:13]: The TPS is 20.
+[14:00:13]: The current RAM usage is 2841MB / 3072MB (92.48%).
+[14:00:13]: The current player count is 0.
+[14:05:13]: The TPS is 20.
+[14:05:13]: The current RAM usage is 2651MB / 3072MB (86.3%).
+[14:05:13]: The current player count is 0.
+[14:08:11]: TARDIS_360 joined from the IP 73.154.210.58.
+[14:08:16]: TARDIS_360 quit at the location -1759, 40, -1998. Their IP was 73.154.210.58.
+[14:10:13]: The TPS is 20.
+[14:10:13]: The current RAM usage is 2439MB / 3072MB (79.39%).
+[14:10:13]: The current player count is 0.
+[14:15:13]: The TPS is 20.
+[14:15:13]: The current RAM usage is 2323MB / 3072MB (75.62%).
+[14:15:13]: The current player count is 0.
+[14:20:13]: The TPS is 20.
+[14:20:13]: The current RAM usage is 2470MB / 3072MB (80.4%).
+[14:20:13]: The current player count is 0.
+[14:25:13]: The TPS is 20.
+[14:25:13]: The current RAM usage is 2814MB / 3072MB (91.6%).
+[14:25:13]: The current player count is 0.
+[14:30:13]: The TPS is 20.
+[14:30:13]: The current RAM usage is 2674MB / 3072MB (87.04%).
+[14:30:13]: The current player count is 0.
+[14:35:13]: The TPS is 20.
+[14:35:13]: The current RAM usage is 2430MB / 3072MB (79.1%).
+[14:35:13]: The current player count is 0.
+[14:40:13]: The TPS is 20.
+[14:40:13]: The current RAM usage is 2691MB / 3072MB (87.6%).
+[14:40:13]: The current player count is 0.
+[14:45:13]: The TPS is 20.
+[14:45:13]: The current RAM usage is 2468MB / 3072MB (80.34%).
+[14:45:13]: The current player count is 0.
+[14:50:13]: The TPS is 20.
+[14:50:13]: The current RAM usage is 2253MB / 3072MB (73.34%).
+[14:50:13]: The current player count is 0.
+[14:55:13]: The TPS is 20.
+[14:55:13]: The current RAM usage is 2642MB / 3072MB (86%).
+[14:55:13]: The current player count is 0.
+[15:00:13]: The TPS is 20.
+[15:00:13]: The current RAM usage is 2297MB / 3072MB (74.77%).
+[15:00:13]: The current player count is 0.
+[15:05:13]: The TPS is 20.
+[15:05:13]: The current RAM usage is 2660MB / 3072MB (86.59%).
+[15:05:13]: The current player count is 0.
+[15:10:13]: The TPS is 20.
+[15:10:13]: The current RAM usage is 2492MB / 3072MB (81.12%).
+[15:10:13]: The current player count is 0.
+[15:15:13]: The TPS is 20.
+[15:15:13]: The current RAM usage is 2823MB / 3072MB (91.89%).
+[15:15:13]: The current player count is 0.
+[15:20:13]: The TPS is 20.
+[15:20:13]: The current RAM usage is 2495MB / 3072MB (81.22%).
+[15:20:13]: The current player count is 0.
+[15:25:13]: The TPS is 20.
+[15:25:13]: The current RAM usage is 2837MB / 3072MB (92.35%).
+[15:25:13]: The current player count is 0.
+[15:30:13]: The TPS is 20.
+[15:30:13]: The current RAM usage is 2679MB / 3072MB (87.21%).
+[15:30:13]: The current player count is 0.
+[15:35:13]: The TPS is 20.
+[15:35:13]: The current RAM usage is 2400MB / 3072MB (78.12%).
+[15:35:13]: The current player count is 0.
+[15:40:13]: The TPS is 20.
+[15:40:13]: The current RAM usage is 2782MB / 3072MB (90.56%).
+[15:40:13]: The current player count is 0.
+[15:45:13]: The TPS is 20.
+[15:45:13]: The current RAM usage is 2524MB / 3072MB (82.16%).
+[15:45:13]: The current player count is 0.
+[15:50:13]: The TPS is 20.
+[15:50:13]: The current RAM usage is 2368MB / 3072MB (77.08%).
+[15:50:13]: The current player count is 0.
+[15:55:13]: The TPS is 20.
+[15:55:13]: The current RAM usage is 2755MB / 3072MB (89.68%).
+[15:55:13]: The current player count is 0.
+[16:00:13]: The TPS is 20.
+[16:00:13]: The current RAM usage is 2400MB / 3072MB (78.12%).
+[16:00:13]: The current player count is 0.
+[16:05:13]: The TPS is 20.
+[16:05:13]: The current RAM usage is 2795MB / 3072MB (90.98%).
+[16:05:13]: The current player count is 0.
+[16:10:13]: The TPS is 20.
+[16:10:13]: The current RAM usage is 2589MB / 3072MB (84.28%).
+[16:10:13]: The current player count is 0.
+[16:15:13]: The TPS is 20.
+[16:15:13]: The current RAM usage is 2338MB / 3072MB (76.11%).
+[16:15:13]: The current player count is 0.
+[16:20:13]: The TPS is 20.
+[16:20:13]: The current RAM usage is 2605MB / 3072MB (84.8%).
+[16:20:13]: The current player count is 0.
+[16:25:13]: The TPS is 20.
+[16:25:13]: The current RAM usage is 2306MB / 3072MB (75.07%).
+[16:25:13]: The current player count is 0.
+[16:30:13]: The TPS is 20.
+[16:30:13]: The current RAM usage is 2778MB / 3072MB (90.43%).
+[16:30:13]: The current player count is 0.
+[16:35:13]: The TPS is 20.
+[16:35:13]: The current RAM usage is 2571MB / 3072MB (83.69%).
+[16:35:13]: The current player count is 0.
+[16:40:13]: The TPS is 20.
+[16:40:13]: The current RAM usage is 2268MB / 3072MB (73.83%).
+[16:40:13]: The current player count is 0.
+[16:45:13]: The TPS is 20.
+[16:45:13]: The current RAM usage is 2653MB / 3072MB (86.36%).
+[16:45:13]: The current player count is 0.
+[16:50:13]: The TPS is 20.
+[16:50:13]: The current RAM usage is 2493MB / 3072MB (81.15%).
+[16:50:13]: The current player count is 0.
+[16:55:13]: The TPS is 20.
+[16:55:13]: The current RAM usage is 2303MB / 3072MB (74.97%).
+[16:55:13]: The current player count is 0.
+[17:00:13]: The TPS is 20.
+[17:00:13]: The current RAM usage is 2749MB / 3072MB (89.49%).
+[17:00:13]: The current player count is 0.
+[17:05:13]: The TPS is 20.
+[17:05:13]: The current RAM usage is 2509MB / 3072MB (81.67%).
+[17:05:13]: The current player count is 0.
+[17:09:58]: theredbook joined from the IP 73.52.219.140.
+[17:10:13]: The TPS is 20.
+[17:10:13]: The current RAM usage is 2278MB / 3072MB (74.15%).
+[17:10:13]: The current player count is 1.
+[17:11:01]: theredbook quit at the location -166, 76, -47. Their IP was 73.52.219.140.
+[17:15:13]: The TPS is 20.
+[17:15:13]: The current RAM usage is 2719MB / 3072MB (88.51%).
+[17:15:13]: The current player count is 0.
+[17:20:13]: The TPS is 20.
+[17:20:13]: The current RAM usage is 2534MB / 3072MB (82.49%).
+[17:20:13]: The current player count is 0.
+[17:25:13]: The TPS is 20.
+[17:25:13]: The current RAM usage is 2858MB / 3072MB (93.03%).
+[17:25:13]: The current player count is 0.
+[17:30:13]: The TPS is 20.
+[17:30:13]: The current RAM usage is 2659MB / 3072MB (86.56%).
+[17:30:13]: The current player count is 0.
+[17:35:13]: The TPS is 20.
+[17:35:13]: The current RAM usage is 2371MB / 3072MB (77.18%).
+[17:35:13]: The current player count is 0.
+[17:40:13]: The TPS is 20.
+[17:40:13]: The current RAM usage is 2681MB / 3072MB (87.27%).
+[17:40:13]: The current player count is 0.
+[17:45:13]: The TPS is 20.
+[17:45:13]: The current RAM usage is 2438MB / 3072MB (79.36%).
+[17:45:13]: The current player count is 0.
+[17:50:13]: The TPS is 20.
+[17:50:13]: The current RAM usage is 2830MB / 3072MB (92.12%).
+[17:50:13]: The current player count is 0.
+[17:55:13]: The TPS is 20.
+[17:55:13]: The current RAM usage is 2525MB / 3072MB (82.19%).
+[17:55:13]: The current player count is 0.
+[18:00:13]: The TPS is 20.
+[18:00:13]: The current RAM usage is 2731MB / 3072MB (88.9%).
+[18:00:13]: The current player count is 0.
+[18:05:13]: The TPS is 20.
+[18:05:13]: The current RAM usage is 2529MB / 3072MB (82.32%).
+[18:05:13]: The current player count is 0.
+[18:10:13]: The TPS is 20.
+[18:10:13]: The current RAM usage is 2349MB / 3072MB (76.46%).
+[18:10:13]: The current player count is 0.
+[18:15:13]: The TPS is 20.
+[18:15:13]: The current RAM usage is 2691MB / 3072MB (87.6%).
+[18:15:13]: The current player count is 0.
+[18:20:13]: The TPS is 20.
+[18:20:13]: The current RAM usage is 2386MB / 3072MB (77.67%).
+[18:20:13]: The current player count is 0.
+[18:25:13]: The TPS is 20.
+[18:25:13]: The current RAM usage is 2732MB / 3072MB (88.93%).
+[18:25:13]: The current player count is 0.
+[18:30:13]: The TPS is 20.
+[18:30:13]: The current RAM usage is 2577MB / 3072MB (83.89%).
+[18:30:13]: The current player count is 0.
+[18:35:13]: The TPS is 20.
+[18:35:13]: The current RAM usage is 2281MB / 3072MB (74.25%).
+[18:35:13]: The current player count is 0.
+[18:40:13]: The TPS is 20.
+[18:40:13]: The current RAM usage is 2536MB / 3072MB (82.55%).
+[18:40:13]: The current player count is 0.
+[18:45:13]: The TPS is 20.
+[18:45:13]: The current RAM usage is 2342MB / 3072MB (76.24%).
+[18:45:13]: The current player count is 0.
+[18:50:13]: The TPS is 20.
+[18:50:13]: The current RAM usage is 2838MB / 3072MB (92.38%).
+[18:50:13]: The current player count is 0.
+[18:55:13]: The TPS is 20.
+[18:55:13]: The current RAM usage is 2618MB / 3072MB (85.22%).
+[18:55:13]: The current player count is 0.
+[19:00:13]: The TPS is 20.
+[19:00:13]: The current RAM usage is 2370MB / 3072MB (77.15%).
+[19:00:13]: The current player count is 0.
+[19:05:13]: The TPS is 20.
+[19:05:13]: The current RAM usage is 2685MB / 3072MB (87.4%).
+[19:05:13]: The current player count is 0.
+[19:10:13]: The TPS is 20.
+[19:10:13]: The current RAM usage is 2564MB / 3072MB (83.46%).
+[19:10:13]: The current player count is 0.
+[19:15:13]: The TPS is 20.
+[19:15:13]: The current RAM usage is 2330MB / 3072MB (75.85%).
+[19:15:13]: The current player count is 0.
+[19:20:13]: The TPS is 20.
+[19:20:13]: The current RAM usage is 2705MB / 3072MB (88.05%).
+[19:20:13]: The current player count is 0.
+[19:25:13]: The TPS is 20.
+[19:25:13]: The current RAM usage is 2555MB / 3072MB (83.17%).
+[19:25:13]: The current player count is 0.
+[19:30:13]: The TPS is 20.
+[19:30:13]: The current RAM usage is 2415MB / 3072MB (78.61%).
+[19:30:13]: The current player count is 0.
+[19:35:13]: The TPS is 20.
+[19:35:13]: The current RAM usage is 2854MB / 3072MB (92.9%).
+[19:35:13]: The current player count is 0.
+[19:40:13]: The TPS is 20.
+[19:40:13]: The current RAM usage is 2607MB / 3072MB (84.86%).
+[19:40:13]: The current player count is 0.
+[19:45:13]: The TPS is 20.
+[19:45:13]: The current RAM usage is 2480MB / 3072MB (80.73%).
+[19:45:13]: The current player count is 0.
+[19:50:13]: The TPS is 20.
+[19:50:13]: The current RAM usage is 2339MB / 3072MB (76.14%).
+[19:50:13]: The current player count is 0.
+[19:55:13]: The TPS is 20.
+[19:55:13]: The current RAM usage is 2767MB / 3072MB (90.07%).
+[19:55:13]: The current player count is 0.
+[20:00:13]: The TPS is 20.
+[20:00:13]: The current RAM usage is 2509MB / 3072MB (81.67%).
+[20:00:13]: The current player count is 0.
+[20:05:13]: The TPS is 20.
+[20:05:13]: The current RAM usage is 2389MB / 3072MB (77.77%).
+[20:05:13]: The current player count is 0.
+[20:10:13]: The TPS is 20.
+[20:10:13]: The current RAM usage is 2311MB / 3072MB (75.23%).
+[20:10:13]: The current player count is 0.
+[20:15:13]: The TPS is 20.
+[20:15:13]: The current RAM usage is 2786MB / 3072MB (90.69%).
+[20:15:13]: The current player count is 0.
+[20:20:13]: The TPS is 20.
+[20:20:13]: The current RAM usage is 2560MB / 3072MB (83.33%).
+[20:20:13]: The current player count is 0.
+[20:25:13]: The TPS is 20.
+[20:25:13]: The current RAM usage is 2404MB / 3072MB (78.26%).
+[20:25:13]: The current player count is 0.
+[20:30:13]: The TPS is 20.
+[20:30:13]: The current RAM usage is 2341MB / 3072MB (76.2%).
+[20:30:13]: The current player count is 0.
+[20:35:13]: The TPS is 20.
+[20:35:13]: The current RAM usage is 2731MB / 3072MB (88.9%).
+[20:35:13]: The current player count is 0.
+[20:40:13]: The TPS is 20.
+[20:40:13]: The current RAM usage is 2525MB / 3072MB (82.19%).
+[20:40:13]: The current player count is 0.
+[20:45:13]: The TPS is 20.
+[20:45:13]: The current RAM usage is 2339MB / 3072MB (76.14%).
+[20:45:13]: The current player count is 0.
+[20:50:13]: The TPS is 20.
+[20:50:13]: The current RAM usage is 2861MB / 3072MB (93.13%).
+[20:50:13]: The current player count is 0.
+[20:55:13]: The TPS is 20.
+[20:55:13]: The current RAM usage is 2666MB / 3072MB (86.78%).
+[20:55:13]: The current player count is 0.
+[20:57:18]: Lhendy51 joined from the IP 73.154.195.184.
+[20:58:25]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[21:00:13]: The TPS is 20.
+[21:00:13]: The current RAM usage is 2337MB / 3072MB (76.07%).
+[21:00:13]: The current player count is 1.
+[21:01:42]: Lhendy51 teleported to 154, 129, 76.
+[21:02:00]: Lhendy51 teleported to 58, 74, -1.
+[21:02:02]: Lhendy51 quit at the location 58, 74, -1. Their IP was 73.154.195.184.
+[21:02:09]: Lhendy51 joined from the IP 73.154.195.184.
+[21:02:23]: Lhendy51 quit at the location 36, 72, -3. Their IP was 73.154.195.184.
+[21:02:26]: Lhendy51 joined from the IP 73.154.195.184.
+[21:02:28]: Lhendy51 quit at the location 36, 72, -3. Their IP was 73.154.195.184.
+[21:02:32]: Lhendy51 joined from the IP 73.154.195.184.
+[21:02:33]: Lhendy51 quit at the location 36, 72, -3. Their IP was 73.154.195.184.
+[21:02:46]: Lhendy51 joined from the IP 73.154.195.184.
+[21:02:47]: Lhendy51 quit at the location 36, 72, -3. Their IP was 73.154.195.184.
+[21:03:36]: Lhendy51 joined from the IP 73.154.195.184.
+[21:04:07]: Lhendy51 teleported to -169, 215, 31.
+[21:05:09]: Lhendy51 teleported to -99, 71, 56.
+[21:05:13]: The TPS is 20.
+[21:05:13]: The current RAM usage is 2325MB / 3072MB (75.68%).
+[21:05:13]: The current player count is 1.
+[21:10:13]: The TPS is 20.
+[21:10:13]: The current RAM usage is 2601MB / 3072MB (84.67%).
+[21:10:13]: The current player count is 1.
+[21:10:17]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[21:12:17]: Lhendy51 teleported to -62, 64, 40.
+[21:12:46]: Lhendy51 broke the block ENDER_CHEST at the location -62, 64, 43.
+[21:12:47]: Lhendy51 picked up the item ENDER_CHEST.
+[21:15:13]: The TPS is 20.
+[21:15:13]: The current RAM usage is 2446MB / 3072MB (79.62%).
+[21:15:13]: The current player count is 1.
+[21:16:22]: Lhendy51 placed the block Backup Gear (BLUE_SHULKER_BOX) at the location 1288, 59, 766.
+[21:17:14]: Lhendy51 broke the block BLUE_SHULKER_BOX at the location 1288, 59, 766.
+[21:17:15]: Lhendy51 picked up the item Backup Gear (BLUE_SHULKER_BOX).
+[21:17:53]: Lhendy51 picked up the item ROTTEN_FLESH.
+[21:17:55]: Lhendy51 dropped the item ROTTEN_FLESH.
+[21:17:55]: Lhendy51 dropped the item ROTTEN_FLESH.
+[21:17:55]: Lhendy51 dropped the item ROTTEN_FLESH.
+[21:20:13]: The TPS is 20.
+[21:20:13]: The current RAM usage is 2278MB / 3072MB (74.15%).
+[21:20:13]: The current player count is 1.
+[21:20:16]: Lhendy51 dropped the item PAPER.
+[21:20:16]: Lhendy51 dropped the item PAPER.
+[21:20:17]: Lhendy51 dropped the item PAPER.
+[21:20:17]: Lhendy51 dropped the item PAPER.
+[21:20:17]: Lhendy51 dropped the item PAPER.
+[21:20:17]: Lhendy51 dropped the item PAPER.
+[21:20:17]: Lhendy51 dropped the item PAPER.
+[21:20:18]: Lhendy51 dropped the item PAPER.
+[21:20:18]: Lhendy51 dropped the item PAPER.
+[21:20:20]: Lhendy51 picked up the item PAPER.
+[21:20:37]: Lhendy51 teleported to 171, 129, 105.
+[21:22:39]: Lhendy51 picked up the item ARROW.
+[21:23:11]: Lhendy51 placed the block ENDER_CHEST at the location 137, 56, -208.
+[21:23:16]: Lhendy51 placed the block Valuables (YELLOW_SHULKER_BOX) at the location 138, 56, -208.
+[21:23:19]: Lhendy51 broke the block YELLOW_SHULKER_BOX at the location 138, 56, -208.
+[21:23:19]: Lhendy51 picked up the item Valuables (YELLOW_SHULKER_BOX).
+[21:23:22]: Lhendy51 broke the block ENDER_CHEST at the location 137, 56, -208.
+[21:23:23]: Lhendy51 picked up the item ENDER_CHEST.
+[21:23:50]: Lhendy51 picked up the item BLAZE_ROD.
+[21:24:51]: Lhendy51 picked up the item COAL.
+[21:24:51]: Lhendy51 picked up the item BONE.
+[21:25:07]: Lhendy51 picked up the item ARROW.
+[21:25:07]: Lhendy51 picked up the item BONE.
+[21:25:13]: The TPS is 20.
+[21:25:13]: The current RAM usage is 2339MB / 3072MB (76.14%).
+[21:25:13]: The current player count is 1.
+[21:25:58]: Lhendy51 picked up the item BLAZE_ROD.
+[21:26:17]: Lhendy51 picked up the item BONE.
+[21:26:17]: Lhendy51 picked up the item COAL.
+[21:26:29]: Lhendy51 picked up the item ARROW.
+[21:26:30]: Lhendy51 picked up the item BLAZE_ROD.
+[21:27:08]: Lhendy51 picked up the item COAL.
+[21:27:08]: Lhendy51 picked up the item BONE.
+[21:27:14]: Lhendy51 picked up the item COAL.
+[21:27:14]: Lhendy51 picked up the item BONE.
+[21:27:35]: Lhendy51 picked up the item COAL.
+[21:27:35]: Lhendy51 picked up the item BONE.
+[21:27:35]: Lhendy51 picked up the item STONE_SWORD.
+[21:28:00]: Lhendy51 picked up the item COAL.
+[21:28:00]: Lhendy51 picked up the item BONE.
+[21:28:23]: Lhendy51 picked up the item BONE.
+[21:28:23]: Lhendy51 picked up the item WITHER_SKELETON_SKULL.
+[21:28:34]: Lhendy51 picked up the item ARROW.
+[21:28:47]: Lhendy51 picked up the item ARROW.
+[21:28:58]: Lhendy51 picked up the item BLAZE_ROD.
+[21:29:11]: Lhendy51 picked up the item MAGMA_CREAM.
+[21:29:24]: Lhendy51 picked up the item BONE.
+[21:29:24]: Lhendy51 picked up the item COAL.
+[21:29:31]: Lhendy51 picked up the item COAL.
+[21:29:32]: Lhendy51 picked up the item BONE.
+[21:30:13]: The TPS is 20.
+[21:30:13]: The current RAM usage is 2275MB / 3072MB (74.06%).
+[21:30:13]: The current player count is 1.
+[21:30:14]: Lhendy51 picked up the item GHAST_TEAR.
+[21:30:14]: Lhendy51 picked up the item GUNPOWDER.
+[21:30:27]: Lhendy51 picked up the item COAL.
+[21:30:27]: Lhendy51 picked up the item BONE.
+[21:30:44]: Lhendy51 picked up the item ARROW.
+[21:31:05]: Lhendy51 picked up the item BLAZE_ROD.
+[21:32:20]: Lhendy51 broke the block NETHERRACK at the location 87, 56, -190.
+[21:32:21]: Lhendy51 broke the block NETHERRACK at the location 87, 56, -189.
+[21:32:21]: Lhendy51 broke the block NETHERRACK at the location 87, 56, -188.
+[21:32:21]: Lhendy51 picked up the item NETHERRACK.
+[21:32:22]: Lhendy51 picked up the item BLAZE_ROD.
+[21:32:23]: Lhendy51 picked up the item NETHERRACK.
+[21:32:30]: Lhendy51 placed the block NETHERRACK at the location 120, 53, -203.
+[21:32:30]: Lhendy51 placed the block NETHERRACK at the location 119, 53, -203.
+[21:32:36]: Lhendy51 placed the block NETHERRACK at the location 135, 53, -182.
+[21:32:45]: Lhendy51 picked up the item COAL.
+[21:34:18]: Lhendy51 picked up the item COAL.
+[21:34:18]: Lhendy51 picked up the item BONE.
+[21:34:24]: Lhendy51 picked up the item GUNPOWDER.
+[21:34:24]: Lhendy51 picked up the item GHAST_TEAR.
+[21:34:36]: Lhendy51 picked up the item BLAZE_ROD.
+[21:34:39]: Lhendy51 picked up the item BONE.
+[21:34:45]: Lhendy51 picked up the item BLAZE_ROD.
+[21:34:46]: Lhendy51 picked up the item BONE.
+[21:35:13]: The TPS is 20.
+[21:35:13]: The current RAM usage is 2555MB / 3072MB (83.17%).
+[21:35:13]: The current player count is 1.
+[21:35:17]: Lhendy51 picked up the item STONE_SWORD.
+[21:35:17]: Lhendy51 picked up the item BONE.
+[21:35:17]: Lhendy51 picked up the item COAL.
+[21:36:04]: Lhendy51 picked up the item STONE_SWORD.
+[21:36:05]: Lhendy51 picked up the item COAL.
+[21:36:05]: Lhendy51 picked up the item BONE.
+[21:36:17]: Lhendy51 picked up the item COAL.
+[21:36:17]: Lhendy51 picked up the item BONE.
+[21:36:17]: Lhendy51 picked up the item STONE_SWORD.
+[21:37:14]: Lhendy51 picked up the item BONE.
+[21:38:25]: Lhendy51 picked up the item GHAST_TEAR.
+[21:38:25]: Lhendy51 picked up the item GUNPOWDER.
+[21:38:47]: Lhendy51 picked up the item COAL.
+[21:39:04]: Lhendy51 picked up the item BLAZE_ROD.
+[21:39:38]: Lhendy51 picked up the item BONE.
+[21:39:39]: Lhendy51 picked up the item COAL.
+[21:40:13]: The TPS is 20.
+[21:40:13]: The current RAM usage is 2748MB / 3072MB (89.45%).
+[21:40:13]: The current player count is 1.
+[21:41:20]: Lhendy51 picked up the item BONE.
+[21:41:20]: Lhendy51 picked up the item COAL.
+[21:42:59]: Lhendy51 picked up the item COAL.
+[21:43:12]: Lhendy51 picked up the item BONE.
+[21:43:12]: Lhendy51 picked up the item COAL.
+[21:44:02]: Lhendy51 picked up the item ARROW.
+[21:44:15]: Lhendy51 picked up the item BLAZE_ROD.
+[21:45:07]: Lhendy51 picked up the item BLAZE_ROD.
+[21:45:13]: The TPS is 20.
+[21:45:13]: The current RAM usage is 2636MB / 3072MB (85.81%).
+[21:45:13]: The current player count is 1.
+[21:45:35]: Lhendy51 picked up the item BONE.
+[21:45:35]: Lhendy51 picked up the item WITHER_SKELETON_SKULL.
+[21:45:36]: Lhendy51 picked up the item BLAZE_ROD.
+[21:46:06]: Lhendy51 picked up the item BONE.
+[21:46:26]: Lhendy51 picked up the item COAL.
+[21:46:26]: Lhendy51 picked up the item BONE.
+[21:46:27]: Lhendy51 picked up the item COAL.
+[21:46:27]: Lhendy51 picked up the item BONE.
+[21:46:47]: Lhendy51 picked up the item GUNPOWDER.
+[21:46:58]: Lhendy51 picked up the item BONE.
+[21:48:10]: Lhendy51 picked up the item BONE.
+[21:48:11]: Lhendy51 picked up the item BONE.
+[21:48:11]: Lhendy51 picked up the item COAL.
+[21:48:26]: Lhendy51 picked up the item BLAZE_ROD.
+[21:49:01]: Lhendy51 picked up the item BLAZE_ROD.
+[21:49:01]: Lhendy51 picked up the item ARROW.
+[21:49:16]: Lhendy51 picked up the item COAL.
+[21:49:16]: Lhendy51 picked up the item BONE.
+[21:49:35]: Lhendy51 picked up the item BLAZE_ROD.
+[21:50:01]: Lhendy51 picked up the item COAL.
+[21:50:02]: Lhendy51 picked up the item BONE.
+[21:50:13]: The TPS is 20.
+[21:50:13]: The current RAM usage is 2723MB / 3072MB (88.64%).
+[21:50:13]: The current player count is 1.
+[21:50:34]: Lhendy51 picked up the item ARROW.
+[21:50:34]: Lhendy51 picked up the item BONE.
+[21:51:37]: Lhendy51 picked up the item COAL.
+[21:51:37]: Lhendy51 picked up the item BONE.
+[21:51:37]: Lhendy51 picked up the item BONE.
+[21:51:46]: Lhendy51 picked up the item COAL.
+[21:51:46]: Lhendy51 picked up the item BONE.
+[21:51:59]: Lhendy51 picked up the item BLAZE_ROD.
+[21:52:16]: Lhendy51 picked up the item BLAZE_ROD.
+[21:53:00]: Lhendy51 quit at the location 93, 54, -164. Their IP was 73.154.195.184.
+[21:55:13]: The TPS is 20.
+[21:55:13]: The current RAM usage is 2383MB / 3072MB (77.57%).
+[21:55:13]: The current player count is 0.
+[22:00:13]: The TPS is 20.
+[22:00:13]: The current RAM usage is 2733MB / 3072MB (88.96%).
+[22:00:13]: The current player count is 0.
+[22:05:13]: The TPS is 20.
+[22:05:13]: The current RAM usage is 2387MB / 3072MB (77.7%).
+[22:05:13]: The current player count is 0.
+[22:10:13]: The TPS is 20.
+[22:10:13]: The current RAM usage is 2557MB / 3072MB (83.24%).
+[22:10:13]: The current player count is 0.
+[22:15:13]: The TPS is 20.
+[22:15:13]: The current RAM usage is 2671MB / 3072MB (86.95%).
+[22:15:13]: The current player count is 0.
+[22:20:13]: The TPS is 20.
+[22:20:13]: The current RAM usage is 2448MB / 3072MB (79.69%).
+[22:20:13]: The current player count is 0.
+[22:25:20]: The TPS is 20.
+[22:25:20]: The current RAM usage is 2541MB / 3072MB (82.71%).
+[22:25:21]: The current player count is 0.
+[22:27:39]: theredbook joined from the IP 73.52.219.140.
+[22:28:18]: theredbook picked up the item BONE.
+[22:28:18]: theredbook picked up the item ARROW.
+[22:28:34]: theredbook picked up the item GUNPOWDER.
+[22:28:58]: theredbook picked up the item GRASS_BLOCK.
+[22:30:18]: The TPS is 20.
+[22:30:18]: The current RAM usage is 2773MB / 3072MB (90.27%).
+[22:30:18]: The current player count is 1.
+[22:31:41]: theredbook quit at the location -19, 67, 7. Their IP was 73.52.219.140.
+[22:31:47]: theredbook joined from the IP 73.52.219.140.
+[22:32:34]: theredbook teleported to -149, 73, -20.
+[22:32:35]: theredbook picked up the item BIRCH_BOAT.
+[22:32:38]: theredbook teleported to -149, 73, -22.
+[22:32:40]: theredbook picked up the item BIRCH_BOAT.
+[22:34:51]: theredbook dropped the item CARROT.
+[22:34:51]: theredbook dropped the item CARROT.
+[22:34:51]: theredbook dropped the item CARROT.
+[22:34:52]: theredbook dropped the item CARROT.
+[22:35:18]: The TPS is 20.
+[22:35:18]: The current RAM usage is 2546MB / 3072MB (82.88%).
+[22:35:18]: The current player count is 1.
+[22:36:02]: theredbook broke the block COAL_ORE at the location -120, 74, 70.
+[22:36:02]: theredbook picked up the item COAL.
+[22:39:20]: Lhendy51 joined from the IP 73.154.195.184.
+[22:39:56]: theredbook broke the block GRASS at the location -180, 76, -65.
+[22:39:59]: theredbook picked up the item ROTTEN_FLESH.
+[22:40:09]: Lhendy51 picked up the item BONE.
+[22:40:09]: Lhendy51 picked up the item COAL.
+[22:40:17]: Lhendy51 picked up the item BLAZE_ROD.
+[22:40:17]: Lhendy51 picked up the item BLAZE_ROD.
+[22:40:18]: The TPS is 20.
+[22:40:18]: The current RAM usage is 2688MB / 3072MB (87.5%).
+[22:40:18]: The current player count is 2.
+[22:40:19]: theredbook picked up the item DIRT.
+[22:40:33]: theredbook picked up the item ARROW.
+[22:40:33]: theredbook picked up the item BONE.
+[22:41:01]: theredbook picked up the item ARROW.
+[22:41:01]: theredbook picked up the item BONE.
+[22:41:12]: theredbook picked up the item ROTTEN_FLESH.
+[22:41:29]: theredbook picked up the item STRING.
+[22:41:31]: theredbook picked up the item STRING.
+[22:42:08]: theredbook picked up the item ROTTEN_FLESH.
+[22:42:22]: theredbook picked up the item ROTTEN_FLESH.
+[22:42:49]: theredbook picked up the item ROTTEN_FLESH.
+[22:43:12]: Lhendy51 picked up the item COAL.
+[22:43:12]: Lhendy51 picked up the item BONE.
+[22:43:22]: theredbook picked up the item ARROW.
+[22:43:22]: theredbook picked up the item BONE.
+[22:43:43]: theredbook died because of ENTITY_EXPLOSION.
+[22:43:44]: theredbook respawned.
+[22:43:46]: Lhendy51 said -> F.
+[22:44:03]: Lhendy51 picked up the item BONE.
+[22:44:04]: Lhendy51 picked up the item COAL.
+[22:44:13]: theredbook picked up the item COAL.
+[22:44:14]: theredbook picked up the item ARROW.
+[22:44:14]: theredbook picked up the item BIRCH_PLANKS.
+[22:44:14]: theredbook picked up the item GUNPOWDER.
+[22:44:14]: theredbook picked up the item IRON_SWORD.
+[22:44:14]: theredbook picked up the item BIRCH_BOAT.
+[22:44:14]: theredbook picked up the item DIRT.
+[22:44:14]: theredbook picked up the item GRASS_BLOCK.
+[22:44:14]: theredbook picked up the item WHEAT_SEEDS.
+[22:44:14]: theredbook picked up the item GRANITE.
+[22:44:14]: theredbook picked up the item STRING.
+[22:44:14]: theredbook picked up the item TORCH.
+[22:44:14]: theredbook picked up the item IRON_PICKAXE.
+[22:44:14]: theredbook picked up the item IRON_BOOTS.
+[22:44:14]: theredbook picked up the item IRON_LEGGINGS.
+[22:44:14]: theredbook picked up the item IRON_CHESTPLATE.
+[22:44:14]: theredbook picked up the item IRON_HELMET.
+[22:44:14]: theredbook picked up the item CRAFTING_TABLE.
+[22:44:14]: theredbook picked up the item COBBLESTONE.
+[22:44:14]: theredbook picked up the item ROTTEN_FLESH.
+[22:44:14]: theredbook picked up the item IRON_PICKAXE.
+[22:44:14]: theredbook picked up the item COOKED_COD.
+[22:44:14]: theredbook picked up the item IRON_PICKAXE.
+[22:44:14]: theredbook picked up the item SPRUCE_PLANKS.
+[22:44:14]: theredbook picked up the item IRON_SHOVEL.
+[22:44:14]: theredbook picked up the item COBBLESTONE.
+[22:44:15]: theredbook picked up the item BONE.
+[22:44:15]: theredbook picked up the item IRON_AXE.
+[22:44:19]: theredbook picked up the item STICK.
+[22:44:28]: Lhendy51 picked up the item BONE.
+[22:44:29]: Lhendy51 picked up the item COAL.
+[22:44:29]: Lhendy51 picked up the item STONE_SWORD.
+[22:44:41]: Lhendy51 picked up the item BLAZE_ROD.
+[22:45:18]: The TPS is 20.
+[22:45:18]: The current RAM usage is 2794MB / 3072MB (90.95%).
+[22:45:18]: The current player count is 2.
+[22:45:42]: theredbook picked up the item STRING.
+[22:45:43]: theredbook picked up the item SPIDER_EYE.
+[22:46:09]: Lhendy51 dropped the item STONE_SWORD.
+[22:46:10]: Lhendy51 dropped the item STONE_SWORD.
+[22:46:10]: Lhendy51 dropped the item STONE_SWORD.
+[22:46:11]: Lhendy51 dropped the item STONE_SWORD.
+[22:46:31]: Lhendy51 picked up the item WITHER_SKELETON_SKULL.
+[22:46:32]: Lhendy51 picked up the item COAL.
+[22:46:32]: Lhendy51 picked up the item BONE.
+[22:46:42]: Lhendy51 picked up the item BONE.
+[22:46:52]: theredbook picked up the item ROTTEN_FLESH.
+[22:46:54]: Lhendy51 picked up the item STONE_SWORD.
+[22:46:54]: Lhendy51 picked up the item BONE.
+[22:46:56]: Lhendy51 dropped the item STONE_SWORD.
+[22:47:04]: theredbook picked up the item GUNPOWDER.
+[22:47:09]: Lhendy51 dropped the item MAGMA_CREAM.
+[22:47:10]: theredbook picked up the item STRING.
+[22:47:10]: theredbook picked up the item SPIDER_EYE.
+[22:48:57]: Lhendy51 teleported to -1449, 66, 821.
+[22:49:09]: Lhendy51 teleported to 100, 49, 0.
+[22:50:18]: The TPS is 20.
+[22:50:18]: The current RAM usage is 2610MB / 3072MB (84.96%).
+[22:50:18]: The current player count is 2.
+[22:50:58]: theredbook teleported to 5, 129, -1.
+[22:51:09]: theredbook teleported to 58, 74, 4.
+[22:51:10]: Lhendy51 dropped the item STONE_SWORD.
+[22:51:30]: theredbook broke the block GRASS at the location 70, 69, 54.
+[22:51:31]: theredbook broke the block GRASS at the location 68, 69, 56.
+[22:51:33]: theredbook broke the block GRASS at the location 78, 71, 55.
+[22:51:36]: theredbook broke the block GRASS at the location 92, 74, 55.
+[22:51:37]: theredbook broke the block GRASS at the location 95, 74, 56.
+[22:51:37]: theredbook broke the block GRASS at the location 95, 74, 55.
+[22:51:38]: theredbook broke the block GRASS at the location 96, 74, 57.
+[22:51:38]: theredbook broke the block GRASS at the location 97, 74, 58.
+[22:51:38]: theredbook broke the block GRASS at the location 97, 74, 59.
+[22:51:39]: theredbook broke the block GRASS at the location 99, 74, 59.
+[22:51:39]: theredbook broke the block GRASS at the location 99, 74, 58.
+[22:51:39]: theredbook picked up the item WHEAT_SEEDS.
+[22:51:39]: theredbook broke the block GRASS at the location 101, 74, 57.
+[22:51:44]: theredbook broke the block GRASS_BLOCK at the location 112, 77, 56.
+[22:51:48]: theredbook broke the block GRASS_BLOCK at the location 113, 77, 56.
+[22:51:49]: theredbook picked up the item DIRT.
+[22:52:08]: Lhendy51 broke the block OBSIDIAN at the location -9, 102, 42.
+[22:52:08]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:10]: Lhendy51 broke the block OBSIDIAN at the location -9, 101, 42.
+[22:52:11]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:11]: theredbook placed the block DIRT at the location 93, 70, 26.
+[22:52:12]: theredbook broke the block DIRT at the location 93, 70, 26.
+[22:52:13]: Lhendy51 broke the block OBSIDIAN at the location -9, 100, 42.
+[22:52:13]: theredbook picked up the item DIRT.
+[22:52:13]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:15]: Lhendy51 broke the block OBSIDIAN at the location -9, 99, 42.
+[22:52:16]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:18]: Lhendy51 broke the block OBSIDIAN at the location -9, 98, 42.
+[22:52:18]: theredbook placed the block DIRT at the location 65, 69, 24.
+[22:52:18]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:19]: theredbook broke the block DIRT at the location 65, 69, 24.
+[22:52:20]: theredbook picked up the item DIRT.
+[22:52:20]: Lhendy51 broke the block OBSIDIAN at the location -9, 97, 42.
+[22:52:21]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:23]: Lhendy51 broke the block OBSIDIAN at the location -9, 96, 42.
+[22:52:23]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:25]: Lhendy51 broke the block OBSIDIAN at the location -9, 95, 42.
+[22:52:26]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:28]: Lhendy51 broke the block OBSIDIAN at the location -9, 94, 42.
+[22:52:28]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:31]: Lhendy51 broke the block OBSIDIAN at the location -9, 93, 42.
+[22:52:31]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:33]: Lhendy51 broke the block OBSIDIAN at the location -9, 92, 42.
+[22:52:34]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:36]: Lhendy51 broke the block OBSIDIAN at the location -9, 91, 42.
+[22:52:36]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:36]: theredbook placed the block DIRT at the location 17, 62, 71.
+[22:52:37]: theredbook broke the block DIRT at the location 17, 62, 71.
+[22:52:38]: theredbook picked up the item DIRT.
+[22:52:38]: Lhendy51 broke the block OBSIDIAN at the location -9, 90, 42.
+[22:52:39]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:41]: Lhendy51 broke the block OBSIDIAN at the location -9, 89, 42.
+[22:52:41]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:43]: Lhendy51 broke the block OBSIDIAN at the location -9, 88, 42.
+[22:52:44]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:46]: Lhendy51 broke the block OBSIDIAN at the location -9, 87, 42.
+[22:52:46]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:48]: Lhendy51 broke the block OBSIDIAN at the location -9, 86, 42.
+[22:52:49]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:51]: Lhendy51 broke the block OBSIDIAN at the location -9, 85, 42.
+[22:52:51]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:53]: Lhendy51 broke the block OBSIDIAN at the location -9, 84, 42.
+[22:52:54]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:56]: Lhendy51 broke the block OBSIDIAN at the location -9, 83, 42.
+[22:52:56]: Lhendy51 picked up the item OBSIDIAN.
+[22:52:59]: Lhendy51 broke the block OBSIDIAN at the location -9, 82, 42.
+[22:52:59]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:01]: Lhendy51 broke the block OBSIDIAN at the location -9, 81, 42.
+[22:53:02]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:04]: Lhendy51 broke the block OBSIDIAN at the location -9, 80, 42.
+[22:53:04]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:06]: Lhendy51 broke the block OBSIDIAN at the location -9, 79, 42.
+[22:53:07]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:07]: theredbook broke the block STONE at the location -76, 65, 52.
+[22:53:08]: theredbook picked up the item COBBLESTONE.
+[22:53:09]: theredbook broke the block STONE at the location -76, 66, 52.
+[22:53:09]: Lhendy51 broke the block OBSIDIAN at the location -9, 78, 42.
+[22:53:09]: theredbook picked up the item COBBLESTONE.
+[22:53:09]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:10]: theredbook broke the block STONE at the location -77, 66, 52.
+[22:53:10]: theredbook picked up the item COBBLESTONE.
+[22:53:10]: theredbook broke the block STONE at the location -76, 67, 52.
+[22:53:11]: theredbook picked up the item COBBLESTONE.
+[22:53:11]: theredbook broke the block STONE at the location -77, 67, 52.
+[22:53:11]: Lhendy51 broke the block OBSIDIAN at the location -9, 77, 42.
+[22:53:12]: theredbook picked up the item COBBLESTONE.
+[22:53:12]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:12]: theredbook broke the block STONE at the location -77, 68, 52.
+[22:53:12]: theredbook picked up the item COBBLESTONE.
+[22:53:13]: theredbook broke the block STONE at the location -78, 68, 52.
+[22:53:13]: theredbook picked up the item COBBLESTONE.
+[22:53:13]: theredbook broke the block STONE at the location -78, 67, 52.
+[22:53:14]: theredbook picked up the item COBBLESTONE.
+[22:53:14]: Lhendy51 broke the block OBSIDIAN at the location -9, 76, 42.
+[22:53:14]: theredbook broke the block STONE at the location -78, 69, 52.
+[22:53:14]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:14]: theredbook picked up the item COBBLESTONE.
+[22:53:15]: theredbook broke the block STONE at the location -79, 68, 52.
+[22:53:16]: theredbook picked up the item COBBLESTONE.
+[22:53:16]: theredbook broke the block STONE at the location -80, 69, 52.
+[22:53:16]: theredbook picked up the item COBBLESTONE.
+[22:53:16]: Lhendy51 broke the block OBSIDIAN at the location -9, 75, 42.
+[22:53:17]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:19]: Lhendy51 broke the block OBSIDIAN at the location -9, 74, 42.
+[22:53:19]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:22]: Lhendy51 broke the block OBSIDIAN at the location -9, 73, 42.
+[22:53:22]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:24]: Lhendy51 broke the block OBSIDIAN at the location -9, 72, 42.
+[22:53:25]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:27]: Lhendy51 broke the block OBSIDIAN at the location -9, 71, 42.
+[22:53:27]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:29]: Lhendy51 broke the block OBSIDIAN at the location -9, 70, 42.
+[22:53:30]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:32]: Lhendy51 broke the block OBSIDIAN at the location -9, 69, 42.
+[22:53:32]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:34]: Lhendy51 broke the block OBSIDIAN at the location -9, 68, 42.
+[22:53:35]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:37]: Lhendy51 broke the block OBSIDIAN at the location -9, 67, 42.
+[22:53:37]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:39]: Lhendy51 broke the block OBSIDIAN at the location -9, 66, 42.
+[22:53:40]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:42]: Lhendy51 broke the block OBSIDIAN at the location -9, 65, 42.
+[22:53:42]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:44]: Lhendy51 broke the block OBSIDIAN at the location -9, 64, 42.
+[22:53:45]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:47]: Lhendy51 broke the block OBSIDIAN at the location -9, 63, 42.
+[22:53:47]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:50]: Lhendy51 broke the block OBSIDIAN at the location -9, 62, 42.
+[22:53:50]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:52]: Lhendy51 broke the block OBSIDIAN at the location -9, 61, 42.
+[22:53:53]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:55]: Lhendy51 broke the block OBSIDIAN at the location -9, 60, 42.
+[22:53:55]: Lhendy51 picked up the item OBSIDIAN.
+[22:53:57]: Lhendy51 broke the block OBSIDIAN at the location -9, 59, 42.
+[22:53:58]: Lhendy51 picked up the item OBSIDIAN.
+[22:54:00]: Lhendy51 broke the block OBSIDIAN at the location -9, 58, 42.
+[22:54:00]: Lhendy51 picked up the item OBSIDIAN.
+[22:54:11]: theredbook quit at the location -217, 69, -76. Their IP was 73.52.219.140.
+[22:55:08]: Lhendy51 broke the block OBSIDIAN at the location -9, 102, 36.
+[22:55:08]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:10]: Lhendy51 broke the block OBSIDIAN at the location -9, 101, 36.
+[22:55:10]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:13]: Lhendy51 broke the block OBSIDIAN at the location -9, 100, 36.
+[22:55:13]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:15]: Lhendy51 broke the block OBSIDIAN at the location -9, 99, 36.
+[22:55:16]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:18]: Lhendy51 broke the block OBSIDIAN at the location -9, 98, 36.
+[22:55:18]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:18]: The TPS is 20.
+[22:55:18]: The current RAM usage is 2752MB / 3072MB (89.58%).
+[22:55:18]: The current player count is 1.
+[22:55:20]: Lhendy51 broke the block OBSIDIAN at the location -9, 97, 36.
+[22:55:21]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:23]: Lhendy51 broke the block OBSIDIAN at the location -9, 96, 36.
+[22:55:23]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:25]: Lhendy51 broke the block OBSIDIAN at the location -9, 95, 36.
+[22:55:26]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:28]: Lhendy51 broke the block OBSIDIAN at the location -9, 94, 36.
+[22:55:28]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:30]: Lhendy51 broke the block OBSIDIAN at the location -9, 93, 36.
+[22:55:31]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:33]: Lhendy51 broke the block OBSIDIAN at the location -9, 92, 36.
+[22:55:33]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:36]: Lhendy51 broke the block OBSIDIAN at the location -9, 91, 36.
+[22:55:36]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:38]: Lhendy51 broke the block OBSIDIAN at the location -9, 90, 36.
+[22:55:39]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:41]: Lhendy51 broke the block OBSIDIAN at the location -9, 89, 36.
+[22:55:41]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:43]: Lhendy51 broke the block OBSIDIAN at the location -9, 88, 36.
+[22:55:44]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:46]: Lhendy51 broke the block OBSIDIAN at the location -9, 87, 36.
+[22:55:46]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:48]: Lhendy51 broke the block OBSIDIAN at the location -9, 86, 36.
+[22:55:49]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:51]: Lhendy51 broke the block OBSIDIAN at the location -9, 85, 36.
+[22:55:51]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:53]: Lhendy51 broke the block OBSIDIAN at the location -9, 84, 36.
+[22:55:54]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:56]: Lhendy51 broke the block OBSIDIAN at the location -9, 83, 36.
+[22:55:56]: Lhendy51 picked up the item OBSIDIAN.
+[22:55:59]: Lhendy51 broke the block OBSIDIAN at the location -9, 82, 36.
+[22:55:59]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:01]: Lhendy51 broke the block OBSIDIAN at the location -9, 81, 36.
+[22:56:02]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:04]: Lhendy51 broke the block OBSIDIAN at the location -9, 80, 36.
+[22:56:04]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:06]: Lhendy51 broke the block OBSIDIAN at the location -9, 79, 36.
+[22:56:07]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:09]: Lhendy51 broke the block OBSIDIAN at the location -9, 78, 36.
+[22:56:09]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:11]: Lhendy51 broke the block OBSIDIAN at the location -9, 77, 36.
+[22:56:12]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:14]: Lhendy51 broke the block OBSIDIAN at the location -9, 76, 36.
+[22:56:14]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:16]: Lhendy51 broke the block OBSIDIAN at the location -9, 75, 36.
+[22:56:17]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:19]: Lhendy51 broke the block OBSIDIAN at the location -9, 74, 36.
+[22:56:19]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:21]: Lhendy51 broke the block OBSIDIAN at the location -9, 73, 36.
+[22:56:22]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:24]: Lhendy51 broke the block OBSIDIAN at the location -9, 72, 36.
+[22:56:24]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:27]: Lhendy51 broke the block OBSIDIAN at the location -9, 71, 36.
+[22:56:27]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:29]: Lhendy51 broke the block OBSIDIAN at the location -9, 70, 36.
+[22:56:30]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:32]: Lhendy51 broke the block OBSIDIAN at the location -9, 69, 36.
+[22:56:32]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:34]: Lhendy51 broke the block OBSIDIAN at the location -9, 68, 36.
+[22:56:35]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:37]: Lhendy51 broke the block OBSIDIAN at the location -9, 67, 36.
+[22:56:37]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:39]: Lhendy51 broke the block OBSIDIAN at the location -9, 66, 36.
+[22:56:40]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:42]: Lhendy51 broke the block OBSIDIAN at the location -9, 65, 36.
+[22:56:42]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:44]: Lhendy51 broke the block OBSIDIAN at the location -9, 64, 36.
+[22:56:45]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:47]: Lhendy51 broke the block OBSIDIAN at the location -9, 63, 36.
+[22:56:47]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:49]: Lhendy51 broke the block OBSIDIAN at the location -9, 62, 36.
+[22:56:50]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:52]: Lhendy51 broke the block OBSIDIAN at the location -9, 61, 36.
+[22:56:52]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:55]: Lhendy51 broke the block OBSIDIAN at the location -9, 60, 36.
+[22:56:55]: Lhendy51 picked up the item OBSIDIAN.
+[22:56:57]: Lhendy51 broke the block OBSIDIAN at the location -9, 59, 36.
+[22:56:58]: Lhendy51 picked up the item OBSIDIAN.
+[22:57:35]: Lhendy51 picked up the item ENDER_PEARL.
+[22:57:40]: Lhendy51 picked up the item ENDER_PEARL.
+[22:58:09]: Lhendy51 broke the block OBSIDIAN at the location -31, 61, 23.
+[22:58:09]: Lhendy51 picked up the item OBSIDIAN.
+[22:58:11]: Lhendy51 broke the block OBSIDIAN at the location -31, 60, 23.
+[22:58:12]: Lhendy51 picked up the item OBSIDIAN.
+[22:58:14]: Lhendy51 broke the block OBSIDIAN at the location -32, 61, 23.
+[22:58:14]: Lhendy51 picked up the item OBSIDIAN.
+[22:58:16]: Lhendy51 broke the block OBSIDIAN at the location -32, 60, 23.
+[22:58:19]: Lhendy51 broke the block OBSIDIAN at the location -32, 61, 22.
+[22:58:20]: Lhendy51 picked up the item OBSIDIAN.
+[22:58:22]: Lhendy51 broke the block OBSIDIAN at the location -32, 60, 22.
+[22:58:22]: Lhendy51 picked up the item OBSIDIAN.
+[22:58:24]: Lhendy51 broke the block OBSIDIAN at the location -32, 59, 22.
+[22:58:25]: Lhendy51 picked up the item OBSIDIAN.
+[22:58:38]: Lhendy51 placed the block ENDER_CHEST at the location 4, 62, -6.
+[22:58:51]: Lhendy51 placed the block Mumbox (RED_SHULKER_BOX) at the location 5, 62, -6.
+[22:58:52]: Lhendy51 dropped the item SOUL_SAND.
+[22:58:52]: Lhendy51 dropped the item SOUL_SAND.
+[22:58:52]: Lhendy51 dropped the item SOUL_SAND.
+[22:58:53]: Lhendy51 dropped the item SOUL_SAND.
+[22:58:54]: Lhendy51 picked up the item SOUL_SAND.
+[22:58:54]: Lhendy51 broke the block RED_SHULKER_BOX at the location 5, 62, -6.
+[22:58:54]: Lhendy51 picked up the item SOUL_SAND.
+[22:58:54]: Lhendy51 picked up the item SOUL_SAND.
+[22:58:55]: Lhendy51 picked up the item SOUL_SAND.
+[22:58:55]: Lhendy51 picked up the item Mumbox (RED_SHULKER_BOX).
+[22:58:58]: Lhendy51 broke the block ENDER_CHEST at the location 4, 62, -6.
+[22:58:59]: Lhendy51 picked up the item ENDER_CHEST.
+[22:59:04]: Lhendy51 placed the block SOUL_SAND at the location 0, 58, 0.
+[22:59:04]: Lhendy51 placed the block SOUL_SAND at the location 0, 58, -1.
+[22:59:05]: Lhendy51 placed the block SOUL_SAND at the location 1, 58, -1.
+[22:59:06]: Lhendy51 placed the block SOUL_SAND at the location -1, 58, -1.
+[22:59:07]: Lhendy51 placed the block WITHER_SKELETON_WALL_SKULL at the location -1, 58, -2.
+[22:59:07]: Lhendy51 placed the block WITHER_SKELETON_WALL_SKULL at the location 0, 58, -2.
+[22:59:09]: Lhendy51 placed the block WITHER_SKELETON_WALL_SKULL at the location 1, 58, -2.
+[22:59:33]: Lhendy51 picked up the item NETHER_STAR.
+[22:59:43]: Lhendy51 placed the block ENDER_CHEST at the location 0, 62, 9.
+[22:59:47]: Lhendy51 placed the block Valuables (YELLOW_SHULKER_BOX) at the location 1, 62, 9.
+[23:00:15]: Lhendy51 broke the block YELLOW_SHULKER_BOX at the location 1, 62, 9.
+[23:00:16]: Lhendy51 picked up the item Valuables (YELLOW_SHULKER_BOX).
+[23:00:18]: The TPS is 20.
+[23:00:18]: The current RAM usage is 2646MB / 3072MB (86.13%).
+[23:00:18]: The current player count is 1.
+[23:00:22]: Lhendy51 placed the block Backup Gear (BLUE_SHULKER_BOX) at the location 1, 62, 9.
+[23:00:47]: Lhendy51 broke the block BLUE_SHULKER_BOX at the location 1, 62, 9.
+[23:00:47]: Lhendy51 picked up the item Backup Gear (BLUE_SHULKER_BOX).
+[23:00:58]: Lhendy51 broke the block ENDER_CHEST at the location 0, 62, 9.
+[23:00:59]: Lhendy51 picked up the item ENDER_CHEST.
+[23:01:03]: Lhendy51 respawned.
+[23:01:08]: Lhendy51 picked up the item GOLD_NUGGET.
+[23:01:09]: Lhendy51 dropped the item GOLD_NUGGET.
+[23:01:21]: Lhendy51 dropped the item GLASS.
+[23:01:21]: Lhendy51 dropped the item GLASS.
+[23:01:21]: Lhendy51 dropped the item GLASS.
+[23:01:22]: Lhendy51 dropped the item GLASS.
+[23:01:22]: Lhendy51 dropped the item GLASS.
+[23:01:24]: Lhendy51 picked up the item GLASS.
+[23:01:29]: Lhendy51 placed the block Valuables (YELLOW_SHULKER_BOX) at the location 1288, 59, 766.
+[23:01:32]: Lhendy51 dropped the item OBSIDIAN.
+[23:01:32]: Lhendy51 dropped the item OBSIDIAN.
+[23:01:32]: Lhendy51 dropped the item OBSIDIAN.
+[23:01:33]: Lhendy51 broke the block YELLOW_SHULKER_BOX at the location 1288, 59, 766.
+[23:01:34]: Lhendy51 picked up the item Valuables (YELLOW_SHULKER_BOX).
+[23:01:34]: Lhendy51 picked up the item OBSIDIAN.
+[23:01:57]: Lhendy51 dropped the item PAPER.
+[23:01:58]: Lhendy51 dropped the item PAPER.
+[23:01:58]: Lhendy51 dropped the item PAPER.
+[23:01:58]: Lhendy51 dropped the item PAPER.
+[23:01:58]: Lhendy51 dropped the item PAPER.
+[23:01:58]: Lhendy51 dropped the item PAPER.
+[23:01:58]: Lhendy51 dropped the item PAPER.
+[23:01:59]: Lhendy51 dropped the item PAPER.
+[23:01:59]: Lhendy51 dropped the item PAPER.
+[23:02:01]: Lhendy51 picked up the item PAPER.
+[23:02:36]: Lhendy51 picked up the item GOLD_NUGGET.
+[23:03:05]: Lhendy51 placed the block BEACON at the location 1263, 67, 625.
+[23:05:18]: The TPS is 20.
+[23:05:18]: The current RAM usage is 2356MB / 3072MB (76.69%).
+[23:05:18]: The current player count is 1.
+[23:08:56]: Lhendy51 teleported to 1289, 60, 764.
+[23:09:20]: Lhendy51 teleported to 171, 129, 105.
+[23:09:46]: Lhendy51 teleported to 58, 74, -4.
+[23:10:18]: The TPS is 20.
+[23:10:18]: The current RAM usage is 2266MB / 3072MB (73.76%).
+[23:10:18]: The current player count is 1.
+[23:13:04]: Lhendy51 placed the block RED_STAINED_GLASS_PANE at the location 1263, 68, 623.
+[23:13:08]: Lhendy51 placed the block RED_STAINED_GLASS_PANE at the location 1264, 68, 623.
+[23:13:10]: Lhendy51 placed the block RED_STAINED_GLASS_PANE at the location 1263, 68, 624.
+[23:13:11]: Lhendy51 placed the block RED_STAINED_GLASS_PANE at the location 1263, 68, 625.
+[23:13:14]: Lhendy51 placed the block RED_STAINED_GLASS_PANE at the location 1264, 68, 625.
+[23:13:15]: Lhendy51 placed the block RED_STAINED_GLASS_PANE at the location 1264, 68, 624.
+[23:15:18]: The TPS is 20.
+[23:15:18]: The current RAM usage is 2700MB / 3072MB (87.89%).
+[23:15:18]: The current player count is 1.
+[23:16:57]: Lhendy51 placed the block Backup Gear (BLUE_SHULKER_BOX) at the location 1267, 63, 632.
+[23:17:02]: Lhendy51 broke the block BLUE_SHULKER_BOX at the location 1267, 63, 632.
+[23:17:03]: Lhendy51 picked up the item Backup Gear (BLUE_SHULKER_BOX).
+[23:19:16]: Lhendy51 picked up the item FILLED_MAP.
+[23:19:22]: Lhendy51 picked up the item FILLED_MAP.
+[23:20:18]: The TPS is 20.
+[23:20:18]: The current RAM usage is 2129MB / 3072MB (69.3%).
+[23:20:18]: The current player count is 1.
+[23:24:33]: Lhendy51 picked up the item GUNPOWDER.
+[23:24:38]: Lhendy51 picked up the item STRING.
+[23:24:54]: Lhendy51 broke the block GRAVEL at the location 1261, 64, 667.
+[23:24:54]: Lhendy51 broke the block GRAVEL at the location 1260, 64, 667.
+[23:24:54]: Lhendy51 picked up the item GRAVEL.
+[23:24:55]: Lhendy51 picked up the item GRAVEL.
+[23:24:55]: Lhendy51 broke the block GRAVEL at the location 1259, 64, 667.
+[23:24:55]: Lhendy51 picked up the item GRAVEL.
+[23:24:57]: Lhendy51 broke the block GRAVEL at the location 1265, 64, 667.
+[23:24:58]: Lhendy51 broke the block GRAVEL at the location 1266, 64, 667.
+[23:24:58]: Lhendy51 picked up the item GRAVEL.
+[23:25:03]: Lhendy51 broke the block STONE at the location 1259, 63, 667.
+[23:25:04]: Lhendy51 broke the block STONE at the location 1260, 63, 667.
+[23:25:04]: Lhendy51 broke the block STONE at the location 1261, 63, 667.
+[23:25:04]: Lhendy51 broke the block STONE at the location 1262, 63, 667.
+[23:25:05]: Lhendy51 broke the block STONE at the location 1262, 64, 667.
+[23:25:05]: Lhendy51 picked up the item STONE.
+[23:25:06]: Lhendy51 broke the block STONE at the location 1265, 63, 667.
+[23:25:06]: Lhendy51 broke the block STONE at the location 1266, 63, 667.
+[23:25:07]: Lhendy51 broke the block STONE at the location 1267, 63, 667.
+[23:25:07]: Lhendy51 broke the block STONE at the location 1267, 64, 667.
+[23:25:08]: Lhendy51 broke the block STONE at the location 1268, 63, 667.
+[23:25:08]: Lhendy51 broke the block STONE at the location 1268, 63, 666.
+[23:25:08]: Lhendy51 broke the block STONE at the location 1268, 64, 667.
+[23:25:08]: Lhendy51 broke the block ANDESITE at the location 1268, 64, 666.
+[23:25:18]: The TPS is 20.
+[23:25:18]: The current RAM usage is 2707MB / 3072MB (88.12%).
+[23:25:18]: The current player count is 1.
+[23:25:25]: Lhendy51 broke the block ANDESITE at the location 1260, 65, 667.
+[23:25:25]: Lhendy51 broke the block STONE at the location 1261, 65, 667.
+[23:25:25]: Lhendy51 picked up the item ANDESITE.
+[23:25:26]: Lhendy51 broke the block STONE at the location 1259, 65, 667.
+[23:25:26]: Lhendy51 picked up the item STONE.
+[23:25:26]: Lhendy51 broke the block STONE at the location 1262, 65, 667.
+[23:25:27]: Lhendy51 broke the block STONE at the location 1263, 65, 667.
+[23:25:27]: Lhendy51 broke the block STONE at the location 1264, 65, 667.
+[23:25:27]: Lhendy51 broke the block STONE at the location 1265, 65, 667.
+[23:25:27]: Lhendy51 picked up the item STONE.
+[23:25:28]: Lhendy51 broke the block STONE at the location 1266, 65, 667.
+[23:25:28]: Lhendy51 broke the block STONE at the location 1267, 65, 667.
+[23:25:29]: Lhendy51 broke the block STONE at the location 1268, 65, 667.
+[23:25:39]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 658.
+[23:25:41]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 659.
+[23:25:41]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 660.
+[23:25:42]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 661.
+[23:25:42]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 662.
+[23:25:43]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 663.
+[23:25:44]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 664.
+[23:25:44]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 665.
+[23:25:45]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 666.
+[23:25:45]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 667.
+[23:25:48]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 659.
+[23:25:49]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 661.
+[23:25:49]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 660.
+[23:25:50]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 660.
+[23:25:50]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 661.
+[23:25:51]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 661.
+[23:25:52]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 662.
+[23:25:53]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 662.
+[23:25:53]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 662.
+[23:25:53]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 663.
+[23:25:54]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 663.
+[23:25:55]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 663.
+[23:25:55]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 664.
+[23:25:55]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 664.
+[23:25:56]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 664.
+[23:25:57]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 666.
+[23:25:57]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 665.
+[23:25:57]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 666.
+[23:25:58]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 665.
+[23:25:58]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 666.
+[23:25:59]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 665.
+[23:26:00]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 667.
+[23:26:00]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 667.
+[23:26:00]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 667.
+[23:26:04]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 658.
+[23:26:06]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 659.
+[23:26:06]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 660.
+[23:26:07]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 661.
+[23:26:08]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 662.
+[23:26:08]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 663.
+[23:26:09]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 664.
+[23:26:09]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 665.
+[23:26:10]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 666.
+[23:26:11]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 667.
+[23:26:12]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 667.
+[23:26:12]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 667.
+[23:26:13]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 667.
+[23:26:15]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 659.
+[23:26:15]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 660.
+[23:26:16]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 660.
+[23:26:16]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 661.
+[23:26:17]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 660.
+[23:26:17]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 661.
+[23:26:18]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 661.
+[23:26:19]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1266, 62, 660.
+[23:26:20]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:26:21]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 660.
+[23:26:23]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 663.
+[23:26:23]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 662.
+[23:26:24]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 663.
+[23:26:25]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 662.
+[23:26:25]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 663.
+[23:26:25]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 662.
+[23:26:27]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 666.
+[23:26:27]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 666.
+[23:26:27]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 666.
+[23:26:28]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 665.
+[23:26:28]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 665.
+[23:26:41]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 665.
+[23:26:42]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 664.
+[23:26:42]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 664.
+[23:26:43]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 664.
+[23:26:58]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 62, 654.
+[23:26:58]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 62, 653.
+[23:26:59]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 62, 652.
+[23:26:59]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 62, 651.
+[23:27:02]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 62, 654.
+[23:27:02]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 62, 653.
+[23:27:03]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 62, 652.
+[23:27:04]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 62, 651.
+[23:27:33]: Lhendy51 broke the block STONE at the location 1269, 63, 667.
+[23:27:34]: Lhendy51 picked up the item STONE.
+[23:27:35]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 63, 667.
+[23:27:38]: Lhendy51 broke the block ANDESITE at the location 1258, 64, 667.
+[23:27:38]: Lhendy51 broke the block STONE at the location 1258, 63, 667.
+[23:27:38]: Lhendy51 picked up the item ANDESITE.
+[23:27:38]: Lhendy51 picked up the item STONE.
+[23:27:39]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 63, 667.
+[23:27:43]: Lhendy51 broke the block STONE at the location 1258, 65, 667.
+[23:27:43]: Lhendy51 picked up the item STONE.
+[23:27:46]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 64, 667.
+[23:27:46]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 65, 667.
+[23:27:47]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 66, 667.
+[23:27:47]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 67, 667.
+[23:27:52]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 64, 667.
+[23:27:52]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 65, 667.
+[23:27:52]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 66, 667.
+[23:27:53]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 67, 667.
+[23:27:54]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 68, 667.
+[23:27:54]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 69, 667.
+[23:27:58]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 68, 667.
+[23:27:58]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 69, 667.
+[23:28:09]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 69, 667.
+[23:28:09]: Lhendy51 placed the block NETHER_BRICKS at the location 1267, 69, 667.
+[23:28:10]: Lhendy51 placed the block NETHER_BRICKS at the location 1266, 69, 667.
+[23:28:10]: Lhendy51 placed the block NETHER_BRICKS at the location 1265, 69, 667.
+[23:28:11]: Lhendy51 placed the block NETHER_BRICKS at the location 1264, 69, 667.
+[23:28:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1263, 69, 667.
+[23:28:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1262, 69, 667.
+[23:28:13]: Lhendy51 placed the block NETHER_BRICKS at the location 1261, 69, 667.
+[23:28:13]: Lhendy51 placed the block NETHER_BRICKS at the location 1260, 69, 667.
+[23:28:15]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 69, 667.
+[23:29:02]: Lhendy51 broke the block ANDESITE at the location 1269, 65, 666.
+[23:29:02]: Lhendy51 broke the block STONE at the location 1269, 64, 666.
+[23:29:02]: Lhendy51 picked up the item STONE.
+[23:29:05]: Lhendy51 broke the block GRAVEL at the location 1269, 66, 665.
+[23:29:05]: Lhendy51 picked up the item ANDESITE.
+[23:29:05]: Lhendy51 picked up the item GRAVEL.
+[23:29:10]: Lhendy51 broke the block STONE at the location 1269, 63, 666.
+[23:29:12]: Lhendy51 picked up the item STONE.
+[23:29:13]: Lhendy51 picked up the item STONE.
+[23:29:43]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 69, 666.
+[23:29:43]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 69, 665.
+[23:29:44]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 69, 664.
+[23:29:49]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 69, 665.
+[23:29:49]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 69, 666.
+[23:30:06]: Lhendy51 broke the block GRAVEL at the location 1267, 68, 666.
+[23:30:06]: Lhendy51 broke the block GRAVEL at the location 1267, 67, 666.
+[23:30:07]: Lhendy51 broke the block GRAVEL at the location 1265, 68, 666.
+[23:30:15]: Lhendy51 broke the block STONE at the location 1267, 69, 664.
+[23:30:15]: Lhendy51 broke the block STONE at the location 1266, 69, 664.
+[23:30:15]: Lhendy51 broke the block STONE at the location 1266, 69, 665.
+[23:30:15]: Lhendy51 picked up the item STONE.
+[23:30:15]: Lhendy51 broke the block STONE at the location 1265, 69, 665.
+[23:30:16]: Lhendy51 picked up the item STONE.
+[23:30:16]: Lhendy51 broke the block STONE at the location 1264, 69, 665.
+[23:30:17]: Lhendy51 broke the block STONE at the location 1263, 69, 665.
+[23:30:18]: The TPS is 20.
+[23:30:18]: The current RAM usage is 2711MB / 3072MB (88.25%).
+[23:30:18]: The current player count is 1.
+[23:30:21]: Lhendy51 broke the block STONE at the location 1262, 69, 665.
+[23:30:21]: Lhendy51 broke the block STONE at the location 1261, 69, 665.
+[23:30:23]: Lhendy51 picked up the item STONE.
+[23:30:23]: Lhendy51 broke the block STONE at the location 1260, 69, 665.
+[23:30:23]: Lhendy51 picked up the item STONE.
+[23:30:23]: Lhendy51 broke the block STONE at the location 1260, 68, 665.
+[23:30:25]: Lhendy51 broke the block STONE at the location 1259, 69, 664.
+[23:30:26]: Lhendy51 broke the block ANDESITE at the location 1259, 68, 665.
+[23:30:27]: Lhendy51 picked up the item ANDESITE.
+[23:30:28]: Lhendy51 broke the block GRAVEL at the location 1259, 67, 665.
+[23:30:30]: Lhendy51 broke the block ANDESITE at the location 1260, 68, 666.
+[23:30:31]: Lhendy51 broke the block STONE at the location 1261, 68, 666.
+[23:30:31]: Lhendy51 broke the block STONE at the location 1262, 68, 666.
+[23:30:31]: Lhendy51 picked up the item ANDESITE.
+[23:30:31]: Lhendy51 broke the block STONE at the location 1263, 68, 666.
+[23:30:31]: Lhendy51 broke the block STONE at the location 1264, 68, 666.
+[23:30:31]: Lhendy51 picked up the item STONE.
+[23:30:32]: Lhendy51 broke the block GRAVEL at the location 1260, 67, 666.
+[23:30:32]: Lhendy51 broke the block GRAVEL at the location 1261, 67, 666.
+[23:30:34]: Lhendy51 broke the block STONE at the location 1262, 67, 666.
+[23:30:34]: Lhendy51 broke the block ANDESITE at the location 1263, 67, 666.
+[23:30:34]: Lhendy51 broke the block ANDESITE at the location 1264, 67, 666.
+[23:30:34]: Lhendy51 broke the block ANDESITE at the location 1265, 67, 666.
+[23:30:34]: Lhendy51 broke the block STONE at the location 1266, 67, 666.
+[23:30:34]: Lhendy51 picked up the item STONE.
+[23:30:35]: Lhendy51 picked up the item ANDESITE.
+[23:30:35]: Lhendy51 picked up the item STONE.
+[23:30:35]: Lhendy51 broke the block ANDESITE at the location 1266, 68, 666.
+[23:30:35]: Lhendy51 picked up the item ANDESITE.
+[23:30:36]: Lhendy51 picked up the item STONE.
+[23:30:36]: Lhendy51 picked up the item GRAVEL.
+[23:30:36]: Lhendy51 picked up the item ANDESITE.
+[23:30:37]: Lhendy51 broke the block ANDESITE at the location 1268, 68, 665.
+[23:30:37]: Lhendy51 broke the block STONE at the location 1268, 67, 665.
+[23:30:37]: Lhendy51 picked up the item ANDESITE.
+[23:30:37]: Lhendy51 picked up the item STONE.
+[23:30:37]: Lhendy51 broke the block STONE at the location 1267, 68, 665.
+[23:30:38]: Lhendy51 picked up the item STONE.
+[23:30:38]: Lhendy51 broke the block STONE at the location 1268, 68, 664.
+[23:30:39]: Lhendy51 broke the block STONE at the location 1268, 67, 664.
+[23:30:41]: Lhendy51 broke the block GRAVEL at the location 1267, 67, 665.
+[23:30:41]: Lhendy51 picked up the item GRAVEL.
+[23:30:45]: Lhendy51 broke the block STONE at the location 1259, 66, 666.
+[23:30:45]: Lhendy51 broke the block STONE at the location 1259, 66, 665.
+[23:30:46]: Lhendy51 broke the block STONE at the location 1260, 66, 666.
+[23:30:46]: Lhendy51 picked up the item GRAVEL.
+[23:30:46]: Lhendy51 broke the block STONE at the location 1261, 66, 666.
+[23:30:46]: Lhendy51 broke the block STONE at the location 1262, 66, 666.
+[23:30:46]: Lhendy51 broke the block STONE at the location 1263, 66, 666.
+[23:30:47]: Lhendy51 broke the block STONE at the location 1264, 66, 666.
+[23:30:47]: Lhendy51 broke the block STONE at the location 1265, 66, 666.
+[23:30:47]: Lhendy51 broke the block STONE at the location 1266, 66, 666.
+[23:30:47]: Lhendy51 broke the block ANDESITE at the location 1267, 66, 666.
+[23:30:47]: Lhendy51 broke the block ANDESITE at the location 1267, 66, 665.
+[23:30:47]: Lhendy51 broke the block STONE at the location 1268, 66, 665.
+[23:30:48]: Lhendy51 broke the block STONE at the location 1268, 65, 666.
+[23:30:48]: Lhendy51 broke the block STONE at the location 1268, 66, 664.
+[23:30:49]: Lhendy51 picked up the item ANDESITE.
+[23:30:49]: Lhendy51 picked up the item STONE.
+[23:30:49]: Lhendy51 picked up the item GRAVEL.
+[23:30:51]: Lhendy51 picked up the item STONE.
+[23:30:58]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 63, 666.
+[23:31:00]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 63, 665.
+[23:31:03]: Lhendy51 broke the block STONE at the location 1269, 65, 664.
+[23:31:03]: Lhendy51 broke the block ANDESITE at the location 1269, 65, 665.
+[23:31:03]: Lhendy51 broke the block STONE at the location 1269, 66, 664.
+[23:31:03]: Lhendy51 broke the block STONE at the location 1269, 67, 664.
+[23:31:03]: Lhendy51 picked up the item STONE.
+[23:31:04]: Lhendy51 picked up the item STONE.
+[23:31:04]: Lhendy51 broke the block STONE at the location 1269, 68, 664.
+[23:31:08]: Lhendy51 broke the block STONE at the location 1258, 64, 666.
+[23:31:09]: Lhendy51 broke the block STONE at the location 1258, 65, 666.
+[23:31:09]: Lhendy51 broke the block STONE at the location 1258, 63, 666.
+[23:31:10]: Lhendy51 picked up the item STONE.
+[23:31:11]: Lhendy51 broke the block STONE at the location 1258, 66, 665.
+[23:31:25]: Lhendy51 broke the block STONE at the location 1269, 69, 663.
+[23:31:26]: Lhendy51 picked up the item STONE.
+[23:31:26]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 69, 663.
+[23:31:27]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 68, 663.
+[23:31:27]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 67, 663.
+[23:31:27]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 66, 663.
+[23:31:27]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 65, 663.
+[23:31:29]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 64, 663.
+[23:31:29]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 63, 664.
+[23:31:31]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 63, 663.
+[23:31:31]: Lhendy51 picked up the item ANDESITE.
+[23:31:32]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 64, 665.
+[23:31:33]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 64, 666.
+[23:31:34]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 64, 664.
+[23:31:34]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 65, 664.
+[23:31:34]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 66, 664.
+[23:31:35]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 67, 664.
+[23:31:35]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 68, 664.
+[23:31:35]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 68, 665.
+[23:31:36]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 68, 666.
+[23:31:36]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 67, 666.
+[23:31:39]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 68, 665.
+[23:31:39]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 67, 665.
+[23:31:40]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 66, 666.
+[23:31:40]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 66, 665.
+[23:31:40]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 65, 666.
+[23:31:40]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 65, 665.
+[23:31:41]: Lhendy51 broke the block NETHER_BRICKS at the location 1268, 68, 665.
+[23:31:52]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:31:55]: Lhendy51 broke the block STONE at the location 1268, 69, 663.
+[23:31:56]: Lhendy51 picked up the item STONE.
+[23:31:56]: Lhendy51 picked up the item GRAVEL.
+[23:31:56]: Lhendy51 picked up the item GRAVEL.
+[23:32:00]: Lhendy51 broke the block STONE at the location 1267, 69, 663.
+[23:32:01]: Lhendy51 picked up the item STONE.
+[23:32:02]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 70, 663.
+[23:32:05]: Lhendy51 broke the block NETHER_BRICKS at the location 1268, 70, 663.
+[23:32:06]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:32:08]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 69, 663.
+[23:32:10]: Lhendy51 placed the block NETHER_BRICKS at the location 1267, 69, 663.
+[23:32:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1266, 69, 663.
+[23:32:15]: Lhendy51 placed the block NETHER_BRICKS at the location 1265, 69, 663.
+[23:32:16]: Lhendy51 placed the block NETHER_BRICKS at the location 1264, 69, 663.
+[23:32:18]: Lhendy51 placed the block NETHER_BRICKS at the location 1263, 69, 663.
+[23:32:19]: Lhendy51 placed the block NETHER_BRICKS at the location 1262, 69, 663.
+[23:32:23]: Lhendy51 placed the block NETHER_BRICKS at the location 1261, 69, 663.
+[23:32:24]: Lhendy51 placed the block NETHER_BRICKS at the location 1260, 69, 663.
+[23:32:25]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 69, 663.
+[23:32:37]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 69, 664.
+[23:32:38]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 69, 665.
+[23:32:39]: Lhendy51 placed the block NETHER_BRICKS at the location 1268, 69, 666.
+[23:32:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1267, 69, 664.
+[23:32:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1267, 69, 665.
+[23:32:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1267, 69, 666.
+[23:33:10]: Lhendy51 placed the block NETHER_BRICKS at the location 1265, 69, 664.
+[23:33:11]: Lhendy51 placed the block NETHER_BRICKS at the location 1266, 69, 664.
+[23:33:11]: Lhendy51 placed the block NETHER_BRICKS at the location 1265, 69, 665.
+[23:33:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1266, 69, 665.
+[23:33:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1265, 69, 666.
+[23:33:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1265, 70, 666.
+[23:33:14]: Lhendy51 broke the block NETHER_BRICKS at the location 1265, 70, 666.
+[23:33:14]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:33:15]: Lhendy51 placed the block NETHER_BRICKS at the location 1266, 70, 665.
+[23:33:16]: Lhendy51 placed the block NETHER_BRICKS at the location 1266, 69, 666.
+[23:33:17]: Lhendy51 broke the block NETHER_BRICKS at the location 1266, 70, 665.
+[23:33:18]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:33:22]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 69, 664.
+[23:33:22]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 69, 665.
+[23:33:22]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 69, 666.
+[23:33:27]: Lhendy51 broke the block STONE at the location 1258, 70, 664.
+[23:33:27]: Lhendy51 broke the block STONE at the location 1258, 69, 664.
+[23:33:29]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 69, 664.
+[23:33:29]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 69, 663.
+[23:33:32]: Lhendy51 placed the block NETHER_BRICKS at the location 1260, 69, 666.
+[23:33:33]: Lhendy51 placed the block NETHER_BRICKS at the location 1260, 69, 665.
+[23:33:33]: Lhendy51 placed the block NETHER_BRICKS at the location 1260, 69, 664.
+[23:33:34]: Lhendy51 picked up the item STONE.
+[23:33:37]: Lhendy51 placed the block NETHER_BRICKS at the location 1261, 69, 665.
+[23:33:37]: Lhendy51 placed the block NETHER_BRICKS at the location 1261, 69, 664.
+[23:33:38]: Lhendy51 placed the block NETHER_BRICKS at the location 1262, 69, 665.
+[23:33:38]: Lhendy51 placed the block NETHER_BRICKS at the location 1262, 69, 664.
+[23:33:40]: Lhendy51 placed the block NETHER_BRICKS at the location 1263, 69, 665.
+[23:33:40]: Lhendy51 placed the block NETHER_BRICKS at the location 1263, 69, 664.
+[23:33:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1264, 69, 665.
+[23:33:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1264, 69, 664.
+[23:33:44]: Lhendy51 placed the block NETHER_BRICKS at the location 1264, 69, 666.
+[23:33:45]: Lhendy51 placed the block NETHER_BRICKS at the location 1263, 69, 666.
+[23:33:45]: Lhendy51 placed the block NETHER_BRICKS at the location 1262, 69, 666.
+[23:33:46]: Lhendy51 placed the block NETHER_BRICKS at the location 1261, 69, 666.
+[23:33:48]: Lhendy51 placed the block ANDESITE at the location 1268, 70, 663.
+[23:33:49]: Lhendy51 placed the block ANDESITE at the location 1268, 71, 663.
+[23:33:51]: Lhendy51 placed the block STONE at the location 1266, 70, 664.
+[23:33:52]: Lhendy51 placed the block STONE at the location 1266, 70, 665.
+[23:33:54]: Lhendy51 placed the block STONE at the location 1258, 70, 664.
+[23:33:54]: Lhendy51 placed the block STONE at the location 1259, 70, 664.
+[23:33:55]: Lhendy51 placed the block STONE at the location 1259, 71, 664.
+[23:33:55]: Lhendy51 placed the block STONE at the location 1259, 70, 665.
+[23:33:57]: Lhendy51 placed the block STONE at the location 1262, 70, 666.
+[23:33:57]: Lhendy51 placed the block STONE at the location 1261, 70, 666.
+[23:33:59]: Lhendy51 placed the block STONE at the location 1264, 70, 666.
+[23:33:59]: Lhendy51 placed the block STONE at the location 1263, 70, 666.
+[23:34:04]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 63, 666.
+[23:34:04]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 63, 665.
+[23:34:05]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 63, 664.
+[23:34:08]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 68, 663.
+[23:34:08]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 67, 663.
+[23:34:08]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 66, 663.
+[23:34:09]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 65, 663.
+[23:34:10]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 64, 663.
+[23:34:12]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 63, 663.
+[23:34:14]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 64, 664.
+[23:34:14]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 65, 664.
+[23:34:15]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 66, 664.
+[23:34:16]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 64, 665.
+[23:34:16]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 64, 666.
+[23:34:17]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 65, 666.
+[23:34:18]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 66, 666.
+[23:34:19]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 65, 665.
+[23:34:19]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 66, 665.
+[23:34:22]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 68, 664.
+[23:34:23]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 68, 665.
+[23:34:24]: Lhendy51 placed the block NETHER_BRICKS at the location 1259, 67, 665.
+[23:34:25]: Lhendy51 broke the block NETHER_BRICKS at the location 1259, 67, 665.
+[23:34:26]: Lhendy51 broke the block NETHER_BRICKS at the location 1259, 68, 665.
+[23:34:26]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:34:27]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:34:27]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 68, 665.
+[23:34:29]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 68, 666.
+[23:34:30]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 67, 666.
+[23:34:30]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 67, 665.
+[23:34:31]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 67, 664.
+[23:34:38]: Lhendy51 broke the block STONE at the location 1258, 62, 667.
+[23:34:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 62, 667.
+[23:34:41]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 62, 666.
+[23:34:42]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 62, 665.
+[23:34:42]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 62, 664.
+[23:34:43]: Lhendy51 placed the block NETHER_BRICKS at the location 1258, 62, 663.
+[23:34:46]: Lhendy51 broke the block STONE at the location 1269, 62, 667.
+[23:34:47]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 62, 667.
+[23:34:48]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 62, 666.
+[23:34:48]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 62, 665.
+[23:34:49]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 62, 664.
+[23:34:50]: Lhendy51 placed the block NETHER_BRICKS at the location 1269, 62, 663.
+[23:35:18]: The TPS is 20.
+[23:35:18]: The current RAM usage is 2216MB / 3072MB (72.14%).
+[23:35:18]: The current player count is 1.
+[23:35:22]: Lhendy51 picked up the item STONE.
+[23:35:23]: Lhendy51 picked up the item STONE.
+[23:35:25]: Lhendy51 picked up the item STONE.
+[23:35:26]: Lhendy51 broke the block GRAVEL at the location 1258, 33, 665.
+[23:35:26]: Lhendy51 broke the block GRAVEL at the location 1258, 32, 665.
+[23:35:26]: Lhendy51 picked up the item GRAVEL.
+[23:36:43]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:45]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:47]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:49]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:50]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:52]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:55]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:36:59]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:37:03]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:37:03]: Lhendy51 picked up the item ROTTEN_FLESH.
+[23:37:05]: Lhendy51 picked up the item ROTTEN_FLESH.
+[23:37:09]: Lhendy51 picked up the item SPIDER_EYE.
+[23:37:15]: Lhendy51 dropped the item ROTTEN_FLESH.
+[23:37:15]: Lhendy51 dropped the item ROTTEN_FLESH.
+[23:37:16]: Lhendy51 dropped the item SPIDER_EYE.
+[23:39:25]: Lhendy51 picked up the item PRISMARINE_SHARD.
+[23:39:57]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:40:10]: Lhendy51 picked up the item ROTTEN_FLESH.
+[23:40:11]: Lhendy51 dropped the item ROTTEN_FLESH.
+[23:40:18]: The TPS is 20.
+[23:40:18]: The current RAM usage is 2315MB / 3072MB (75.36%).
+[23:40:18]: The current player count is 1.
+[23:41:20]: Lhendy51 broke the block NETHER_BRICKS at the location 1268, 69, 665.
+[23:41:22]: Lhendy51 broke the block NETHER_BRICKS at the location 1267, 69, 665.
+[23:41:23]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:24]: Lhendy51 broke the block NETHER_BRICKS at the location 1266, 69, 665.
+[23:41:26]: Lhendy51 broke the block NETHER_BRICKS at the location 1265, 69, 665.
+[23:41:27]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:27]: Lhendy51 broke the block NETHER_BRICKS at the location 1264, 69, 665.
+[23:41:28]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:29]: Lhendy51 broke the block NETHER_BRICKS at the location 1263, 69, 665.
+[23:41:30]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:31]: Lhendy51 broke the block NETHER_BRICKS at the location 1262, 69, 665.
+[23:41:31]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:33]: Lhendy51 broke the block NETHER_BRICKS at the location 1261, 69, 665.
+[23:41:34]: Lhendy51 broke the block NETHER_BRICKS at the location 1260, 69, 665.
+[23:41:35]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:36]: Lhendy51 broke the block NETHER_BRICKS at the location 1259, 69, 665.
+[23:41:37]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:37]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:41:38]: Lhendy51 picked up the item NETHER_BRICKS.
+[23:44:37]: Lhendy51 placed the block Mumbox (RED_SHULKER_BOX) at the location 1287, 59, 766.
+[23:45:03]: Lhendy51 broke the block RED_SHULKER_BOX at the location 1287, 59, 766.
+[23:45:03]: Lhendy51 picked up the item Mumbox (RED_SHULKER_BOX).
+[23:45:18]: The TPS is 20.
+[23:45:18]: The current RAM usage is 2785MB / 3072MB (90.66%).
+[23:45:18]: The current player count is 1.
+[23:45:33]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:46:40]: Lhendy51 placed the block Valuables (YELLOW_SHULKER_BOX) at the location 1258, 11, 630.
+[23:46:47]: Lhendy51 broke the block YELLOW_SHULKER_BOX at the location 1258, 11, 630.
+[23:46:48]: Lhendy51 picked up the item Valuables (YELLOW_SHULKER_BOX).
+[23:48:52]: Lhendy51 placed the block ANDESITE at the location 1265, 70, 666.
+[23:48:53]: Lhendy51 placed the block ANDESITE at the location 1266, 70, 666.
+[23:48:53]: Lhendy51 placed the block ANDESITE at the location 1267, 70, 666.
+[23:48:53]: Lhendy51 placed the block ANDESITE at the location 1268, 70, 666.
+[23:48:55]: Lhendy51 placed the block ANDESITE at the location 1269, 70, 664.
+[23:48:55]: Lhendy51 placed the block ANDESITE at the location 1269, 70, 665.
+[23:48:57]: Lhendy51 placed the block ANDESITE at the location 1268, 70, 664.
+[23:48:57]: Lhendy51 placed the block ANDESITE at the location 1268, 71, 664.
+[23:48:58]: Lhendy51 placed the block ANDESITE at the location 1268, 71, 665.
+[23:48:58]: Lhendy51 placed the block ANDESITE at the location 1267, 71, 664.
+[23:48:58]: Lhendy51 placed the block ANDESITE at the location 1267, 71, 665.
+[23:48:59]: Lhendy51 placed the block ANDESITE at the location 1266, 71, 665.
+[23:49:01]: Lhendy51 placed the block ANDESITE at the location 1259, 70, 666.
+[23:49:02]: Lhendy51 placed the block ANDESITE at the location 1260, 70, 666.
+[23:49:03]: Lhendy51 placed the block ANDESITE at the location 1259, 71, 665.
+[23:49:05]: Lhendy51 placed the block ANDESITE at the location 1258, 70, 665.
+[23:49:05]: Lhendy51 placed the block ANDESITE at the location 1257, 69, 665.
+[23:49:15]: Lhendy51 placed the block ANDESITE at the location 1268, 70, 665.
+[23:49:15]: Lhendy51 placed the block ANDESITE at the location 1268, 69, 665.
+[23:49:18]: Lhendy51 broke the block ANDESITE at the location 1268, 69, 665.
+[23:49:19]: Lhendy51 picked up the item ANDESITE.
+[23:49:20]: Lhendy51 placed the block ANDESITE at the location 1268, 69, 665.
+[23:49:21]: Lhendy51 broke the block ANDESITE at the location 1268, 69, 665.
+[23:49:22]: Lhendy51 picked up the item ANDESITE.
+[23:49:24]: Lhendy51 placed the block ANDESITE at the location 1267, 70, 665.
+[23:49:25]: Lhendy51 placed the block DISPENSER at the location 1268, 69, 665.
+[23:49:26]: Lhendy51 placed the block DISPENSER at the location 1267, 69, 665.
+[23:49:28]: Lhendy51 placed the block DISPENSER at the location 1266, 69, 665.
+[23:49:29]: Lhendy51 placed the block DISPENSER at the location 1265, 69, 665.
+[23:49:30]: Lhendy51 placed the block DISPENSER at the location 1264, 69, 665.
+[23:49:31]: Lhendy51 placed the block DISPENSER at the location 1263, 69, 665.
+[23:49:33]: Lhendy51 placed the block DISPENSER at the location 1262, 69, 665.
+[23:49:34]: Lhendy51 placed the block DISPENSER at the location 1261, 69, 665.
+[23:49:35]: Lhendy51 placed the block DISPENSER at the location 1260, 69, 665.
+[23:49:36]: Lhendy51 placed the block DISPENSER at the location 1259, 69, 665.
+[23:50:18]: The TPS is 20.
+[23:50:18]: The current RAM usage is 2057MB / 3072MB (66.96%).
+[23:50:18]: The current player count is 1.
+[23:51:28]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1268, 62, 665.
+[23:51:29]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:30]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1267, 62, 665.
+[23:51:31]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:32]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1266, 62, 665.
+[23:51:32]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:32]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1265, 62, 665.
+[23:51:33]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:33]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1264, 62, 665.
+[23:51:34]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:34]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1263, 62, 665.
+[23:51:35]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:35]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1262, 62, 665.
+[23:51:36]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:36]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1261, 62, 665.
+[23:51:36]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:37]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1260, 62, 665.
+[23:51:37]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:51:38]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1259, 62, 665.
+[23:51:39]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:52:25]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:52:27]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:52:29]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:52:31]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:52:38]: Lhendy51 broke the block SEA_LANTERN at the location 1257, 63, 629.
+[23:52:39]: Lhendy51 picked up the item SEA_LANTERN.
+[23:52:40]: Lhendy51 placed the block SEA_LANTERN at the location 1256, 63, 631.
+[23:52:50]: Lhendy51 broke the block SEA_LANTERN at the location 1259, 63, 617.
+[23:52:51]: Lhendy51 picked up the item SEA_LANTERN.
+[23:52:52]: Lhendy51 placed the block SEA_LANTERN at the location 1257, 63, 616.
+[23:53:11]: Lhendy51 placed the block SEA_LANTERN at the location 1254, 63, 633.
+[23:53:14]: Lhendy51 placed the block SEA_LANTERN at the location 1254, 63, 614.
+[23:53:19]: Lhendy51 placed the block SEA_LANTERN at the location 1273, 63, 633.
+[23:55:18]: The TPS is 20.
+[23:55:18]: The current RAM usage is 2575MB / 3072MB (83.82%).
+[23:55:18]: The current player count is 1.
+[23:56:02]: Lhendy51 placed the block Mumbox (RED_SHULKER_BOX) at the location 1268, 63, 662.
+[23:57:10]: Lhendy51 placed the block Scaffolding & Co. (GREEN_SHULKER_BOX) at the location 1265, 63, 633.
+[23:57:26]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 40, 667.
+[23:57:26]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 40, 668.
+[23:57:26]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 40, 669.
+[23:57:26]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 40, 670.
+[23:57:27]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 40, 668.
+[23:57:27]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 40, 669.
+[23:57:27]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 40, 670.
+[23:57:28]: Lhendy51 picked up the item SCAFFOLDING.
+[23:57:46]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 41, 667.
+[23:57:46]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 42, 667.
+[23:57:46]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 43, 667.
+[23:57:46]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 44, 667.
+[23:57:46]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 45, 667.
+[23:57:47]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 46, 667.
+[23:57:47]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 47, 667.
+[23:57:47]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 48, 667.
+[23:57:47]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 49, 667.
+[23:57:47]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 50, 667.
+[23:57:48]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 51, 667.
+[23:57:48]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 52, 667.
+[23:57:48]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 53, 667.
+[23:57:48]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 54, 667.
+[23:57:57]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 54, 666.
+[23:57:58]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 54, 666.
+[23:57:59]: Lhendy51 picked up the item SCAFFOLDING.
+[23:58:02]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 55, 667.
+[23:58:02]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 56, 667.
+[23:58:02]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 57, 667.
+[23:58:03]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 58, 667.
+[23:58:03]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 59, 667.
+[23:58:05]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 60, 667.
+[23:58:05]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 61, 667.
+[23:58:07]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 61, 667.
+[23:58:07]: Lhendy51 picked up the item SCAFFOLDING.
+[23:58:08]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 60, 667.
+[23:58:09]: Lhendy51 picked up the item SCAFFOLDING.
+[23:58:10]: Lhendy51 broke the block SCAFFOLDING at the location 1264, 59, 667.
+[23:58:10]: Lhendy51 picked up the item SCAFFOLDING.
+[23:58:12]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 58, 666.
+[23:58:12]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 58, 665.
+[23:58:12]: Lhendy51 placed the block SCAFFOLDING at the location 1264, 58, 664.
+[23:58:31]: Lhendy51 placed the block SCAFFOLDING at the location 1265, 58, 665.
+[23:58:32]: Lhendy51 placed the block SCAFFOLDING at the location 1266, 58, 665.
+[23:58:32]: Lhendy51 placed the block SCAFFOLDING at the location 1267, 58, 665.
+[23:58:32]: Lhendy51 placed the block SCAFFOLDING at the location 1268, 58, 665.
+[23:58:34]: Lhendy51 placed the block SCAFFOLDING at the location 1263, 58, 665.
+[23:58:35]: Lhendy51 placed the block SCAFFOLDING at the location 1262, 58, 665.
+[23:58:35]: Lhendy51 placed the block SCAFFOLDING at the location 1261, 58, 665.
+[23:58:35]: Lhendy51 placed the block SCAFFOLDING at the location 1260, 58, 665.
+[23:59:02]: Lhendy51 placed the block ANDESITE at the location 1260, 59, 665.
+[23:59:05]: Lhendy51 placed the block STICKY_PISTON at the location 1260, 60, 665.
+[23:59:10]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 61, 665.
+[23:59:16]: Lhendy51 placed the block STICKY_PISTON at the location 1259, 60, 665.
+[23:59:19]: Lhendy51 placed the block STICKY_PISTON at the location 1261, 60, 665.
+[23:59:21]: Lhendy51 placed the block STICKY_PISTON at the location 1262, 60, 665.
+[23:59:21]: Lhendy51 placed the block STICKY_PISTON at the location 1263, 60, 665.
+[23:59:22]: Lhendy51 placed the block STICKY_PISTON at the location 1264, 60, 665.
+[23:59:23]: Lhendy51 placed the block STICKY_PISTON at the location 1265, 60, 665.
+[23:59:23]: Lhendy51 placed the block STICKY_PISTON at the location 1266, 60, 665.
+[23:59:24]: Lhendy51 placed the block STICKY_PISTON at the location 1267, 60, 665.
+[23:59:24]: Lhendy51 placed the block STICKY_PISTON at the location 1268, 60, 665.
+[23:59:26]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1268, 61, 665.
+[23:59:27]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1267, 61, 665.
+[23:59:27]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1266, 61, 665.
+[23:59:30]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1265, 61, 665.
+[23:59:30]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1263, 61, 665.
+[23:59:32]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1264, 61, 665.
+[23:59:32]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1262, 61, 665.
+[23:59:33]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 61, 665.
+[23:59:34]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1261, 61, 665.
+[23:59:35]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1259, 61, 665.
+[23:59:37]: Lhendy51 broke the block DARK_PRISMARINE_SLAB at the location 1260, 61, 665.
+[23:59:37]: Lhendy51 picked up the item DARK_PRISMARINE_SLAB.
+[23:59:38]: Lhendy51 placed the block DARK_PRISMARINE_SLAB at the location 1260, 61, 665.

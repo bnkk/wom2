@@ -1,0 +1,13 @@
+[23:44:16]: Austin_Powers_ kicked. Their IP was 73.154.194.210. Reason: §c§lWorld O' Meme SMP Server §8§l» §7You got kicked
+§7
+§cReason §8» §7none
+§7
+[23:45:09]: Austin_Powers_ kicked. Their IP was 73.154.194.210. Reason: §c§lWorld O' Meme SMP Server §8§l» §7Temporarily banned
+§7
+§7
+§cReason §8» §7you arent funny
+§cDuration §8» §79 seconds
+§7
+§8Unban application in TS or forum
+§eTS-Ip §8» §c§ncoming soon
+§eForum §8» §c§ncoming soon

@@ -1,0 +1,30 @@
+[00:00:25]: Austin_Powers_ placed the block DIRT at the location 9, 66, 59.
+[00:00:25]: Austin_Powers_ placed the block DIRT at the location 10, 66, 59.
+[00:00:27]: Austin_Powers_ placed the block DIRT at the location 8, 66, 60.
+[00:00:41]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -18, 63, 100.
+[00:00:41]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -17, 63, 100.
+[00:00:42]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -17, 63, 99.
+[00:00:42]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -18, 63, 99.
+[00:00:48]: Lhendy51 quit at the location 1544, 111, 864. Their IP was 73.154.195.184.
+[00:01:03]: captainasia_ teleported to -5, 50, 46.
+[00:01:05]: captainasia_ dropped the item COOKED_COD.
+[00:01:07]: captainasia_ picked up the item COOKED_COD.
+[00:01:08]: captainasia_ dropped the item COOKED_COD.
+[00:01:10]: captainasia_ picked up the item COOKED_COD.
+[00:01:16]: Lhendy51 joined from the IP 73.154.195.184.
+[00:01:18]: captainasia_ dropped the item COOKED_COD.
+[00:01:18]: captainasia_ dropped the item COOKED_COD.
+[00:01:19]: captainasia_ picked up the item COOKED_COD.
+[00:01:45]: Lhendy51 quit at the location 1536, 46, 808. Their IP was 73.154.195.184.
+[00:01:50]: Lhendy51 joined from the IP 73.154.195.184.
+[00:01:54]: Austin_Powers_ picked up the item ARROW.
+[00:02:13]: Lhendy51 teleported to 1536, 46, 808.
+[00:02:21]: Austin_Powers_ picked up the item ROTTEN_FLESH.
+[00:02:21]: Austin_Powers_ picked up the item GOLDEN_SWORD.
+[00:02:21]: Lhendy51 picked up the item ROTTEN_FLESH.
+[00:02:23]: Austin_Powers_ picked up the item ROTTEN_FLESH.
+[00:02:28]: Austin_Powers_ dropped the item BONE.
+[00:02:30]: Lhendy51 dropped the item ROTTEN_FLESH.
+[00:02:30]: Lhendy51 dropped the item ROTTEN_FLESH.
+[00:02:31]: Lhendy51 dropped the item ROTTEN_FLESH.
+[00:02:31]: Austin_Powers_ picked up the item BONE.
