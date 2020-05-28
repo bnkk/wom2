@@ -1,0 +1,105 @@
+[20:01:39]: Lhendy51 ran the command /kill borps.
+[20:01:52]: Lhendy51 ran the command /effect give @a fire.
+[20:02:02]: Borps ran the command /summon bee.
+[20:02:18]: Borps ran the command /summon bee ~ ~ ~ {Count:20b}.
+[20:02:22]: Borps ran the command /summon bee ~ ~ ~ {Count:20}.
+[20:03:51]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee}]}.
+[20:04:00]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee}]}.
+[20:04:18]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}.
+[20:04:22]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}.
+[20:04:22]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}.
+[20:04:23]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}/.
+[20:04:24]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}.
+[20:04:24]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}.
+[20:04:25]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee}]}]}.
+[20:05:04]: Borps ran the command /summon minecraft:lightning_bolt.
+[20:05:09]: Borps ran the command /summon minecraft:lightning_bolt.
+[20:05:09]: Borps ran the command /summon minecraft:lightning_bolt.
+[20:05:09]: Borps ran the command /summon minecraft:lightning_bolt.
+[20:05:55]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee}]}]}]}]}]}.
+[20:06:03]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee}]}]}]}]}]}.
+[20:06:17]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:cow}]}]}]}]}]}.
+[20:07:15]: Borps ran the command /summon minecraft:rabbit ~ ~ ~ {RabbitType:99}.
+[20:07:24]: Borps ran the command /summon minecraft:rabbit ~ ~ ~ {RabbitType:99}.
+[20:07:44]: Borps ran the command /summon minecraft:lightning_bolt.
+[20:07:58]: Borps ran the command /day.
+[20:07:58]: Borps ran the command /time set day.
+[20:08:25]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee}]}]}]}]}]}.
+[20:09:38]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:09:53]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:14:44]: Borps ran the command /shopkeeper.
+[20:17:25]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:17:37]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:18:42]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:09]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:13]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:13]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:13]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:13]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:13]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:19:29]: Borps ran the command /tp Austin_Powers_ Borps.
+[20:22:54]: Borps ran the command /mute Austin_Powers_ invalid reason.
+[20:23:13]: Borps ran the command /unmute Austin_Powers_.
+[20:25:57]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee}]}]}]}]}]}]}]}.
+[20:26:50]: Borps ran the command /kill @e[type=bee].
+[20:27:58]: Borps ran the command /tp TARDIS_360 Borps.
+[20:34:45]: Borps ran the command /lp user BenjaboyQ permission set *.
+[20:35:02]: Borps ran the command /lp user BenjaboyQ permission unset *.
+[20:37:17]: Borps ran the command /generate-sword1.
+[20:37:17]: Borps ran the command /give @s minecraft:diamond_sword{Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:10},{id:"minecraft:fire_aspect",lvl:10},{id:"minecraft:knockback",lvl:100},{id:"minecraft:looting",lvl:10},{id:"minecraft:mending",lvl:1},{id:"minecraft:sharpness",lvl:100},{id:"minecraft:smite",lvl:10},{id:"minecraft:sweeping",lvl:10}],Unbreakable:1,display:{Name:"{\"text\":\"Borp's Sharp Object\",\"color\":\"gold\"}"}}.
+[20:37:49]: Borps ran the command /msg Lhendy51 /generate-sword1.
+[20:38:15]: Lhendy51 ran the command /tp Austin_Powers_ Lhendy51.
+[20:38:22]: Borps ran the command /generate-stick.
+[20:38:29]: Borps ran the command /mycmd.
+[20:38:33]: Borps ran the command /mycmd list.
+[20:38:44]: Borps ran the command /mycmd list 2.
+[20:39:12]: Borps ran the command /give Borps stick{Enchantments:[{id:"minecraft:knockback",lvl:200}]}.
+[20:39:36]: Borps ran the command /tp BenjaboyQ.
+[20:42:28]: Borps ran the command /day.
+[20:42:28]: Borps ran the command /time set day.
+[20:49:55]: Borps ran the command /kick captainasia_.
+[20:52:42]: Borps ran the command /day.
+[20:52:42]: Borps ran the command /time set day.
+[20:54:03]: Borps ran the command /summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_dye",Count:49b}}.
+[20:54:14]: Borps ran the command /summon minecraft:item ~5 ~ ~ {Item:{id:"minecraft:light_gray_dye",Count:49b}}.
+[20:56:37]: Borps ran the command /summon minecraft:item ~ ~ ~-5 {Item:{id:"minecraft:light_gray_dye",Count:49b}}.
+[20:59:51]: Borps ran the command /summon bee ~ ~ ~ {Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee,Passengers:[{id:bee}]}]}]}]}]}]}]}.
+[21:00:11]: Borps ran the command /kill @e[type=bee].
+[21:22:33]: BenjaboyQ ran the command /tell Lhendy51 do you have silk touch villager?.
+[21:23:13]: BenjaboyQ ran the command /tell Lhendy51 nevermind.
+[22:16:06]: Borps ran the command //wand.
+[22:16:19]: Borps ran the command //pos1.
+[22:16:23]: Borps ran the command //pos2.
+[22:16:27]: Borps ran the command //set tnt.
+[22:16:35]: Borps ran the command //undo.
+[22:16:59]: Borps ran the command //set lava.
+[22:17:02]: Borps ran the command //undo.
+[22:17:46]: Borps ran the command //set lava.
+[22:17:56]: Borps ran the command //undo.
+[22:18:02]: Lhendy51 ran the command /tp Lhendy51 Austin_Powers_.
+[22:18:12]: Borps ran the command /openinv.
+[22:18:15]: Borps ran the command /openinv Austin_Powers_.
+[22:18:29]: Borps ran the command /openinv Austin_Powers_.
+[22:19:02]: Borps ran the command //set lava.
+[22:19:04]: Borps ran the command //undo.
+[22:19:09]: Borps ran the command //set lava.
+[22:19:12]: Borps ran the command //undo.
+[22:19:31]: Borps ran the command //set lava.
+[22:19:34]: Borps ran the command //undo.
+[22:20:26]: Borps ran the command /lp user BenDoesMusic parent set default.
+[22:20:42]: Borps ran the command /tab player BenDoesMusic tabsuffix.
+[22:23:57]: Borps ran the command /gmsp.
+[22:23:58]: Borps ran the command /gamemode spectator.
+[22:25:04]: Borps ran the command /gmc.
+[22:25:05]: Borps ran the command /gamemode creative.
+[22:47:21]: BenjaboyQ ran the command /tell BenjaboyQ come grind? we're so close.
+[22:47:33]: BenjaboyQ ran the command /tell BenDoesMusic come grind? we're so close.
+[22:47:39]: BenDoesMusic ran the command /msg BenjaboyQ ok.
+[22:51:55]: BenDoesMusic ran the command /msg BenjaboyQ im gonna take stuff out of my enderchest that isnt quartz and ill go smelt the quartz in there.
+[22:52:17]: BenDoesMusic ran the command /msg BenjaboyQ everything else is in that chest.
+[23:04:14]: BenjaboyQ ran the command /tell BenDoesMusic should we announce now?.
+[23:04:20]: BenDoesMusic ran the command /msg BenjaboyQ we could.
+[23:05:20]: BenjaboyQ ran the command /tell BenDoesMusic let's announce?.
+[23:05:36]: BenDoesMusic ran the command /msg BenjaboyQ im not a good talker but if you want to go for it.
+[23:06:20]: BenjaboyQ ran the command /ATTN: Ben^2 is calling for a referendum! Visit ------ and vote now!.
+[23:10:08]: BenDoesMusic ran the command /msg BenjaboyQ is that enough.

@@ -1,0 +1,95 @@
+[18:29:31]: Lhendy51 ran the command /openinv TARDIS_360.
+[18:29:47]: Lhendy51 ran the command /openinv Lhendy51.
+[21:16:29]: BenjaboyQ ran the command /tell BenDoesMusic git grinding.
+[21:17:48]: BenjaboyQ ran the command /tell BenDoesMusic terraforming mostly done.
+[21:45:04]: BenjaboyQ ran the command /tell BenDoesMusic bring quartz and stone.
+[21:45:18]: BenDoesMusic ran the command /msg BenjaboyQ how much.
+[21:45:41]: BenjaboyQ ran the command /tell BenDoesMusic stone: couple stacks quartz: like a boxful.
+[21:46:01]: BenDoesMusic ran the command /msg BenjaboyQ ill try.
+[21:47:07]: BenjaboyQ ran the command /tell BenDoesMusic i have concrete supplies too, but need green dye.
+[21:47:33]: BenDoesMusic ran the command /msg BenjaboyQ ive been working on a smelter to get tons of green dye.
+[21:47:41]: BenjaboyQ ran the command /tell BenDoesMusic good.
+[21:47:58]: BenjaboyQ ran the command /tell BenDoesMusic we need a boxful of green conc powder too.
+[21:51:04]: BenjaboyQ ran the command /tell BenDoesMusic i stole some of logans stone so i should be good now.
+[21:51:12]: BenDoesMusic ran the command /msg BenjaboyQ poggers.
+[21:54:22]: BenjaboyQ ran the command /tell BenDoesMusic dude sellin 1:1 quartz on the ship at logans.
+[21:54:30]: BenDoesMusic ran the command /msg BenjaboyQ oh fuck thats good.
+[22:04:22]: BenjaboyQ ran the command /tell BenDoesMusic is it ok if i ask logan for more mason villagers.
+[22:04:34]: BenDoesMusic ran the command /msg Lhendy51 yeah thats probably fine.
+[22:04:43]: Lhendy51 ran the command /tell BenDoesMusic what.
+[22:04:56]: BenDoesMusic ran the command /msg Lhendy51 wrong person lmao.
+[22:05:06]: BenDoesMusic ran the command /msg BenjaboyQ thats probably fine.
+[22:10:37]: BenDoesMusic ran the command /msg BenjaboyQ my super smelter is done ill start getting cactus.
+[22:11:01]: BenjaboyQ ran the command /tell BenDoesMusic thanks.
+[22:19:29]: BenDoesMusic ran the command /msg BenjaboyQ how much green dye should i get.
+[22:20:07]: BenjaboyQ ran the command /tell BenDoesMusic i want a boxful of conc powder so youll need 3 stacks.
+[22:20:13]: BenDoesMusic ran the command /msg BenjaboyQ ok.
+[22:26:43]: BenDoesMusic ran the command /msg BenjaboyQ its almost all done smelting.
+[22:26:53]: BenjaboyQ ran the command /tell BenDoesMusic very epic.
+[22:33:24]: BenDoesMusic ran the command /msg BenjaboyQ shit youve been working lmao.
+[22:33:36]: BenjaboyQ ran the command /tell yessir.
+[22:33:42]: BenjaboyQ ran the command /tell BenDoesMusic yessir.
+[22:33:48]: BenjaboyQ ran the command /tell BenDoesMusic ty.
+[22:33:51]: BenDoesMusic ran the command /msg BenjaboyQ what can i do now.
+[22:34:08]: BenjaboyQ ran the command /tell BenDoesMusic maybe actually make the concrete.
+[22:34:17]: BenDoesMusic ran the command /msg BenjaboyQ alright where is the sand and gravel.
+[22:35:15]: BenDoesMusic ran the command /msg BenjaboyQ we will need more sand eventually.
+[22:35:54]: BenjaboyQ ran the command /tell BenDoesMusic the green powder will be the lawn stripes.
+[22:37:13]: BenjaboyQ ran the command /tell BenDoesMusic i also need purple flowers.
+[22:37:21]: BenDoesMusic ran the command /msg BenjaboyQ hmm ok.
+[22:37:28]: BenjaboyQ ran the command /tell BenDoesMusic lilacs, peonies, alliums.
+[22:37:37]: BenjaboyQ ran the command /tell BenDoesMusic more the better.
+[22:37:49]: BenjaboyQ ran the command /tell BenDoesMusic ben no.
+[22:37:55]: BenjaboyQ ran the command /tell BenDoesMusic i want the powder.
+[22:38:06]: BenDoesMusic ran the command /msg BenjaboyQ oh i thought you wanted actual concrete.
+[22:38:24]: BenjaboyQ ran the command /tell BenDoesMusic nope sorry maybe that wasnt clear.
+[22:38:40]: BenDoesMusic ran the command /msg BenjaboyQ i only made one concrete so we are good.
+[22:38:48]: BenjaboyQ ran the command /tell BenDoesMusic ok lol.
+[22:39:12]: BenDoesMusic ran the command /msg BenjaboyQ we have like 7 stacks rn.
+[22:39:27]: BenjaboyQ ran the command /tell BenDoesMusic more powder is needed.
+[22:39:36]: BenDoesMusic ran the command /msg BenjaboyQ i can get more sand how much do we need.
+[22:39:50]: BenjaboyQ ran the command /tell BenDoesMusic we need at least half a box of powder.
+[22:40:05]: BenDoesMusic ran the command /msg BenjaboyQ so like 15 stacks.
+[22:40:11]: BenjaboyQ ran the command /tell BenDoesMusic yeah.
+[22:40:16]: BenDoesMusic ran the command /msg BenjaboyQ ok.
+[22:41:16]: BenDoesMusic ran the command /day.
+[22:41:16]: BenDoesMusic ran the command /time set day.
+[22:43:10]: BenDoesMusic ran the command /msg BenjaboyQ we will need a lot of gravel do you know where i can get any.
+[22:43:27]: BenjaboyQ ran the command /tell BenDoesMusic yes next to my base and in the chests on the island.
+[22:43:44]: BenDoesMusic ran the command /msg BenjaboyQ how much do we have in the chest.
+[22:44:03]: BenjaboyQ ran the command /tell BenDoesMusic your surplus + two and a half stacks about.
+[22:45:24]: BenjaboyQ ran the command /tell BenDoesMusic also grab the lilacs + peonies while at my base. theyre in the top left chest.
+[22:46:03]: BenDoesMusic ran the command /msg BenjaboyQ i dont think you have any purple flowers.
+[22:52:01]: BenDoesMusic ran the command /day.
+[22:52:01]: BenDoesMusic ran the command /time set day.
+[22:54:13]: BenDoesMusic ran the command /msg BenjaboyQ i think i made enough.
+[22:54:51]: BenjaboyQ ran the command /tell BenDoesMusic bring it to the island.
+[22:54:57]: BenDoesMusic ran the command /msg BenjaboyQ i mightve made too much.
+[22:55:09]: BenjaboyQ ran the command /tell BenDoesMusic never too much.
+[22:55:21]: BenDoesMusic ran the command /msg BenjaboyQ come see if this is enough.
+[22:55:29]: BenjaboyQ ran the command /tell BenDoesMusic omw.
+[22:56:50]: BenjaboyQ ran the command /tell BenDoesMusic im here.
+[22:57:12]: BenDoesMusic ran the command /msg BenjaboyQ what should i do now.
+[22:57:40]: BenjaboyQ ran the command /tell BenDoesMusic were gonna make lawn stripes.
+[22:57:54]: BenDoesMusic ran the command /msg BenjaboyQ ok show me how to do it.
+[22:58:51]: BenDoesMusic ran the command /msg BenjaboyQ so just every 3?.
+[22:59:04]: BenjaboyQ ran the command /tell BenDoesMusic yep.
+[22:59:36]: BenjaboyQ ran the command /tell BenDoesMusic go to the roundabout and then well decide.
+[22:59:50]: BenjaboyQ ran the command /tell BenDoesMusic stop the stripe when the terrain drops.
+[23:01:37]: BenDoesMusic ran the command /day.
+[23:01:38]: BenDoesMusic ran the command /time set day.
+[23:07:10]: BenDoesMusic ran the command /msg BenjaboyQ whoops.
+[23:08:57]: BenDoesMusic ran the command /msg BenjaboyQ how should i do the grass over here.
+[23:09:56]: BenDoesMusic ran the command /msg BenjaboyQ i could probably keep doing the same thing and i think it would wokr.
+[23:10:04]: BenjaboyQ ran the command /tell BenDoesMusic ok, go for it.
+[23:16:43]: BenDoesMusic ran the command /msg BenjaboyQ since when is he here lmao.
+[23:17:11]: BenjaboyQ ran the command /tell BenDoesMusic were practically in his island's render distance.
+[23:17:18]: BenDoesMusic ran the command /msg BenjaboyQ shit.
+[23:17:39]: BenjaboyQ ran the command /tell BenDoesMusic im not worried tbh.
+[23:17:51]: BenDoesMusic ran the command /msg BenjaboyQ idk what he thinks we are building lmao.
+[23:19:02]: BenjaboyQ ran the command /tell BenDoesMusic once we've got majority i was planning to hold the vote here anyway.
+[23:19:10]: BenDoesMusic ran the command /msg BenjaboyQ thats perfect.
+[23:45:06]: BenDoesMusic ran the command /day.
+[23:45:06]: BenDoesMusic ran the command /time set day.
+[23:54:35]: BenDoesMusic ran the command /day.
+[23:54:36]: BenDoesMusic ran the command /time set day.
