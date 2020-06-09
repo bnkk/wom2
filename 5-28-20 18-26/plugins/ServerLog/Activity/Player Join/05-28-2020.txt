@@ -1,7 +1,0 @@
-[15:29:17]: CreeperMKB joined from the IP 73.40.242.202.
-[15:29:23]: Lhendy51 joined from the IP 73.154.195.184.
-[16:11:32]: Borps joined from the IP 2.0.0.10.
-[16:39:18]: TARDIS_360 joined from the IP 73.154.210.58.
-[16:52:42]: Austin_Powers_ joined from the IP 73.154.194.210.
-[17:04:14]: BenDoesMusic joined from the IP 98.111.229.85.
-[18:23:28]: Borps joined from the IP 2.0.0.10.
