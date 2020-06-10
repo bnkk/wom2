@@ -1,0 +1,253 @@
+[16:22:51]: Borps ran the command /day.
+[16:22:51]: Borps ran the command /time set day.
+[16:31:51]: Borps ran the command /tardis comehere.
+[16:42:55]: Borps ran the command /gmsp.
+[16:42:55]: Borps ran the command /gamemode spectator.
+[16:48:10]: Borps ran the command /gmc.
+[16:48:10]: Borps ran the command /gamemode creative.
+[16:55:14]: Borps ran the command /tardis save office.
+[17:07:05]: BenDoesMusic ran the command /tardis comehere.
+[17:08:32]: BenDoesMusic ran the command /tardis save logan.
+[17:11:42]: Borps ran the command /tp BenDoesMusic.
+[17:12:20]: Borps ran the command /give BenDoesMusic minecraft:gold_block.
+[17:16:15]: Borps ran the command /tp CreeperMKB.
+[17:18:05]: BenDoesMusic ran the command /tp Borps.
+[17:18:43]: BenDoesMusic ran the command /tp Lhendy51.
+[17:18:49]: BenDoesMusic ran the command /gamemode creative.
+[17:18:53]: BenDoesMusic ran the command /gamemode survival.
+[17:19:19]: BenDoesMusic ran the command /tp CreeperMKB.
+[17:19:42]: BenDoesMusic ran the command /tardis comehere.
+[17:20:23]: Borps ran the command /tardisadmin reload.
+[17:20:30]: Borps ran the command /tp BenDoesMusic.
+[17:23:24]: Lhendy51 ran the command /gmsp.
+[17:23:24]: Lhendy51 ran the command /gamemode spectator.
+[17:23:47]: Lhendy51 ran the command /gms.
+[17:23:47]: Lhendy51 ran the command /gamemode survival.
+[17:24:29]: Borps ran the command /tardisadmin admin_bypass true.
+[17:29:08]: Borps ran the command /tardisprefs.
+[17:29:19]: Borps ran the command /tardis?.
+[17:29:40]: Borps ran the command /tardissay dookie.
+[17:29:52]: Borps ran the command /tardissay ARABIC hi.
+[17:30:04]: BenDoesMusic ran the command /tardis say bruh.
+[17:30:14]: Borps ran the command /tardis?.
+[17:30:28]: BenDoesMusic ran the command /tardissay RUSSIAN bruh.
+[17:32:15]: BenDoesMusic ran the command /tardis add Borps.
+[17:32:29]: Borps ran the command /tardis add BenDoesMusic.
+[17:33:36]: Borps ran the command /give BenDoesMusic minecraft:gold_block.
+[17:34:10]: Borps ran the command /tardisadmin bypass.
+[17:34:17]: Borps ran the command /tardisadmin admin_bypass.
+[17:34:30]: Borps ran the command /tardisadminsudo.
+[17:35:35]: Borps ran the command /tardisadminsudo TARDIS_360 tardis add borps.
+[17:35:54]: Borps ran the command /tardis add Borps.
+[17:36:01]: Borps ran the command /tardissudo off.
+[17:36:12]: Borps ran the command /thru.
+[17:36:18]: Borps ran the command /thru.
+[17:36:36]: Borps ran the command /tardisadminsudo TARDIS_360.
+[17:36:47]: Borps ran the command /tardis inside.
+[17:37:05]: Borps ran the command /tardis transmat list.
+[17:37:50]: BenDoesMusic ran the command /tardis save hunter.
+[17:38:31]: Borps ran the command /tp BenDoesMusic.
+[17:38:56]: Borps ran the command /tardissudo off.
+[17:39:11]: BenDoesMusic ran the command /tardis save ender portal.
+[17:39:16]: Borps ran the command /tp BenDoesMusic Borps.
+[17:39:30]: BenDoesMusic ran the command /tp Borps.
+[17:39:44]: BenDoesMusic ran the command /tardis save emi.
+[17:40:20]: Borps ran the command /tardis comehere.
+[17:41:24]: Borps ran the command /tardis save tardis_360.
+[17:41:28]: BenDoesMusic ran the command /tardis save ethan.
+[17:42:40]: BenDoesMusic ran the command /tardis save codfather.
+[17:44:04]: Borps ran the command /tardis comehere.
+[17:44:58]: Borps ran the command /tardis comehere.
+[17:46:41]: BenDoesMusic ran the command /tardis save whitehouse.
+[17:47:23]: Lhendy51 ran the command /gmsp.
+[17:47:23]: Lhendy51 ran the command /gamemode spectator.
+[17:47:30]: Borps ran the command /tardis comehere.
+[17:47:35]: Lhendy51 ran the command /gms.
+[17:47:36]: Lhendy51 ran the command /gamemode survival.
+[17:48:58]: Borps ran the command /tardis save Lhendy51.
+[17:49:01]: BenDoesMusic ran the command /tardis save erik.
+[17:49:21]: BenDoesMusic ran the command /tardis comehere.
+[17:56:24]: BenDoesMusic ran the command /tardis save volcano.
+[17:56:30]: BenDoesMusic ran the command /tardis comehere.
+[17:56:46]: Borps ran the command /tremote.
+[17:57:07]: Borps ran the command /t comehere.
+[17:57:16]: Borps ran the command /tardis comehere.
+[17:57:30]: Borps ran the command /tardisgive BenDoesMusic a-circuit.
+[17:57:33]: Borps ran the command /tardisgive BenDoesMusic a-circuit 1.
+[17:57:56]: Borps ran the command /tardisgive BenDoesMusic arrow-circuit 1.
+[17:58:29]: Borps ran the command /tardisgive BenDoesMusic bio-circuit 1.
+[18:00:49]: Borps ran the command /gmsp.
+[18:00:49]: Borps ran the command /gamemode spectator.
+[18:00:50]: BenDoesMusic ran the command /gamemode spectator.
+[18:01:40]: BenDoesMusic ran the command /gamemode survival.
+[18:01:42]: Borps ran the command /gmc.
+[18:01:42]: Borps ran the command /gamemode creative.
+[18:03:02]: Borps ran the command /ts.
+[18:07:43]: BenDoesMusic ran the command /gamemode spectator.
+[18:08:04]: BenDoesMusic ran the command /gamemode survival.
+[18:10:10]: Borps ran the command /tardis comehere.
+[18:10:11]: BenDoesMusic ran the command /tardis removesave ethan.
+[18:10:14]: BenDoesMusic ran the command /tardis removesave hunter.
+[18:10:17]: BenDoesMusic ran the command /tardis removesave whitehouse.
+[18:10:21]: BenDoesMusic ran the command /tardis removesave codfather.
+[18:10:24]: BenDoesMusic ran the command /tardis removesave ender.
+[18:10:45]: BenDoesMusic ran the command /tardis removesave emi.
+[18:10:45]: BenDoesMusic ran the command /tardis removesave erik.
+[18:10:51]: Borps ran the command /tps.
+[18:10:54]: BenDoesMusic ran the command /tardis removesave volcano.
+[18:11:53]: Borps ran the command /tp BenDoesMusic.
+[18:14:17]: BenDoesMusic ran the command /tardis save braydon.
+[18:14:21]: BenDoesMusic ran the command /tardis comehere.
+[18:15:31]: BenDoesMusic ran the command /tardis removesave braydon.
+[18:16:06]: BenDoesMusic ran the command /tardis save braydon.
+[18:17:19]: BenDoesMusic ran the command /tardis comehere.
+[18:18:10]: BenDoesMusic ran the command /tardis save netherhub.
+[18:18:59]: BenDoesMusic ran the command /tardis comehere.
+[18:20:32]: BenDoesMusic ran the command /tardis comehere.
+[18:21:18]: BenDoesMusic ran the command /tardis save enderportal.
+[18:37:40]: BenDoesMusic ran the command /gamemode spectator.
+[18:37:53]: BenDoesMusic ran the command /gamemode survival.
+[18:37:57]: BenDoesMusic ran the command /gamemode spectator.
+[18:38:03]: BenDoesMusic ran the command /gamemode survival.
+[18:41:34]: BenDoesMusic ran the command /tardis add spotttedleaf.
+[18:43:56]: BenDoesMusic ran the command /tardis comehere.
+[18:44:48]: BenDoesMusic ran the command /tardis save hutner.
+[18:47:36]: BenDoesMusic ran the command /gamemode spectator.
+[18:48:23]: BenDoesMusic ran the command /gamemode survival.
+[18:51:28]: BenDoesMusic ran the command /tardis comehere.
+[18:52:11]: BenDoesMusic ran the command /tardis save emi.
+[18:53:26]: BenDoesMusic ran the command /tardis comehere.
+[18:54:01]: BenDoesMusic ran the command /tardis save ethan.
+[18:54:39]: BenDoesMusic ran the command /gamemode spectator.
+[18:55:14]: BenDoesMusic ran the command /gamemode survival.
+[18:55:33]: Borps ran the command /kill @e[type=minecraft:zombie_pigman].
+[18:57:20]: BenDoesMusic ran the command /tardis comehere.
+[18:57:41]: BenDoesMusic ran the command /tardis comehere.
+[18:58:20]: BenDoesMusic ran the command /tardis save codfather.
+[18:58:32]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:38]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:39]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:39]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:39]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:40]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:41]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:41]: Borps ran the command /summon minecraft:tropical_fish.
+[18:58:45]: Borps ran the command /summon minecraft:tropical_fish.
+[18:59:55]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:56]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:56]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:57]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:57]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:57]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:58]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:58]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:58]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:59]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:59]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[18:59:59]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:00]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:00]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:00]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:01]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:17]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:19]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:22]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:23]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:24]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:27]: BenDoesMusic ran the command /summon minecraft:tropical_fish.
+[19:00:35]: Borps ran the command /deop Borps.
+[19:00:54]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:56]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:56]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:57]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:57]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:57]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:58]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:59]: Borps ran the command /summon minecraft:tropical_fish.
+[19:00:59]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:00]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:00]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:02]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:03]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:03]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:04]: Borps ran the command /.
+[19:01:07]: Borps ran the command /summon minecraft:tropical_fish.
+[19:01:11]: Borps ran the command /op Borps.
+[19:01:52]: BenDoesMusic ran the command /gamemode spectator.
+[19:02:22]: BenDoesMusic ran the command /gamemode survival.
+[19:02:56]: BenDoesMusic ran the command /tardisinfo R.
+[19:03:04]: BenDoesMusic ran the command /tardisinfo R.
+[19:04:24]: BenDoesMusic ran the command /gamemode spectator.
+[19:04:33]: BenDoesMusic ran the command /gamemode survival.
+[19:06:47]: BenDoesMusic ran the command /abort.
+[19:07:19]: BenDoesMusic ran the command /gamemode spectator.
+[19:08:19]: BenDoesMusic ran the command /tardis admin.
+[19:08:23]: Borps ran the command /tardisadmin.
+[19:08:27]: BenDoesMusic ran the command /tardisadmin.
+[19:08:46]: Borps ran the command /tp BenDoesMusic`.
+[19:08:47]: Borps ran the command /tp BenDoesMusic.
+[19:08:53]: Borps ran the command /gmsp.
+[19:08:53]: Borps ran the command /gamemode spectator.
+[19:09:13]: Borps ran the command /gmc.
+[19:09:13]: Borps ran the command /gamemode creative.
+[19:09:21]: BenDoesMusic ran the command /gamemode survival.
+[19:09:55]: BenDoesMusic ran the command /gamemode spectator.
+[19:09:59]: Borps ran the command /tardisadmin list.
+[19:10:07]: Borps ran the command /tardisadmin list abandoned.
+[19:10:13]: Borps ran the command /tardisadmin list portals.
+[19:10:21]: Borps ran the command /tardisadmin list preset_perms.
+[19:10:24]: Borps ran the command /tardisadmin list save.
+[19:11:00]: Borps ran the command /tardisadmin repair.
+[19:11:06]: BenDoesMusic ran the command /gamemode survival.
+[19:11:36]: Borps ran the command /tardis section.
+[19:11:39]: Borps ran the command /tardis.
+[19:12:04]: Borps ran the command /tardis list areas.
+[19:12:07]: Borps ran the command /tardis list saves.
+[19:12:10]: Borps ran the command /tardis list rechargers.
+[19:13:04]: BenDoesMusic ran the command /tardisadmin damage.
+[19:13:16]: BenDoesMusic ran the command /tardisadmin debug.
+[19:13:19]: BenDoesMusic ran the command /tardisadmin debug true.
+[19:13:22]: BenDoesMusic ran the command /tardisadmin debug false.
+[19:14:21]: BenDoesMusic ran the command /tardisadmin repair BenDoesMusic.
+[19:14:26]: BenDoesMusic ran the command /tardisadmin repair BenDoesMusic true.
+[19:14:42]: BenDoesMusic ran the command /tardisadmin room_speed true.
+[19:14:56]: BenDoesMusic ran the command /tardisadmin room_speed 10.
+[19:15:03]: BenDoesMusic ran the command /gamemode spectator.
+[19:40:49]: BenDoesMusic ran the command /gamemode survival.
+[19:41:06]: BenDoesMusic ran the command /gamemode spectator.
+[19:41:37]: BenDoesMusic ran the command /gamemode survival.
+[19:43:52]: BenDoesMusic ran the command /gamemode spectator.
+[19:45:39]: BenDoesMusic ran the command /gamemode survival.
+[19:46:45]: BenDoesMusic ran the command /weather clera.
+[19:46:47]: BenDoesMusic ran the command /weather clear.
+[19:50:54]: BenDoesMusic ran the command /gamemode spectator.
+[19:54:03]: BenDoesMusic ran the command /gamemode survival.
+[20:27:24]: BenDoesMusic ran the command /gamemode spectator.
+[20:27:56]: BenDoesMusic ran the command /gamemode survival.
+[20:36:33]: BenDoesMusic ran the command /tardis comehere.
+[20:37:32]: BenDoesMusic ran the command /tardis save whitehouse.
+[21:05:37]: Lhendy51 ran the command /gmsp.
+[21:05:37]: Lhendy51 ran the command /gamemode spectator.
+[21:06:08]: Lhendy51 ran the command /gms.
+[21:06:08]: Lhendy51 ran the command /gamemode survival.
+[21:15:10]: Borps ran the command /tardis comehere.
+[21:43:33]: BenDoesMusic ran the command /gamemode spectator.
+[21:44:01]: BenDoesMusic ran the command /gamemode survival.
+[21:44:51]: BenDoesMusic ran the command /tardis add TARDIS_360.
+[21:45:26]: TARDIS_360 ran the command /tardis add BenDoesMusic.
+[22:01:58]: TARDIS_360 ran the command /tardis comehere.
+[22:02:12]: TARDIS_360 ran the command /tardis comehere.
+[22:04:13]: TARDIS_360 ran the command /tardis save spruce village.
+[22:04:16]: BenDoesMusic ran the command /gamemode spectator.
+[22:04:44]: BenDoesMusic ran the command /gamemode survival.
+[22:08:41]: BenDoesMusic ran the command /tardis comehere.
+[22:09:00]: BenDoesMusic ran the command /tardis save pirateisland.
+[22:17:54]: BenDoesMusic ran the command /tardis add BenjaboyQ.
+[23:01:48]: BenDoesMusic ran the command /tardis comehere.
+[23:01:58]: BenDoesMusic ran the command /tardis comehere.
+[23:02:17]: BenDoesMusic ran the command /tardis comehere.
+[23:10:28]: BenDoesMusic ran the command /tardis comehere.
+[23:23:02]: BenDoesMusic ran the command /gamemode spectator.
+[23:23:30]: BenDoesMusic ran the command /gamemode survival.
+[23:23:59]: BenDoesMusic ran the command /gamemode spectator.
+[23:24:10]: BenDoesMusic ran the command /gamemode survival.

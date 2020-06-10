@@ -1,5 +1,0 @@
-[16:50:15]: TARDIS_360 quit at the location -1749, 76, -1233. Their IP was 73.154.210.58.
-[16:58:22]: Austin_Powers_ quit at the location 1256, 11, 637. Their IP was 73.154.194.210.
-[17:23:52]: CreeperMKB quit at the location 39, 72, -11. Their IP was 73.40.242.202.
-[17:55:32]: Lhendy51 quit at the location 964, 14, 376. Their IP was 73.154.195.184.
-[18:23:23]: Borps quit at the location -5, 80, 20. Their IP was 2.0.0.10.

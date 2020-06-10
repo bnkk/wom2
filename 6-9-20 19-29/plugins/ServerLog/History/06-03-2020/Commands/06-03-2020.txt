@@ -1,0 +1,288 @@
+[00:03:52]: BenDoesMusic ran the command /msg Lhendy51 LMAO.
+[00:04:00]: Lhendy51 ran the command /tell BenDoesMusic "our".
+[00:05:14]: BenDoesMusic ran the command /day.
+[00:05:14]: BenDoesMusic ran the command /time set day.
+[00:10:46]: BenDoesMusic ran the command /weather clear.
+[00:14:50]: BenDoesMusic ran the command /day.
+[00:14:50]: BenDoesMusic ran the command /time set day.
+[00:15:53]: BenDoesMusic ran the command /weather clear.
+[00:21:05]: BenDoesMusic ran the command /weather clear.
+[00:26:06]: Lhendy51 ran the command /tell BenDoesMusic should i tell him im leaving the party.
+[00:26:16]: BenDoesMusic ran the command /msg Lhendy51 yes.
+[00:26:29]: BenDoesMusic ran the command /weather clear.
+[00:40:30]: BenDoesMusic ran the command /tp captainasia_.
+[00:40:55]: BenDoesMusic ran the command /gamemode spectator.
+[00:41:33]: BenDoesMusic ran the command /gamemode survival.
+[00:48:09]: BenDoesMusic ran the command /tp Austin_Powers_.
+[00:48:14]: BenDoesMusic ran the command /gamemode creative.
+[00:48:31]: BenDoesMusic ran the command /gamemode spectator.
+[00:48:37]: BenDoesMusic ran the command /tp 0 110 0.
+[00:48:48]: BenDoesMusic ran the command /gamemode survival.
+[00:49:43]: BenDoesMusic ran the command /gamemode spectator.
+[00:49:47]: BenDoesMusic ran the command /gamemode survival.
+[00:50:23]: BenDoesMusic ran the command /tp Austin_Powers_ BenDoesMusic.
+[00:55:46]: BenDoesMusic ran the command /tp Austin_Powers_.
+[13:42:23]: BenDoesMusic ran the command /day.
+[13:42:23]: BenDoesMusic ran the command /time set day.
+[13:52:23]: BenDoesMusic ran the command /day.
+[13:52:23]: BenDoesMusic ran the command /time set day.
+[14:02:03]: BenDoesMusic ran the command /day.
+[14:02:03]: BenDoesMusic ran the command /time set day.
+[14:07:47]: Borps ran the command /tp BenDoesMusic.
+[14:11:19]: Borps ran the command /give @s minecraft:command_block.
+[14:22:48]: BenDoesMusic ran the command /day.
+[14:22:48]: BenDoesMusic ran the command /time set day.
+[14:27:34]: BenDoesMusic ran the command /gamemode spectator.
+[14:27:34]: Borps ran the command /gmc.
+[14:27:34]: Borps ran the command /gamemode creative.
+[14:27:51]: BenDoesMusic ran the command /gamemode survival.
+[14:28:14]: Borps ran the command /gmc.
+[14:28:14]: Borps ran the command /gamemode creative.
+[14:29:20]: BenDoesMusic ran the command /gamemode survival.
+[14:34:03]: Borps ran the command /tp BenDoesMusic.
+[14:35:19]: Borps ran the command /tp 0 100 0.
+[14:53:28]: BenDoesMusic ran the command /day.
+[14:53:28]: BenDoesMusic ran the command /time set day.
+[15:00:29]: Borps ran the command /give @s minecraft:barrier.
+[15:02:48]: BenDoesMusic ran the command /day.
+[15:02:48]: BenDoesMusic ran the command /time set day.
+[15:10:47]: BenDoesMusic ran the command /gamemode spectator.
+[15:11:03]: BenDoesMusic ran the command /gamemode survival.
+[15:12:20]: BenDoesMusic ran the command /day.
+[15:12:20]: BenDoesMusic ran the command /time set day.
+[15:13:18]: BenDoesMusic ran the command /gamemode spectator.
+[15:13:35]: BenDoesMusic ran the command /gamemode survival.
+[15:14:34]: Borps ran the command /tardis comehere.
+[15:33:49]: BenDoesMusic ran the command /day.
+[15:33:49]: BenDoesMusic ran the command /time set day.
+[15:37:25]: BenDoesMusic ran the command /gamemode spectator.
+[15:38:01]: BenDoesMusic ran the command /gamemode survival.
+[15:48:21]: BenDoesMusic ran the command /day.
+[15:48:21]: BenDoesMusic ran the command /time set day.
+[18:38:27]: BenDoesMusic ran the command /gamemode creative.
+[18:38:34]: BenDoesMusic ran the command /gamemode survival.
+[18:43:52]: Borps ran the command /mv.
+[18:45:55]: Borps ran the command /mv info.
+[18:46:12]: Borps ran the command /mv info 2.
+[18:46:24]: Borps ran the command /mv info 3.
+[18:46:32]: Borps ran the command /mv info 4.
+[18:46:41]: Borps ran the command /mv.
+[18:49:38]: BenDoesMusic ran the command /tardisadmin.
+[18:54:24]: BenDoesMusic ran the command /day.
+[18:54:24]: BenDoesMusic ran the command /time set day.
+[18:55:42]: BenDoesMusic ran the command /fly.
+[19:02:36]: Lhendy51 ran the command /gms.
+[19:02:36]: Lhendy51 ran the command /gamemode survival.
+[19:03:45]: Borps ran the command //wand.
+[19:04:40]: Borps ran the command //copy.
+[19:05:25]: Borps ran the command /gmc.
+[19:05:25]: Borps ran the command /gamemode creative.
+[19:05:52]: Borps ran the command //paste.
+[19:06:03]: Borps ran the command //undo.
+[19:06:09]: Borps ran the command //paste.
+[19:07:06]: Borps ran the command //undo.
+[19:07:11]: Borps ran the command //paste.
+[19:08:11]: Borps ran the command //undo.
+[19:08:18]: Borps ran the command //paste.
+[19:08:23]: Borps ran the command //undo.
+[19:08:32]: Borps ran the command //paste.
+[19:11:13]: Borps ran the command /thru.
+[19:12:30]: BenDoesMusic ran the command /tardisadmin delete Austin_Powers_.
+[19:12:35]: BenDoesMusic ran the command /tp Borps.
+[19:14:34]: Borps ran the command /give @s minecraft:command_block.
+[19:18:11]: BenDoesMusic ran the command /gamemode survival.
+[19:18:15]: Borps ran the command /gmc.
+[19:18:15]: Borps ran the command /gamemode creative.
+[19:19:11]: Borps ran the command /scoreboard objectives setdisplay sidebar.
+[19:19:14]: Borps ran the command /scoreboard objectives setdisplay sidebar Deaths.
+[19:19:43]: Borps ran the command /scoreboard objectives setdisplay sidebar.
+[19:29:43]: Borps ran the command /gmc.
+[19:29:43]: Borps ran the command /gamemode creative.
+[19:29:46]: Borps ran the command /thru.
+[19:31:32]: Borps ran the command /give @s minecraft:player_head{SkullOwner:Borps}.
+[19:31:59]: Borps ran the command /give @s minecraft:player_head{SkullOwner:BenDoesMusic}.
+[19:32:15]: Borps ran the command /give @s minecraft:player_head{SkullOwner:Lhendy51}.
+[19:33:46]: Borps ran the command /give @s minecraft:player_head{SkullOwner:TARDIS_360}.
+[19:34:02]: Borps ran the command /give @s minecraft:player_head{SkullOwner:Comrade91}.
+[19:34:23]: Borps ran the command /give @s minecraft:player_head{SkullOwner:ya_boi_ehoff}.
+[19:34:41]: Borps ran the command /give @s minecraft:player_head{SkullOwner:felipe_boss}.
+[19:34:55]: Borps ran the command /give @s minecraft:player_head{SkullOwner:captain_asia}.
+[19:35:10]: Borps ran the command /give @s minecraft:player_head{SkullOwner:captainasia_}.
+[19:35:24]: Borps ran the command /scoreboard objectives setdisplay sidebar Deaths.
+[19:35:37]: Borps ran the command /give @s minecraft:player_head{SkullOwner:Austin_Powers_}.
+[19:36:17]: Borps ran the command /give @s minecraft:player_head{SkullOwner:BenjaboyQ}.
+[19:36:33]: Borps ran the command /give @s minecraft:player_head{SkullOwner:theredbook}.
+[19:36:53]: Borps ran the command /give @s minecraft:player_head{SkullOwner:spotttedleaf}.
+[19:36:55]: BenDoesMusic ran the command /day.
+[19:36:55]: BenDoesMusic ran the command /time set day.
+[19:37:31]: Borps ran the command /give @s minecraft:player_head{SkullOwner:CreeperMKB}.
+[19:40:38]: BenDoesMusic ran the command /gamemode spectator.
+[19:41:23]: BenDoesMusic ran the command /gamemode survival.
+[19:43:09]: Borps ran the command /msg Lhendy51 im gonna make him sit in jail for 4 hours and then ban him for breaking rules.
+[19:43:21]: Lhendy51 ran the command /tell Borps lmaoo good plan.
+[19:49:15]: Borps ran the command /ban.
+[19:49:22]: Borps ran the command /tempban.
+[19:59:43]: Borps ran the command /execute at spotttedleaf run summon minecraft:lightning_bolt.
+[20:00:44]: Borps ran the command /tellraw @a "CreeperMKB pissed his pants".
+[20:01:37]: BenDoesMusic ran the command /day.
+[20:01:37]: BenDoesMusic ran the command /time set day.
+[20:06:54]: Borps ran the command /spr colors.
+[20:07:03]: Borps ran the command /spr cap.
+[20:07:32]: Borps ran the command /spr capspr prefix user captainasia_ [&aEntrapanoor&r] &r.
+[20:07:43]: Borps ran the command /spr prefix user captainasia_ [&aEntrapanoor&r] &r.
+[20:08:15]: Borps ran the command /tab player captainasia_ belowname [&aEntrapanoor&r].
+[20:08:50]: Borps ran the command /scoreboard objectives setdisplay sidebar.
+[20:10:53]: BenDoesMusic ran the command /day.
+[20:10:53]: BenDoesMusic ran the command /time set day.
+[20:11:17]: Borps ran the command /tp @a Borps.
+[20:11:55]: Borps ran the command /openinv Austin_Powers_.
+[20:12:42]: BenDoesMusic ran the command /openinv Austin_Powers_.
+[20:13:46]: BenDoesMusic ran the command /msg spotttedleaf at the end make sure youre on the stair cuz the floor drops out.
+[20:17:01]: Borps ran the command /openinv Austin_Powers_.
+[20:19:58]: Borps ran the command /gmsp.
+[20:19:58]: Borps ran the command /gamemode spectator.
+[20:20:13]: Borps ran the command /gmc.
+[20:20:13]: Borps ran the command /gamemode creative.
+[20:22:14]: spotttedleaf ran the command /msg BenDoesMusic i want pizza rolls.
+[20:22:36]: spotttedleaf ran the command /msg Lhendy51 too bad youre gay.
+[20:22:43]: Borps ran the command /scoreboard objectives setdisplay sidebar Deaths.
+[20:23:33]: Borps ran the command /openinv spotttedleaf.
+[20:23:36]: captainasia_ ran the command /tardis bring to you.
+[20:23:49]: captainasia_ ran the command /tardis comehere.
+[20:23:53]: Borps ran the command /give @s minecraft:barrel.
+[20:23:56]: Borps ran the command /give @s minecraft:barrier.
+[20:24:07]: spotttedleaf ran the command /msg Lhendy51 i will piss and shit on your face if you don't blow this now.
+[20:25:37]: spotttedleaf ran the command /msg Lhendy51 yeah eat penis.
+[20:25:44]: spotttedleaf ran the command /msg Lhendy51 gay face.
+[20:27:42]: spotttedleaf ran the command /msg BenDoesMusic ben im screwed here.
+[20:29:18]: BenDoesMusic ran the command /msg spotttedleaf I figured.
+[20:29:33]: spotttedleaf ran the command /msg BenDoesMusic good thing i get no repurcussions from this.
+[20:29:40]: BenDoesMusic ran the command /msg spotttedleaf yeah.
+[20:29:53]: spotttedleaf ran the command /msg BenDoesMusic i just wanna work on the tower.
+[20:30:06]: BenDoesMusic ran the command /msg Borps msg me right before you hit the lever so i can tp hunter out.
+[20:30:11]: Borps ran the command /tp spotttedleaf Borps.
+[20:30:23]: Borps ran the command /msg BenDoesMusic oops.
+[20:30:30]: BenDoesMusic ran the command /msg spotttedleaf ill tp you out of the box before braydon hits the lever dont worry.
+[20:30:41]: BenDoesMusic ran the command /msg spotttedleaf or just stay outside.
+[20:32:45]: Borps ran the command /msg BenDoesMusic move him out.
+[20:32:47]: BenDoesMusic ran the command /tp spotttedleaf BenDoesMusic.
+[20:33:49]: Borps ran the command /tempban.
+[20:35:29]: Borps ran the command /msg BenDoesMusic 5 days?.
+[20:35:43]: BenDoesMusic ran the command /msg Borps ask thomas id leave it up to him.
+[20:36:19]: Borps ran the command /msg captainasia_ time?.
+[20:36:52]: Austin_Powers_ ran the command /msg spotttedleaf poo poo pee pee butt.
+[20:36:55]: captainasia_ ran the command /msg Borps <3 days>.
+[20:37:02]: Borps ran the command /tempban Austin_Powers_ 3d Excessive player killing.
+[20:37:24]: Borps ran the command /msg BenDoesMusic kick him out of vc?.
+[20:38:38]: BenDoesMusic ran the command /msg Borps idk.
+[20:39:01]: Borps ran the command /msg BenDoesMusic i doubt hes gonna say anything.
+[20:39:08]: BenDoesMusic ran the command /msg Borps maybe he'll just leave then.
+[20:39:17]: Borps ran the command /msg BenDoesMusic yeah.
+[20:48:38]: Borps ran the command /scoreboard objectives setdisplay sidebar.
+[20:49:39]: Borps ran the command /tp 0 100 0.
+[20:49:41]: Borps ran the command /gmsp.
+[20:49:41]: Borps ran the command /gamemode spectator.
+[20:50:03]: Borps ran the command /gmc.
+[20:50:03]: Borps ran the command /gamemode creative.
+[20:51:00]: Borps ran the command /gms.
+[20:51:00]: Borps ran the command /gamemode survival.
+[20:51:01]: Borps ran the command /gmsp.
+[20:51:01]: Borps ran the command /gamemode spectator.
+[20:51:09]: Borps ran the command /gms.
+[20:51:09]: Borps ran the command /gamemode survival.
+[20:59:57]: Borps ran the command /gmc.
+[20:59:57]: Borps ran the command /gamemode creative.
+[21:00:31]: Borps ran the command /gms.
+[21:00:31]: Borps ran the command /gamemode survival.
+[21:03:31]: Borps ran the command /msg BenDoesMusic does gobbel know about hendy switching parties?.
+[21:03:37]: BenDoesMusic ran the command /msg Borps not yet.
+[21:03:47]: Borps ran the command /msg BenDoesMusic tell him?.
+[21:04:34]: BenDoesMusic ran the command /tp felipe_boss BenDoesMusic.
+[21:11:15]: captainasia_ ran the command /tardis comehere.
+[21:13:50]: Borps ran the command /tp BenDoesMusic.
+[21:14:59]: captainasia_ ran the command /tardis save hendy.
+[21:15:14]: BenDoesMusic ran the command /tardis comehere.
+[21:16:52]: Borps ran the command /msg BenDoesMusic grab potion from god shop.
+[21:21:42]: Borps ran the command /effect clear Borps.
+[21:22:13]: Borps ran the command /pl.
+[21:26:10]: BenDoesMusic ran the command /night.
+[21:26:10]: BenDoesMusic ran the command /time set night.
+[21:26:38]: BenjaboyQ ran the command /tell Borps can i have his head.
+[21:27:34]: Borps ran the command /msg BenjaboyQ i dont have it.
+[21:28:22]: Borps ran the command /gmc.
+[21:28:22]: Borps ran the command /gamemode creative.
+[21:29:05]: Borps ran the command /gms.
+[21:29:05]: Borps ran the command /gamemode survival.
+[21:30:42]: BenDoesMusic ran the command /openinv felipe_boss.
+[21:30:49]: BenDoesMusic ran the command /openinv felipe_boss.
+[21:31:02]: BenDoesMusic ran the command /openinv felipe_boss.
+[21:32:49]: Borps ran the command /give @s minecraft:ender_chest.
+[21:33:04]: Borps ran the command /tp felipe_boss.
+[21:34:26]: Borps ran the command /openinv felipe_boss.
+[21:34:29]: Lhendy51 ran the command /openinv felipe_boss.
+[21:34:40]: Borps ran the command /openinv felipe_boss.
+[21:34:50]: Borps ran the command /openinv felipe_boss.
+[21:35:03]: Lhendy51 ran the command /openinv captainasia_.
+[21:35:32]: Borps ran the command /openinv captainasia_.
+[21:35:51]: Borps ran the command /tp 0 100 0.
+[21:36:00]: Borps ran the command /gmc.
+[21:36:00]: Borps ran the command /gamemode creative.
+[21:36:02]: Borps ran the command /tp 0 100 0.
+[21:36:06]: Borps ran the command /gms.
+[21:36:06]: Borps ran the command /gamemode survival.
+[21:36:44]: BenDoesMusic ran the command /day.
+[21:36:44]: BenDoesMusic ran the command /time set day.
+[21:39:51]: Borps ran the command /openinv felipe_boss.
+[21:41:10]: Borps ran the command /openender Borps.
+[21:46:40]: Borps ran the command /tp felipe_boss Borps.
+[21:47:34]: Borps ran the command /gm.
+[21:47:34]: Borps ran the command /gamemode.
+[21:47:36]: Borps ran the command /gmc.
+[21:47:36]: Borps ran the command /gamemode creative.
+[21:48:33]: Borps ran the command /gms.
+[21:48:33]: Borps ran the command /gamemode survival.
+[21:49:13]: BenDoesMusic ran the command /msg spotttedleaf if things get too loud in this VC we can hop in a different VC.
+[21:51:16]: Borps ran the command /tp felipe_boss.
+[21:52:00]: Borps ran the command /tp felipe_boss BenDoesMusic.
+[21:52:05]: Borps ran the command /tp felipe_boss Borps.
+[21:52:14]: Borps ran the command /tp felipe_boss Borps.
+[21:54:46]: BenDoesMusic ran the command /msg spotttedleaf until felipe gets off do you wanna go in a vc in the boys discord server my head literally hurts from him.
+[21:55:11]: spotttedleaf ran the command /msg BenDoesMusic i honestly dont even feel like doing disc at all.
+[21:55:19]: BenDoesMusic ran the command /msg spotttedleaf alrighty.
+[21:57:26]: BenDoesMusic ran the command /day.
+[21:57:26]: BenDoesMusic ran the command /time set day.
+[21:59:22]: BenDoesMusic ran the command /weather clera.
+[21:59:24]: BenDoesMusic ran the command /weather clear.
+[22:04:30]: BenDoesMusic ran the command /weather clear.
+[22:07:06]: BenDoesMusic ran the command /day.
+[22:07:06]: BenDoesMusic ran the command /time set day.
+[22:09:36]: BenDoesMusic ran the command /weather clera.
+[22:09:39]: BenDoesMusic ran the command /weather clear.
+[22:14:46]: BenDoesMusic ran the command /weather clear.
+[22:27:56]: BenDoesMusic ran the command /weather clear.
+[22:38:15]: BenDoesMusic ran the command /day.
+[22:38:15]: BenDoesMusic ran the command /time set day.
+[22:47:11]: BenDoesMusic ran the command /weather clera.
+[22:47:13]: BenDoesMusic ran the command /weather clear.
+[22:49:36]: BenDoesMusic ran the command /tp Lhendy51 BenDoesMusic.
+[22:58:49]: BenDoesMusic ran the command /day.
+[22:58:49]: BenDoesMusic ran the command /time set day.
+[23:05:12]: BenDoesMusic ran the command /gamemode spectator.
+[23:05:39]: BenDoesMusic ran the command /gamemode survival.
+[23:05:48]: BenDoesMusic ran the command /gamemode spectator.
+[23:06:00]: BenDoesMusic ran the command /gamemode survival.
+[23:06:39]: BenDoesMusic ran the command /gamemode spectator.
+[23:26:13]: captainasia_ ran the command /imagemap [femboyhooters] download[https://pbs.twimg.com/media/EZYX0rqXgAAquh7.jpg].
+[23:27:00]: captainasia_ ran the command /imagemap [femboy] download https://www.google.com/search?q=femboy+hooters&client=firefox-b-1-d&sxsrf=ALeKk02bDM-fFtURkkZjhMjLUcH2eZQRCQ:1591240911519&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifwqGqmufpAhWJHxQKHQiCBysQ_AUoAXoECAsQAw&biw=1920&bih=966#imgrc=Zqk9.
+[23:28:38]: captainasia_ ran the command /imagemap [hooters.png] download [https://www.google.com/search?q=femboy+hooters&client=firefox-b-1-d&sxsrf=ALeKk02bDM-fFtURkkZjhMjLUcH2eZQRCQ:1591240911519&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifwqGqmufpAhWJHxQKHQiCBysQ_AUoAXoECAsQAw&biw=1920&bih=966#imgr.
+[23:29:12]: captainasia_ ran the command /imagemap femboyhooters.png download https://www.google.com/search?q=femboy+hooters&client=firefox-b-1-d&sxsrf=ALeKk02bDM-fFtURkkZjhMjLUcH2eZQRCQ:1591240911519&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifwqGqmufpAhWJHxQKHQiCBysQ_AUoAXoECAsQAw&biw=1920&bih=966#i.
+[23:30:17]: captainasia_ ran the command /imagemap femboy download https://www.google.com/search?q=femboy+hooters&client=firefox-b-1-d&sxsrf=ALeKk02bDM-fFtURkkZjhMjLUcH2eZQRCQ:1591240911519&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifwqGqmufpAhWJHxQKHQiCBysQ_AUoAXoECAsQAw&biw=1920&bih=966#imgrc=Zqk9CE.
+[23:33:07]: captainasia_ ran the command /imagemap femboy.png download https://www.google.com/search?q=femboy+hooters&client=firefox-b-1-d&sxsrf=ALeKk02bDM-fFtURkkZjhMjLUcH2eZQRCQ:1591240911519&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifwqGqmufpAhWJHxQKHQiCBysQ_AUoAXoECAsQAw&biw=1920&bih=966#imgrc=1-.
+[23:35:32]: captainasia_ ran the command /imagemaps:imagemap femboy download https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.change.org%2Fp%2Fhooters-femboy-hooters-hooters-but-instead-of-women-it-s-femboys%3Fsource_location%3Dtopic_page&psig=AOvVaw0TrykJv5SzTp3ormToqtvP&ust=159132790949800.
+[23:36:14]: captainasia_ ran the command /imagemap femboy download https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.change.org%2Fp%2Fhooters-femboy-hooters-hooters-but-instead-of-women-it-s-femboys%3Fsource_location%3Dtopic_page&psig=AOvVaw0TrykJv5SzTp3ormToqtvP&ust=1591327909498000&source=i.
+[23:37:34]: captainasia_ ran the command /imagemap gay.png download https://www.google.com/search?q=femboy+hooters&client=firefox-b-1-d&sxsrf=ALeKk01ogKGU6sleurFz49znkb8SJnU3hQ:1591241810719&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjTooTXnefpAhUO0uAKHerOBXQQ_AUoAXoECAsQAw&biw=1920&bih=966#imgrc=Zqk9C.
+[23:40:09]: BenDoesMusic ran the command /gamemode creative.
+[23:40:42]: BenDoesMusic ran the command /imagemap femboyhooters download https://www.google.com/search?q=femboy+hooters&client=ms-android-verizon&prmd=imvn&sxsrf=ALeKk02m5bmQHsKxbr5skoquTjl6j95ziQ:1591240698231&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiiu8fEmefpAhXJGs0KHSPnAXcQ_AUoAXoECAoQAQ&biw=412.
+[23:41:30]: BenDoesMusic ran the command /imagemap femboyhooters download https://pbs.twimg.com/media/EZYX0rqXgAAquh7.jpg.
+[23:41:42]: BenDoesMusic ran the command /imagemap femboyhooters download 3x5.
+[23:41:50]: BenDoesMusic ran the command /imagemap femboyhooters scale 3x5.

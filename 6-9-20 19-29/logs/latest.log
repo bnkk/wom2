@@ -1,0 +1,286 @@
+[00:01:39] [Server thread/INFO]: BenDoesMusic issued server command: /day
+[00:01:39] [Server thread/INFO]: /day
+[00:01:39] [Server thread/INFO]: BenDoesMusic issued mycmd command ID(2) /day
+[00:01:39] [Server thread/INFO]: BenDoesMusic issued server command: /time set day
+[00:01:39] [Server thread/INFO]: /time
+[00:01:39] [Server thread/INFO]: [BenDoesMusic: Set the time to 1000]
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Compiled Log' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/TPS' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Ram Usage' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Player Count' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/world' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/world_nether' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/world_the_end' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/TARDIS_TimeVortex' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/world' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/world_nether' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/world_the_end' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/TARDIS_TimeVortex' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity/Player Join' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity/Player Quit' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity/Player Kick' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks/Block Place' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks/Block Break' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks/Empty Bucket' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Chat' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Commands' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Items' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Items/Item Pickup' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Items/Item Drop' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Death' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Spawn Mob Egg' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Gamemode Change' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Respawn' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Teleport' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Custom APIs' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Custom APIs/Vouchers' has been created...
+[00:01:45] [Server thread/INFO]: [Server Log]: All files have been initiated...
+[00:07:24] [Server thread/INFO]: BenDoesMusic issued server command: /gamemode spectator
+[00:07:24] [Server thread/INFO]: /gamemode
+[00:07:24] [Server thread/INFO]: [BenDoesMusic: Set own game mode to Spectator Mode]
+[00:07:58] [Server thread/INFO]: BenDoesMusic issued server command: /gamemode survival
+[00:07:58] [Server thread/INFO]: /gamemode
+[00:07:58] [Server thread/INFO]: [BenDoesMusic: Set own game mode to Survival Mode]
+[00:17:32] [Server thread/INFO]: captainasia_ lost connection: Disconnected
+[00:17:32] [Server thread/INFO]: captainasia_ left the game
+[00:27:25] [Server thread/INFO]: BenDoesMusic issued server command: /day
+[00:27:25] [Server thread/INFO]: /day
+[00:27:25] [Server thread/INFO]: BenDoesMusic issued mycmd command ID(2) /day
+[00:27:25] [Server thread/INFO]: BenDoesMusic issued server command: /time set day
+[00:27:25] [Server thread/INFO]: /time
+[00:27:25] [Server thread/INFO]: [BenDoesMusic: Set the time to 1000]
+[00:29:58] [Server thread/INFO]: Lhendy51 issued server command: /openinv AnzeBanzi21
+[00:29:58] [Server thread/INFO]: /openinv
+[00:35:22] [Server thread/INFO]: BenDoesMusic lost connection: Disconnected
+[00:35:22] [Server thread/INFO]: BenDoesMusic left the game
+[00:37:53] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO Lhendy51
+[00:41:01] [Server thread/INFO]: Lhendy51 lost connection: Disconnected
+[00:41:01] [Server thread/INFO]: Lhendy51 left the game
+[01:29:47] [User Authenticator #20/INFO]: UUID of player Comrade91 is 7304482c-27a6-487a-8070-e886e8c31735
+[01:29:47] [Server thread/INFO]: Comrade91 joined the game
+[01:29:47] [Server thread/INFO]: Comrade91[/98.219.194.204:60285] logged in with entity id 125780 at ([world]1462.9396458190843, 70.0, 267.9414275206611)
+[01:37:42] [Server thread/INFO]: Comrade91 lost connection: Disconnected
+[01:37:42] [Server thread/INFO]: Comrade91 left the game
+[01:41:45] [Craft Scheduler Thread - 4213/INFO]: [Vault] Checking for Updates ... 
+[01:41:45] [Craft Scheduler Thread - 4213/INFO]: [Vault] No new version available
+[04:27:14] [Server thread/INFO]: [ProtocolLib] The updater found an update, and has readied it to be loaded the next time the server restarts/reloads.
+[07:41:45] [Craft Scheduler Thread - 6235/INFO]: [Vault] Checking for Updates ... 
+[07:41:45] [Craft Scheduler Thread - 6235/INFO]: [Vault] No new version available
+[08:50:48] [User Authenticator #21/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[08:50:49] [Server thread/INFO]: CreeperMKB joined the game
+[08:50:49] [Server thread/INFO]: CreeperMKB[/73.40.242.202:61583] logged in with entity id 139669 at ([world]38.97970663430098, 72.0, -9.715755233026517)
+[09:01:36] [Server thread/INFO]: CreeperMKB fell from a high place
+[09:21:48] [Server thread/INFO]: CreeperMKB fell from a high place
+[10:02:40] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO CreeperMKB
+[10:06:02] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO CreeperMKB
+[10:33:55] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[10:33:55] [Server thread/INFO]: CreeperMKB left the game
+[11:13:09] [User Authenticator #22/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[11:13:09] [Server thread/INFO]: CreeperMKB joined the game
+[11:13:10] [Server thread/INFO]: CreeperMKB[/73.40.242.202:50489] logged in with entity id 152842 at ([world]102.42352462285659, 79.0, 56.910653063565135)
+[11:16:08] [Server thread/INFO]: CreeperMKB fell from a high place
+[11:53:38] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO CreeperMKB
+[12:04:01] [User Authenticator #23/INFO]: UUID of player BenDoesMusic is 19a02d34-63af-49e9-bfbc-7646e15ee022
+[12:04:02] [Server thread/INFO]: BenDoesMusic joined the game
+[12:04:02] [Server thread/INFO]: BenDoesMusic[/98.111.229.85:60081] logged in with entity id 159536 at ([TARDIS_TimeVortex]510.3060325420713, 69.0625, 4611.669095697108)
+[12:04:07] [Async Chat Thread - #28/INFO]: [12:04 PM] <CreeperMKB> hello
+[12:04:09] [Async Chat Thread - #28/INFO]: [12:04 PM] [Leslie] <BenDoesMusic> howdy
+[12:09:09] [Async Chat Thread - #29/INFO]: [12:09 PM] [Leslie] <BenDoesMusic> michael the roller coaster doesnt quite work lmao
+[12:09:29] [Async Chat Thread - #29/INFO]: [12:09 PM] <CreeperMKB> yeah the drop needs some work
+[12:09:32] [Async Chat Thread - #29/INFO]: [12:09 PM] [Leslie] <BenDoesMusic> yeah
+[12:09:55] [Async Chat Thread - #29/INFO]: [12:09 PM] <CreeperMKB> isnt there a mod that lets you ride on stairs
+[12:10:00] [Async Chat Thread - #29/INFO]: [12:10 PM] [Leslie] <BenDoesMusic> we have it
+[12:10:09] [Async Chat Thread - #29/INFO]: [12:10 PM] <CreeperMKB> really?
+[12:10:12] [Async Chat Thread - #29/INFO]: [12:10 PM] [Leslie] <BenDoesMusic> yeah
+[12:10:17] [Async Chat Thread - #29/INFO]: [12:10 PM] [Leslie] <BenDoesMusic> right click on a stair
+[12:10:28] [Async Chat Thread - #29/INFO]: [12:10 PM] <CreeperMKB> ah
+[12:10:32] [Async Chat Thread - #29/INFO]: [12:10 PM] <CreeperMKB> what about ladders
+[12:10:41] [Async Chat Thread - #29/INFO]: [12:10 PM] [Leslie] <BenDoesMusic> nah
+[12:10:48] [Async Chat Thread - #29/INFO]: [12:10 PM] <CreeperMKB> ok
+[12:11:04] [Async Chat Thread - #29/INFO]: [12:11 PM] <CreeperMKB> ill ba back
+[12:11:08] [Async Chat Thread - #29/INFO]: [12:11 PM] [Leslie] <BenDoesMusic> ok
+[12:11:08] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[12:11:08] [Server thread/INFO]: CreeperMKB left the game
+[12:11:29] [Server thread/INFO]: BenDoesMusic lost connection: Disconnected
+[12:11:29] [Server thread/INFO]: BenDoesMusic left the game
+[12:51:00] [User Authenticator #24/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[12:51:00] [Server thread/INFO]: CreeperMKB joined the game
+[12:51:00] [Server thread/INFO]: CreeperMKB[/73.40.242.202:52182] logged in with entity id 162254 at ([world]70.9129245676764, 69.0, 55.17574422299)
+[12:57:25] [Server thread/INFO]: CreeperMKB fell from a high place
+[13:07:31] [Server thread/INFO]: CreeperMKB fell from a high place
+[13:36:08] [Server thread/INFO]: CreeperMKB fell from a high place
+[13:41:45] [Craft Scheduler Thread - 8292/INFO]: [Vault] Checking for Updates ... 
+[13:41:45] [Craft Scheduler Thread - 8292/INFO]: [Vault] No new version available
+[13:48:34] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[13:48:34] [Server thread/INFO]: CreeperMKB left the game
+[14:44:34] [User Authenticator #25/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[14:44:34] [Server thread/INFO]: CreeperMKB joined the game
+[14:44:34] [Server thread/INFO]: CreeperMKB[/73.40.242.202:54890] logged in with entity id 172838 at ([world]40.299999974668026, 72.0000002, -13.700000025331974)
+[15:00:34] [Server thread/WARN]: CreeperMKB moved too quickly! -0.34102534437415954,-35.0,0.6822890111906901
+[15:04:24] [Server thread/WARN]: CreeperMKB moved wrongly!
+[15:19:57] [Server thread/WARN]: CreeperMKB moved too quickly! 20.05144082848588,5.296735600668711,21.50784923641826
+[15:32:45] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[15:32:45] [Server thread/INFO]: CreeperMKB left the game
+[15:40:31] [User Authenticator #26/INFO]: UUID of player captainasia_ is e8e60f43-3dbf-4da9-9ab0-fc81939c64c0
+[15:40:31] [Server thread/INFO]: captainasia_ joined the game
+[15:40:31] [Server thread/INFO]: captainasia_[/24.154.114.227:53756] logged in with entity id 179413 at ([world]24.362910896576956, 79.0, -4.344917442839723)
+[15:41:52] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO captainasia_
+[15:45:20] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO captainasia_
+[15:47:26] [Server thread/INFO]: captainasia_ lost connection: Disconnected
+[15:47:26] [Server thread/INFO]: captainasia_ left the game
+[15:52:13] [User Authenticator #27/INFO]: UUID of player spotttedleaf is 8f73fe86-8cfa-423d-afa2-707b42de3046
+[15:52:13] [Server thread/INFO]: spotttedleaf joined the game
+[15:52:13] [Server thread/INFO]: spotttedleaf[/108.39.135.28:60395] logged in with entity id 180382 at ([world]72.09284467880919, 107.0625, 75.40114292711876)
+[15:57:34] [Server thread/INFO]: spotttedleaf lost connection: Disconnected
+[15:57:34] [Server thread/INFO]: spotttedleaf left the game
+[15:57:39] [User Authenticator #28/INFO]: UUID of player spotttedleaf is 8f73fe86-8cfa-423d-afa2-707b42de3046
+[15:57:39] [Server thread/INFO]: spotttedleaf joined the game
+[15:57:39] [Server thread/INFO]: spotttedleaf[/108.39.135.28:60418] logged in with entity id 181390 at ([world]61.05108149693938, 69.0, 51.58671361024206)
+[16:06:40] [User Authenticator #29/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[16:06:40] [Server thread/INFO]: CreeperMKB joined the game
+[16:06:40] [Server thread/INFO]: CreeperMKB[/73.40.242.202:56032] logged in with entity id 182720 at ([world]38.3886198369938, 72.0, -11.477612572355113)
+[16:10:35] [Server thread/WARN]: spotttedleaf moved wrongly!
+[16:17:49] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO CreeperMKB
+[16:22:47] [Server thread/INFO]: CreeperMKB fell from a high place
+[16:22:51] [Async Chat Thread - #30/INFO]: [4:22 PM] [DAD] <spotttedleaf> F
+[16:24:53] [Server thread/INFO]: CreeperMKB fell from a high place
+[16:24:58] [Async Chat Thread - #31/INFO]: [4:24 PM] [DAD] <spotttedleaf> F
+[16:27:15] [Server thread/INFO]: [ProtocolLib] The updater found an update, and has readied it to be loaded the next time the server restarts/reloads.
+[16:46:05] [Server thread/WARN]: spotttedleaf moved wrongly!
+[16:56:26] [Server thread/INFO]: CreeperMKB fell from a high place
+[16:56:29] [Async Chat Thread - #32/INFO]: [4:56 PM] [DAD] <spotttedleaf> F
+[16:56:36] [Async Chat Thread - #32/INFO]: [4:56 PM] <CreeperMKB> i hate lag
+[16:56:40] [Async Chat Thread - #32/INFO]: [4:56 PM] [DAD] <spotttedleaf> me too
+[17:23:10] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[17:23:10] [Server thread/INFO]: CreeperMKB left the game
+[17:25:41] [Server thread/WARN]: spotttedleaf moved wrongly!
+[17:34:35] [Server thread/WARN]: spotttedleaf moved wrongly!
+[17:46:09] [Server thread/INFO]: [@] GAVE 69 V-BUCKS TO spotttedleaf
+[17:57:18] [Server thread/INFO]: spotttedleaf lost connection: Disconnected
+[17:57:18] [Server thread/INFO]: spotttedleaf left the game
+[18:23:54] [User Authenticator #30/INFO]: UUID of player spotttedleaf is 8f73fe86-8cfa-423d-afa2-707b42de3046
+[18:23:54] [Server thread/INFO]: spotttedleaf joined the game
+[18:23:54] [Server thread/INFO]: spotttedleaf[/108.39.135.28:60844] logged in with entity id 208774 at ([world]-508.30000001192093, 54.0, 858.6999999880791)
+[18:31:41] [Server thread/WARN]: spotttedleaf moved wrongly!
+[18:47:36] [Server thread/INFO]: spotttedleaf lost connection: Disconnected
+[18:47:36] [Server thread/INFO]: spotttedleaf left the game
+[18:50:13] [User Authenticator #31/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[18:50:14] [Server thread/INFO]: CreeperMKB joined the game
+[18:50:14] [Server thread/INFO]: CreeperMKB[/73.40.242.202:57069] logged in with entity id 212993 at ([world]40.29355511296761, 72.5625, -12.471214940457074)
+[19:02:26] [User Authenticator #32/INFO]: UUID of player TARDIS_360 is cc0b95b1-ed8e-4a9d-a6ed-61d807d09aee
+[19:02:27] [Server thread/INFO]: TARDIS_360 joined the game
+[19:02:27] [Server thread/INFO]: TARDIS_360[/73.154.210.58:50937] logged in with entity id 214459 at ([world]-4.979072963777732, 67.0, 81.43946748348084)
+[19:02:37] [Async Chat Thread - #33/INFO]: [7:02 PM] <CreeperMKB> hello
+[19:02:42] [Async Chat Thread - #33/INFO]: [7:02 PM] [dummy] <TARDIS_360> hi micheal!!!
+[19:03:03] [Async Chat Thread - #33/INFO]: [7:03 PM] <CreeperMKB> ive been on here all day
+[19:03:12] [Async Chat Thread - #33/INFO]: [7:03 PM] [dummy] <TARDIS_360> oh my lord
+[19:03:17] [Async Chat Thread - #33/INFO]: [7:03 PM] [dummy] <TARDIS_360> what have you been doing
+[19:03:27] [Async Chat Thread - #33/INFO]: [7:03 PM] <CreeperMKB> my roller coaster
+[19:03:30] [User Authenticator #33/INFO]: UUID of player BenDoesMusic is 19a02d34-63af-49e9-bfbc-7646e15ee022
+[19:03:30] [Server thread/INFO]: BenDoesMusic joined the game
+[19:03:30] [Server thread/INFO]: BenDoesMusic[/98.111.229.85:62520] logged in with entity id 214706 at ([world]-117.27614586751345, 73.0, 19.29546873795004)
+[19:03:31] [Async Chat Thread - #33/INFO]: [7:03 PM] [dummy] <TARDIS_360> epic
+[19:03:35] [Async Chat Thread - #33/INFO]: [7:03 PM] [dummy] <TARDIS_360> hi ben
+[19:03:37] [Async Chat Thread - #33/INFO]: [7:03 PM] [Leslie] <BenDoesMusic> hello
+[19:03:40] [Async Chat Thread - #33/INFO]: [7:03 PM] <CreeperMKB> evening
+[19:03:43] [Async Chat Thread - #33/INFO]: [7:03 PM] [Leslie] <BenDoesMusic> hello
+[19:04:45] [Async Chat Thread - #34/INFO]: [7:04 PM] [Leslie] <BenDoesMusic> jeez michael youre going off with this roller coaster it looks crazy
+[19:05:06] [Async Chat Thread - #34/INFO]: [7:05 PM] <CreeperMKB> haha thanks
+[19:05:14] [Async Chat Thread - #34/INFO]: [7:05 PM] <CreeperMKB> ive had nothing else to do today
+[19:05:31] [Async Chat Thread - #34/INFO]: [7:05 PM] [Leslie] <BenDoesMusic> i went to NAI at 9 am then came home and slept till 6 lmao
+[19:05:41] [Async Chat Thread - #34/INFO]: [7:05 PM] <CreeperMKB> oh my
+[19:05:42] [Async Chat Thread - #34/INFO]: [7:05 PM] [dummy] <TARDIS_360> thats very hype
+[19:05:46] [Async Chat Thread - #34/INFO]: [7:05 PM] [Leslie] <BenDoesMusic> yes
+[19:05:56] [Async Chat Thread - #34/INFO]: [7:05 PM] <CreeperMKB> you're nocturnal
+[19:05:59] [Async Chat Thread - #34/INFO]: [7:05 PM] [Leslie] <BenDoesMusic> a bit
+[19:06:01] [Async Chat Thread - #34/INFO]: [7:06 PM] [dummy] <TARDIS_360> ^^^
+[19:06:07] [Async Chat Thread - #34/INFO]: [7:06 PM] [Leslie] <BenDoesMusic> i slept 2 hours before i went to NAI lmao
+[19:06:14] [Async Chat Thread - #34/INFO]: [7:06 PM] [dummy] <TARDIS_360> oh my god ben
+[19:06:20] [Async Chat Thread - #34/INFO]: [7:06 PM] [dummy] <TARDIS_360> get more sleep holy balls
+[19:06:42] [Async Chat Thread - #34/INFO]: [7:06 PM] [Leslie] <BenDoesMusic> i slept like 6 hours after i got home so thats like 8 hours today
+[19:06:52] [Async Chat Thread - #34/INFO]: [7:06 PM] [dummy] <TARDIS_360> well i guess you did it
+[19:07:23] [Async Chat Thread - #34/INFO]: [7:07 PM] <CreeperMKB> i gotta go ill be on later
+[19:07:25] [Async Chat Thread - #34/INFO]: [7:07 PM] [Leslie] <BenDoesMusic> ok
+[19:07:34] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[19:07:34] [Server thread/INFO]: CreeperMKB left the game
+[19:07:39] [Async Chat Thread - #34/INFO]: [7:07 PM] [dummy] <TARDIS_360> sad moment
+[19:07:47] [Async Chat Thread - #34/INFO]: [7:07 PM] [Leslie] <BenDoesMusic> yes
+[19:12:18] [Async Chat Thread - #35/INFO]: [7:12 PM] [Leslie] <BenDoesMusic> get in vc
+[19:12:19] [User Authenticator #34/INFO]: UUID of player Lhendy51 is a060e158-277d-4fcd-9d79-a11f60316abf
+[19:12:20] [Server thread/INFO]: Lhendy51 joined the game
+[19:12:20] [Server thread/INFO]: Lhendy51[/73.154.195.184:50617] logged in with entity id 216784 at ([world]8.049799731623953, 67.0, 40.50898434271147)
+[19:12:25] [Async Chat Thread - #35/INFO]: [7:12 PM] [dummy] <TARDIS_360> hold up homie
+[19:12:33] [Async Chat Thread - #35/INFO]: [7:12 PM] [hot sister] <Lhendy51> up dog
+[19:12:40] [Async Chat Thread - #35/INFO]: [7:12 PM] [dummy] <TARDIS_360> wassup logan
+[19:12:44] [Async Chat Thread - #35/INFO]: [7:12 PM] [hot sister] <Lhendy51> hi loser
+[19:12:58] [Async Chat Thread - #35/INFO]: [7:12 PM] [dummy] <TARDIS_360> \
+[19:13:04] [Async Chat Thread - #35/INFO]: [7:13 PM] [dummy] <TARDIS_360> :(
+[19:13:11] [Async Chat Thread - #35/INFO]: [7:13 PM] [hot sister] <Lhendy51> jk love u <3
+[19:13:16] [Async Chat Thread - #35/INFO]: [7:13 PM] [dummy] <TARDIS_360> <3 uwu
+[19:13:22] [Async Chat Thread - #35/INFO]: [7:13 PM] [hot sister] <Lhendy51> OwO
+[19:13:29] [Async Chat Thread - #35/INFO]: [7:13 PM] [dummy] <TARDIS_360> AwA
+[19:13:34] [Async Chat Thread - #35/INFO]: [7:13 PM] [hot sister] <Lhendy51> will u be the uwu to my owo at morp
+[19:16:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-341 (MC: 1.15.2) ---
+[19:16:15] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[19:16:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:16:15] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:16:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:16:15] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:16:15] [Paper Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: BLOCKED
+[19:16:15] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//org.sqlite.core.CoreResultSet.close(CoreResultSet.java:133)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//org.sqlite.jdbc4.JDBC4ResultSet.close(JDBC4ResultSet.java:40)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//org.sqlite.jdbc3.JDBC3ResultSet.next(JDBC3ResultSet.java:77)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		me.eccentric_nz.TARDIS.database.ResultSetOccupied.resultSet(ResultSetOccupied.java:70)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		me.eccentric_nz.TARDIS.control.TARDISControlRunnable.run(TARDISControlRunnable.java:43)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:461)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1256)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1173)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:962)
+[19:16:15] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.7/java.lang.Thread.run(Thread.java:834)
+[19:16:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:16:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:16:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13852ms or 277 ticks behind
+[19:17:02] [User Authenticator #35/INFO]: UUID of player Borps is d6b1ba70-5e88-4d6c-8dff-2266dde50f0f
+[19:17:02] [Server thread/INFO]: Borps joined the game
+[19:17:02] [Server thread/INFO]: Borps[/2.0.0.10:51294] logged in with entity id 218078 at ([world]-58.88555843629278, 63.5, 27.96602528079937)
+[19:17:08] [Async Chat Thread - #36/INFO]: [7:17 PM] [dummy] <TARDIS_360> bitch
+[19:17:13] [Async Chat Thread - #36/INFO]: [7:17 PM] [hot sister] <Lhendy51> lasagna
+[19:17:18] [Async Chat Thread - #36/INFO]: [7:17 PM] [dummy] <TARDIS_360> B)
+[19:21:46] [Async Chat Thread - #37/INFO]: [7:21 PM] [hot sister] <Lhendy51> emi get the frock in discord
+[19:21:54] [Async Chat Thread - #37/INFO]: [7:21 PM] [dummy] <TARDIS_360> im facetiming my FAMILY
+[19:21:58] [Async Chat Thread - #37/INFO]: [7:21 PM] [hot sister] <Lhendy51> loser
+[19:22:09] [Async Chat Thread - #37/INFO]: [7:22 PM] [dummy] <TARDIS_360> i know :(
+[19:22:10] [Server thread/INFO]: BenDoesMusic issued server command: /day
+[19:22:10] [Server thread/INFO]: /day
+[19:22:10] [Server thread/INFO]: BenDoesMusic issued mycmd command ID(2) /day
+[19:22:10] [Server thread/INFO]: BenDoesMusic issued server command: /time set day
+[19:22:10] [Server thread/INFO]: /time
+[19:22:10] [Server thread/INFO]: [BenDoesMusic: Set the time to 1000]
+[19:22:22] [Async Chat Thread - #37/INFO]: [7:22 PM] [Server Operator] <Borps> family sucks
+[19:22:26] [Async Chat Thread - #37/INFO]: [7:22 PM] [dummy] <TARDIS_360> fuck you
+[19:22:31] [Async Chat Thread - #37/INFO]: [7:22 PM] [Server Operator] <Borps> thanks
+[19:22:45] [Async Chat Thread - #37/INFO]: [7:22 PM] [dummy] <TARDIS_360> any time :0
+[19:24:53] [Server thread/INFO]: Borps issued server command: /tardis comehere
+[19:24:53] [Server thread/INFO]: /tardis
+[19:25:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8164ms or 163 ticks behind
+[19:25:22] [Server thread/WARN]: BenDoesMusic moved too quickly! 72.65537252719764,-14.98620042103866,-11.118954679545595
+[19:26:22] [Server thread/INFO]: Borps issued server command: /tardis removesave spawn
+[19:26:22] [Server thread/INFO]: /tardis
+[19:26:31] [Server thread/INFO]: Borps issued server command: /tardis save spawn
+[19:26:31] [Server thread/INFO]: /tardis
+[19:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8243ms or 164 ticks behind
+[19:27:56] [Server thread/INFO]: Borps lost connection: Timed out
+[19:27:56] [Server thread/INFO]: Borps left the game
+[19:31:35] [Async Chat Thread - #38/INFO]: [7:31 PM] [hot sister] <Lhendy51> hi emi
+[19:31:38] [Async Chat Thread - #38/INFO]: [7:31 PM] [dummy] <TARDIS_360> hi logan
+[19:31:43] [Async Chat Thread - #38/INFO]: [7:31 PM] [hot sister] <Lhendy51> i love you
