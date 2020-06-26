@@ -1,0 +1,3 @@
+[17:07:07]: captainasia_ died because of FALL.
+[17:30:46]: captainasia_ died because of PROJECTILE.
+[18:26:42]: captainasia_ died because of ENTITY_EXPLOSION.
