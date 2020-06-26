@@ -1,0 +1,119 @@
+[00:00:20]: Lhendy51 ran the command /gmsp.
+[00:00:20]: Lhendy51 ran the command /gamemode spectator.
+[00:00:20]: Lhendy51 changed their gamemode from SURVIVAL to SPECTATOR.
+[00:00:24]: Lhendy51 ran the command /gms.
+[00:00:24]: Lhendy51 ran the command /gamemode survival.
+[00:00:24]: Lhendy51 changed their gamemode from SPECTATOR to SURVIVAL.
+[00:00:25]: captainasia_ placed the block DIRT at the location -531, 56, 2929.
+[00:00:26]: captainasia_ placed the block DIRT at the location -532, 56, 2928.
+[00:00:27]: captainasia_ placed the block DIRT at the location -532, 56, 2929.
+[00:00:28]: captainasia_ placed the block DIRT at the location -533, 56, 2929.
+[00:00:29]: captainasia_ placed the block DIRT at the location -533, 56, 2928.
+[00:00:32]: captainasia_ placed the block DIRT at the location -534, 56, 2928.
+[00:00:32]: captainasia_ placed the block DIRT at the location -534, 56, 2929.
+[00:00:34]: captainasia_ placed the block DIRT at the location -535, 56, 2929.
+[00:00:34]: Lhendy51 placed the block SHULKER_BOX at the location -17, 67, 44.
+[00:00:35]: captainasia_ placed the block DIRT at the location -535, 56, 2928.
+[00:00:36]: captainasia_ placed the block DIRT at the location -536, 56, 2928.
+[00:00:36]: captainasia_ placed the block DIRT at the location -536, 56, 2929.
+[00:00:38]: captainasia_ placed the block DIRT at the location -537, 56, 2929.
+[00:00:39]: captainasia_ placed the block DIRT at the location -537, 56, 2928.
+[00:00:40]: captainasia_ placed the block DIRT at the location -538, 56, 2929.
+[00:00:41]: captainasia_ placed the block DIRT at the location -538, 56, 2928.
+[00:00:42]: captainasia_ placed the block DIRT at the location -539, 56, 2928.
+[00:00:42]: captainasia_ placed the block DIRT at the location -539, 56, 2929.
+[00:00:44]: captainasia_ placed the block DIRT at the location -540, 56, 2929.
+[00:00:45]: captainasia_ placed the block DIRT at the location -540, 56, 2928.
+[00:00:47]: captainasia_ placed the block DIRT at the location -541, 56, 2928.
+[00:00:48]: captainasia_ placed the block DIRT at the location -541, 56, 2929.
+[00:00:49]: captainasia_ placed the block DIRT at the location -542, 56, 2929.
+[00:00:50]: captainasia_ placed the block DIRT at the location -542, 56, 2928.
+[00:00:51]: captainasia_ placed the block DIRT at the location -543, 56, 2929.
+[00:00:52]: captainasia_ placed the block DIRT at the location -543, 56, 2928.
+[00:00:53]: captainasia_ placed the block DIRT at the location -544, 56, 2928.
+[00:00:54]: captainasia_ placed the block DIRT at the location -544, 56, 2929.
+[00:00:55]: captainasia_ placed the block DIRT at the location -545, 56, 2929.
+[00:00:57]: captainasia_ placed the block DIRT at the location -545, 56, 2928.
+[00:01:00]: captainasia_ placed the block DIRT at the location -546, 56, 2929.
+[00:01:01]: captainasia_ placed the block DIRT at the location -546, 56, 2928.
+[00:01:03]: captainasia_ placed the block DIRT at the location -547, 56, 2929.
+[00:01:03]: captainasia_ placed the block DIRT at the location -547, 56, 2928.
+[00:01:04]: Lhendy51 teleported to -18, 68, 42.
+[00:01:04]: Lhendy51 teleported to -18, 68, 42.
+[00:01:04]: Lhendy51 teleported to -18, 68, 42.
+[00:01:04]: Lhendy51 teleported to -18, 68, 42.
+[00:01:06]: captainasia_ placed the block DIRT at the location -548, 56, 2929.
+[00:01:06]: captainasia_ placed the block DIRT at the location -548, 56, 2928.
+[00:01:09]: Lhendy51 broke the block BROWN_SHULKER_BOX at the location -18, 67, 42.
+[00:01:10]: Lhendy51 broke the block GRAY_SHULKER_BOX at the location -19, 67, 41.
+[00:01:10]: Lhendy51 picked up the item Morning Wood (BROWN_SHULKER_BOX).
+[00:01:10]: Lhendy51 picked up the item I Wanna Rock (GRAY_SHULKER_BOX).
+[00:01:11]: captainasia_ placed the block DIRT at the location -548, 55, 2929.
+[00:01:11]: captainasia_ placed the block DIRT at the location -548, 55, 2928.
+[00:01:12]: captainasia_ placed the block DIRT at the location -549, 55, 2929.
+[00:01:12]: captainasia_ placed the block DIRT at the location -549, 55, 2928.
+[00:01:13]: captainasia_ placed the block DIRT at the location -550, 55, 2929.
+[00:01:13]: captainasia_ placed the block DIRT at the location -550, 55, 2928.
+[00:01:13]: Lhendy51 broke the block CRAFTING_TABLE at the location -19, 67, 40.
+[00:01:14]: Lhendy51 picked up the item CRAFTING_TABLE.
+[00:01:15]: captainasia_ placed the block DIRT at the location -550, 54, 2929.
+[00:01:16]: captainasia_ placed the block DIRT at the location -550, 54, 2928.
+[00:01:17]: captainasia_ placed the block DIRT at the location -551, 53, 2929.
+[00:01:18]: captainasia_ placed the block DIRT at the location -551, 53, 2928.
+[00:01:22]: Lhendy51 broke the block PURPLE_BED at the location -16, 67, 39.
+[00:01:22]: Lhendy51 picked up the item PURPLE_BED.
+[00:01:27]: Lhendy51 broke the block ENDER_CHEST at the location -18, 67, 40.
+[00:01:27]: Lhendy51 picked up the item ENDER_CHEST.
+[00:01:32]: Lhendy51 broke the block SHULKER_BOX at the location -17, 67, 44.
+[00:01:32]: Lhendy51 broke the block SHULKER_BOX at the location -16, 67, 44.
+[00:01:33]: Lhendy51 picked up the item SHULKER_BOX.
+[00:01:33]: Lhendy51 picked up the item SHULKER_BOX.
+[00:02:17]: Lhendy51 placed the block ENDER_CHEST at the location -22, 67, 52.
+[00:02:20]: Lhendy51 placed the block Mumbox (RED_SHULKER_BOX) at the location -22, 67, 53.
+[00:02:21]: Lhendy51 dropped the item REDSTONE_LAMP.
+[00:02:23]: Lhendy51 dropped the item LEVER.
+[00:02:23]: Lhendy51 picked up the item REDSTONE_LAMP.
+[00:02:25]: Lhendy51 picked up the item LEVER.
+[00:02:29]: Lhendy51 broke the block STONE_BRICKS at the location -20, 71, 48.
+[00:02:34]: Lhendy51 placed the block REDSTONE_LAMP at the location -20, 71, 48.
+[00:02:35]: Lhendy51 picked up the item STONE_BRICKS.
+[00:02:42]: Lhendy51 picked up the item IRON_INGOT.
+[00:02:42]: captainasia_ placed the block DIRT at the location -688, 53, 3074.
+[00:02:43]: Lhendy51 picked up the item POPPY.
+[00:02:53]: Lhendy51 broke the block WHITE_CARPET at the location -20, 72, 47.
+[00:02:53]: Lhendy51 picked up the item WHITE_CARPET.
+[00:02:55]: Lhendy51 placed the block LEVER at the location -20, 72, 47.
+[00:03:01]: captainasia_ broke the block END_STONE at the location -682, 58, 3062.
+[00:03:02]: captainasia_ picked up the item END_STONE.
+[00:03:02]: captainasia_ broke the block END_STONE at the location -682, 58, 3063.
+[00:03:04]: captainasia_ broke the block END_STONE at the location -683, 58, 3064.
+[00:03:05]: captainasia_ picked up the item END_STONE.
+[00:03:06]: captainasia_ broke the block END_STONE at the location -682, 58, 3064.
+[00:03:07]: captainasia_ picked up the item END_STONE.
+[00:03:07]: captainasia_ broke the block END_STONE at the location -682, 58, 3065.
+[00:03:08]: captainasia_ picked up the item END_STONE.
+[00:03:08]: captainasia_ broke the block END_STONE at the location -682, 58, 3066.
+[00:03:09]: captainasia_ picked up the item END_STONE.
+[00:03:09]: captainasia_ broke the block END_STONE at the location -681, 58, 3067.
+[00:03:10]: captainasia_ picked up the item END_STONE.
+[00:03:10]: captainasia_ broke the block END_STONE at the location -681, 58, 3068.
+[00:03:11]: captainasia_ picked up the item END_STONE.
+[00:03:11]: captainasia_ broke the block END_STONE at the location -680, 58, 3069.
+[00:03:12]: Lhendy51 placed the block WHITE_CARPET at the location -22, 67, 50.
+[00:03:15]: Lhendy51 broke the block RED_SHULKER_BOX at the location -22, 67, 53.
+[00:03:15]: Lhendy51 picked up the item Mumbox (RED_SHULKER_BOX).
+[00:03:19]: Lhendy51 broke the block ENDER_CHEST at the location -22, 67, 52.
+[00:03:19]: Lhendy51 picked up the item ENDER_CHEST.
+[00:03:22]: captainasia_ placed the block DIRT at the location -640, 57, 3056.
+[00:03:23]: captainasia_ placed the block DIRT at the location -641, 57, 3056.
+[00:03:28]: captainasia_ placed the block DIRT at the location -641, 56, 3056.
+[00:03:29]: captainasia_ placed the block DIRT at the location -642, 56, 3056.
+[00:03:30]: captainasia_ placed the block DIRT at the location -642, 55, 3056.
+[00:03:32]: captainasia_ placed the block DIRT at the location -643, 55, 3056.
+[00:03:36]: captainasia_ emptied a WATER_BUCKET at the location -640, 57, 3056.
+[00:03:37]: captainasia_ emptied a WATER_BUCKET at the location -638, 57, 3056.
+[00:03:40]: Lhendy51 teleported to 5, 129, 0.
+[00:03:41]: captainasia_ emptied a WATER_BUCKET at the location -640, 57, 3056.
+[00:03:48]: captainasia_ emptied a WATER_BUCKET at the location -632, 63, 3061.
+[00:03:57]: captainasia_ emptied a WATER_BUCKET at the location -624, 63, 3065.
+[00:04:02]: captainasia_ emptied a WATER_BUCKET at the location -623, 63, 3064.

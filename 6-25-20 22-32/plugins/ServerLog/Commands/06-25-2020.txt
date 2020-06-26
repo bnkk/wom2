@@ -1,0 +1,100 @@
+[00:06:55]: BenDoesMusic ran the command /day.
+[00:06:55]: BenDoesMusic ran the command /time set day.
+[00:07:13]: BenDoesMusic ran the command /kick Austin_Powers_.
+[00:16:14]: Lhendy51 ran the command /day.
+[00:16:14]: Lhendy51 ran the command /time set day.
+[00:26:23]: Lhendy51 ran the command /day.
+[00:26:23]: Lhendy51 ran the command /time set day.
+[00:31:40]: BenDoesMusic ran the command /weather clear.
+[13:29:57]: CreeperMKB ran the command /day.
+[13:29:57]: CreeperMKB ran the command /time set day.
+[13:39:00]: CreeperMKB ran the command /day.
+[13:39:00]: CreeperMKB ran the command /time set day.
+[13:48:43]: CreeperMKB ran the command /day.
+[13:48:43]: CreeperMKB ran the command /time set day.
+[13:57:50]: CreeperMKB ran the command /day.
+[13:57:50]: CreeperMKB ran the command /time set day.
+[19:54:52]: BenDoesMusic ran the command /tardis comehere.
+[19:55:25]: BenDoesMusic ran the command /tardis comehere.
+[20:26:59]: Lhendy51 ran the command /openinv creepermkb.
+[20:28:28]: Lhendy51 ran the command /openinv creepermkb.
+[20:48:46]: BenDoesMusic ran the command /day.
+[20:48:46]: BenDoesMusic ran the command /time set day.
+[20:49:24]: CreeperMKB ran the command /day.
+[20:49:24]: CreeperMKB ran the command /time set day.
+[20:58:33]: CreeperMKB ran the command /day.
+[20:58:33]: CreeperMKB ran the command /time set day.
+[21:08:18]: CreeperMKB ran the command /day.
+[21:08:18]: CreeperMKB ran the command /time set day.
+[21:17:37]: CreeperMKB ran the command /day.
+[21:17:37]: CreeperMKB ran the command /time set day.
+[21:21:23]: BenDoesMusic ran the command /night.
+[21:21:23]: BenDoesMusic ran the command /time set night.
+[21:24:35]: BenDoesMusic ran the command /gamemode spectator.
+[21:25:02]: BenDoesMusic ran the command /gamemode survival.
+[21:26:57]: TARDIS_360 ran the command /msg BenDoesMusic you cant bring dreams up as evidence smh my head.
+[21:27:24]: BenDoesMusic ran the command /msg TARDIS_360 i never said what exactly happened in said dream who knows ;).
+[21:27:57]: TARDIS_360 ran the command /msg BenDoesMusic what the fuck happened bro : (.
+[21:28:14]: BenDoesMusic ran the command /msg TARDIS_360 we can talk later about it if you want lmfao.
+[21:28:30]: TARDIS_360 ran the command /msg BenDoesMusic please im confused.
+[21:28:47]: BenDoesMusic ran the command /msg TARDIS_360 we shouldnt discuss this over minecraft DMs lmfao.
+[21:30:11]: Borps ran the command /gmc.
+[21:30:11]: Borps ran the command /gamemode creative.
+[21:30:17]: Borps ran the command /give Borps barrier.
+[21:39:04]: Borps ran the command /gms.
+[21:39:04]: Borps ran the command /gamemode survival.
+[21:39:15]: Borps ran the command /gmc.
+[21:39:15]: Borps ran the command /gamemode creative.
+[21:39:34]: Borps ran the command /give borps minecraft:debug_stick.
+[21:39:40]: Borps ran the command /gms.
+[21:39:40]: Borps ran the command /gamemode survival.
+[21:41:14]: Borps ran the command /gmc.
+[21:41:14]: Borps ran the command /gamemode creative.
+[21:41:36]: Borps ran the command /tp TARDIS_360 Borps.
+[21:41:42]: Borps ran the command /tp TARDIS_360 Borps.
+[21:41:49]: Borps ran the command /tp TARDIS_360 Borps.
+[21:41:59]: Borps ran the command /tp TARDIS_360 Borps.
+[21:42:00]: Borps ran the command /tp TARDIS_360 Borps.
+[21:42:04]: Borps ran the command /tp TARDIS_360 Borps.
+[21:42:25]: Lhendy51 ran the command /gamemode adventure TARDIS_360.
+[21:44:26]: Lhendy51 ran the command /gamemode survival TARDIS_360.
+[21:50:08]: Borps ran the command /tellraw @a {"color":"red","bold":"true","text":"im deleting this server"}.
+[21:50:41]: Borps ran the command /gmsp.
+[21:50:41]: Borps ran the command /gamemode spectator.
+[21:50:56]: Borps ran the command /gmc.
+[21:50:56]: Borps ran the command /gamemode creative.
+[21:50:59]: Borps ran the command /gmc.
+[21:50:59]: Borps ran the command /gamemode creative.
+[21:57:15]: Borps ran the command /gamemode adventure TARDIS_360.
+[21:57:32]: Borps ran the command /tp TARDIS_360 Borps.
+[21:59:05]: Lhendy51 ran the command /tp captainasia_ Lhendy51.
+[21:59:26]: BenDoesMusic ran the command /tp BenDoesMusic Lhendy51.
+[22:02:39]: Borps ran the command /gms.
+[22:02:39]: Borps ran the command /gamemode survival.
+[22:04:08]: Borps ran the command /gmc.
+[22:04:08]: Borps ran the command /gamemode creative.
+[22:04:13]: Borps ran the command /gms.
+[22:04:13]: Borps ran the command /gamemode survival.
+[22:04:14]: captainasia_ ran the command /tardis comehere.
+[22:04:28]: BenDoesMusic ran the command /day.
+[22:04:28]: BenDoesMusic ran the command /time set day.
+[22:07:14]: Borps ran the command /gmc.
+[22:07:14]: Borps ran the command /gamemode creative.
+[22:07:54]: Borps ran the command /give @s minecraft:command_block.
+[22:09:10]: Borps ran the command /scoreboard objectives add lifelink deathCount {"color":"red","text":"Oh fuck no"}.
+[22:11:53]: BenDoesMusic ran the command /night.
+[22:11:53]: BenDoesMusic ran the command /time set night.
+[22:14:42]: Borps ran the command /scoreboard objectives setdisplay sidebar lifelink.
+[22:20:37]: Borps ran the command /scoreboard objectives setdisplay sidebar.
+[22:20:53]: Borps ran the command /gms.
+[22:20:53]: Borps ran the command /gamemode survival.
+[22:22:27]: Lhendy51 ran the command /day.
+[22:22:27]: Lhendy51 ran the command /time set day.
+[22:25:20]: Borps ran the command /tp BenDoesMusic.
+[22:26:47]: Borps ran the command /kick BenDoesMusic please shut the hell up.
+[22:27:05]: Borps ran the command /lp user BenDoesMusic parent remove citizen_management.
+[22:27:06]: Borps ran the command /kick BenDoesMusic please shut the hell up.
+[22:28:36]: Borps ran the command /kick BenDoesMusic OH MY FUCKING GOD SHUT YOUR DAMN MOUTHS.
+[22:29:35]: Borps ran the command /stop.
+[22:34:29]: Lhendy51 ran the command /day.
+[22:34:29]: Lhendy51 ran the command /time set day.
