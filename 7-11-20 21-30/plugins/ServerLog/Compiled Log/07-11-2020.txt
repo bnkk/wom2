@@ -1,0 +1,1420 @@
+[00:02:55]: The TPS is 20.
+[00:02:55]: The current RAM usage is 1742MB / 3072MB (56.71%).
+[00:02:55]: The current player count is 0.
+[00:07:55]: The TPS is 20.
+[00:07:55]: The current RAM usage is 1616MB / 3072MB (52.6%).
+[00:07:55]: The current player count is 0.
+[00:12:55]: The TPS is 20.
+[00:12:55]: The current RAM usage is 1750MB / 3072MB (56.97%).
+[00:12:56]: The current player count is 0.
+[00:17:55]: The TPS is 20.
+[00:17:55]: The current RAM usage is 1988MB / 3072MB (64.71%).
+[00:17:55]: The current player count is 0.
+[00:22:55]: The TPS is 20.
+[00:22:55]: The current RAM usage is 2151MB / 3072MB (70.02%).
+[00:22:55]: The current player count is 0.
+[00:27:55]: The TPS is 20.
+[00:27:55]: The current RAM usage is 2361MB / 3072MB (76.86%).
+[00:27:55]: The current player count is 0.
+[00:32:55]: The TPS is 20.
+[00:32:55]: The current RAM usage is 1854MB / 3072MB (60.35%).
+[00:32:55]: The current player count is 0.
+[00:37:55]: The TPS is 20.
+[00:37:55]: The current RAM usage is 2146MB / 3072MB (69.86%).
+[00:37:55]: The current player count is 0.
+[00:42:55]: The TPS is 20.
+[00:42:55]: The current RAM usage is 1551MB / 3072MB (50.49%).
+[00:42:55]: The current player count is 0.
+[00:47:55]: The TPS is 20.
+[00:47:55]: The current RAM usage is 2404MB / 3072MB (78.26%).
+[00:47:55]: The current player count is 0.
+[00:52:55]: The TPS is 20.
+[00:52:55]: The current RAM usage is 2675MB / 3072MB (87.08%).
+[00:52:55]: The current player count is 0.
+[00:57:55]: The TPS is 20.
+[00:57:55]: The current RAM usage is 2449MB / 3072MB (79.72%).
+[00:57:55]: The current player count is 0.
+[01:02:55]: The TPS is 20.
+[01:02:55]: The current RAM usage is 2310MB / 3072MB (75.2%).
+[01:02:55]: The current player count is 0.
+[01:07:55]: The TPS is 20.
+[01:07:55]: The current RAM usage is 1972MB / 3072MB (64.19%).
+[01:07:55]: The current player count is 0.
+[01:12:55]: The TPS is 20.
+[01:12:55]: The current RAM usage is 2131MB / 3072MB (69.37%).
+[01:12:55]: The current player count is 0.
+[01:17:55]: The TPS is 20.
+[01:17:55]: The current RAM usage is 1826MB / 3072MB (59.44%).
+[01:17:55]: The current player count is 0.
+[01:22:55]: The TPS is 20.
+[01:22:55]: The current RAM usage is 1751MB / 3072MB (57%).
+[01:22:55]: The current player count is 0.
+[01:27:55]: The TPS is 20.
+[01:27:55]: The current RAM usage is 2224MB / 3072MB (72.4%).
+[01:27:55]: The current player count is 0.
+[01:32:55]: The TPS is 20.
+[01:32:55]: The current RAM usage is 1777MB / 3072MB (57.85%).
+[01:32:55]: The current player count is 0.
+[01:37:55]: The TPS is 20.
+[01:37:55]: The current RAM usage is 1484MB / 3072MB (48.31%).
+[01:37:55]: The current player count is 0.
+[01:42:55]: The TPS is 20.
+[01:42:55]: The current RAM usage is 2065MB / 3072MB (67.22%).
+[01:42:55]: The current player count is 0.
+[01:47:55]: The TPS is 20.
+[01:47:55]: The current RAM usage is 1683MB / 3072MB (54.79%).
+[01:47:55]: The current player count is 0.
+[01:52:55]: The TPS is 20.
+[01:52:55]: The current RAM usage is 2000MB / 3072MB (65.1%).
+[01:52:55]: The current player count is 0.
+[01:57:55]: The TPS is 20.
+[01:57:55]: The current RAM usage is 1986MB / 3072MB (64.65%).
+[01:57:55]: The current player count is 0.
+[02:02:55]: The TPS is 20.
+[02:02:55]: The current RAM usage is 2142MB / 3072MB (69.73%).
+[02:02:55]: The current player count is 0.
+[02:07:55]: The TPS is 20.
+[02:07:55]: The current RAM usage is 1428MB / 3072MB (46.48%).
+[02:07:55]: The current player count is 0.
+[02:12:55]: The TPS is 20.
+[02:12:55]: The current RAM usage is 1998MB / 3072MB (65.04%).
+[02:12:55]: The current player count is 0.
+[02:17:55]: The TPS is 20.
+[02:17:55]: The current RAM usage is 2033MB / 3072MB (66.18%).
+[02:17:55]: The current player count is 0.
+[02:22:55]: The TPS is 20.
+[02:22:55]: The current RAM usage is 2245MB / 3072MB (73.08%).
+[02:22:55]: The current player count is 0.
+[02:27:55]: The TPS is 20.
+[02:27:55]: The current RAM usage is 2051MB / 3072MB (66.76%).
+[02:27:55]: The current player count is 0.
+[02:32:55]: The TPS is 20.
+[02:32:55]: The current RAM usage is 2296MB / 3072MB (74.74%).
+[02:32:55]: The current player count is 0.
+[02:37:55]: The TPS is 20.
+[02:37:55]: The current RAM usage is 1835MB / 3072MB (59.73%).
+[02:37:55]: The current player count is 0.
+[02:42:55]: The TPS is 20.
+[02:42:55]: The current RAM usage is 2661MB / 3072MB (86.62%).
+[02:42:55]: The current player count is 0.
+[02:47:55]: The TPS is 20.
+[02:47:55]: The current RAM usage is 2103MB / 3072MB (68.46%).
+[02:47:55]: The current player count is 0.
+[02:52:55]: The TPS is 20.
+[02:52:55]: The current RAM usage is 2627MB / 3072MB (85.51%).
+[02:52:55]: The current player count is 0.
+[02:57:55]: The TPS is 20.
+[02:57:55]: The current RAM usage is 1566MB / 3072MB (50.98%).
+[02:57:55]: The current player count is 0.
+[03:02:55]: The TPS is 20.
+[03:02:55]: The current RAM usage is 1660MB / 3072MB (54.04%).
+[03:02:55]: The current player count is 0.
+[03:07:55]: The TPS is 20.
+[03:07:55]: The current RAM usage is 1615MB / 3072MB (52.57%).
+[03:07:55]: The current player count is 0.
+[03:12:55]: The TPS is 20.
+[03:12:55]: The current RAM usage is 1791MB / 3072MB (58.3%).
+[03:12:55]: The current player count is 0.
+[03:17:55]: The TPS is 20.
+[03:17:55]: The current RAM usage is 1675MB / 3072MB (54.52%).
+[03:17:55]: The current player count is 0.
+[03:22:55]: The TPS is 20.
+[03:22:55]: The current RAM usage is 1726MB / 3072MB (56.18%).
+[03:22:55]: The current player count is 0.
+[03:27:55]: The TPS is 20.
+[03:27:55]: The current RAM usage is 1569MB / 3072MB (51.07%).
+[03:27:55]: The current player count is 0.
+[03:32:55]: The TPS is 20.
+[03:32:55]: The current RAM usage is 2091MB / 3072MB (68.07%).
+[03:32:55]: The current player count is 0.
+[03:37:55]: The TPS is 20.
+[03:37:55]: The current RAM usage is 2315MB / 3072MB (75.36%).
+[03:37:55]: The current player count is 0.
+[03:42:55]: The TPS is 20.
+[03:42:55]: The current RAM usage is 2439MB / 3072MB (79.39%).
+[03:42:55]: The current player count is 0.
+[03:47:55]: The TPS is 20.
+[03:47:55]: The current RAM usage is 2579MB / 3072MB (83.95%).
+[03:47:55]: The current player count is 0.
+[03:52:55]: The TPS is 20.
+[03:52:55]: The current RAM usage is 2675MB / 3072MB (87.08%).
+[03:52:55]: The current player count is 0.
+[03:57:55]: The TPS is 20.
+[03:57:55]: The current RAM usage is 1739MB / 3072MB (56.61%).
+[03:57:55]: The current player count is 0.
+[04:02:55]: The TPS is 20.
+[04:02:55]: The current RAM usage is 1654MB / 3072MB (53.84%).
+[04:02:55]: The current player count is 0.
+[04:07:55]: The TPS is 20.
+[04:07:55]: The current RAM usage is 2401MB / 3072MB (78.16%).
+[04:07:55]: The current player count is 0.
+[04:12:55]: The TPS is 20.
+[04:12:55]: The current RAM usage is 2283MB / 3072MB (74.32%).
+[04:12:55]: The current player count is 0.
+[04:17:55]: The TPS is 20.
+[04:17:55]: The current RAM usage is 1501MB / 3072MB (48.86%).
+[04:17:55]: The current player count is 0.
+[04:22:55]: The TPS is 20.
+[04:22:55]: The current RAM usage is 2339MB / 3072MB (76.14%).
+[04:22:55]: The current player count is 0.
+[04:27:55]: The TPS is 20.
+[04:27:55]: The current RAM usage is 1581MB / 3072MB (51.46%).
+[04:27:55]: The current player count is 0.
+[04:32:55]: The TPS is 20.
+[04:32:55]: The current RAM usage is 2725MB / 3072MB (88.7%).
+[04:32:55]: The current player count is 0.
+[04:37:55]: The TPS is 20.
+[04:37:55]: The current RAM usage is 2453MB / 3072MB (79.85%).
+[04:37:55]: The current player count is 0.
+[04:42:55]: The TPS is 20.
+[04:42:55]: The current RAM usage is 2014MB / 3072MB (65.56%).
+[04:42:55]: The current player count is 0.
+[04:47:55]: The TPS is 20.
+[04:47:55]: The current RAM usage is 1844MB / 3072MB (60.03%).
+[04:47:55]: The current player count is 0.
+[04:52:55]: The TPS is 20.
+[04:52:55]: The current RAM usage is 2043MB / 3072MB (66.5%).
+[04:52:55]: The current player count is 0.
+[04:57:55]: The TPS is 20.
+[04:57:55]: The current RAM usage is 1920MB / 3072MB (62.5%).
+[04:57:55]: The current player count is 0.
+[05:02:55]: The TPS is 20.
+[05:02:55]: The current RAM usage is 1966MB / 3072MB (64%).
+[05:02:55]: The current player count is 0.
+[05:07:55]: The TPS is 20.
+[05:07:55]: The current RAM usage is 1740MB / 3072MB (56.64%).
+[05:07:55]: The current player count is 0.
+[05:12:55]: The TPS is 20.
+[05:12:55]: The current RAM usage is 2451MB / 3072MB (79.79%).
+[05:12:55]: The current player count is 0.
+[05:17:55]: The TPS is 20.
+[05:17:55]: The current RAM usage is 1972MB / 3072MB (64.19%).
+[05:17:55]: The current player count is 0.
+[05:22:55]: The TPS is 20.
+[05:22:55]: The current RAM usage is 1617MB / 3072MB (52.64%).
+[05:22:55]: The current player count is 0.
+[05:27:55]: The TPS is 20.
+[05:27:55]: The current RAM usage is 1484MB / 3072MB (48.31%).
+[05:27:55]: The current player count is 0.
+[05:32:55]: The TPS is 20.
+[05:32:55]: The current RAM usage is 1581MB / 3072MB (51.46%).
+[05:32:55]: The current player count is 0.
+[05:37:55]: The TPS is 20.
+[05:37:55]: The current RAM usage is 1881MB / 3072MB (61.23%).
+[05:37:55]: The current player count is 0.
+[05:42:55]: The TPS is 20.
+[05:42:55]: The current RAM usage is 1861MB / 3072MB (60.58%).
+[05:42:55]: The current player count is 0.
+[05:47:55]: The TPS is 20.
+[05:47:55]: The current RAM usage is 1841MB / 3072MB (59.93%).
+[05:47:55]: The current player count is 0.
+[05:52:55]: The TPS is 20.
+[05:52:55]: The current RAM usage is 1721MB / 3072MB (56.02%).
+[05:52:55]: The current player count is 0.
+[05:57:55]: The TPS is 20.
+[05:57:55]: The current RAM usage is 1719MB / 3072MB (55.96%).
+[05:57:55]: The current player count is 0.
+[06:02:55]: The TPS is 20.
+[06:02:55]: The current RAM usage is 1607MB / 3072MB (52.31%).
+[06:02:55]: The current player count is 0.
+[06:07:55]: The TPS is 20.
+[06:07:55]: The current RAM usage is 1742MB / 3072MB (56.71%).
+[06:07:55]: The current player count is 0.
+[06:12:55]: The TPS is 20.
+[06:12:55]: The current RAM usage is 1555MB / 3072MB (50.62%).
+[06:12:55]: The current player count is 0.
+[06:17:55]: The TPS is 20.
+[06:17:55]: The current RAM usage is 1462MB / 3072MB (47.59%).
+[06:17:55]: The current player count is 0.
+[06:22:55]: The TPS is 20.
+[06:22:55]: The current RAM usage is 2350MB / 3072MB (76.5%).
+[06:22:55]: The current player count is 0.
+[06:27:55]: The TPS is 20.
+[06:27:55]: The current RAM usage is 2375MB / 3072MB (77.31%).
+[06:27:55]: The current player count is 0.
+[06:32:55]: The TPS is 20.
+[06:32:55]: The current RAM usage is 2150MB / 3072MB (69.99%).
+[06:32:55]: The current player count is 0.
+[06:37:55]: The TPS is 20.
+[06:37:55]: The current RAM usage is 2293MB / 3072MB (74.64%).
+[06:37:55]: The current player count is 0.
+[06:42:55]: The TPS is 20.
+[06:42:55]: The current RAM usage is 2054MB / 3072MB (66.86%).
+[06:42:55]: The current player count is 0.
+[06:47:55]: The TPS is 20.
+[06:47:55]: The current RAM usage is 2535MB / 3072MB (82.52%).
+[06:47:55]: The current player count is 0.
+[06:52:55]: The TPS is 20.
+[06:52:55]: The current RAM usage is 1455MB / 3072MB (47.36%).
+[06:52:55]: The current player count is 0.
+[06:57:55]: The TPS is 20.
+[06:57:55]: The current RAM usage is 1773MB / 3072MB (57.71%).
+[06:57:55]: The current player count is 0.
+[07:02:55]: The TPS is 20.
+[07:02:55]: The current RAM usage is 1935MB / 3072MB (62.99%).
+[07:02:55]: The current player count is 0.
+[07:07:55]: The TPS is 20.
+[07:07:55]: The current RAM usage is 2369MB / 3072MB (77.12%).
+[07:07:55]: The current player count is 0.
+[07:12:55]: The TPS is 20.
+[07:12:55]: The current RAM usage is 1676MB / 3072MB (54.56%).
+[07:12:55]: The current player count is 0.
+[07:17:55]: The TPS is 20.
+[07:17:55]: The current RAM usage is 1675MB / 3072MB (54.52%).
+[07:17:55]: The current player count is 0.
+[07:22:55]: The TPS is 20.
+[07:22:55]: The current RAM usage is 1522MB / 3072MB (49.54%).
+[07:22:55]: The current player count is 0.
+[07:27:55]: The TPS is 20.
+[07:27:55]: The current RAM usage is 1703MB / 3072MB (55.44%).
+[07:27:55]: The current player count is 0.
+[07:32:55]: The TPS is 20.
+[07:32:55]: The current RAM usage is 2280MB / 3072MB (74.22%).
+[07:32:55]: The current player count is 0.
+[07:37:55]: The TPS is 20.
+[07:37:55]: The current RAM usage is 1711MB / 3072MB (55.7%).
+[07:37:55]: The current player count is 0.
+[07:42:55]: The TPS is 20.
+[07:42:55]: The current RAM usage is 1601MB / 3072MB (52.12%).
+[07:42:55]: The current player count is 0.
+[07:47:55]: The TPS is 20.
+[07:47:55]: The current RAM usage is 2211MB / 3072MB (71.97%).
+[07:47:55]: The current player count is 0.
+[07:52:55]: The TPS is 20.
+[07:52:55]: The current RAM usage is 2078MB / 3072MB (67.64%).
+[07:52:55]: The current player count is 0.
+[07:57:55]: The TPS is 20.
+[07:57:55]: The current RAM usage is 1676MB / 3072MB (54.56%).
+[07:57:55]: The current player count is 0.
+[08:02:55]: The TPS is 20.
+[08:02:55]: The current RAM usage is 1419MB / 3072MB (46.19%).
+[08:02:55]: The current player count is 0.
+[08:07:55]: The TPS is 20.
+[08:07:55]: The current RAM usage is 2161MB / 3072MB (70.35%).
+[08:07:55]: The current player count is 0.
+[08:12:55]: The TPS is 20.
+[08:12:55]: The current RAM usage is 1514MB / 3072MB (49.28%).
+[08:12:55]: The current player count is 0.
+[08:17:55]: The TPS is 20.
+[08:17:55]: The current RAM usage is 2613MB / 3072MB (85.06%).
+[08:17:55]: The current player count is 0.
+[08:22:55]: The TPS is 20.
+[08:22:55]: The current RAM usage is 2052MB / 3072MB (66.8%).
+[08:22:55]: The current player count is 0.
+[08:27:55]: The TPS is 20.
+[08:27:55]: The current RAM usage is 2379MB / 3072MB (77.44%).
+[08:27:55]: The current player count is 0.
+[08:32:55]: The TPS is 20.
+[08:32:55]: The current RAM usage is 2134MB / 3072MB (69.47%).
+[08:32:55]: The current player count is 0.
+[08:37:55]: The TPS is 20.
+[08:37:55]: The current RAM usage is 1957MB / 3072MB (63.7%).
+[08:37:55]: The current player count is 0.
+[08:42:55]: The TPS is 20.
+[08:42:55]: The current RAM usage is 1594MB / 3072MB (51.89%).
+[08:42:55]: The current player count is 0.
+[08:47:55]: The TPS is 20.
+[08:47:55]: The current RAM usage is 2009MB / 3072MB (65.4%).
+[08:47:55]: The current player count is 0.
+[08:52:55]: The TPS is 20.
+[08:52:55]: The current RAM usage is 2205MB / 3072MB (71.78%).
+[08:52:55]: The current player count is 0.
+[08:57:55]: The TPS is 20.
+[08:57:55]: The current RAM usage is 1797MB / 3072MB (58.5%).
+[08:57:55]: The current player count is 0.
+[09:02:55]: The TPS is 20.
+[09:02:55]: The current RAM usage is 1481MB / 3072MB (48.21%).
+[09:02:55]: The current player count is 0.
+[09:07:55]: The TPS is 20.
+[09:07:55]: The current RAM usage is 2031MB / 3072MB (66.11%).
+[09:07:55]: The current player count is 0.
+[09:12:55]: The TPS is 20.
+[09:12:55]: The current RAM usage is 1735MB / 3072MB (56.48%).
+[09:12:55]: The current player count is 0.
+[09:17:55]: The TPS is 20.
+[09:17:55]: The current RAM usage is 1526MB / 3072MB (49.67%).
+[09:17:55]: The current player count is 0.
+[09:22:55]: The TPS is 20.
+[09:22:55]: The current RAM usage is 2603MB / 3072MB (84.73%).
+[09:22:55]: The current player count is 0.
+[09:27:55]: The TPS is 20.
+[09:27:55]: The current RAM usage is 1827MB / 3072MB (59.47%).
+[09:27:55]: The current player count is 0.
+[09:32:55]: The TPS is 20.
+[09:32:55]: The current RAM usage is 2330MB / 3072MB (75.85%).
+[09:32:55]: The current player count is 0.
+[09:37:55]: The TPS is 20.
+[09:37:55]: The current RAM usage is 1772MB / 3072MB (57.68%).
+[09:37:55]: The current player count is 0.
+[09:42:55]: The TPS is 20.
+[09:42:55]: The current RAM usage is 2342MB / 3072MB (76.24%).
+[09:42:55]: The current player count is 0.
+[09:47:55]: The TPS is 20.
+[09:47:55]: The current RAM usage is 1812MB / 3072MB (58.98%).
+[09:47:55]: The current player count is 0.
+[09:52:55]: The TPS is 20.
+[09:52:55]: The current RAM usage is 1666MB / 3072MB (54.23%).
+[09:52:55]: The current player count is 0.
+[09:57:55]: The TPS is 20.
+[09:57:55]: The current RAM usage is 1499MB / 3072MB (48.8%).
+[09:57:55]: The current player count is 0.
+[10:02:55]: The TPS is 20.
+[10:02:55]: The current RAM usage is 1693MB / 3072MB (55.11%).
+[10:02:55]: The current player count is 0.
+[10:07:55]: The TPS is 20.
+[10:07:55]: The current RAM usage is 1446MB / 3072MB (47.07%).
+[10:07:55]: The current player count is 0.
+[10:12:55]: The TPS is 20.
+[10:12:55]: The current RAM usage is 2281MB / 3072MB (74.25%).
+[10:12:55]: The current player count is 0.
+[10:17:55]: The TPS is 20.
+[10:17:55]: The current RAM usage is 1504MB / 3072MB (48.96%).
+[10:17:55]: The current player count is 0.
+[10:22:55]: The TPS is 20.
+[10:22:55]: The current RAM usage is 2435MB / 3072MB (79.26%).
+[10:22:55]: The current player count is 0.
+[10:27:55]: The TPS is 20.
+[10:27:55]: The current RAM usage is 1530MB / 3072MB (49.8%).
+[10:27:55]: The current player count is 0.
+[10:32:55]: The TPS is 20.
+[10:32:55]: The current RAM usage is 2292MB / 3072MB (74.61%).
+[10:32:55]: The current player count is 0.
+[10:37:55]: The TPS is 20.
+[10:37:55]: The current RAM usage is 1646MB / 3072MB (53.58%).
+[10:37:55]: The current player count is 0.
+[10:42:55]: The TPS is 20.
+[10:42:55]: The current RAM usage is 2280MB / 3072MB (74.22%).
+[10:42:55]: The current player count is 0.
+[10:47:55]: The TPS is 20.
+[10:47:55]: The current RAM usage is 1468MB / 3072MB (47.79%).
+[10:47:55]: The current player count is 0.
+[10:52:55]: The TPS is 20.
+[10:52:55]: The current RAM usage is 1774MB / 3072MB (57.75%).
+[10:52:55]: The current player count is 0.
+[10:57:55]: The TPS is 20.
+[10:57:55]: The current RAM usage is 2118MB / 3072MB (68.95%).
+[10:57:55]: The current player count is 0.
+[11:02:55]: The TPS is 20.
+[11:02:55]: The current RAM usage is 1929MB / 3072MB (62.79%).
+[11:02:55]: The current player count is 0.
+[11:07:55]: The TPS is 20.
+[11:07:55]: The current RAM usage is 2165MB / 3072MB (70.48%).
+[11:07:55]: The current player count is 0.
+[11:12:55]: The TPS is 20.
+[11:12:55]: The current RAM usage is 1601MB / 3072MB (52.12%).
+[11:12:55]: The current player count is 0.
+[11:17:55]: The TPS is 20.
+[11:17:55]: The current RAM usage is 1758MB / 3072MB (57.23%).
+[11:17:55]: The current player count is 0.
+[11:22:55]: The TPS is 20.
+[11:22:55]: The current RAM usage is 1741MB / 3072MB (56.67%).
+[11:22:55]: The current player count is 0.
+[11:27:55]: The TPS is 20.
+[11:27:55]: The current RAM usage is 1629MB / 3072MB (53.03%).
+[11:27:55]: The current player count is 0.
+[11:32:55]: The TPS is 20.
+[11:32:55]: The current RAM usage is 1523MB / 3072MB (49.58%).
+[11:32:55]: The current player count is 0.
+[11:37:55]: The TPS is 20.
+[11:37:55]: The current RAM usage is 1590MB / 3072MB (51.76%).
+[11:37:55]: The current player count is 0.
+[11:42:55]: The TPS is 20.
+[11:42:55]: The current RAM usage is 2024MB / 3072MB (65.89%).
+[11:42:55]: The current player count is 0.
+[11:47:55]: The TPS is 20.
+[11:47:55]: The current RAM usage is 1901MB / 3072MB (61.88%).
+[11:47:55]: The current player count is 0.
+[11:52:55]: The TPS is 20.
+[11:52:55]: The current RAM usage is 2116MB / 3072MB (68.88%).
+[11:52:55]: The current player count is 0.
+[11:57:55]: The TPS is 20.
+[11:57:55]: The current RAM usage is 1644MB / 3072MB (53.52%).
+[11:57:55]: The current player count is 0.
+[12:02:55]: The TPS is 20.
+[12:02:55]: The current RAM usage is 2166MB / 3072MB (70.51%).
+[12:02:55]: The current player count is 0.
+[12:07:55]: The TPS is 20.
+[12:07:55]: The current RAM usage is 1417MB / 3072MB (46.13%).
+[12:07:55]: The current player count is 0.
+[12:12:55]: The TPS is 20.
+[12:12:55]: The current RAM usage is 2153MB / 3072MB (70.08%).
+[12:12:55]: The current player count is 0.
+[12:17:55]: The TPS is 20.
+[12:17:55]: The current RAM usage is 1993MB / 3072MB (64.88%).
+[12:17:55]: The current player count is 0.
+[12:22:55]: The TPS is 20.
+[12:22:55]: The current RAM usage is 2143MB / 3072MB (69.76%).
+[12:22:55]: The current player count is 0.
+[12:27:55]: The TPS is 20.
+[12:27:55]: The current RAM usage is 2352MB / 3072MB (76.56%).
+[12:27:55]: The current player count is 0.
+[12:32:55]: The TPS is 20.
+[12:32:55]: The current RAM usage is 1582MB / 3072MB (51.5%).
+[12:32:55]: The current player count is 0.
+[12:37:55]: The TPS is 20.
+[12:37:55]: The current RAM usage is 2292MB / 3072MB (74.61%).
+[12:37:55]: The current player count is 0.
+[12:42:55]: The TPS is 20.
+[12:42:55]: The current RAM usage is 1913MB / 3072MB (62.27%).
+[12:42:55]: The current player count is 0.
+[12:47:55]: The TPS is 20.
+[12:47:55]: The current RAM usage is 2253MB / 3072MB (73.34%).
+[12:47:55]: The current player count is 0.
+[12:52:55]: The TPS is 20.
+[12:52:55]: The current RAM usage is 1598MB / 3072MB (52.02%).
+[12:52:55]: The current player count is 0.
+[12:57:55]: The TPS is 20.
+[12:57:55]: The current RAM usage is 2093MB / 3072MB (68.13%).
+[12:57:55]: The current player count is 0.
+[13:02:55]: The TPS is 20.
+[13:02:55]: The current RAM usage is 1783MB / 3072MB (58.04%).
+[13:02:55]: The current player count is 0.
+[13:07:55]: The TPS is 20.
+[13:07:55]: The current RAM usage is 1781MB / 3072MB (57.98%).
+[13:07:55]: The current player count is 0.
+[13:12:55]: The TPS is 20.
+[13:12:55]: The current RAM usage is 1658MB / 3072MB (53.97%).
+[13:12:55]: The current player count is 0.
+[13:17:55]: The TPS is 20.
+[13:17:55]: The current RAM usage is 1820MB / 3072MB (59.24%).
+[13:17:55]: The current player count is 0.
+[13:22:55]: The TPS is 20.
+[13:22:55]: The current RAM usage is 1418MB / 3072MB (46.16%).
+[13:22:55]: The current player count is 0.
+[13:27:55]: The TPS is 20.
+[13:27:55]: The current RAM usage is 1491MB / 3072MB (48.54%).
+[13:27:55]: The current player count is 0.
+[13:32:55]: The TPS is 20.
+[13:32:55]: The current RAM usage is 2180MB / 3072MB (70.96%).
+[13:32:55]: The current player count is 0.
+[13:37:55]: The TPS is 20.
+[13:37:55]: The current RAM usage is 2564MB / 3072MB (83.46%).
+[13:37:55]: The current player count is 0.
+[13:42:55]: The TPS is 20.
+[13:42:55]: The current RAM usage is 1734MB / 3072MB (56.45%).
+[13:42:55]: The current player count is 0.
+[13:47:55]: The TPS is 20.
+[13:47:55]: The current RAM usage is 2416MB / 3072MB (78.65%).
+[13:47:55]: The current player count is 0.
+[13:52:55]: The TPS is 20.
+[13:52:55]: The current RAM usage is 2457MB / 3072MB (79.98%).
+[13:52:55]: The current player count is 0.
+[13:57:55]: The TPS is 20.
+[13:57:55]: The current RAM usage is 2023MB / 3072MB (65.85%).
+[13:57:55]: The current player count is 0.
+[14:02:55]: The TPS is 20.
+[14:02:55]: The current RAM usage is 2134MB / 3072MB (69.47%).
+[14:02:55]: The current player count is 0.
+[14:07:55]: The TPS is 20.
+[14:07:55]: The current RAM usage is 2062MB / 3072MB (67.12%).
+[14:07:55]: The current player count is 0.
+[14:12:55]: The TPS is 20.
+[14:12:55]: The current RAM usage is 2198MB / 3072MB (71.55%).
+[14:12:55]: The current player count is 0.
+[14:17:55]: The TPS is 20.
+[14:17:55]: The current RAM usage is 1875MB / 3072MB (61.04%).
+[14:17:55]: The current player count is 0.
+[14:22:55]: The TPS is 20.
+[14:22:55]: The current RAM usage is 2405MB / 3072MB (78.29%).
+[14:22:55]: The current player count is 0.
+[14:27:55]: The TPS is 20.
+[14:27:55]: The current RAM usage is 1951MB / 3072MB (63.51%).
+[14:27:55]: The current player count is 0.
+[14:32:55]: The TPS is 20.
+[14:32:55]: The current RAM usage is 2649MB / 3072MB (86.23%).
+[14:32:55]: The current player count is 0.
+[14:37:55]: The TPS is 20.
+[14:37:55]: The current RAM usage is 1737MB / 3072MB (56.54%).
+[14:37:55]: The current player count is 0.
+[14:42:55]: The TPS is 20.
+[14:42:55]: The current RAM usage is 1422MB / 3072MB (46.29%).
+[14:42:55]: The current player count is 0.
+[14:47:55]: The TPS is 20.
+[14:47:55]: The current RAM usage is 2570MB / 3072MB (83.66%).
+[14:47:55]: The current player count is 0.
+[14:52:55]: The TPS is 20.
+[14:52:55]: The current RAM usage is 1644MB / 3072MB (53.52%).
+[14:52:55]: The current player count is 0.
+[14:57:55]: The TPS is 20.
+[14:57:55]: The current RAM usage is 1815MB / 3072MB (59.08%).
+[14:57:55]: The current player count is 0.
+[15:02:55]: The TPS is 20.
+[15:02:55]: The current RAM usage is 1663MB / 3072MB (54.13%).
+[15:02:55]: The current player count is 0.
+[15:03:47]: thebrendan joined from the IP 71.61.224.181.
+[15:03:47]: thebrendan teleported to 1, 69, 16.
+[15:04:47]: thebrendan teleported to -6, 70, -39.
+[15:04:56]: thebrendan teleported to -37, 69, -66.
+[15:05:16]: thebrendan said -> is it you braydon.
+[15:05:30]: thebrendan said -> hi braydon.
+[15:05:37]: thebrendan said -> what am i supposed to do.
+[15:06:01]: thebrendan said -> no like what is this world.
+[15:06:18]: thebrendan said -> but where did all the trees go.
+[15:06:22]: thebrendan said -> i need a tree.
+[15:06:24]: thebrendan said -> for wood.
+[15:07:18]: Borps joined from the IP 10.0.156.1.
+[15:07:32]: thebrendan died because of DROWNING.
+[15:07:35]: thebrendan respawned.
+[15:07:37]: Borps said -> oh thats lovely.
+[15:07:40]: Borps ran the command /gms.
+[15:07:40]: Borps ran the command /gamemode survival.
+[15:07:40]: Borps changed their gamemode from SPECTATOR to SURVIVAL.
+[15:07:55]: The TPS is 20.
+[15:07:55]: The current RAM usage is 2066MB / 3072MB (67.25%).
+[15:07:55]: The current player count is 2.
+[15:07:56]: thebrendan said -> it was InTenTiOnAl.
+[15:08:00]: Borps said -> where is ye.
+[15:08:07]: thebrendan said -> spawn.
+[15:08:14]: thebrendan said -> that's why me died me harty.
+[15:08:38]: Borps said -> im by the portal.
+[15:09:03]: thebrendan said -> no pls.
+[15:09:05]: thebrendan said -> mercy.
+[15:09:15]: Borps said -> wow this shit laggy today.
+[15:09:23]: thebrendan said -> i aint laggin.
+[15:09:31]: Borps said -> server lag.
+[15:09:32]: thebrendan said -> where do i get resources.
+[15:09:38]: Borps said -> follow.
+[15:09:49]: thebrendan teleported to 64, 69, 46.
+[15:09:53]: thebrendan teleported to 83, 71, 54.
+[15:10:08]: thebrendan said -> may i takey.
+[15:10:12]: Borps said -> ehg.
+[15:10:17]: thebrendan said -> wtf.
+[15:10:22]: Borps said -> theyre probably going to go sooner or later.
+[15:10:24]: Borps said -> go for it.
+[15:10:32]: Borps said -> ignore the forest fire.
+[15:10:33]: thebrendan broke the block OAK_LOG at the location 157, 64, 83.
+[15:10:33]: thebrendan picked up the item OAK_LOG.
+[15:10:36]: thebrendan broke the block OAK_LOG at the location 157, 65, 83.
+[15:10:41]: thebrendan picked up the item OAK_LOG.
+[15:10:44]: thebrendan broke the block OAK_LOG at the location 157, 66, 83.
+[15:10:44]: thebrendan picked up the item OAK_LOG.
+[15:10:47]: thebrendan broke the block OAK_LOG at the location 157, 67, 83.
+[15:10:48]: thebrendan picked up the item OAK_LOG.
+[15:11:59]: thebrendan placed the block CRAFTING_TABLE at the location 147, 78, 5.
+[15:12:21]: thebrendan broke the block CRAFTING_TABLE at the location 147, 78, 5.
+[15:12:22]: thebrendan picked up the item CRAFTING_TABLE.
+[15:12:55]: The TPS is 20.
+[15:12:55]: The current RAM usage is 1601MB / 3072MB (52.12%).
+[15:12:55]: The current player count is 2.
+[15:14:12]: thebrendan kicked. Their IP was 71.61.224.181. Reason: Timed out
+[15:14:12]: thebrendan quit at the location 49, 72, -5. Their IP was 71.61.224.181.
+[15:15:13]: Borps quit at the location 137, 78, -3. Their IP was 10.0.156.1.
+[15:17:55]: The TPS is 20.
+[15:17:55]: The current RAM usage is 2048MB / 3072MB (66.67%).
+[15:17:55]: The current player count is 0.
+[15:22:55]: The TPS is 20.
+[15:22:55]: The current RAM usage is 1517MB / 3072MB (49.38%).
+[15:22:55]: The current player count is 0.
+[15:27:55]: The TPS is 20.
+[15:27:55]: The current RAM usage is 1986MB / 3072MB (64.65%).
+[15:27:55]: The current player count is 0.
+[15:32:55]: The TPS is 20.
+[15:32:55]: The current RAM usage is 1765MB / 3072MB (57.45%).
+[15:32:55]: The current player count is 0.
+[15:37:55]: The TPS is 20.
+[15:37:55]: The current RAM usage is 1641MB / 3072MB (53.42%).
+[15:37:55]: The current player count is 0.
+[15:42:55]: The TPS is 20.
+[15:42:55]: The current RAM usage is 1661MB / 3072MB (54.07%).
+[15:42:55]: The current player count is 0.
+[15:44:48]: thebrendan joined from the IP 71.61.224.181.
+[15:45:37]: thebrendan teleported to 81, 71, 43.
+[15:45:59]: thebrendan died because of DROWNING.
+[15:46:01]: thebrendan respawned.
+[15:47:00]: thebrendan dropped the item IRON_INGOT.
+[15:47:09]: thebrendan picked up the item IRON_INGOT.
+[15:47:55]: The TPS is 20.
+[15:47:55]: The current RAM usage is 2536MB / 3072MB (82.55%).
+[15:47:55]: The current player count is 1.
+[15:47:59]: thebrendan teleported to -21, 68, 49.
+[15:47:59]: thebrendan teleported to -21, 69, 49.
+[15:51:21]: thebrendan quit at the location 12, 72, -36. Their IP was 71.61.224.181.
+[15:52:55]: The TPS is 20.
+[15:52:55]: The current RAM usage is 1547MB / 3072MB (50.36%).
+[15:52:55]: The current player count is 0.
+[15:57:55]: The TPS is 20.
+[15:57:55]: The current RAM usage is 1709MB / 3072MB (55.63%).
+[15:57:55]: The current player count is 0.
+[16:02:55]: The TPS is 20.
+[16:02:55]: The current RAM usage is 1771MB / 3072MB (57.65%).
+[16:02:55]: The current player count is 0.
+[16:07:55]: The TPS is 20.
+[16:07:55]: The current RAM usage is 1733MB / 3072MB (56.41%).
+[16:07:55]: The current player count is 0.
+[16:12:55]: The TPS is 20.
+[16:12:55]: The current RAM usage is 1547MB / 3072MB (50.36%).
+[16:12:55]: The current player count is 0.
+[16:13:44]: thebrendan joined from the IP 71.61.224.181.
+[16:15:09]: thebrendan died because of FALL.
+[16:15:11]: thebrendan respawned.
+[16:15:32]: thebrendan died because of ENTITY_ATTACK by Zombie.
+[16:15:42]: thebrendan respawned.
+[16:15:55]: thebrendan teleported to 4, 70, 25.
+[16:16:27]: thebrendan died because of ENTITY_ATTACK by Zombie.
+[16:16:39]: thebrendan respawned.
+[16:17:02]: thebrendan teleported to 16, 69, 0.
+[16:17:14]: thebrendan teleported to 7, 70, 27.
+[16:17:20]: BenjaboyQ joined from the IP 96.236.218.9.
+[16:17:55]: The TPS is 20.
+[16:17:55]: The current RAM usage is 2523MB / 3072MB (82.13%).
+[16:17:55]: The current player count is 2.
+[16:18:35]: BenjaboyQ dropped the item IRON_BLOCK.
+[16:18:44]: BenjaboyQ picked up the item IRON_BLOCK.
+[16:18:58]: BenjaboyQ dropped the item IRON_BLOCK.
+[16:19:07]: thebrendan picked up the item IRON_BLOCK.
+[16:19:19]: thebrendan dropped the item IRON_CHESTPLATE.
+[16:19:21]: BenjaboyQ picked up the item IRON_CHESTPLATE.
+[16:19:28]: BenjaboyQ dropped the item IRON_CHESTPLATE.
+[16:19:30]: thebrendan picked up the item IRON_CHESTPLATE.
+[16:20:29]: BenjaboyQ dropped the item BIRCH_LOG.
+[16:20:32]: BenjaboyQ picked up the item BIRCH_LOG.
+[16:20:42]: BenjaboyQ dropped the item BIRCH_LOG.
+[16:20:45]: thebrendan picked up the item BIRCH_LOG.
+[16:21:27]: BenjaboyQ said -> epic.
+[16:21:48]: BenjaboyQ broke the block BLACK_WALL_BANNER at the location 38, 80, 95.
+[16:21:49]: BenjaboyQ picked up the item BLACK_BANNER.
+[16:22:08]: BenjaboyQ placed the block BLACK_WALL_BANNER at the location 37, 86, 109.
+[16:22:11]: BenjaboyQ broke the block BLACK_WALL_BANNER at the location 37, 86, 109.
+[16:22:11]: BenjaboyQ picked up the item BLACK_BANNER.
+[16:22:33]: thebrendan teleported to 37, 93, 96.
+[16:22:55]: The TPS is 20.
+[16:22:55]: The current RAM usage is 1799MB / 3072MB (58.56%).
+[16:22:55]: The current player count is 2.
+[16:23:19]: thebrendan dropped the item CRAFTING_TABLE.
+[16:23:21]: thebrendan picked up the item CRAFTING_TABLE.
+[16:24:36]: BenjaboyQ dropped the item GOLDEN_BOOTS.
+[16:24:38]: thebrendan picked up the item GOLDEN_BOOTS.
+[16:25:12]: BenjaboyQ teleported to 9, 80, 6.
+[16:25:19]: thebrendan teleported to 9, 80, 6.
+[16:25:58]: BenjaboyQ dropped the item COOKED_BEEF.
+[16:25:58]: BenjaboyQ dropped the item COOKED_BEEF.
+[16:25:58]: BenjaboyQ dropped the item COOKED_BEEF.
+[16:25:59]: BenjaboyQ dropped the item COOKED_BEEF.
+[16:25:59]: BenjaboyQ dropped the item COOKED_BEEF.
+[16:26:01]: thebrendan picked up the item COOKED_BEEF.
+[16:26:58]: BenjaboyQ broke the block NETHERRACK at the location 77, 61, -7.
+[16:27:55]: The TPS is 20.
+[16:27:55]: The current RAM usage is 2282MB / 3072MB (74.28%).
+[16:27:55]: The current player count is 2.
+[16:28:49]: thebrendan teleported to 141, 42, 22.
+[16:29:06]: thebrendan broke the block FIRE at the location 132, 41, 19.
+[16:29:06]: thebrendan broke the block FIRE at the location 132, 41, 17.
+[16:29:07]: thebrendan teleported to 142, 42, 24.
+[16:29:27]: BenjaboyQ teleported to 1228, 65, 607.
+[16:29:28]: BenjaboyQ teleported to 1228, 65, 607.
+[16:29:30]: thebrendan teleported to 1228, 65, 605.
+[16:29:40]: thebrendan teleported to 1228, 65, 605.
+[16:32:05]: thebrendan teleported to 1288, 64, 768.
+[16:32:16]: thebrendan teleported to 1285, 65, 767.
+[16:32:56]: The TPS is 20.
+[16:32:56]: The current RAM usage is 2231MB / 3072MB (72.62%).
+[16:32:56]: The current player count is 2.
+[16:33:56]: thebrendan dropped the item MELON_SLICE.
+[16:33:58]: thebrendan picked up the item MELON_SLICE.
+[16:34:12]: BenjaboyQ picked up the item PUMPKIN.
+[16:34:48]: thebrendan teleported to 1285, 62, 767.
+[16:35:23]: thebrendan placed the block BIRCH_PLANKS at the location 1284, 65, 777.
+[16:35:23]: thebrendan placed the block BIRCH_PLANKS at the location 1284, 65, 778.
+[16:35:26]: BenjaboyQ broke the block BIRCH_PLANKS at the location 1284, 65, 778.
+[16:35:27]: BenjaboyQ broke the block BIRCH_PLANKS at the location 1284, 65, 777.
+[16:35:27]: thebrendan picked up the item BIRCH_PLANKS.
+[16:35:27]: BenjaboyQ picked up the item BIRCH_PLANKS.
+[16:35:29]: BenjaboyQ dropped the item BIRCH_PLANKS.
+[16:35:31]: thebrendan picked up the item BIRCH_PLANKS.
+[16:35:33]: thebrendan placed the block BIRCH_PLANKS at the location 1284, 65, 778.
+[16:35:33]: thebrendan teleported to 1284, 64, 779.
+[16:35:36]: thebrendan broke the block BIRCH_PLANKS at the location 1284, 65, 778.
+[16:35:36]: BenjaboyQ picked up the item BIRCH_PLANKS.
+[16:35:39]: BenjaboyQ dropped the item BIRCH_PLANKS.
+[16:35:43]: thebrendan picked up the item BIRCH_PLANKS.
+[16:36:05]: thebrendan teleported to 1264, 58, 762.
+[16:36:16]: thebrendan kicked. Their IP was 71.61.224.181. Reason: Timed out
+[16:36:16]: thebrendan quit at the location 1264, 58, 762. Their IP was 71.61.224.181.
+[16:36:20]: thebrendan joined from the IP 71.61.224.181.
+[16:37:15]: BenjaboyQ teleported to 152, 43, 76.
+[16:37:19]: thebrendan teleported to 1264, 40, 658.
+[16:37:56]: The TPS is 20.
+[16:37:56]: The current RAM usage is 1743MB / 3072MB (56.74%).
+[16:37:56]: The current player count is 2.
+[16:38:23]: BenjaboyQ teleported to 58, 74, -2.
+[16:38:52]: thebrendan teleported to 1255, 11, 630.
+[16:38:56]: BenjaboyQ broke the block OAK_LOG at the location 109, 71, 149.
+[16:38:57]: BenjaboyQ picked up the item OAK_LOG.
+[16:38:57]: BenjaboyQ broke the block OAK_LOG at the location 109, 70, 149.
+[16:38:57]: BenjaboyQ broke the block OAK_LOG at the location 109, 69, 149.
+[16:38:57]: BenjaboyQ picked up the item OAK_LOG.
+[16:38:57]: BenjaboyQ picked up the item OAK_LOG.
+[16:38:58]: BenjaboyQ broke the block OAK_LOG at the location 109, 72, 149.
+[16:38:58]: BenjaboyQ broke the block OAK_LOG at the location 109, 73, 149.
+[16:38:58]: BenjaboyQ picked up the item OAK_LOG.
+[16:38:59]: BenjaboyQ picked up the item OAK_LOG.
+[16:38:59]: BenjaboyQ broke the block OAK_LOG at the location 109, 74, 149.
+[16:39:01]: BenjaboyQ broke the block OAK_LOG at the location 103, 74, 148.
+[16:39:02]: BenjaboyQ broke the block OAK_LOG at the location 103, 72, 151.
+[16:39:02]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:03]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:04]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:05]: BenjaboyQ broke the block OAK_LOG at the location 112, 70, 148.
+[16:39:05]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:06]: BenjaboyQ broke the block OAK_LOG at the location 119, 70, 151.
+[16:39:07]: BenjaboyQ broke the block OAK_LOG at the location 119, 69, 151.
+[16:39:07]: BenjaboyQ broke the block OAK_LOG at the location 119, 71, 151.
+[16:39:08]: BenjaboyQ broke the block OAK_LOG at the location 119, 72, 151.
+[16:39:08]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:10]: BenjaboyQ broke the block OAK_LOG at the location 127, 70, 155.
+[16:39:10]: BenjaboyQ broke the block OAK_LOG at the location 127, 69, 155.
+[16:39:11]: BenjaboyQ broke the block OAK_LOG at the location 127, 68, 155.
+[16:39:11]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:11]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:11]: BenjaboyQ broke the block OAK_LOG at the location 127, 71, 155.
+[16:39:12]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:13]: BenjaboyQ broke the block OAK_LOG at the location 125, 69, 161.
+[16:39:13]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:13]: BenjaboyQ broke the block OAK_LOG at the location 125, 68, 161.
+[16:39:14]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:14]: BenjaboyQ broke the block OAK_LOG at the location 125, 70, 161.
+[16:39:14]: BenjaboyQ broke the block OAK_LOG at the location 125, 71, 161.
+[16:39:14]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:15]: BenjaboyQ broke the block OAK_LOG at the location 125, 72, 161.
+[16:39:15]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:15]: BenjaboyQ broke the block OAK_LOG at the location 125, 73, 161.
+[16:39:15]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:16]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:17]: BenjaboyQ broke the block OAK_LOG at the location 130, 69, 163.
+[16:39:17]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:17]: BenjaboyQ broke the block OAK_LOG at the location 130, 68, 163.
+[16:39:18]: BenjaboyQ broke the block OAK_LOG at the location 130, 67, 163.
+[16:39:18]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:18]: BenjaboyQ broke the block OAK_LOG at the location 130, 70, 163.
+[16:39:18]: BenjaboyQ broke the block OAK_LOG at the location 130, 71, 163.
+[16:39:19]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:19]: BenjaboyQ broke the block OAK_LOG at the location 130, 72, 163.
+[16:39:19]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:20]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:22]: BenjaboyQ broke the block OAK_LOG at the location 138, 67, 163.
+[16:39:22]: BenjaboyQ broke the block OAK_LOG at the location 138, 66, 163.
+[16:39:22]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:22]: BenjaboyQ broke the block OAK_LOG at the location 138, 68, 163.
+[16:39:22]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:23]: BenjaboyQ broke the block OAK_LOG at the location 138, 69, 163.
+[16:39:23]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:23]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:24]: BenjaboyQ broke the block OAK_LOG at the location 140, 67, 160.
+[16:39:24]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:24]: BenjaboyQ broke the block OAK_LOG at the location 140, 66, 160.
+[16:39:25]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:25]: BenjaboyQ broke the block OAK_LOG at the location 140, 68, 160.
+[16:39:25]: BenjaboyQ broke the block OAK_LOG at the location 140, 69, 160.
+[16:39:25]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:26]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:27]: BenjaboyQ broke the block OAK_LOG at the location 142, 67, 155.
+[16:39:27]: BenjaboyQ broke the block OAK_LOG at the location 142, 66, 155.
+[16:39:28]: BenjaboyQ broke the block OAK_LOG at the location 142, 68, 155.
+[16:39:28]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:28]: BenjaboyQ broke the block OAK_LOG at the location 142, 69, 155.
+[16:39:28]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:28]: BenjaboyQ broke the block OAK_LOG at the location 142, 70, 155.
+[16:39:28]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:29]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:30]: BenjaboyQ broke the block OAK_LOG at the location 137, 67, 154.
+[16:39:30]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:30]: BenjaboyQ broke the block OAK_LOG at the location 137, 68, 154.
+[16:39:31]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:31]: BenjaboyQ broke the block OAK_LOG at the location 137, 69, 154.
+[16:39:31]: BenjaboyQ broke the block OAK_LOG at the location 137, 70, 154.
+[16:39:31]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:32]: BenjaboyQ broke the block OAK_LOG at the location 137, 71, 154.
+[16:39:32]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:32]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:34]: BenjaboyQ broke the block OAK_LEAVES at the location 142, 68, 150.
+[16:39:34]: BenjaboyQ broke the block OAK_LEAVES at the location 143, 68, 150.
+[16:39:35]: BenjaboyQ broke the block OAK_LOG at the location 144, 68, 150.
+[16:39:35]: BenjaboyQ broke the block OAK_LOG at the location 144, 67, 150.
+[16:39:35]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:36]: BenjaboyQ broke the block OAK_LOG at the location 144, 69, 150.
+[16:39:36]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:36]: BenjaboyQ broke the block OAK_LOG at the location 144, 70, 150.
+[16:39:36]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:37]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:37]: BenjaboyQ broke the block OAK_LEAVES at the location 145, 68, 150.
+[16:39:37]: BenjaboyQ broke the block OAK_LEAVES at the location 146, 68, 150.
+[16:39:38]: BenjaboyQ broke the block OAK_LOG at the location 147, 68, 150.
+[16:39:38]: BenjaboyQ broke the block OAK_LOG at the location 147, 67, 150.
+[16:39:38]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:39]: BenjaboyQ broke the block OAK_LOG at the location 147, 69, 150.
+[16:39:39]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:39]: BenjaboyQ broke the block OAK_LOG at the location 147, 70, 150.
+[16:39:39]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:39]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:46]: BenjaboyQ broke the block OAK_LOG at the location 115, 69, 161.
+[16:39:47]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:47]: BenjaboyQ broke the block OAK_LOG at the location 115, 68, 161.
+[16:39:47]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:47]: BenjaboyQ broke the block OAK_LOG at the location 115, 70, 161.
+[16:39:48]: BenjaboyQ broke the block OAK_LOG at the location 115, 71, 161.
+[16:39:48]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:48]: BenjaboyQ broke the block OAK_LOG at the location 115, 72, 161.
+[16:39:48]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:48]: BenjaboyQ broke the block OAK_LOG at the location 115, 73, 161.
+[16:39:49]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:51]: BenjaboyQ broke the block OAK_LOG at the location 108, 66, 169.
+[16:39:52]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:52]: BenjaboyQ broke the block OAK_LOG at the location 108, 65, 169.
+[16:39:52]: BenjaboyQ broke the block OAK_LOG at the location 108, 64, 169.
+[16:39:52]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:53]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:53]: BenjaboyQ broke the block OAK_LOG at the location 108, 67, 169.
+[16:39:53]: thebrendan dropped the item COD.
+[16:39:53]: BenjaboyQ broke the block OAK_LOG at the location 108, 68, 169.
+[16:39:53]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:54]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:54]: BenjaboyQ broke the block OAK_LOG at the location 108, 69, 169.
+[16:39:55]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:55]: thebrendan picked up the item COD.
+[16:39:55]: BenjaboyQ broke the block OAK_LOG at the location 105, 65, 168.
+[16:39:56]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:56]: BenjaboyQ broke the block OAK_LOG at the location 105, 64, 168.
+[16:39:56]: BenjaboyQ broke the block OAK_LOG at the location 105, 66, 168.
+[16:39:56]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:56]: BenjaboyQ broke the block OAK_LOG at the location 105, 67, 168.
+[16:39:56]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:57]: BenjaboyQ broke the block OAK_LOG at the location 105, 68, 168.
+[16:39:57]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:57]: BenjaboyQ broke the block OAK_LOG at the location 105, 69, 168.
+[16:39:58]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:58]: BenjaboyQ broke the block OAK_LOG at the location 105, 65, 171.
+[16:39:58]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:59]: BenjaboyQ broke the block OAK_LOG at the location 105, 64, 171.
+[16:39:59]: BenjaboyQ picked up the item OAK_LOG.
+[16:39:59]: BenjaboyQ broke the block OAK_LOG at the location 105, 66, 171.
+[16:39:59]: BenjaboyQ broke the block OAK_LOG at the location 105, 67, 171.
+[16:39:59]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:00]: BenjaboyQ broke the block OAK_LOG at the location 105, 68, 171.
+[16:40:00]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:00]: BenjaboyQ broke the block OAK_LOG at the location 105, 69, 171.
+[16:40:00]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:01]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:01]: thebrendan dropped the item COD.
+[16:40:03]: BenjaboyQ broke the block OAK_LOG at the location 101, 65, 164.
+[16:40:03]: thebrendan dropped the item COD.
+[16:40:03]: thebrendan picked up the item COD.
+[16:40:03]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:03]: BenjaboyQ broke the block OAK_LOG at the location 101, 66, 164.
+[16:40:04]: BenjaboyQ broke the block OAK_LOG at the location 101, 67, 164.
+[16:40:04]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:04]: BenjaboyQ broke the block OAK_LOG at the location 101, 68, 164.
+[16:40:04]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:05]: BenjaboyQ broke the block OAK_LOG at the location 101, 69, 164.
+[16:40:05]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:06]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:08]: BenjaboyQ broke the block OAK_LOG at the location 95, 65, 171.
+[16:40:08]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:08]: BenjaboyQ broke the block OAK_LOG at the location 95, 64, 171.
+[16:40:09]: BenjaboyQ broke the block OAK_LOG at the location 95, 66, 171.
+[16:40:09]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:09]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:09]: BenjaboyQ broke the block OAK_LOG at the location 95, 67, 171.
+[16:40:09]: BenjaboyQ broke the block OAK_LOG at the location 95, 68, 171.
+[16:40:10]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:10]: BenjaboyQ broke the block OAK_LOG at the location 95, 69, 171.
+[16:40:10]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:11]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:11]: thebrendan dropped the item COD.
+[16:40:11]: thebrendan dropped the item COD.
+[16:40:12]: thebrendan dropped the item COD.
+[16:40:13]: BenjaboyQ broke the block OAK_LOG at the location 82, 65, 160.
+[16:40:14]: thebrendan dropped the item COD.
+[16:40:14]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:14]: BenjaboyQ broke the block OAK_LOG at the location 82, 64, 160.
+[16:40:14]: BenjaboyQ broke the block OAK_LOG at the location 82, 66, 160.
+[16:40:14]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:15]: BenjaboyQ broke the block OAK_LOG at the location 82, 67, 160.
+[16:40:15]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:15]: BenjaboyQ broke the block OAK_LOG at the location 82, 68, 160.
+[16:40:16]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:34]: BenjaboyQ broke the block OAK_LOG at the location 141, 70, 141.
+[16:40:35]: BenjaboyQ broke the block OAK_LOG at the location 141, 69, 141.
+[16:40:35]: BenjaboyQ broke the block OAK_LOG at the location 141, 68, 141.
+[16:40:36]: thebrendan teleported to 1250, 40, 642.
+[16:40:36]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:36]: BenjaboyQ broke the block OAK_LOG at the location 141, 71, 141.
+[16:40:36]: BenjaboyQ broke the block OAK_LOG at the location 141, 72, 141.
+[16:40:37]: BenjaboyQ broke the block OAK_LOG at the location 141, 73, 141.
+[16:40:37]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:38]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:39]: BenjaboyQ broke the block OAK_LEAVES at the location 144, 69, 142.
+[16:40:39]: BenjaboyQ broke the block OAK_LEAVES at the location 145, 69, 142.
+[16:40:40]: BenjaboyQ broke the block OAK_LOG at the location 146, 69, 142.
+[16:40:40]: BenjaboyQ broke the block OAK_LOG at the location 146, 68, 142.
+[16:40:40]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:40]: BenjaboyQ broke the block OAK_LOG at the location 146, 70, 142.
+[16:40:40]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:41]: BenjaboyQ broke the block OAK_LOG at the location 146, 71, 142.
+[16:40:41]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:41]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:44]: BenjaboyQ broke the block OAK_LOG at the location 137, 69, 142.
+[16:40:44]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:44]: BenjaboyQ broke the block OAK_LOG at the location 137, 68, 142.
+[16:40:44]: BenjaboyQ broke the block OAK_LOG at the location 137, 70, 142.
+[16:40:45]: BenjaboyQ broke the block OAK_LOG at the location 137, 71, 142.
+[16:40:45]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:45]: BenjaboyQ broke the block OAK_LOG at the location 137, 72, 142.
+[16:40:45]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:46]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:47]: BenjaboyQ broke the block FIRE at the location 137, 68, 141.
+[16:40:48]: thebrendan teleported to 1282, 40, 626.
+[16:40:49]: BenjaboyQ broke the block OAK_LOG at the location 149, 69, 140.
+[16:40:50]: BenjaboyQ broke the block OAK_LOG at the location 149, 68, 140.
+[16:40:50]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:50]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:50]: BenjaboyQ broke the block OAK_LOG at the location 149, 70, 140.
+[16:40:51]: BenjaboyQ broke the block OAK_LOG at the location 149, 71, 140.
+[16:40:51]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:51]: BenjaboyQ broke the block OAK_LOG at the location 149, 72, 140.
+[16:40:51]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:52]: BenjaboyQ picked up the item OAK_LOG.
+[16:40:59]: thebrendan teleported to 1272, 40, 627.
+[16:41:11]: thebrendan teleported to 1263, 40, 655.
+[16:41:18]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 214, 74, 102.
+[16:41:18]: BenjaboyQ picked up the item STICK.
+[16:41:18]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 215, 74, 102.
+[16:41:19]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 74, 102.
+[16:41:19]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 73, 102.
+[16:41:19]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:19]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 75, 102.
+[16:41:20]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:20]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 76, 102.
+[16:41:20]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:20]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 77, 102.
+[16:41:20]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:21]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 78, 102.
+[16:41:21]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:21]: BenjaboyQ broke the block SPRUCE_LOG at the location 216, 79, 102.
+[16:41:23]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 216, 75, 103.
+[16:41:23]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 217, 76, 103.
+[16:41:24]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:24]: thebrendan teleported to 1263, 62, 652.
+[16:41:27]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 210, 74, 98.
+[16:41:28]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 210, 74, 97.
+[16:41:28]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:41:28]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 210, 73, 96.
+[16:41:29]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 73, 95.
+[16:41:29]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 72, 95.
+[16:41:29]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:30]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 74, 95.
+[16:41:30]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:30]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 75, 95.
+[16:41:30]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:30]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 76, 95.
+[16:41:31]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:31]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 77, 95.
+[16:41:31]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:31]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 78, 95.
+[16:41:32]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:32]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:34]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 79, 95.
+[16:41:34]: thebrendan teleported to 1266, 53, 656.
+[16:41:35]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:40]: BenjaboyQ placed the block SCAFFOLDING at the location 210, 72, 95.
+[16:41:40]: BenjaboyQ placed the block SCAFFOLDING at the location 210, 73, 95.
+[16:41:41]: BenjaboyQ placed the block SCAFFOLDING at the location 210, 74, 95.
+[16:41:42]: BenjaboyQ broke the block SPRUCE_LOG at the location 210, 80, 95.
+[16:41:43]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:44]: BenjaboyQ broke the block SCAFFOLDING at the location 210, 74, 95.
+[16:41:44]: BenjaboyQ broke the block SCAFFOLDING at the location 210, 73, 95.
+[16:41:44]: BenjaboyQ broke the block SCAFFOLDING at the location 210, 72, 95.
+[16:41:45]: BenjaboyQ picked up the item SCAFFOLDING.
+[16:41:46]: BenjaboyQ picked up the item STICK.
+[16:41:46]: thebrendan teleported to 1256, 63, 624.
+[16:41:47]: BenjaboyQ picked up the item STICK.
+[16:41:49]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:41:57]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 73, 107.
+[16:41:58]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:58]: thebrendan teleported to 152, 43, 76.
+[16:41:58]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 74, 107.
+[16:41:58]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:59]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 75, 107.
+[16:41:59]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 76, 107.
+[16:41:59]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:41:59]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 77, 107.
+[16:41:59]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:00]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 78, 107.
+[16:42:00]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:01]: BenjaboyQ broke the block SPRUCE_LOG at the location 252, 72, 107.
+[16:42:01]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:01]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:03]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 74, 116.
+[16:42:03]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 75, 116.
+[16:42:03]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:04]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:04]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 246, 75, 115.
+[16:42:05]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 76, 116.
+[16:42:05]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 77, 116.
+[16:42:05]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:05]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 78, 116.
+[16:42:06]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:06]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 79, 116.
+[16:42:06]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:07]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:10]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 243, 74, 105.
+[16:42:10]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 243, 74, 104.
+[16:42:11]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 74, 103.
+[16:42:11]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 73, 103.
+[16:42:11]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:11]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 75, 103.
+[16:42:12]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:12]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 76, 103.
+[16:42:12]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:12]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 77, 103.
+[16:42:12]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:13]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 78, 103.
+[16:42:13]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:13]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 79, 103.
+[16:42:13]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:14]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:15]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 80, 103.
+[16:42:16]: BenjaboyQ picked up the item STICK.
+[16:42:16]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:17]: BenjaboyQ placed the block SCAFFOLDING at the location 243, 73, 103.
+[16:42:18]: thebrendan teleported to 169, 42, 83.
+[16:42:18]: BenjaboyQ placed the block SCAFFOLDING at the location 243, 74, 103.
+[16:42:20]: BenjaboyQ broke the block SPRUCE_LOG at the location 243, 81, 103.
+[16:42:21]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:25]: BenjaboyQ broke the block SCAFFOLDING at the location 243, 74, 103.
+[16:42:25]: BenjaboyQ broke the block SCAFFOLDING at the location 243, 73, 103.
+[16:42:26]: BenjaboyQ picked up the item SCAFFOLDING.
+[16:42:26]: BenjaboyQ picked up the item SCAFFOLDING.
+[16:42:26]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:42:29]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:42:29]: thebrendan teleported to 170, 41, 89.
+[16:42:30]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:42:31]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 75, 125.
+[16:42:32]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 76, 125.
+[16:42:32]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:32]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:32]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 77, 125.
+[16:42:33]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 78, 125.
+[16:42:33]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:33]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 79, 125.
+[16:42:34]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 80, 125.
+[16:42:34]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:35]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 74, 125.
+[16:42:35]: BenjaboyQ broke the block SPRUCE_LOG at the location 246, 73, 125.
+[16:42:35]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:35]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:41]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 73, 116.
+[16:42:41]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:41]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 72, 116.
+[16:42:41]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 74, 116.
+[16:42:41]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:42]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 75, 116.
+[16:42:42]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:42]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 76, 116.
+[16:42:42]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:43]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 77, 116.
+[16:42:43]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:43]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 78, 116.
+[16:42:43]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:46]: BenjaboyQ broke the block SPRUCE_LOG at the location 257, 79, 116.
+[16:42:48]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 256, 75, 116.
+[16:42:49]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 256, 76, 116.
+[16:42:50]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 256, 76, 117.
+[16:42:50]: BenjaboyQ picked up the item STICK.
+[16:42:50]: thebrendan placed the block CRAFTING_TABLE at the location 148, 44, 57.
+[16:42:50]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:42:56]: The TPS is 20.
+[16:42:56]: The current RAM usage is 1889MB / 3072MB (61.49%).
+[16:42:56]: The current player count is 2.
+[16:42:59]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:42:59]: BenjaboyQ picked up the item STICK.
+[16:43:00]: thebrendan dropped the item STICK.
+[16:43:01]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:43:01]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:43:02]: thebrendan picked up the item STICK.
+[16:43:03]: BenjaboyQ picked up the item STICK.
+[16:43:03]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:43:07]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 218, 74, 106.
+[16:43:09]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 228, 74, 104.
+[16:43:10]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 232, 75, 109.
+[16:43:11]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 235, 74, 107.
+[16:43:11]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 239, 74, 109.
+[16:43:12]: BenjaboyQ picked up the item SPRUCE_SAPLING.
+[16:43:12]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 240, 74, 105.
+[16:43:16]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 223, 73, 102.
+[16:43:16]: thebrendan dropped the item IRON_PICKAXE.
+[16:43:17]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 217, 73, 102.
+[16:43:17]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 215, 74, 105.
+[16:43:18]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 211, 74, 106.
+[16:43:18]: thebrendan picked up the item IRON_PICKAXE.
+[16:43:19]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 210, 73, 102.
+[16:43:19]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 208, 73, 99.
+[16:43:20]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 211, 72, 95.
+[16:43:21]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 216, 72, 96.
+[16:43:22]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 221, 72, 93.
+[16:43:23]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 217, 72, 89.
+[16:43:24]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 208, 72, 92.
+[16:43:25]: BenjaboyQ placed the block SPRUCE_SAPLING at the location 204, 72, 89.
+[16:43:28]: thebrendan broke the block NETHER_GOLD_ORE at the location 146, 43, 58.
+[16:43:29]: thebrendan broke the block NETHER_GOLD_ORE at the location 146, 43, 59.
+[16:43:30]: thebrendan picked up the item GOLD_NUGGET.
+[16:43:32]: thebrendan broke the block NETHER_GOLD_ORE at the location 146, 43, 57.
+[16:43:33]: thebrendan picked up the item GOLD_NUGGET.
+[16:43:33]: thebrendan broke the block NETHER_GOLD_ORE at the location 147, 43, 58.
+[16:43:33]: BenjaboyQ picked up the item ROTTEN_FLESH.
+[16:43:34]: thebrendan picked up the item GOLD_NUGGET.
+[16:43:34]: thebrendan broke the block NETHER_GOLD_ORE at the location 147, 43, 57.
+[16:43:35]: thebrendan broke the block NETHER_GOLD_ORE at the location 147, 43, 56.
+[16:43:36]: thebrendan picked up the item GOLD_NUGGET.
+[16:43:36]: thebrendan broke the block NETHERRACK at the location 147, 42, 58.
+[16:43:37]: thebrendan picked up the item NETHERRACK.
+[16:43:37]: thebrendan broke the block NETHER_GOLD_ORE at the location 147, 42, 57.
+[16:43:38]: thebrendan picked up the item GOLD_NUGGET.
+[16:43:49]: thebrendan dropped the item IRON_SWORD.
+[16:43:51]: thebrendan picked up the item IRON_SWORD.
+[16:43:52]: BenjaboyQ broke the block SPRUCE_LOG at the location 248, 73, 132.
+[16:43:53]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:43:53]: BenjaboyQ broke the block SPRUCE_LOG at the location 248, 72, 132.
+[16:43:53]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:43:53]: BenjaboyQ broke the block SPRUCE_LOG at the location 248, 74, 132.
+[16:43:54]: BenjaboyQ broke the block SPRUCE_LOG at the location 248, 75, 132.
+[16:43:54]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:43:54]: BenjaboyQ broke the block SPRUCE_LOG at the location 248, 76, 132.
+[16:43:54]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:43:54]: BenjaboyQ broke the block SPRUCE_LOG at the location 248, 77, 132.
+[16:43:55]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:43:55]: BenjaboyQ broke the block SPRUCE_LEAVES at the location 248, 78, 132.
+[16:43:55]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:44:00]: BenjaboyQ broke the block SPRUCE_LOG at the location 255, 75, 145.
+[16:44:00]: BenjaboyQ broke the block SPRUCE_LOG at the location 255, 76, 145.
+[16:44:00]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:44:00]: BenjaboyQ broke the block SPRUCE_LOG at the location 255, 77, 145.
+[16:44:01]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:44:01]: thebrendan teleported to 147, 43, 56.
+[16:44:01]: BenjaboyQ broke the block SPRUCE_LOG at the location 255, 78, 145.
+[16:44:01]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:44:01]: BenjaboyQ broke the block SPRUCE_LOG at the location 255, 79, 145.
+[16:44:02]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:44:02]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:44:03]: BenjaboyQ broke the block SPRUCE_LOG at the location 255, 72, 145.
+[16:44:03]: thebrendan broke the block NETHERRACK at the location 147, 44, 55.
+[16:44:03]: BenjaboyQ picked up the item SPRUCE_LOG.
+[16:46:16]: thebrendan quit at the location 147, 43, 56. Their IP was 71.61.224.181.
+[16:46:40]: BenjaboyQ picked up the item SHEARS.
+[16:46:41]: BenjaboyQ picked up the item ITEM_FRAME.
+[16:46:41]: BenjaboyQ placed the block OAK_WALL_SIGN at the location 37, 104, 108.
+[16:46:57]: BenjaboyQ placed the block OAK_PLANKS at the location 35, 101, 108.
+[16:46:59]: BenjaboyQ placed the block OAK_PLANKS at the location 34, 101, 108.
+[16:47:00]: BenjaboyQ placed the block OAK_PLANKS at the location 35, 101, 107.
+[16:47:01]: BenjaboyQ placed the block OAK_PLANKS at the location 34, 101, 107.
+[16:47:04]: BenjaboyQ placed the block CHEST at the location 34, 102, 108.
+[16:47:06]: BenjaboyQ placed the block OAK_WALL_SIGN at the location 35, 102, 108.
+[16:47:26]: BenjaboyQ placed the block OAK_SIGN at the location 34, 102, 107.
+[16:47:56]: The TPS is 20.
+[16:47:56]: The current RAM usage is 1645MB / 3072MB (53.55%).
+[16:47:56]: The current player count is 1.
+[16:50:54]: BenjaboyQ placed the block SPRUCE_WALL_SIGN at the location 35, 101, 109.
+[16:51:15]: BenjaboyQ placed the block SPRUCE_WALL_SIGN at the location 35, 109, 109.
+[16:51:43]: BenjaboyQ picked up the item COOKED_BEEF.
+[16:52:55]: The TPS is 20.
+[16:52:55]: The current RAM usage is 2153MB / 3072MB (70.08%).
+[16:52:55]: The current player count is 1.
+[16:54:25]: BenjaboyQ quit at the location 39, 102, 107. Their IP was 96.236.218.9.
+[16:57:55]: The TPS is 20.
+[16:57:55]: The current RAM usage is 2101MB / 3072MB (68.39%).
+[16:57:55]: The current player count is 0.
+[17:02:55]: The TPS is 20.
+[17:02:55]: The current RAM usage is 1701MB / 3072MB (55.37%).
+[17:02:55]: The current player count is 0.
+[17:07:55]: The TPS is 20.
+[17:07:55]: The current RAM usage is 1521MB / 3072MB (49.51%).
+[17:07:55]: The current player count is 0.
+[17:12:55]: The TPS is 20.
+[17:12:55]: The current RAM usage is 1428MB / 3072MB (46.48%).
+[17:12:55]: The current player count is 0.
+[17:17:55]: The TPS is 20.
+[17:17:55]: The current RAM usage is 1974MB / 3072MB (64.26%).
+[17:17:55]: The current player count is 0.
+[17:22:55]: The TPS is 20.
+[17:22:55]: The current RAM usage is 1760MB / 3072MB (57.29%).
+[17:22:55]: The current player count is 0.
+[17:27:55]: The TPS is 20.
+[17:27:55]: The current RAM usage is 2415MB / 3072MB (78.61%).
+[17:27:55]: The current player count is 0.
+[17:32:55]: The TPS is 20.
+[17:32:55]: The current RAM usage is 1802MB / 3072MB (58.66%).
+[17:32:55]: The current player count is 0.
+[17:37:55]: The TPS is 20.
+[17:37:55]: The current RAM usage is 1636MB / 3072MB (53.26%).
+[17:37:55]: The current player count is 0.
+[17:42:55]: The TPS is 20.
+[17:42:55]: The current RAM usage is 2571MB / 3072MB (83.69%).
+[17:42:55]: The current player count is 0.
+[17:47:55]: The TPS is 20.
+[17:47:55]: The current RAM usage is 2072MB / 3072MB (67.45%).
+[17:47:55]: The current player count is 0.
+[17:52:55]: The TPS is 20.
+[17:52:55]: The current RAM usage is 1458MB / 3072MB (47.46%).
+[17:52:55]: The current player count is 0.
+[17:57:55]: The TPS is 20.
+[17:57:55]: The current RAM usage is 1709MB / 3072MB (55.63%).
+[17:57:55]: The current player count is 0.
+[18:02:55]: The TPS is 20.
+[18:02:55]: The current RAM usage is 2374MB / 3072MB (77.28%).
+[18:02:55]: The current player count is 0.
+[18:05:28]: thebrendan joined from the IP 71.61.224.181.
+[18:05:38]: thebrendan teleported to 147, 44, 56.
+[18:05:41]: thebrendan broke the block CRAFTING_TABLE at the location 148, 44, 57.
+[18:05:42]: thebrendan picked up the item CRAFTING_TABLE.
+[18:05:55]: thebrendan teleported to 1228, 65, 606.
+[18:06:15]: thebrendan teleported to 1228, 65, 606.
+[18:07:14]: thebrendan teleported to 1243, 69, 583.
+[18:07:25]: thebrendan teleported to 1243, 69, 583.
+[18:07:35]: thebrendan teleported to 1237, 64, 566.
+[18:07:56]: The TPS is 20.
+[18:07:56]: The current RAM usage is 2230MB / 3072MB (72.59%).
+[18:07:56]: The current player count is 1.
+[18:08:03]: thebrendan teleported to 1236, 63, 453.
+[18:08:04]: thebrendan teleported to 1236, 63, 453.
+[18:10:12]: thebrendan broke the block IRON_ORE at the location 830, 62, 361.
+[18:10:13]: thebrendan broke the block IRON_ORE at the location 830, 61, 362.
+[18:10:13]: thebrendan picked up the item IRON_ORE.
+[18:10:15]: thebrendan picked up the item IRON_ORE.
+[18:10:52]: thebrendan teleported to 744, 63, 302.
+[18:12:09]: thebrendan kicked. Their IP was 71.61.224.181. Reason: Timed out
+[18:12:09]: thebrendan quit at the location 755, 57, 305. Their IP was 71.61.224.181.
+[18:12:55]: The TPS is 20.
+[18:12:55]: The current RAM usage is 1676MB / 3072MB (54.56%).
+[18:12:55]: The current player count is 0.
+[18:17:55]: The TPS is 20.
+[18:17:55]: The current RAM usage is 2338MB / 3072MB (76.11%).
+[18:17:55]: The current player count is 0.
+[18:22:55]: The TPS is 20.
+[18:22:55]: The current RAM usage is 2290MB / 3072MB (74.54%).
+[18:22:55]: The current player count is 0.
+[18:27:55]: The TPS is 20.
+[18:27:55]: The current RAM usage is 1413MB / 3072MB (46%).
+[18:27:55]: The current player count is 0.
+[18:32:55]: The TPS is 20.
+[18:32:55]: The current RAM usage is 1615MB / 3072MB (52.57%).
+[18:32:55]: The current player count is 0.
+[18:37:55]: The TPS is 20.
+[18:37:55]: The current RAM usage is 2324MB / 3072MB (75.65%).
+[18:37:55]: The current player count is 0.
+[18:42:55]: The TPS is 20.
+[18:42:55]: The current RAM usage is 2079MB / 3072MB (67.68%).
+[18:42:55]: The current player count is 0.
+[18:47:55]: The TPS is 20.
+[18:47:55]: The current RAM usage is 1720MB / 3072MB (55.99%).
+[18:47:55]: The current player count is 0.
+[18:52:55]: The TPS is 20.
+[18:52:55]: The current RAM usage is 1656MB / 3072MB (53.91%).
+[18:52:55]: The current player count is 0.
+[18:57:55]: The TPS is 20.
+[18:57:55]: The current RAM usage is 1548MB / 3072MB (50.39%).
+[18:57:55]: The current player count is 0.
+[19:02:55]: The TPS is 20.
+[19:02:55]: The current RAM usage is 1680MB / 3072MB (54.69%).
+[19:02:55]: The current player count is 0.
+[19:07:55]: The TPS is 20.
+[19:07:55]: The current RAM usage is 1657MB / 3072MB (53.94%).
+[19:07:55]: The current player count is 0.
+[19:12:55]: The TPS is 20.
+[19:12:55]: The current RAM usage is 2077MB / 3072MB (67.61%).
+[19:12:55]: The current player count is 0.
+[19:17:55]: The TPS is 20.
+[19:17:55]: The current RAM usage is 1415MB / 3072MB (46.06%).
+[19:17:55]: The current player count is 0.
+[19:22:55]: The TPS is 20.
+[19:22:55]: The current RAM usage is 2116MB / 3072MB (68.88%).
+[19:22:55]: The current player count is 0.
+[19:27:55]: The TPS is 20.
+[19:27:55]: The current RAM usage is 1520MB / 3072MB (49.48%).
+[19:27:55]: The current player count is 0.
+[19:32:55]: The TPS is 20.
+[19:32:55]: The current RAM usage is 1504MB / 3072MB (48.96%).
+[19:32:55]: The current player count is 0.
+[19:37:55]: The TPS is 20.
+[19:37:55]: The current RAM usage is 1642MB / 3072MB (53.45%).
+[19:37:55]: The current player count is 0.
+[19:42:55]: The TPS is 20.
+[19:42:55]: The current RAM usage is 2323MB / 3072MB (75.62%).
+[19:42:55]: The current player count is 0.
+[19:47:55]: The TPS is 20.
+[19:47:55]: The current RAM usage is 1963MB / 3072MB (63.9%).
+[19:47:55]: The current player count is 0.
+[19:52:55]: The TPS is 20.
+[19:52:55]: The current RAM usage is 1900MB / 3072MB (61.85%).
+[19:52:55]: The current player count is 0.
+[19:57:55]: The TPS is 20.
+[19:57:55]: The current RAM usage is 2636MB / 3072MB (85.81%).
+[19:57:55]: The current player count is 0.
+[20:02:55]: The TPS is 20.
+[20:02:55]: The current RAM usage is 1833MB / 3072MB (59.67%).
+[20:02:55]: The current player count is 0.
+[20:07:55]: The TPS is 20.
+[20:07:55]: The current RAM usage is 1399MB / 3072MB (45.54%).
+[20:07:55]: The current player count is 0.
+[20:09:32]: BenDoesMusic joined from the IP 98.111.253.55.
+[20:10:00]: BenDoesMusic teleported to 25, 77, -226.
+[20:10:02]: BenDoesMusic picked up the item SPRUCE_BOAT.
+[20:10:09]: BenDoesMusic teleported to 140, 70, -1901.
+[20:10:34]: BenDoesMusic ran the command /night.
+[20:10:34]: BenDoesMusic ran the command /time set night.
+[20:10:40]: BenDoesMusic teleported to 215, 67, -1894.
+[20:11:09]: BenDoesMusic teleported to 25, 78, -229.
+[20:12:30]: BenDoesMusic teleported to 26, 77, -57.
+[20:12:33]: BenDoesMusic picked up the item SPRUCE_BOAT.
+[20:12:56]: The TPS is 20.
+[20:12:56]: The current RAM usage is 1722MB / 3072MB (56.05%).
+[20:12:56]: The current player count is 1.
+[20:13:04]: BenDoesMusic teleported to 58, 74, 0.
+[20:14:45]: BenDoesMusic picked up the item FILLED_MAP.
+[20:17:56]: The TPS is 20.
+[20:17:56]: The current RAM usage is 1718MB / 3072MB (55.92%).
+[20:17:56]: The current player count is 1.
+[20:22:55]: The TPS is 20.
+[20:22:55]: The current RAM usage is 2178MB / 3072MB (70.9%).
+[20:22:55]: The current player count is 1.
+[20:27:55]: The TPS is 20.
+[20:27:55]: The current RAM usage is 1683MB / 3072MB (54.79%).
+[20:27:55]: The current player count is 1.
+[20:32:55]: The TPS is 20.
+[20:32:55]: The current RAM usage is 1823MB / 3072MB (59.34%).
+[20:32:55]: The current player count is 1.
+[20:37:55]: The TPS is 20.
+[20:37:55]: The current RAM usage is 2238MB / 3072MB (72.85%).
+[20:37:55]: The current player count is 1.
+[20:40:26]: BenDoesMusic quit at the location 13, 196, 41. Their IP was 98.111.253.55.
+[20:42:55]: The TPS is 20.
+[20:42:55]: The current RAM usage is 2443MB / 3072MB (79.52%).
+[20:42:55]: The current player count is 0.
+[20:47:55]: The TPS is 20.
+[20:47:55]: The current RAM usage is 1371MB / 3072MB (44.63%).
+[20:47:55]: The current player count is 0.
+[20:52:55]: The TPS is 20.
+[20:52:55]: The current RAM usage is 1532MB / 3072MB (49.87%).
+[20:52:55]: The current player count is 0.
+[20:57:55]: The TPS is 20.
+[20:57:55]: The current RAM usage is 2282MB / 3072MB (74.28%).
+[20:57:55]: The current player count is 0.
+[21:02:55]: The TPS is 20.
+[21:02:55]: The current RAM usage is 1511MB / 3072MB (49.19%).
+[21:02:55]: The current player count is 0.
+[21:07:55]: The TPS is 20.
+[21:07:55]: The current RAM usage is 1372MB / 3072MB (44.66%).
+[21:07:55]: The current player count is 0.
+[21:12:55]: The TPS is 20.
+[21:12:55]: The current RAM usage is 1770MB / 3072MB (57.62%).
+[21:12:55]: The current player count is 0.
+[21:17:55]: The TPS is 20.
+[21:17:55]: The current RAM usage is 2511MB / 3072MB (81.74%).
+[21:17:55]: The current player count is 0.
+[21:22:55]: The TPS is 20.
+[21:22:55]: The current RAM usage is 2223MB / 3072MB (72.36%).
+[21:22:55]: The current player count is 0.
+[21:27:55]: The TPS is 20.
+[21:27:55]: The current RAM usage is 2382MB / 3072MB (77.54%).
+[21:27:55]: The current player count is 0.
+[21:32:55]: The TPS is 20.
+[21:32:55]: The current RAM usage is 2236MB / 3072MB (72.79%).
+[21:32:55]: The current player count is 0.

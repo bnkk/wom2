@@ -1,0 +1,6 @@
+   {
+       "pack": {
+           "pack_format": 4,
+           "description": "When you die you get a msg in chat to help you find where you died"
+       }
+   }

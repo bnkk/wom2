@@ -1,0 +1,10 @@
+node_modules/
+img/
+LICENSE.md
+pw.json.example
+.gitignore
+README.md
+.git/
+db-init/
+script/
+lang/*.o.ftl

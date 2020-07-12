@@ -1,2 +1,0 @@
-#Display button to teleport to death coordinates
-tellraw @s {"text":"[CLICK TO TELEPORT]","color":"light_purple","clickEvent":{"action":"run_command","value":"/execute as @s at @s run function death_coords:tp_coords"}}

@@ -1,0 +1,10 @@
+[    8.151165] rtl8723be: Using firmware rtlwifi/rtl8723befw_36.bin
+[    8.158742] ieee80211 phy0: Selected rate control algorithm 'rtl_rc'
+[    8.159595] rtlwifi: rtlwifi: wireless switch is on
+[    8.159798] rtl8723be 0000:02:00.0: Direct firmware load for rtlwifi/rtl8723befw_36.bin failed with error -2
+[    8.159823] rtl8723be 0000:02:00.0: Direct firmware load for rtlwifi/rtl8723befw.bin failed with error -2
+[    8.159825] rtlwifi: Loading alternative firmware rtlwifi/rtl8723befw.bin
+[    8.159827] rtlwifi: Selected firmware is not available
+[    8.230504] rtl8723be 0000:02:00.0 wlo1: renamed from wlan0
+[    8.613837] rtl8723be: Failed to polling write LLT done at address 0!
+[    8.613840] rtl8723be: Init MAC failed
