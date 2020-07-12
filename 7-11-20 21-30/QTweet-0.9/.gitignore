@@ -1,0 +1,6 @@
+node_modules/
+gets.json
+logs/
+.vscode/
+*.env
+!.example.env

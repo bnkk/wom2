@@ -1,0 +1,3 @@
+[18:30:20]: Austin_Powers_ died because of FALL.
+[23:40:46]: Boeing2847 died because of ENTITY_ATTACK by Spider.
+[23:43:40]: Boeing2847 died because of PROJECTILE.

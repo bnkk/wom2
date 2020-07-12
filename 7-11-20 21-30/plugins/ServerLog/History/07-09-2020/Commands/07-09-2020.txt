@@ -1,0 +1,83 @@
+[00:03:47]: Borps ran the command /gmsp.
+[00:03:47]: Borps ran the command /gamemode spectator.
+[00:04:36]: Borps ran the command /gms.
+[00:04:36]: Borps ran the command /gamemode survival.
+[00:04:44]: Borps ran the command /gmsp.
+[00:04:44]: Borps ran the command /gamemode spectator.
+[00:06:04]: Borps ran the command /gms.
+[00:06:04]: Borps ran the command /gamemode survival.
+[00:20:43]: Borps ran the command /famerule.
+[00:20:46]: Borps ran the command /gamerule.
+[00:21:04]: Borps ran the command /gamerule doPatrolSpawning.
+[00:37:26]: BenDoesMusic ran the command /DAY.
+[00:37:26]: BenDoesMusic ran the command /time set day.
+[00:37:31]: BenDoesMusic ran the command /day.
+[00:37:31]: BenDoesMusic ran the command /time set day.
+[00:46:48]: BenDoesMusic ran the command /gamemode creative.
+[00:47:02]: BenDoesMusic ran the command /gamemode survival.
+[01:00:25]: Borps ran the command /kick Austin_Powers_ please shut your god damn mouth.
+[01:20:06]: Borps ran the command /title @a title "n o".
+[01:20:36]: Borps ran the command /title @a title {"color":"gold","text":"he straight goobin tho"}.
+[01:20:48]: Borps ran the command /title @a title {"color":"gold","text":"he straight goobin tho"}.
+[01:20:48]: Borps ran the command /title @a title {"color":"gold","text":"he straight goobin tho"}.
+[01:20:49]: Borps ran the command /title @a title {"color":"gold","text":"he straight goobin tho"}.
+[01:20:49]: Borps ran the command /title @a title {"color":"gold","text":"he straight goobin tho"}.
+[01:20:49]: Borps ran the command /title @a title {"color":"gold","text":"he straight goobin tho"}.
+[01:21:36]: Borps ran the command /gmsp.
+[01:21:36]: Borps ran the command /gamemode spectator.
+[01:21:38]: Borps ran the command /tp BenDoesMusic.
+[01:22:07]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:22:37]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:23:35]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:23:50]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:24:05]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:24:15]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:24:35]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:24:44]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:24:58]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:25:35]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:25:48]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:25:53]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:25:58]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:26:19]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:26:26]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:26:37]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:26:51]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:28:18]: Borps ran the command /tp Austin_Powers_.
+[01:28:24]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:28:28]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:28:56]: Austin_Powers_ ran the command /day.
+[01:28:56]: Austin_Powers_ ran the command /time set day.
+[01:29:01]: Borps ran the command /effect give Austin_Powers_ speed 1000000 255.
+[01:29:25]: Borps ran the command /effect clear Austin_Powers_.
+[01:29:39]: Borps ran the command /msg BenDoesMusic jump boost 99.
+[01:29:44]: Borps ran the command /msg BenDoesMusic ?.
+[01:30:10]: Borps ran the command /effect give Austin_Powers_ minecraft:jump_boost 1000000 99.
+[01:30:43]: Borps ran the command /tp Austin_Powers_ Borps.
+[01:30:52]: Borps ran the command /effect clear Austin_Powers_.
+[02:02:35]: Austin_Powers_ ran the command /day.
+[02:02:35]: Austin_Powers_ ran the command /time set day.
+[13:40:43]: BenDoesMusic ran the command /night.
+[13:40:43]: BenDoesMusic ran the command /time set night.
+[14:20:15]: BenDoesMusic ran the command /gamemode creative.
+[14:20:21]: BenDoesMusic ran the command /gamemode survival.
+[21:25:58]: Austin_Powers_ ran the command /day.
+[21:25:58]: Austin_Powers_ ran the command /time set day.
+[21:44:47]: BenDoesMusic ran the command /openinv Austin_Powers_.
+[21:50:23]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:50:24]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[21:59:12]: Lhendy51 ran the command /gmsp.
+[21:59:12]: Lhendy51 ran the command /gamemode spectator.
+[21:59:33]: Lhendy51 ran the command /gms.
+[21:59:33]: Lhendy51 ran the command /gamemode survival.
+[22:06:13]: Austin_Powers_ ran the command /day.
+[22:06:13]: Austin_Powers_ ran the command /time set day.
+[22:36:12]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
+[22:36:12]: BenDoesMusic ran the command /tp captainasia_ BenDoesMusic.
