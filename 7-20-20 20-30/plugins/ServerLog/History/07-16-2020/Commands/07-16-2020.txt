@@ -1,0 +1,7 @@
+[18:19:52]: CreeperMKB ran the command /day.
+[18:19:52]: CreeperMKB ran the command /time set day.
+[19:05:09]: Lhendy51 ran the command /day].
+[19:05:11]: Lhendy51 ran the command /day.
+[19:05:11]: Lhendy51 ran the command /time set day.
+[23:02:55]: Lhendy51 ran the command /day.
+[23:02:55]: Lhendy51 ran the command /time set day.

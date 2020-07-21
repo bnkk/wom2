@@ -1,0 +1,46 @@
+gamemode_alias:
+  command: /gm
+  type: ALIAS
+  alias: /gamemode
+  permission-required: true
+time_day_alias:
+  command: /day
+  type: ALIAS
+  alias: /time set day
+  permission-required: true
+time_night_alias:
+  command: /night
+  type: ALIAS
+  alias: /time set night
+  permission-required: true
+generate_god_sword_alias:
+  command: /generate-sword1
+  type: ALIAS
+  alias: /give @s minecraft:diamond_sword{Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:10},{id:"minecraft:fire_aspect",lvl:10},{id:"minecraft:knockback",lvl:100},{id:"minecraft:looting",lvl:10},{id:"minecraft:mending",lvl:1},{id:"minecraft:sharpness",lvl:100},{id:"minecraft:smite",lvl:10},{id:"minecraft:sweeping",lvl:10}],Unbreakable:1,display:{Name:"{\"text\":\"Borp's Sharp Object\",\"color\":\"gold\"}"}}
+  permission-required: true
+gamemode_survival_alias:
+  command: /gms
+  type: ALIAS
+  alias: /gamemode survival
+  permission-require: true
+gamemode_creative_alias:
+  command: /gmc
+  type: ALIAS
+  alias: /gamemode creative
+  permission-require: true
+gamemode_spectator_alias:
+  command: /gmsp
+  type: ALIAS
+  alias: /gamemode spectator
+  permission-require: true
+gamemode_adventure_alias:
+  command: /gma
+  type: ALIAS
+  alias: /gamemode adventure
+  permission-require: true
+end_break_workaround:
+  command: /sy-fix
+  type: ALIAS
+  alias: /mvtp world
+  permission-require: false
+

@@ -1,0 +1,9 @@
+[05:35:14]: Tex_Ian emptied a WATER_BUCKET at the location 299, 66, 369.
+[05:35:15]: Tex_Ian emptied a WATER_BUCKET at the location 298, 66, 371.
+[05:35:18]: Tex_Ian emptied a WATER_BUCKET at the location 295, 65, 369.
+[22:54:26]: BenjaboyQ emptied a WATER_BUCKET at the location 42, 70, -13.
+[22:54:27]: BenjaboyQ emptied a WATER_BUCKET at the location 41, 70, -12.
+[22:54:29]: BenjaboyQ emptied a WATER_BUCKET at the location 41, 70, -15.
+[22:54:31]: BenjaboyQ emptied a WATER_BUCKET at the location 38, 71, -13.
+[22:54:33]: BenjaboyQ emptied a WATER_BUCKET at the location 38, 71, -16.
+[22:54:35]: BenjaboyQ emptied a WATER_BUCKET at the location 44, 71, -14.

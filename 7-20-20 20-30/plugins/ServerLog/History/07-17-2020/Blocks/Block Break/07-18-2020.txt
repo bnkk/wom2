@@ -1,0 +1,8 @@
+[00:00:00]: Lhendy51 broke the block GRASS_BLOCK at the location 126, 68, -108.
+[00:00:00]: Lhendy51 broke the block DIRT at the location 126, 67, -108.
+[00:00:00]: Lhendy51 broke the block DIRT at the location 126, 67, -109.
+[00:00:01]: Lhendy51 broke the block GRASS_BLOCK at the location 126, 68, -109.
+[00:00:01]: Lhendy51 broke the block GRASS_BLOCK at the location 126, 68, -110.
+[00:00:02]: Lhendy51 broke the block DIRT at the location 126, 67, -110.
+[00:00:02]: Lhendy51 broke the block GRASS_BLOCK at the location 126, 67, -111.
+[00:00:48]: Lhendy51 broke the block YELLOW_SHULKER_BOX at the location 127, 68, -105.

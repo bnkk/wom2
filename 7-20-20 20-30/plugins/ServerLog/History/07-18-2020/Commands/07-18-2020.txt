@@ -1,0 +1,10 @@
+[21:37:12]: Lhendy51 ran the command /day.
+[21:37:12]: Lhendy51 ran the command /time set day.
+[22:07:42]: Lhendy51 ran the command /day.
+[22:07:42]: Lhendy51 ran the command /time set day.
+[22:32:57]: Lhendy51 ran the command /gmsp.
+[22:32:57]: Lhendy51 ran the command /gamemode spectator.
+[22:33:01]: Lhendy51 ran the command /gms.
+[22:33:01]: Lhendy51 ran the command /gamemode survival.
+[22:52:16]: Lhendy51 ran the command /day.
+[22:52:16]: Lhendy51 ran the command /time set day.
