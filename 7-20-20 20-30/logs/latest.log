@@ -1,0 +1,152 @@
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Compiled Log' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/TPS' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Ram Usage' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Player Count' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/world' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/world_nether' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Entity Count/world_the_end' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/world' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/world_nether' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Server Information/Chunks Loaded/world_the_end' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity/Player Join' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity/Player Quit' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Activity/Player Kick' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks/Block Place' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks/Block Break' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Blocks/Empty Bucket' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Chat' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Commands' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Items' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Items/Item Pickup' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Items/Item Drop' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Death' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Spawn Mob Egg' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Gamemode Change' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Respawn' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Players/Teleport' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Custom APIs' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: The folder 'plugins/ServerLog/Custom APIs/Vouchers' has been created...
+[00:04:00] [Server thread/INFO]: [Server Log]: All files have been initiated...
+[01:34:53] [User Authenticator #27/INFO]: UUID of player BenDoesMusic is 19a02d34-63af-49e9-bfbc-7646e15ee022
+[01:34:54] [Server thread/INFO]: BenDoesMusic joined the game
+[01:34:54] [Server thread/INFO]: BenDoesMusic[/98.111.253.55:53098] logged in with entity id 146886 at ([world_nether]19.144175735302518, 87.0, 8.943978769474189)
+[01:39:04] [Server thread/WARN]: BenDoesMusic moved too quickly! 5.620868709331631,-7.368535741978604,15.181097188848298
+[01:39:06] [Server thread/WARN]: BenDoesMusic moved wrongly!
+[01:49:59] [Server thread/WARN]: BenDoesMusic moved wrongly!
+[01:56:14] [Server thread/INFO]: BenDoesMusic lost connection: Disconnected
+[01:56:14] [Server thread/INFO]: BenDoesMusic left the game
+[01:56:15] [User Authenticator #28/INFO]: UUID of player BenDoesMusic is 19a02d34-63af-49e9-bfbc-7646e15ee022
+[01:56:15] [Server thread/INFO]: BenDoesMusic joined the game
+[01:56:15] [Server thread/INFO]: BenDoesMusic[/98.111.253.55:53520] logged in with entity id 151778 at ([world_nether]-162.03140546340038, 77.0, 103.50260767999568)
+[02:01:28] [Server thread/INFO]: BenDoesMusic lost connection: Disconnected
+[02:01:28] [Server thread/INFO]: BenDoesMusic left the game
+[03:34:00] [Craft Scheduler Thread - 314/INFO]: [Vault] Checking for Updates ... 
+[03:34:01] [Craft Scheduler Thread - 314/INFO]: [Vault] No new version available
+[08:32:54] [Server thread/INFO]: [ProtocolLib] The updater found an update, and has readied it to be loaded the next time the server restarts/reloads.
+[09:34:00] [Craft Scheduler Thread - 339/INFO]: [Vault] Checking for Updates ... 
+[09:34:00] [Craft Scheduler Thread - 339/INFO]: [Vault] No new version available
+[15:06:02] [User Authenticator #29/INFO]: UUID of player CreeperMKB is be1f1085-13b4-48ec-aa6d-0f5172ba56d0
+[15:06:03] [Server thread/INFO]: CreeperMKB joined the game
+[15:06:03] [Server thread/INFO]: CreeperMKB[/73.40.242.202:53464] logged in with entity id 153304 at ([world]51.7312825798154, 72.0, -26.76793236048858)
+[15:06:52] [Server thread/INFO]: CreeperMKB issued server command: /day
+[15:06:52] [Server thread/INFO]: /day
+[15:06:52] [Server thread/INFO]: CreeperMKB issued mycmd command ID(2) /day
+[15:06:52] [Server thread/INFO]: CreeperMKB issued server command: /time set day
+[15:06:52] [Server thread/INFO]: /time
+[15:06:52] [Server thread/INFO]: [CreeperMKB: Set the time to 1000]
+[15:16:38] [Server thread/INFO]: CreeperMKB issued server command: /day
+[15:16:38] [Server thread/INFO]: /day
+[15:16:38] [Server thread/INFO]: CreeperMKB issued mycmd command ID(2) /day
+[15:16:38] [Server thread/INFO]: CreeperMKB issued server command: /time set day
+[15:16:38] [Server thread/INFO]: /time
+[15:16:38] [Server thread/INFO]: [CreeperMKB: Set the time to 1000]
+[15:25:59] [Server thread/INFO]: CreeperMKB issued server command: /day
+[15:25:59] [Server thread/INFO]: /day
+[15:25:59] [Server thread/INFO]: CreeperMKB issued mycmd command ID(2) /day
+[15:25:59] [Server thread/INFO]: CreeperMKB issued server command: /time set day
+[15:25:59] [Server thread/INFO]: /time
+[15:25:59] [Server thread/INFO]: [CreeperMKB: Set the time to 1000]
+[15:29:52] [Server thread/INFO]: CreeperMKB lost connection: Disconnected
+[15:29:52] [Server thread/INFO]: CreeperMKB left the game
+[15:34:00] [Craft Scheduler Thread - 367/INFO]: [Vault] Checking for Updates ... 
+[15:34:00] [Craft Scheduler Thread - 367/INFO]: [Vault] No new version available
+[18:12:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@54ee3faf[id=<null>,name=Borps,properties={},legacy=false] (/10.0.0.20:54599) lost connection: Disconnected
+[18:12:58] [User Authenticator #30/INFO]: UUID of player Borps is d6b1ba70-5e88-4d6c-8dff-2266dde50f0f
+[18:12:59] [Server thread/INFO]: Borps joined the game
+[18:12:59] [Server thread/INFO]: Borps[/10.0.0.20:54639] logged in with entity id 158871 at ([world]137.07423290850636, 78.0, -2.692690892973654)
+[18:13:36] [Server thread/INFO]: Borps lost connection: Disconnected
+[18:13:36] [Server thread/INFO]: Borps left the game
+[20:12:45] [User Authenticator #31/INFO]: UUID of player Borps is d6b1ba70-5e88-4d6c-8dff-2266dde50f0f
+[20:12:45] [Server thread/INFO]: Borps joined the game
+[20:12:45] [Server thread/INFO]: Borps[/10.0.0.20:65411] logged in with entity id 159082 at ([world]54.76066396643601, 74.0, -1.0947589358131007)
+[20:14:34] [Server thread/INFO]: Borps issued server command: /stop
+[20:14:34] [Server thread/INFO]: /stop
+[20:14:34] [Server thread/INFO]: [Borps: Stopping the server]
+[20:14:34] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
+[20:14:34] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.2.0
+[20:14:35] [Server thread/INFO]: [hsqldb.db.HSQLDB70F69822AB.ENGINE] Database closed
+[20:14:35] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[20:14:35] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[20:14:35] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.2.0
+|   Storage: HSQLDB (local)
+| Support:
+|   Github: https://github.com/DevLeoko/AdvancedBan/issues
+|   Discord: https://discord.gg/ycDG6rS
+| Twitter: @LeokoGar
+[]================================[]
+ 
+[20:14:35] [Server thread/INFO]: [TAB] Disabling TAB v2.8.1
+[20:14:36] [Server thread/INFO]: [TAB] Disabled in 225ms
+[20:14:36] [Server thread/INFO]: [SimplePrefix] Disabling SimplePrefix v2.5.1
+[20:14:36] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.10.0
+[20:14:36] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
+[20:14:36] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.0-b775
+[20:14:36] [Server thread/INFO]: [MyCommand] Disabling MyCommand v5.6.5
+[20:14:36] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-* MyCommand *-=-=-=-=-=-=-=-=-=-=-*
+[20:14:36] [Server thread/INFO]: | Tasks   : Stopped all.
+[20:14:36] [Server thread/INFO]: | Version : 5.6.5
+[20:14:36] [Server thread/INFO]: | Author  : emmerrei a.k.a Ivanpro
+[20:14:36] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-*    Bye!   *-=-=-=-=-=-=-=-=-=-=-*
+[20:14:36] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[20:14:36] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:14:36] [Server thread/INFO]: [GSit] Disabling GSit v[2.16.0.0]
+[20:14:36] [Server thread/INFO]: [GSit] The Plugin was successfully disabled.
+[20:14:36] [Server thread/INFO]: [PluginManager] Disabling PluginManager v2.0.1
+[20:14:36] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.6
+[20:14:36] [Server thread/INFO]: [ServerLog] Disabling ServerLog v1.1.3
+[20:14:36] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.2
+[20:14:36] [Server thread/INFO]: [ImageMaps] Disabling ImageMaps v0.5.0
+[20:14:36] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[20:14:36] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:14:36] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[20:14:36] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:14:36] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:14:38] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:14:38] [Server thread/INFO]: Saving players
+[20:14:38] [Server thread/INFO]: Borps lost connection: Server closed
+[20:14:38] [Server thread/INFO]: Borps left the game
+[20:14:38] [Server thread/INFO]: Saving worlds
+[20:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:14:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:14:41] [Server thread/INFO]: Flushing Chunk IO
+[20:14:41] [Server thread/INFO]: Closing Thread Pool
+[20:14:41] [Server thread/INFO]: Closing Server

@@ -1,0 +1,50 @@
+23.05.2020 - 23:59:22 - [TAB v2.7.1] LuckPerms returned null user for Lhendy51 (a060e158-277d-4fcd-9d79-a11f60316abf)
+23.05.2020 - 23:59:22 - [TAB v2.7.1] Failed to get prefix of Lhendy51 using Vault
+23.05.2020 - 23:59:22 - java.lang.RuntimeException: The operation to load user data for 'a060e158-277d-4fcd-9d79-a11f60316abf' was cancelled by LuckPerms. This is NOT a bug. 
+The lookup request was made on the main server thread. It is not safe to execute a request to 
+load data for offline players from the database in this context. 
+If you are a plugin author, please consider making your request asynchronously. 
+Alternatively, server admins can disable this catch by setting 'vault-unsafe-lookups' to true 
+in the LP config, but should consider the consequences (lag) before doing so.
+23.05.2020 - 23:59:22 -        at me.lucko.luckperms.bukkit.vault.LuckPermsVaultPermission.lookupUser(LuckPermsVaultPermission.java:165)
+23.05.2020 - 23:59:22 -        at me.lucko.luckperms.bukkit.vault.LuckPermsVaultChat.getUserChatPrefix(LuckPermsVaultChat.java:95)
+23.05.2020 - 23:59:22 -        at me.lucko.luckperms.bukkit.vault.AbstractVaultChat.getPlayerPrefix(AbstractVaultChat.java:167)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.PluginHooks.Vault_getPrefix(PluginHooks.java:319)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.platforms.bukkit.Main$24.get(Main.java:392)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.placeholders.PlayerPlaceholder.getValue(PlayerPlaceholder.java:24)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.placeholders.Placeholder.set(Placeholder.java:31)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.Property.isUpdateNeeded(Property.java:89)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.Property.get(Property.java:71)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.ITabPlayer.buildTeamName(ITabPlayer.java:382)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.shared.ITabPlayer.init(ITabPlayer.java:62)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.platforms.bukkit.TabPlayer.<init>(TabPlayer.java:40)
+23.05.2020 - 23:59:22 -        at me.neznamy.tab.platforms.bukkit.Main.a(Main.java:115)
+23.05.2020 - 23:59:22 -        at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor104.execute(Unknown Source)
+23.05.2020 - 23:59:22 -        at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69)
+23.05.2020 - 23:59:22 -        at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+23.05.2020 - 23:59:22 -        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+23.05.2020 - 23:59:22 -        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.PlayerList.postChunkLoadJoin(PlayerList.java:238)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.PlayerList.lambda$null$0(PlayerList.java:175)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.PlayerConnection.tick(PlayerConnection.java:150)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:343)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:140)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1344)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1173)
+23.05.2020 - 23:59:22 -        at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:962)
+23.05.2020 - 23:59:22 -        at java.base/java.lang.Thread.run(Thread.java:834)
+23.05.2020 - 23:59:23 - [TAB v2.7.1] LuckPerms returned null user for Lhendy51 (a060e158-277d-4fcd-9d79-a11f60316abf)
+23.05.2020 - 23:59:26 - [TAB v2.7.1] LuckPerms returned null user for Lhendy51 (a060e158-277d-4fcd-9d79-a11f60316abf)
+26.06.2020 - 13:24:01 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+26.06.2020 - 13:24:01 - [TAB v2.8.1] Group "moderator" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "moderator" into group-sorting-priority-list in config.yml.
+26.06.2020 - 13:35:01 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+26.06.2020 - 13:35:01 - [TAB v2.8.1] Group "moderator" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "moderator" into group-sorting-priority-list in config.yml.
+27.06.2020 - 21:43:59 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+27.06.2020 - 22:43:51 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+01.07.2020 - 16:08:33 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+05.07.2020 - 18:40:33 - [TAB v2.8.1] Group "moderator" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "moderator" into group-sorting-priority-list in config.yml.
+12.07.2020 - 16:44:25 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+12.07.2020 - 20:52:15 - [TAB v2.8.1] Group "moderator" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "moderator" into group-sorting-priority-list in config.yml.
+17.07.2020 - 21:48:13 - [TAB v2.8.1] Group "citizen_management" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "citizen_management" into group-sorting-priority-list in config.yml.
+19.07.2020 - 20:48:36 - [TAB v2.8.1] Group "moderator" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "moderator" into group-sorting-priority-list in config.yml.

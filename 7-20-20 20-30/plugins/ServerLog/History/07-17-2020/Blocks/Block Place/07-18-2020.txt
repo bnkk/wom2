@@ -1,0 +1,7 @@
+[00:00:04]: Lhendy51 placed the block DIRT at the location 126, 66, -112.
+[00:00:05]: Lhendy51 placed the block DIRT at the location 126, 66, -111.
+[00:00:05]: Lhendy51 placed the block DIRT at the location 126, 66, -110.
+[00:00:18]: Lhendy51 placed the block Valuables (YELLOW_SHULKER_BOX) at the location 127, 68, -105.
+[00:00:59]: Lhendy51 placed the block COMPARATOR at the location 124, 68, -109.
+[00:01:01]: Lhendy51 placed the block COMPARATOR at the location 125, 68, -109.
+[00:02:02]: Lhendy51 placed the block JUNGLE_BUTTON at the location 124, 68, -111.

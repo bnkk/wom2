@@ -1,0 +1,12 @@
+[08:10:08]: thebrendan died because of FALL.
+[10:37:48]: thebrendan died because of SUFFOCATION.
+[14:12:12]: thebrendan died because of ENTITY_EXPLOSION.
+[16:18:22]: thebrendan died because of ENTITY_ATTACK by Zombie.
+[17:17:50]: thebrendan died because of FALL.
+[17:19:54]: thebrendan died because of ENTITY_ATTACK by Zombie.
+[17:21:09]: thebrendan died because of ENTITY_EXPLOSION.
+[20:51:30]: Austin_Powers_ died because of ENTITY_EXPLOSION.
+[22:28:02]: Austin_Powers_ died because of FALL.
+[22:34:31]: Austin_Powers_ died because of FALL.
+[22:42:21]: Austin_Powers_ died because of ENTITY_ATTACK by Piglin.
+[23:29:33]: Austin_Powers_ died because of FALL.

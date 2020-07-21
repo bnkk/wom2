@@ -1,8 +1,0 @@
-[15:14:12]: thebrendan quit at the location 49, 72, -5. Their IP was 71.61.224.181.
-[15:15:13]: Borps quit at the location 137, 78, -3. Their IP was 10.0.156.1.
-[15:51:21]: thebrendan quit at the location 12, 72, -36. Their IP was 71.61.224.181.
-[16:36:16]: thebrendan quit at the location 1264, 58, 762. Their IP was 71.61.224.181.
-[16:46:16]: thebrendan quit at the location 147, 43, 56. Their IP was 71.61.224.181.
-[16:54:25]: BenjaboyQ quit at the location 39, 102, 107. Their IP was 96.236.218.9.
-[18:12:09]: thebrendan quit at the location 755, 57, 305. Their IP was 71.61.224.181.
-[20:40:26]: BenDoesMusic quit at the location 13, 196, 41. Their IP was 98.111.253.55.

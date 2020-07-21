@@ -1,0 +1,17 @@
+[22:33:58]: BenjaboyQ emptied a WATER_BUCKET at the location 29, 76, -9.
+[22:34:12]: BenjaboyQ emptied a WATER_BUCKET at the location 28, 76, -6.
+[22:34:22]: BenjaboyQ emptied a WATER_BUCKET at the location 29, 76, -6.
+[22:34:24]: BenjaboyQ emptied a WATER_BUCKET at the location 29, 76, -7.
+[23:11:09]: captainasia_ emptied a LAVA_BUCKET at the location 61, 71, 546.
+[23:11:11]: captainasia_ emptied a WATER_BUCKET at the location 60, 71, 545.
+[23:11:39]: captainasia_ emptied a LAVA_BUCKET at the location 60, 71, 547.
+[23:11:40]: captainasia_ emptied a WATER_BUCKET at the location 60, 71, 545.
+[23:12:48]: captainasia_ emptied a WATER_BUCKET at the location 101, 26, 507.
+[23:15:19]: captainasia_ emptied a WATER_BUCKET at the location -74, 73, 599.
+[23:15:46]: captainasia_ emptied a WATER_BUCKET at the location -162, 75, 582.
+[23:16:35]: captainasia_ emptied a WATER_BUCKET at the location -70, 71, 599.
+[23:16:48]: captainasia_ emptied a LAVA_BUCKET at the location -70, 72, 593.
+[23:28:15]: captainasia_ emptied a WATER_BUCKET at the location -318, 32, -509.
+[23:28:18]: captainasia_ emptied a WATER_BUCKET at the location -313, 38, -511.
+[23:29:19]: captainasia_ emptied a WATER_BUCKET at the location -362, 26, -551.
+[23:32:03]: captainasia_ emptied a WATER_BUCKET at the location -354, 10, -527.
