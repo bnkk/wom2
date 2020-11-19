@@ -1,5 +1,0 @@
-[15:07:32]: thebrendan died because of DROWNING.
-[15:45:59]: thebrendan died because of DROWNING.
-[16:15:09]: thebrendan died because of FALL.
-[16:15:32]: thebrendan died because of ENTITY_ATTACK by Zombie.
-[16:16:27]: thebrendan died because of ENTITY_ATTACK by Zombie.

@@ -1,2 +1,0 @@
-[17:23:52]: BenDoesMusic ran the command /gamemode spectator.
-[17:24:00]: BenDoesMusic ran the command /gamemode survival.

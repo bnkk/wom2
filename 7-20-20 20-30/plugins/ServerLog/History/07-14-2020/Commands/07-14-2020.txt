@@ -1,4 +1,0 @@
-[01:36:53]: Austin_Powers_ ran the command /day.
-[01:36:53]: Austin_Powers_ ran the command /time set day.
-[01:48:09]: Austin_Powers_ ran the command /day.
-[01:48:09]: Austin_Powers_ ran the command /time set day.

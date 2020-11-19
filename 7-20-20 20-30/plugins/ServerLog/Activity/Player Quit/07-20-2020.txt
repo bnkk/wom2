@@ -1,4 +1,0 @@
-[01:56:14]: BenDoesMusic quit at the location -163, 77, 103. Their IP was 98.111.253.55.
-[02:01:28]: BenDoesMusic quit at the location 221, 63, -1908. Their IP was 98.111.253.55.
-[15:29:52]: CreeperMKB quit at the location -42, 63, 171. Their IP was 73.40.242.202.
-[18:13:36]: Borps quit at the location 54, 74, -2. Their IP was 10.0.0.20.

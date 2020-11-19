@@ -1,5 +1,0 @@
-[02:32:46]: Borps respawned.
-[23:22:00]: TARDIS_360 respawned.
-[23:33:22]: Boeing2847 respawned.
-[23:35:03]: TARDIS_360 respawned.
-[23:40:31]: Boeing2847 respawned.

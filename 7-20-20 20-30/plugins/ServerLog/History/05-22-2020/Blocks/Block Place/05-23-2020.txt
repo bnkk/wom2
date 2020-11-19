@@ -1,7 +1,0 @@
-[00:00:25]: Austin_Powers_ placed the block DIRT at the location 9, 66, 59.
-[00:00:25]: Austin_Powers_ placed the block DIRT at the location 10, 66, 59.
-[00:00:27]: Austin_Powers_ placed the block DIRT at the location 8, 66, 60.
-[00:00:41]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -18, 63, 100.
-[00:00:41]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -17, 63, 100.
-[00:00:42]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -17, 63, 99.
-[00:00:42]: Austin_Powers_ placed the block LIGHT_GRAY_CONCRETE_POWDER at the location -18, 63, 99.

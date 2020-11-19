@@ -1,4 +1,0 @@
-[00:54:08]: BenDoesMusic changed their gamemode from SURVIVAL to CREATIVE.
-[00:54:16]: BenDoesMusic changed their gamemode from CREATIVE to SURVIVAL.
-[01:15:29]: BenDoesMusic changed their gamemode from SURVIVAL to SPECTATOR.
-[01:15:43]: BenDoesMusic changed their gamemode from SPECTATOR to SURVIVAL.

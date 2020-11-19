@@ -1,2 +1,0 @@
-[00:00:11]: captainasia_ died because of ENTITY_ATTACK by Zombie Villager.
-[00:03:38]: captainasia_ died because of ENTITY_EXPLOSION.

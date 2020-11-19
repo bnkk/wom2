@@ -1,8 +1,0 @@
-[00:08:55]: Austin_Powers_ died because of PROJECTILE.
-[08:11:23]: CreeperMKB died because of FALL.
-[08:26:05]: CreeperMKB died because of FALL.
-[08:30:35]: CreeperMKB died because of FALL.
-[08:33:09]: CreeperMKB died because of FALL.
-[16:38:40]: spotttedleaf died because of ENTITY_ATTACK by Zombie.
-[22:00:58]: BenDoesMusic died because of FALL.
-[22:47:07]: BenDoesMusic died because of ENTITY_ATTACK by Lhendy51 with Circumcisor IV (DIAMOND_SWORD).

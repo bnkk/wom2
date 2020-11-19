@@ -1,4 +1,0 @@
-[00:00:03]: Lhendy51 placed the block PRISMARINE at the location 1260, 125, 641.
-[00:00:12]: Lhendy51 placed the block REPEATER at the location 1259, 126, 641.
-[00:00:16]: Lhendy51 placed the block REDSTONE_WIRE at the location 1261, 127, 641.
-[00:00:17]: Lhendy51 placed the block REDSTONE_WIRE at the location 1260, 126, 641.

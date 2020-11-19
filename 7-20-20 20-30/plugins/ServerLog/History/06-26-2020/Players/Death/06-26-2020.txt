@@ -1,5 +1,0 @@
-[00:01:29]: Austin_Powers_ died because of ENTITY_ATTACK by Piglin.
-[00:02:56]: Austin_Powers_ died because of FALL.
-[03:54:28]: Borps died because of ENTITY_ATTACK by Piglin.
-[12:13:02]: ya_boi_ehoff died because of FIRE_TICK.
-[12:22:17]: ya_boi_ehoff died because of FALL.

@@ -1,6 +1,0 @@
-[00:00:06]: TARDIS_360 placed the block NETHERRACK at the location 105, 78, 22.
-[00:00:07]: TARDIS_360 placed the block NETHERRACK at the location 105, 78, 23.
-[00:00:08]: TARDIS_360 placed the block NETHERRACK at the location 105, 79, 23.
-[00:00:08]: TARDIS_360 placed the block NETHERRACK at the location 105, 79, 24.
-[00:01:52]: TARDIS_360 placed the block NETHERRACK at the location 103, 95, 36.
-[00:01:53]: TARDIS_360 placed the block NETHERRACK at the location 103, 96, 36.

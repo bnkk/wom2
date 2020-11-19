@@ -1,2 +1,0 @@
-[22:42:46]: BenjaboyQ died because of FLY_INTO_WALL.
-[23:11:52]: captainasia_ died because of FALL.

@@ -1,6 +1,0 @@
-[00:00:56]: Lhendy51 placed the block ENDER_CHEST at the location 8221, 59, 21433.
-[00:01:00]: Lhendy51 placed the block Backup Gear (BLUE_SHULKER_BOX) at the location 8221, 59, 21432.
-[00:01:05]: Lhendy51 broke the block BLUE_SHULKER_BOX at the location 8221, 59, 21432.
-[00:01:06]: Lhendy51 picked up the item Backup Gear (BLUE_SHULKER_BOX).
-[00:01:08]: Lhendy51 broke the block ENDER_CHEST at the location 8221, 59, 21433.
-[00:01:09]: Lhendy51 picked up the item ENDER_CHEST.

@@ -1,5 +1,0 @@
-[00:02:19]: Austin_Powers_ broke the block STONE_BRICKS at the location 82, 63, 43.
-[00:02:21]: Austin_Powers_ broke the block STONE_BRICKS at the location 82, 62, 43.
-[00:02:28]: Lhendy51 broke the block SMOOTH_SANDSTONE at the location 21, 70, 49.
-[00:02:29]: Lhendy51 broke the block SMOOTH_SANDSTONE at the location 21, 70, 50.
-[00:02:29]: Lhendy51 broke the block SMOOTH_SANDSTONE at the location 21, 69, 50.

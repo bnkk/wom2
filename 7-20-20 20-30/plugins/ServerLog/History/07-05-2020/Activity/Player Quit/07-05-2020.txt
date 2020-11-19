@@ -1,7 +1,0 @@
-[02:46:00]: Borps quit at the location 756, 57, 310. Their IP was 98.111.253.154.
-[18:48:40]: BenDoesMusic quit at the location 398, 69, -139. Their IP was 98.111.229.85.
-[21:59:59]: Lhendy51 quit at the location 1266, 121, 629. Their IP was 73.154.195.184.
-[22:21:05]: BenjaboyQ quit at the location 154, 78, -2. Their IP was 96.236.218.9.
-[23:17:44]: captainasia_ quit at the location 26, 81, -16. Their IP was 24.154.114.227.
-[23:25:22]: TARDIS_360 quit at the location -1749, 75, -1245. Their IP was 73.154.210.58.
-[23:38:21]: TARDIS_360 quit at the location -1747, 81, -1248. Their IP was 73.154.210.58.

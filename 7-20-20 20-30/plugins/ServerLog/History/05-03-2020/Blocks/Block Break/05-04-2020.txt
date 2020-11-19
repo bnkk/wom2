@@ -1,2 +1,0 @@
-[00:00:03]: BenDoesMusic broke the block BLUE_SHULKER_BOX at the location 223, 63, -1916.
-[00:03:31]: BenDoesMusic broke the block LIGHT_BLUE_SHULKER_BOX at the location 37, 75, -34.

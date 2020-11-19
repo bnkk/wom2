@@ -1,2 +1,0 @@
-[00:01:39]: BenDoesMusic ran the command /day.
-[00:01:39]: BenDoesMusic ran the command /time set day.

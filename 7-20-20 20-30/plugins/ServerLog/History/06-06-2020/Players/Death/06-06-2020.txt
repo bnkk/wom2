@@ -1,9 +1,0 @@
-[00:21:05]: BenDoesMusic died because of PROJECTILE.
-[00:23:31]: Borps died because of PROJECTILE.
-[00:28:33]: BenDoesMusic died because of ENTITY_ATTACK by Cum.
-[00:28:54]: BenDoesMusic died because of ENTITY_ATTACK by Borps with Trumpinator (DIAMOND_SWORD).
-[01:25:44]: BenDoesMusic died because of FALL.
-[18:07:55]: CreeperMKB died because of ENTITY_EXPLOSION.
-[19:29:15]: CreeperMKB died because of FALL.
-[20:59:24]: CreeperMKB died because of FALL.
-[22:25:04]: spotttedleaf died because of PROJECTILE.

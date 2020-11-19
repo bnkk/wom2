@@ -1,3 +1,0 @@
-[00:00:07]: Austin_Powers_ placed the block Ominous Banner (WHITE_WALL_BANNER) at the location 52, 60, 23.
-[00:00:20]: BenDoesMusic placed the block SHULKER_BOX at the location 38, 60, 43.
-[00:01:01]: Austin_Powers_ placed the block DIRT at the location 70, 70, 42.

@@ -1,7 +1,0 @@
-[00:00:01]: Lhendy51 picked up the item DIRT.
-[00:00:01]: Lhendy51 picked up the item GRASS_BLOCK.
-[00:00:01]: Lhendy51 picked up the item DIRT.
-[00:00:02]: Lhendy51 picked up the item GRASS_BLOCK.
-[00:00:02]: Lhendy51 picked up the item DIRT.
-[00:00:06]: Lhendy51 picked up the item GRASS_BLOCK.
-[00:00:48]: Lhendy51 picked up the item Valuables (YELLOW_SHULKER_BOX).

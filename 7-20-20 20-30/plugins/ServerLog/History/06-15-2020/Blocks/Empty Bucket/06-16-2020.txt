@@ -1,6 +1,0 @@
-[00:03:36]: captainasia_ emptied a WATER_BUCKET at the location -640, 57, 3056.
-[00:03:37]: captainasia_ emptied a WATER_BUCKET at the location -638, 57, 3056.
-[00:03:41]: captainasia_ emptied a WATER_BUCKET at the location -640, 57, 3056.
-[00:03:48]: captainasia_ emptied a WATER_BUCKET at the location -632, 63, 3061.
-[00:03:57]: captainasia_ emptied a WATER_BUCKET at the location -624, 63, 3065.
-[00:04:02]: captainasia_ emptied a WATER_BUCKET at the location -623, 63, 3064.

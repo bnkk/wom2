@@ -1,9 +1,0 @@
-[00:43:29]: Lhendy51 changed their gamemode from SURVIVAL to SPECTATOR.
-[00:43:40]: Lhendy51 changed their gamemode from SPECTATOR to SURVIVAL.
-[21:39:12]: Borps changed their gamemode from SURVIVAL to CREATIVE.
-[21:45:00]: Borps changed their gamemode from CREATIVE to SURVIVAL.
-[21:49:32]: Borps changed their gamemode from SURVIVAL to SPECTATOR.
-[21:49:48]: Borps changed their gamemode from SPECTATOR to SURVIVAL.
-[22:01:38]: Borps changed their gamemode from SURVIVAL to CREATIVE.
-[22:09:21]: Lhendy51 changed their gamemode from SURVIVAL to SPECTATOR.
-[22:09:29]: Lhendy51 changed their gamemode from SPECTATOR to SURVIVAL.

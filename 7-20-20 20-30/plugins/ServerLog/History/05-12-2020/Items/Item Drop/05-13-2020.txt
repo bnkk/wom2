@@ -1,6 +1,0 @@
-[00:01:47]: BenDoesMusic dropped the item DIRT.
-[00:01:48]: BenDoesMusic dropped the item DIRT.
-[00:01:48]: BenDoesMusic dropped the item DIRT.
-[00:01:48]: BenDoesMusic dropped the item DIRT.
-[00:01:48]: BenDoesMusic dropped the item DIRT.
-[00:01:49]: BenDoesMusic dropped the item WHEAT_SEEDS.

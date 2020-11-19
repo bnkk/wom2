@@ -1,6 +1,0 @@
-[23:09:07]: Tex_Ian emptied a WATER_BUCKET at the location 295, 65, 370.
-[23:09:22]: Tex_Ian emptied a WATER_BUCKET at the location 295, 65, 369.
-[23:09:41]: Tex_Ian emptied a WATER_BUCKET at the location 295, 65, 369.
-[23:09:54]: Tex_Ian emptied a WATER_BUCKET at the location 297, 65, 368.
-[23:09:56]: Tex_Ian emptied a WATER_BUCKET at the location 296, 65, 369.
-[23:09:58]: Tex_Ian emptied a WATER_BUCKET at the location 295, 65, 370.

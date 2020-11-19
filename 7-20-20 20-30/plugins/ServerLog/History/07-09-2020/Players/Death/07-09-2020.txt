@@ -1,8 +1,0 @@
-[00:05:50]: Boeing2847 died because of FIRE_TICK.
-[00:09:02]: Boeing2847 died because of ENTITY_EXPLOSION.
-[00:22:08]: Boeing2847 died because of ENTITY_ATTACK by Zombified Piglin.
-[00:30:04]: Boeing2847 died because of FIRE_TICK.
-[00:42:29]: Boeing2847 died because of FALL.
-[00:56:59]: Austin_Powers_ died because of FIRE_TICK.
-[01:30:53]: Austin_Powers_ died because of FALL.
-[02:01:05]: Austin_Powers_ died because of PROJECTILE.

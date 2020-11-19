@@ -1,8 +1,0 @@
-[00:16:43]: Austin_Powers_ emptied a WATER_BUCKET at the location 66, 68, 36.
-[00:16:51]: Austin_Powers_ emptied a WATER_BUCKET at the location 67, 67, 34.
-[00:17:05]: Austin_Powers_ emptied a WATER_BUCKET at the location 66, 67, 34.
-[00:19:16]: Austin_Powers_ emptied a WATER_BUCKET at the location 66, 68, 33.
-[00:19:29]: Austin_Powers_ emptied a WATER_BUCKET at the location 67, 67, 35.
-[00:19:41]: Austin_Powers_ emptied a WATER_BUCKET at the location 66, 68, 36.
-[00:19:44]: Austin_Powers_ emptied a WATER_BUCKET at the location 67, 67, 35.
-[00:20:03]: Austin_Powers_ emptied a WATER_BUCKET at the location 66, 68, 33.

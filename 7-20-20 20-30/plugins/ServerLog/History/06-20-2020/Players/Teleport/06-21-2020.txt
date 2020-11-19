@@ -1,8 +1,0 @@
-[00:00:05]: BenDoesMusic teleported to 100, 49, 0.
-[00:00:19]: Borps teleported to 656, 75, 206.
-[00:00:20]: Borps teleported to 656, 75, 206.
-[00:01:04]: ya_boi_ehoff teleported to 171, 129, 105.
-[00:01:46]: ya_boi_ehoff teleported to -1450, 66, 821.
-[00:02:05]: ya_boi_ehoff teleported to 100, 49, 0.
-[00:02:45]: Borps teleported to 83, 129, 24.
-[00:03:05]: Borps teleported to 58, 74, 0.

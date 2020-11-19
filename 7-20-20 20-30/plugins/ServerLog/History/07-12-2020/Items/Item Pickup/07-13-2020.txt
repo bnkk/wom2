@@ -1,7 +1,0 @@
-[00:00:00]: Lhendy51 picked up the item RED_BED.
-[00:00:00]: Lhendy51 picked up the item DIRT.
-[00:00:05]: Lhendy51 picked up the item STONE_BRICK_SLAB.
-[00:00:05]: Lhendy51 picked up the item LIGHT_GRAY_CONCRETE_POWDER.
-[00:00:05]: Lhendy51 picked up the item LIGHT_GRAY_CONCRETE.
-[00:00:09]: BenDoesMusic picked up the item BLACK_SHULKER_BOX.
-[00:00:56]: BenDoesMusic picked up the item SPRUCE_BOAT.

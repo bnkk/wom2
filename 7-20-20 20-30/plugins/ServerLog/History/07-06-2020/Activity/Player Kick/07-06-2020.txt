@@ -1,5 +1,0 @@
-[00:05:04]: Austin_Powers_ kicked. Their IP was 73.154.194.210. Reason: Timed out
-[00:15:59]: BenDoesMusic kicked. Their IP was 98.111.229.85. Reason: You logged in from another location
-[00:16:24]: BenDoesMusic kicked. Their IP was 98.111.229.85. Reason: Timed out
-[00:17:11]: BenDoesMusic kicked. Their IP was 98.111.229.85. Reason: Timed out
-[21:35:43]: TARDIS_360 kicked. Their IP was 73.154.210.58. Reason: Timed out

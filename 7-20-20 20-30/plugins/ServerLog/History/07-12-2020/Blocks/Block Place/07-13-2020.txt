@@ -1,8 +1,0 @@
-[00:00:03]: Lhendy51 placed the block RED_BED at the location 42, 71, -52.
-[00:00:05]: BenDoesMusic placed the block BLACK_SHULKER_BOX at the location 222, 63, -1914.
-[00:00:08]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 43, 71, -53.
-[00:00:09]: Lhendy51 placed the block LIGHT_GRAY_CONCRETE at the location 46, 70, -54.
-[00:00:11]: Lhendy51 placed the block LIGHT_GRAY_CONCRETE_POWDER at the location 45, 69, -54.
-[00:00:11]: Lhendy51 placed the block LIGHT_GRAY_CONCRETE_POWDER at the location 44, 69, -54.
-[00:00:12]: Lhendy51 placed the block LIGHT_GRAY_CONCRETE_POWDER at the location 45, 69, -53.
-[00:00:13]: Lhendy51 placed the block LIGHT_GRAY_CONCRETE_POWDER at the location 44, 69, -53.

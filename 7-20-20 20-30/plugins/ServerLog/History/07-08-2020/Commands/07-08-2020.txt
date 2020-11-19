@@ -1,8 +1,0 @@
-[23:25:42]: Borps ran the command /gmc.
-[23:25:42]: Borps ran the command /gamemode creative.
-[23:25:48]: Borps ran the command //wand.
-[23:26:19]: Borps ran the command //set air.
-[23:26:26]: Borps ran the command //undo.
-[23:26:53]: Borps ran the command /gms.
-[23:26:53]: Borps ran the command /gamemode survival.
-[23:29:06]: Borps ran the command /kick Austin_Powers_ no.

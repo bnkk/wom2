@@ -1,5 +1,0 @@
-[21:35:33]: BenjaboyQ emptied a WATER_BUCKET at the location 149, 93, -4.
-[23:55:25]: captainasia_ emptied a GOLD_NUGGET at the location -576, 79, -724.
-[23:55:28]: captainasia_ emptied a GOLD_NUGGET at the location -574, 79, -735.
-[23:55:31]: captainasia_ emptied a GOLD_NUGGET at the location -559, 78, -735.
-[23:55:38]: captainasia_ emptied a GOLD_NUGGET at the location -578, 80, -723.

@@ -1,7 +1,0 @@
-[18:45:09]: ya_boi_ehoff died because of PROJECTILE.
-[18:49:08]: ya_boi_ehoff died because of FALL.
-[20:58:46]: BenDoesMusic died because of ENTITY_ATTACK by Lhendy51 with Circumcisor IV (DIAMOND_SWORD).
-[21:00:57]: TARDIS_360 died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
-[21:37:48]: TARDIS_360 died because of FALL.
-[23:19:05]: captainasia_ died because of ENTITY_EXPLOSION.
-[23:21:27]: captainasia_ died because of ENTITY_ATTACK by Spider.

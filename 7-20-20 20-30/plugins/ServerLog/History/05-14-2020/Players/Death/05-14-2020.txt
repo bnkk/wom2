@@ -1,7 +1,0 @@
-[15:13:56]: theredbook died because of FIRE_TICK.
-[22:03:13]: captainasia_ died because of ENTITY_ATTACK by Enderman.
-[22:07:24]: captainasia_ died because of ENTITY_ATTACK by Enderman.
-[22:14:31]: captainasia_ died because of ENTITY_ATTACK by Enderman.
-[22:25:43]: captainasia_ died because of FALL.
-[22:30:23]: theredbook died because of FALL.
-[22:37:31]: Lhendy51 died because of WITHER.

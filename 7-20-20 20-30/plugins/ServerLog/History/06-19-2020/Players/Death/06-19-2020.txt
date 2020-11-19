@@ -1,2 +1,0 @@
-[22:49:24]: Lhendy51 died because of ENTITY_ATTACK by Enderman.
-[22:50:57]: Lhendy51 died because of FALL.

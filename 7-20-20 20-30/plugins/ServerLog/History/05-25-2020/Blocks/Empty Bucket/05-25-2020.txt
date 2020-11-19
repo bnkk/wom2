@@ -1,5 +1,0 @@
-[20:57:07]: Austin_Powers_ emptied a WATER_BUCKET at the location 76, 68, 34.
-[20:57:11]: Austin_Powers_ emptied a WATER_BUCKET at the location 74, 68, 36.
-[23:03:46]: captainasia_ emptied a WATER_BUCKET at the location 56, 60, 24.
-[23:13:32]: captainasia_ emptied a WATER_BUCKET at the location 56, 60, 24.
-[23:13:43]: captainasia_ emptied a WATER_BUCKET at the location 79, 56, 51.

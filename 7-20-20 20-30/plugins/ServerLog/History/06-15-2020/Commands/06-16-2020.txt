@@ -1,4 +1,0 @@
-[00:00:20]: Lhendy51 ran the command /gmsp.
-[00:00:20]: Lhendy51 ran the command /gamemode spectator.
-[00:00:24]: Lhendy51 ran the command /gms.
-[00:00:24]: Lhendy51 ran the command /gamemode survival.

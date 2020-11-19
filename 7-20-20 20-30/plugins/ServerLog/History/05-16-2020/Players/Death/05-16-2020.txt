@@ -1,2 +1,0 @@
-[12:34:07]: theredbook died because of FALL.
-[22:43:43]: theredbook died because of ENTITY_EXPLOSION.

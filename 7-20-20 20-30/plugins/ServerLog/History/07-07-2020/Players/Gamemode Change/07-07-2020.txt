@@ -1,4 +1,0 @@
-[22:10:01]: Lhendy51 changed their gamemode from SURVIVAL to ADVENTURE.
-[22:10:30]: Lhendy51 changed their gamemode from ADVENTURE to SURVIVAL.
-[22:18:13]: Lhendy51 changed their gamemode from SURVIVAL to SPECTATOR.
-[22:18:19]: Lhendy51 changed their gamemode from SPECTATOR to SURVIVAL.

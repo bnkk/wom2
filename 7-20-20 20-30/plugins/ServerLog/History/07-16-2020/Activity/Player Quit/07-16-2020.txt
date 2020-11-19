@@ -1,8 +1,0 @@
-[18:22:09]: CreeperMKB quit at the location 45, 69, 40. Their IP was 73.40.242.202.
-[20:17:18]: BenDoesMusic quit at the location 14, 76, 1562. Their IP was 98.111.253.55.
-[20:23:23]: Lhendy51 quit at the location 55, 72, -40. Their IP was 73.154.195.184.
-[21:37:23]: BenjaboyQ quit at the location -409, 77, -36. Their IP was 96.236.218.9.
-[21:41:03]: BenDoesMusic quit at the location 25, 79, -29. Their IP was 98.111.253.55.
-[23:09:05]: BenjaboyQ quit at the location 57, 72, -30. Their IP was 96.236.218.9.
-[23:44:22]: Lhendy51 quit at the location 65, 72, -34. Their IP was 73.154.195.184.
-[23:45:10]: BenDoesMusic quit at the location 53, 74, 0. Their IP was 98.111.253.55.

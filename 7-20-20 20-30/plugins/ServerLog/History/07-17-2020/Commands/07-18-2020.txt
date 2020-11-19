@@ -1,2 +1,0 @@
-[00:01:16]: Lhendy51 ran the command /day.
-[00:01:16]: Lhendy51 ran the command /time set day.

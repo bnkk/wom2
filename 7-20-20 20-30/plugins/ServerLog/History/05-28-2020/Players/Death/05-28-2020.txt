@@ -1,1 +1,0 @@
-[16:45:27]: CreeperMKB died because of ENTITY_EXPLOSION.

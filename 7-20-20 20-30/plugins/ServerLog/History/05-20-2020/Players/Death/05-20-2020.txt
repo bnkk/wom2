@@ -1,8 +1,0 @@
-[14:12:10]: TARDIS_360 died because of FALL.
-[20:14:49]: BenjaboyQ died because of FIRE_TICK.
-[20:14:57]: BenjaboyQ died because of ENTITY_ATTACK by Zombie.
-[20:15:07]: BenjaboyQ died because of FIRE_TICK.
-[20:41:33]: CreeperMKB died because of FALL.
-[22:45:39]: Lhendy51 died because of ENTITY_ATTACK by Iron Golem.
-[22:47:35]: Lhendy51 died because of ENTITY_ATTACK by Iron Golem.
-[22:48:58]: Austin_Powers_ died because of ENTITY_ATTACK by Wither Skeleton.

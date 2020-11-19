@@ -1,3 +1,0 @@
-[22:21:05]: BenDoesMusic emptied a WATER_BUCKET at the location 13, 99, -30.
-[22:21:09]: BenDoesMusic emptied a WATER_BUCKET at the location 13, 99, -30.
-[22:21:50]: BenDoesMusic emptied a WATER_BUCKET at the location 9, 99, -30.

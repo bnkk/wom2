@@ -1,4 +1,0 @@
-[00:00:07]: captainasia_ broke the block DIRT at the location -6, 59, 51.
-[00:00:08]: captainasia_ broke the block DIRT at the location -6, 59, 50.
-[00:00:10]: captainasia_ broke the block DIRT at the location -6, 59, 48.
-[00:00:11]: captainasia_ broke the block DIRT at the location -6, 59, 49.

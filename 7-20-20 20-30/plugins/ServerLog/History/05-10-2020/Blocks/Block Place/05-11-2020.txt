@@ -1,4 +1,0 @@
-[00:00:05]: Lhendy51 placed the block SEA_LANTERN at the location 1236, 11, 659.
-[00:00:19]: Lhendy51 placed the block SEA_LANTERN at the location 1236, 11, 646.
-[00:00:50]: Lhendy51 placed the block SEA_LANTERN at the location 1232, 11, 653.
-[00:00:51]: Lhendy51 placed the block SEA_LANTERN at the location 1230, 11, 649.

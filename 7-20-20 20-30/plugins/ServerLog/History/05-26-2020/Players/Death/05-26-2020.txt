@@ -1,9 +1,0 @@
-[15:08:40]: CreeperMKB died because of FALL.
-[20:40:18]: CreeperMKB died because of FALL.
-[23:24:48]: captainasia_ died because of PROJECTILE.
-[23:29:26]: captainasia_ died because of PROJECTILE.
-[23:32:11]: captainasia_ died because of PROJECTILE.
-[23:38:37]: captainasia_ died because of ENTITY_ATTACK by Zombie.
-[23:43:00]: captainasia_ died because of ENTITY_EXPLOSION.
-[23:46:12]: captainasia_ died because of LAVA.
-[23:51:40]: captainasia_ died because of ENTITY_ATTACK by Silverfish.

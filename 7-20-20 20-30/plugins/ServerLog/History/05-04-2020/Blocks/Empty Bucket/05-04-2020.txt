@@ -1,6 +1,0 @@
-[21:27:58]: BenjaboyQ emptied a COD_BUCKET at the location 1257, 62, 667.
-[21:28:01]: BenjaboyQ emptied a WATER_BUCKET at the location 1257, 62, 667.
-[22:22:39]: BenjaboyQ emptied a SALMON_BUCKET at the location -6322, 70, -3127.
-[22:24:41]: BenjaboyQ emptied a SALMON_BUCKET at the location -6322, 87, -3127.
-[22:24:43]: BenjaboyQ emptied a WATER_BUCKET at the location -6323, 85, -3128.
-[22:39:29]: BenjaboyQ emptied a WATER_BUCKET at the location 1257, 62, 667.

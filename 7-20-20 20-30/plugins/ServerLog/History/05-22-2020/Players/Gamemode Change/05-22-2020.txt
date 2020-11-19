@@ -1,7 +1,0 @@
-[21:08:00]: BenDoesMusic changed their gamemode from SURVIVAL to SPECTATOR.
-[21:09:38]: BenDoesMusic changed their gamemode from SPECTATOR to SURVIVAL.
-[21:36:21]: Borps changed their gamemode from CREATIVE to SPECTATOR.
-[21:36:37]: Borps changed their gamemode from SPECTATOR to CREATIVE.
-[21:37:34]: Borps changed their gamemode from CREATIVE to SPECTATOR.
-[21:37:47]: Borps changed their gamemode from SPECTATOR to CREATIVE.
-[21:41:33]: Borps changed their gamemode from CREATIVE to SPECTATOR.

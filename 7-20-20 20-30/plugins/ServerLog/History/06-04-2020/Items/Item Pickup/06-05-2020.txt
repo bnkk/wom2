@@ -1,7 +1,0 @@
-[00:01:03]: BenDoesMusic picked up the item STICKY_PISTON.
-[00:01:07]: BenDoesMusic picked up the item COBBLESTONE_WALL.
-[00:01:10]: BenDoesMusic picked up the item STICKY_PISTON.
-[00:01:22]: BenDoesMusic picked up the item SCAFFOLDING.
-[00:01:22]: BenDoesMusic picked up the item PRISMARINE_BRICKS.
-[00:01:23]: BenDoesMusic picked up the item PRISMARINE_BRICKS.
-[00:01:26]: captainasia_ picked up the item LIGHT_GRAY_CONCRETE_POWDER.

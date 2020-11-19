@@ -1,6 +1,0 @@
-[00:00:31]: captainasia_ broke the block OAK_PLANKS at the location 25, 76, -16.
-[00:00:32]: captainasia_ broke the block OAK_PLANKS at the location 23, 76, -16.
-[00:01:05]: BenDoesMusic broke the block SMOOTH_SANDSTONE at the location -104, 73, 1.
-[00:01:28]: captainasia_ broke the block GLASS_PANE at the location 23, 76, -16.
-[00:01:29]: captainasia_ broke the block OAK_PLANKS at the location 23, 76, -14.
-[00:01:32]: captainasia_ broke the block GLASS_PANE at the location 23, 76, -15.

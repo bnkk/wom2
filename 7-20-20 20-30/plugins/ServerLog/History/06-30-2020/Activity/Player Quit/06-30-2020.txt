@@ -1,5 +1,0 @@
-[00:02:22]: Lhendy51 quit at the location 11, 75, 151. Their IP was 73.154.195.184.
-[21:24:38]: Lhendy51 quit at the location 62, 109, 148. Their IP was 73.154.195.184.
-[22:51:50]: Lhendy51 quit at the location 1260, 121, 627. Their IP was 73.154.195.184.
-[22:51:52]: BenjaboyQ quit at the location 372, 72, 164. Their IP was 96.236.218.9.
-[23:42:02]: BenjaboyQ quit at the location -156, 110, -217. Their IP was 96.236.218.9.

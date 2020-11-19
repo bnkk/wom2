@@ -1,5 +1,0 @@
-[02:32:43]: Borps died because of LAVA.
-[23:21:57]: TARDIS_360 died because of ENTITY_ATTACK by Piglin.
-[23:33:21]: Boeing2847 died because of FALL.
-[23:35:01]: TARDIS_360 died because of FLY_INTO_WALL.
-[23:40:28]: Boeing2847 died because of FALL.

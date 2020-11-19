@@ -1,8 +1,0 @@
-[21:48:02]: Lhendy51 changed their gamemode from SURVIVAL to SPECTATOR.
-[21:48:55]: Lhendy51 changed their gamemode from SPECTATOR to SURVIVAL.
-[23:18:28]: BenDoesMusic changed their gamemode from SURVIVAL to SPECTATOR.
-[23:18:47]: BenDoesMusic changed their gamemode from SPECTATOR to SURVIVAL.
-[23:20:47]: BenDoesMusic changed their gamemode from SURVIVAL to SPECTATOR.
-[23:21:18]: BenDoesMusic changed their gamemode from SPECTATOR to SURVIVAL.
-[23:55:25]: BenDoesMusic changed their gamemode from SURVIVAL to SPECTATOR.
-[23:58:31]: BenDoesMusic changed their gamemode from SPECTATOR to SURVIVAL.

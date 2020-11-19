@@ -1,9 +1,0 @@
-[09:19:42]: captainasia_ quit at the location 33, 134, -17. Their IP was 24.154.114.227.
-[09:38:29]: captainasia_ quit at the location 499, 69, 2568. Their IP was 24.154.114.227.
-[09:59:50]: captainasia_ quit at the location 504, 69, 2546. Their IP was 24.154.114.227.
-[12:27:22]: CreeperMKB quit at the location 92, 72, -10. Their IP was 73.40.242.202.
-[21:45:17]: BenjaboyQ quit at the location 136, 80, 8. Their IP was 96.236.218.9.
-[22:37:40]: Lhendy51 quit at the location 1263, 11, 643. Their IP was 73.154.195.184.
-[23:00:46]: Lhendy51 quit at the location 1274, 65, 775. Their IP was 73.154.195.184.
-[23:30:34]: BenjaboyQ quit at the location 137, 78, -13. Their IP was 96.236.218.9.
-[23:57:16]: captainasia_ quit at the location 516, 70, 2550. Their IP was 24.154.114.227.

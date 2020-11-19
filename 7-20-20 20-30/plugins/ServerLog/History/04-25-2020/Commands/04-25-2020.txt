@@ -1,3 +1,0 @@
-[12:46:00]: Borps ran the command /gamemode spectator.
-[12:46:05]: Borps ran the command /tp 0 ~ 0.
-[12:46:38]: Borps ran the command /gamemode survival.
