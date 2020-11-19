@@ -1,0 +1,13 @@
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+body {
+    background: url("/assets/img/background.png") no-repeat center center fixed;
+    background-size: cover;
+}
