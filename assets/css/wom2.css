@@ -8,6 +8,6 @@
 }
 
 body {
-    background: url("../img/background.png") no-repeat center center fixed;
+    background: url("https://raw.githubusercontent.com/bnkk/wom2/gh-pages/assets/img/background.png") no-repeat center center fixed;
     background-size: cover;
 }
