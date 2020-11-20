@@ -1,0 +1,2817 @@
+[00:02:11]: The TPS is 20.
+[00:02:11]: The current RAM usage is 2544MB / 3072MB (82.81%).
+[00:02:11]: The current player count is 0.
+[00:07:11]: The TPS is 20.
+[00:07:11]: The current RAM usage is 2522MB / 3072MB (82.1%).
+[00:07:11]: The current player count is 0.
+[00:12:10]: The TPS is 20.
+[00:12:10]: The current RAM usage is 2527MB / 3072MB (82.26%).
+[00:12:10]: The current player count is 0.
+[00:17:10]: The TPS is 20.
+[00:17:10]: The current RAM usage is 2526MB / 3072MB (82.23%).
+[00:17:10]: The current player count is 0.
+[00:22:10]: The TPS is 20.
+[00:22:10]: The current RAM usage is 2569MB / 3072MB (83.63%).
+[00:22:10]: The current player count is 0.
+[00:27:10]: The TPS is 20.
+[00:27:10]: The current RAM usage is 2498MB / 3072MB (81.32%).
+[00:27:10]: The current player count is 0.
+[00:32:10]: The TPS is 20.
+[00:32:10]: The current RAM usage is 2497MB / 3072MB (81.28%).
+[00:32:10]: The current player count is 0.
+[00:37:10]: The TPS is 20.
+[00:37:10]: The current RAM usage is 2473MB / 3072MB (80.5%).
+[00:37:10]: The current player count is 0.
+[00:42:10]: The TPS is 20.
+[00:42:10]: The current RAM usage is 2696MB / 3072MB (87.76%).
+[00:42:10]: The current player count is 0.
+[00:47:10]: The TPS is 20.
+[00:47:10]: The current RAM usage is 2861MB / 3072MB (93.13%).
+[00:47:10]: The current player count is 0.
+[00:52:10]: The TPS is 20.
+[00:52:10]: The current RAM usage is 2274MB / 3072MB (74.02%).
+[00:52:10]: The current player count is 0.
+[00:57:10]: The TPS is 20.
+[00:57:10]: The current RAM usage is 2439MB / 3072MB (79.39%).
+[00:57:10]: The current player count is 0.
+[01:02:10]: The TPS is 20.
+[01:02:10]: The current RAM usage is 2438MB / 3072MB (79.36%).
+[01:02:11]: The current player count is 0.
+[01:07:10]: The TPS is 20.
+[01:07:10]: The current RAM usage is 2402MB / 3072MB (78.19%).
+[01:07:10]: The current player count is 0.
+[01:12:10]: The TPS is 20.
+[01:12:10]: The current RAM usage is 2290MB / 3072MB (74.54%).
+[01:12:10]: The current player count is 0.
+[01:17:10]: The TPS is 20.
+[01:17:10]: The current RAM usage is 2354MB / 3072MB (76.63%).
+[01:17:10]: The current player count is 0.
+[01:22:10]: The TPS is 20.
+[01:22:10]: The current RAM usage is 2321MB / 3072MB (75.55%).
+[01:22:10]: The current player count is 0.
+[01:27:10]: The TPS is 20.
+[01:27:10]: The current RAM usage is 2331MB / 3072MB (75.88%).
+[01:27:10]: The current player count is 0.
+[01:32:10]: The TPS is 20.
+[01:32:10]: The current RAM usage is 2294MB / 3072MB (74.67%).
+[01:32:10]: The current player count is 0.
+[01:37:10]: The TPS is 20.
+[01:37:10]: The current RAM usage is 2400MB / 3072MB (78.12%).
+[01:37:10]: The current player count is 0.
+[01:42:10]: The TPS is 20.
+[01:42:10]: The current RAM usage is 2599MB / 3072MB (84.6%).
+[01:42:10]: The current player count is 0.
+[01:47:10]: The TPS is 20.
+[01:47:10]: The current RAM usage is 2723MB / 3072MB (88.64%).
+[01:47:10]: The current player count is 0.
+[01:52:10]: The TPS is 20.
+[01:52:10]: The current RAM usage is 2092MB / 3072MB (68.1%).
+[01:52:10]: The current player count is 0.
+[01:57:10]: The TPS is 20.
+[01:57:10]: The current RAM usage is 2187MB / 3072MB (71.19%).
+[01:57:10]: The current player count is 0.
+[02:02:10]: The TPS is 20.
+[02:02:10]: The current RAM usage is 2253MB / 3072MB (73.34%).
+[02:02:10]: The current player count is 0.
+[02:07:10]: The TPS is 20.
+[02:07:10]: The current RAM usage is 2162MB / 3072MB (70.38%).
+[02:07:10]: The current player count is 0.
+[02:12:10]: The TPS is 20.
+[02:12:10]: The current RAM usage is 2193MB / 3072MB (71.39%).
+[02:12:10]: The current player count is 0.
+[02:17:10]: The TPS is 20.
+[02:17:10]: The current RAM usage is 2206MB / 3072MB (71.81%).
+[02:17:10]: The current player count is 0.
+[02:22:10]: The TPS is 20.
+[02:22:10]: The current RAM usage is 2273MB / 3072MB (73.99%).
+[02:22:10]: The current player count is 0.
+[02:27:10]: The TPS is 20.
+[02:27:10]: The current RAM usage is 2221MB / 3072MB (72.3%).
+[02:27:10]: The current player count is 0.
+[02:32:10]: The TPS is 20.
+[02:32:10]: The current RAM usage is 2210MB / 3072MB (71.94%).
+[02:32:10]: The current player count is 0.
+[02:37:10]: The TPS is 20.
+[02:37:10]: The current RAM usage is 2290MB / 3072MB (74.54%).
+[02:37:10]: The current player count is 0.
+[02:42:10]: The TPS is 20.
+[02:42:10]: The current RAM usage is 2291MB / 3072MB (74.58%).
+[02:42:10]: The current player count is 0.
+[02:47:10]: The TPS is 20.
+[02:47:10]: The current RAM usage is 2312MB / 3072MB (75.26%).
+[02:47:10]: The current player count is 0.
+[02:52:10]: The TPS is 20.
+[02:52:10]: The current RAM usage is 2284MB / 3072MB (74.35%).
+[02:52:10]: The current player count is 0.
+[02:57:10]: The TPS is 20.
+[02:57:10]: The current RAM usage is 2354MB / 3072MB (76.63%).
+[02:57:10]: The current player count is 0.
+[03:02:10]: The TPS is 20.
+[03:02:10]: The current RAM usage is 2340MB / 3072MB (76.17%).
+[03:02:10]: The current player count is 0.
+[03:07:10]: The TPS is 20.
+[03:07:10]: The current RAM usage is 2324MB / 3072MB (75.65%).
+[03:07:10]: The current player count is 0.
+[03:12:10]: The TPS is 20.
+[03:12:10]: The current RAM usage is 2273MB / 3072MB (73.99%).
+[03:12:10]: The current player count is 0.
+[03:17:10]: The TPS is 20.
+[03:17:10]: The current RAM usage is 2369MB / 3072MB (77.12%).
+[03:17:10]: The current player count is 0.
+[03:22:10]: The TPS is 20.
+[03:22:10]: The current RAM usage is 2416MB / 3072MB (78.65%).
+[03:22:10]: The current player count is 0.
+[03:27:10]: The TPS is 20.
+[03:27:10]: The current RAM usage is 2425MB / 3072MB (78.94%).
+[03:27:10]: The current player count is 0.
+[03:32:10]: The TPS is 20.
+[03:32:10]: The current RAM usage is 2432MB / 3072MB (79.17%).
+[03:32:10]: The current player count is 0.
+[03:37:10]: The TPS is 20.
+[03:37:10]: The current RAM usage is 2488MB / 3072MB (80.99%).
+[03:37:10]: The current player count is 0.
+[03:42:10]: The TPS is 20.
+[03:42:10]: The current RAM usage is 2567MB / 3072MB (83.56%).
+[03:42:10]: The current player count is 0.
+[03:47:10]: The TPS is 20.
+[03:47:10]: The current RAM usage is 2489MB / 3072MB (81.02%).
+[03:47:10]: The current player count is 0.
+[03:52:10]: The TPS is 20.
+[03:52:10]: The current RAM usage is 2541MB / 3072MB (82.71%).
+[03:52:10]: The current player count is 0.
+[03:57:10]: The TPS is 20.
+[03:57:10]: The current RAM usage is 2553MB / 3072MB (83.11%).
+[03:57:10]: The current player count is 0.
+[04:02:10]: The TPS is 20.
+[04:02:10]: The current RAM usage is 2639MB / 3072MB (85.9%).
+[04:02:10]: The current player count is 0.
+[04:07:10]: The TPS is 20.
+[04:07:10]: The current RAM usage is 2570MB / 3072MB (83.66%).
+[04:07:10]: The current player count is 0.
+[04:12:10]: The TPS is 20.
+[04:12:10]: The current RAM usage is 2594MB / 3072MB (84.44%).
+[04:12:10]: The current player count is 0.
+[04:17:10]: The TPS is 20.
+[04:17:10]: The current RAM usage is 2606MB / 3072MB (84.83%).
+[04:17:10]: The current player count is 0.
+[04:22:10]: The TPS is 20.
+[04:22:10]: The current RAM usage is 2682MB / 3072MB (87.3%).
+[04:22:10]: The current player count is 0.
+[04:27:10]: The TPS is 20.
+[04:27:10]: The current RAM usage is 2718MB / 3072MB (88.48%).
+[04:27:10]: The current player count is 0.
+[04:32:10]: The TPS is 20.
+[04:32:10]: The current RAM usage is 2687MB / 3072MB (87.47%).
+[04:32:10]: The current player count is 0.
+[04:37:10]: The TPS is 20.
+[04:37:10]: The current RAM usage is 2776MB / 3072MB (90.36%).
+[04:37:10]: The current player count is 0.
+[04:42:10]: The TPS is 20.
+[04:42:10]: The current RAM usage is 2816MB / 3072MB (91.67%).
+[04:42:10]: The current player count is 0.
+[04:47:10]: The TPS is 20.
+[04:47:10]: The current RAM usage is 2868MB / 3072MB (93.36%).
+[04:47:10]: The current player count is 0.
+[04:52:10]: The TPS is 20.
+[04:52:10]: The current RAM usage is 2087MB / 3072MB (67.94%).
+[04:52:10]: The current player count is 0.
+[04:57:10]: The TPS is 20.
+[04:57:10]: The current RAM usage is 2208MB / 3072MB (71.88%).
+[04:57:10]: The current player count is 0.
+[05:02:10]: The TPS is 20.
+[05:02:10]: The current RAM usage is 2258MB / 3072MB (73.5%).
+[05:02:10]: The current player count is 0.
+[05:07:10]: The TPS is 20.
+[05:07:10]: The current RAM usage is 2282MB / 3072MB (74.28%).
+[05:07:10]: The current player count is 0.
+[05:12:10]: The TPS is 20.
+[05:12:10]: The current RAM usage is 2325MB / 3072MB (75.68%).
+[05:12:10]: The current player count is 0.
+[05:17:10]: The TPS is 20.
+[05:17:10]: The current RAM usage is 2393MB / 3072MB (77.9%).
+[05:17:10]: The current player count is 0.
+[05:22:10]: The TPS is 20.
+[05:22:10]: The current RAM usage is 2495MB / 3072MB (81.22%).
+[05:22:10]: The current player count is 0.
+[05:27:10]: The TPS is 20.
+[05:27:10]: The current RAM usage is 2467MB / 3072MB (80.31%).
+[05:27:10]: The current player count is 0.
+[05:32:10]: The TPS is 20.
+[05:32:10]: The current RAM usage is 2496MB / 3072MB (81.25%).
+[05:32:10]: The current player count is 0.
+[05:37:10]: The TPS is 20.
+[05:37:10]: The current RAM usage is 2535MB / 3072MB (82.52%).
+[05:37:10]: The current player count is 0.
+[05:42:10]: The TPS is 20.
+[05:42:10]: The current RAM usage is 2631MB / 3072MB (85.64%).
+[05:42:10]: The current player count is 0.
+[05:47:10]: The TPS is 20.
+[05:47:10]: The current RAM usage is 2662MB / 3072MB (86.65%).
+[05:47:10]: The current player count is 0.
+[05:52:10]: The TPS is 20.
+[05:52:10]: The current RAM usage is 2752MB / 3072MB (89.58%).
+[05:52:10]: The current player count is 0.
+[05:57:10]: The TPS is 20.
+[05:57:10]: The current RAM usage is 2848MB / 3072MB (92.71%).
+[05:57:10]: The current player count is 0.
+[06:02:10]: The TPS is 20.
+[06:02:10]: The current RAM usage is 2145MB / 3072MB (69.82%).
+[06:02:10]: The current player count is 0.
+[06:07:10]: The TPS is 20.
+[06:07:10]: The current RAM usage is 2178MB / 3072MB (70.9%).
+[06:07:10]: The current player count is 0.
+[06:12:10]: The TPS is 20.
+[06:12:10]: The current RAM usage is 2140MB / 3072MB (69.66%).
+[06:12:10]: The current player count is 0.
+[06:17:10]: The TPS is 20.
+[06:17:10]: The current RAM usage is 2300MB / 3072MB (74.87%).
+[06:17:10]: The current player count is 0.
+[06:22:10]: The TPS is 20.
+[06:22:10]: The current RAM usage is 2325MB / 3072MB (75.68%).
+[06:22:10]: The current player count is 0.
+[06:27:10]: The TPS is 20.
+[06:27:10]: The current RAM usage is 2395MB / 3072MB (77.96%).
+[06:27:10]: The current player count is 0.
+[06:32:10]: The TPS is 20.
+[06:32:10]: The current RAM usage is 2397MB / 3072MB (78.03%).
+[06:32:10]: The current player count is 0.
+[06:37:10]: The TPS is 20.
+[06:37:10]: The current RAM usage is 2510MB / 3072MB (81.71%).
+[06:37:10]: The current player count is 0.
+[06:42:10]: The TPS is 20.
+[06:42:10]: The current RAM usage is 2538MB / 3072MB (82.62%).
+[06:42:10]: The current player count is 0.
+[06:47:10]: The TPS is 20.
+[06:47:10]: The current RAM usage is 2618MB / 3072MB (85.22%).
+[06:47:10]: The current player count is 0.
+[06:52:10]: The TPS is 20.
+[06:52:10]: The current RAM usage is 2698MB / 3072MB (87.83%).
+[06:52:10]: The current player count is 0.
+[06:57:10]: The TPS is 20.
+[06:57:10]: The current RAM usage is 2761MB / 3072MB (89.88%).
+[06:57:10]: The current player count is 0.
+[07:02:10]: The TPS is 20.
+[07:02:10]: The current RAM usage is 2054MB / 3072MB (66.86%).
+[07:02:10]: The current player count is 0.
+[07:07:10]: The TPS is 20.
+[07:07:10]: The current RAM usage is 2110MB / 3072MB (68.68%).
+[07:07:10]: The current player count is 0.
+[07:12:10]: The TPS is 20.
+[07:12:10]: The current RAM usage is 2222MB / 3072MB (72.33%).
+[07:12:10]: The current player count is 0.
+[07:17:10]: The TPS is 20.
+[07:17:10]: The current RAM usage is 2285MB / 3072MB (74.38%).
+[07:17:10]: The current player count is 0.
+[07:22:10]: The TPS is 20.
+[07:22:10]: The current RAM usage is 2415MB / 3072MB (78.61%).
+[07:22:10]: The current player count is 0.
+[07:27:10]: The TPS is 20.
+[07:27:10]: The current RAM usage is 2453MB / 3072MB (79.85%).
+[07:27:10]: The current player count is 0.
+[07:32:10]: The TPS is 20.
+[07:32:10]: The current RAM usage is 2552MB / 3072MB (83.07%).
+[07:32:10]: The current player count is 0.
+[07:37:10]: The TPS is 20.
+[07:37:10]: The current RAM usage is 2653MB / 3072MB (86.36%).
+[07:37:10]: The current player count is 0.
+[07:42:10]: The TPS is 20.
+[07:42:10]: The current RAM usage is 2742MB / 3072MB (89.26%).
+[07:42:10]: The current player count is 0.
+[07:47:10]: The TPS is 20.
+[07:47:10]: The current RAM usage is 2850MB / 3072MB (92.77%).
+[07:47:10]: The current player count is 0.
+[07:52:10]: The TPS is 20.
+[07:52:10]: The current RAM usage is 2104MB / 3072MB (68.49%).
+[07:52:10]: The current player count is 0.
+[07:57:10]: The TPS is 20.
+[07:57:10]: The current RAM usage is 2238MB / 3072MB (72.85%).
+[07:57:10]: The current player count is 0.
+[08:02:10]: The TPS is 20.
+[08:02:10]: The current RAM usage is 2260MB / 3072MB (73.57%).
+[08:02:10]: The current player count is 0.
+[08:07:10]: The TPS is 20.
+[08:07:10]: The current RAM usage is 2365MB / 3072MB (76.99%).
+[08:07:10]: The current player count is 0.
+[08:12:10]: The TPS is 20.
+[08:12:10]: The current RAM usage is 2402MB / 3072MB (78.19%).
+[08:12:10]: The current player count is 0.
+[08:17:10]: The TPS is 20.
+[08:17:10]: The current RAM usage is 2566MB / 3072MB (83.53%).
+[08:17:10]: The current player count is 0.
+[08:22:10]: The TPS is 20.
+[08:22:10]: The current RAM usage is 2621MB / 3072MB (85.32%).
+[08:22:10]: The current player count is 0.
+[08:27:10]: The TPS is 20.
+[08:27:10]: The current RAM usage is 2703MB / 3072MB (87.99%).
+[08:27:10]: The current player count is 0.
+[08:32:10]: The TPS is 20.
+[08:32:10]: The current RAM usage is 2728MB / 3072MB (88.8%).
+[08:32:10]: The current player count is 0.
+[08:37:10]: The TPS is 20.
+[08:37:10]: The current RAM usage is 2065MB / 3072MB (67.22%).
+[08:37:10]: The current player count is 0.
+[08:42:10]: The TPS is 20.
+[08:42:10]: The current RAM usage is 2195MB / 3072MB (71.45%).
+[08:42:10]: The current player count is 0.
+[08:47:10]: The TPS is 20.
+[08:47:10]: The current RAM usage is 2203MB / 3072MB (71.71%).
+[08:47:10]: The current player count is 0.
+[08:52:10]: The TPS is 20.
+[08:52:10]: The current RAM usage is 2294MB / 3072MB (74.67%).
+[08:52:10]: The current player count is 0.
+[08:57:10]: The TPS is 20.
+[08:57:10]: The current RAM usage is 2384MB / 3072MB (77.6%).
+[08:57:10]: The current player count is 0.
+[09:02:10]: The TPS is 20.
+[09:02:10]: The current RAM usage is 2530MB / 3072MB (82.36%).
+[09:02:10]: The current player count is 0.
+[09:07:10]: The TPS is 20.
+[09:07:10]: The current RAM usage is 2578MB / 3072MB (83.92%).
+[09:07:10]: The current player count is 0.
+[09:12:10]: The TPS is 20.
+[09:12:10]: The current RAM usage is 2714MB / 3072MB (88.35%).
+[09:12:10]: The current player count is 0.
+[09:17:10]: The TPS is 20.
+[09:17:10]: The current RAM usage is 2827MB / 3072MB (92.02%).
+[09:17:10]: The current player count is 0.
+[09:22:10]: The TPS is 20.
+[09:22:10]: The current RAM usage is 2197MB / 3072MB (71.52%).
+[09:22:10]: The current player count is 0.
+[09:27:10]: The TPS is 20.
+[09:27:10]: The current RAM usage is 2253MB / 3072MB (73.34%).
+[09:27:10]: The current player count is 0.
+[09:32:10]: The TPS is 20.
+[09:32:10]: The current RAM usage is 2324MB / 3072MB (75.65%).
+[09:32:10]: The current player count is 0.
+[09:37:10]: The TPS is 20.
+[09:37:10]: The current RAM usage is 2492MB / 3072MB (81.12%).
+[09:37:10]: The current player count is 0.
+[09:42:10]: The TPS is 20.
+[09:42:10]: The current RAM usage is 2569MB / 3072MB (83.63%).
+[09:42:10]: The current player count is 0.
+[09:47:10]: The TPS is 20.
+[09:47:10]: The current RAM usage is 2696MB / 3072MB (87.76%).
+[09:47:10]: The current player count is 0.
+[09:52:10]: The TPS is 20.
+[09:52:10]: The current RAM usage is 2773MB / 3072MB (90.27%).
+[09:52:10]: The current player count is 0.
+[09:57:10]: The TPS is 20.
+[09:57:10]: The current RAM usage is 2124MB / 3072MB (69.14%).
+[09:57:11]: The current player count is 0.
+[10:02:10]: The TPS is 20.
+[10:02:10]: The current RAM usage is 2236MB / 3072MB (72.79%).
+[10:02:11]: The current player count is 0.
+[10:07:10]: The TPS is 20.
+[10:07:10]: The current RAM usage is 2380MB / 3072MB (77.47%).
+[10:07:10]: The current player count is 0.
+[10:12:10]: The TPS is 20.
+[10:12:10]: The current RAM usage is 2473MB / 3072MB (80.5%).
+[10:12:10]: The current player count is 0.
+[10:17:11]: The TPS is 20.
+[10:17:11]: The current RAM usage is 2626MB / 3072MB (85.48%).
+[10:17:11]: The current player count is 0.
+[10:22:10]: The TPS is 20.
+[10:22:10]: The current RAM usage is 2780MB / 3072MB (90.49%).
+[10:22:10]: The current player count is 0.
+[10:27:10]: The TPS is 20.
+[10:27:10]: The current RAM usage is 2085MB / 3072MB (67.87%).
+[10:27:10]: The current player count is 0.
+[10:32:10]: The TPS is 20.
+[10:32:10]: The current RAM usage is 2255MB / 3072MB (73.4%).
+[10:32:10]: The current player count is 0.
+[10:37:11]: The TPS is 20.
+[10:37:11]: The current RAM usage is 2376MB / 3072MB (77.34%).
+[10:37:11]: The current player count is 0.
+[10:42:10]: The TPS is 20.
+[10:42:10]: The current RAM usage is 2542MB / 3072MB (82.75%).
+[10:42:10]: The current player count is 0.
+[10:47:10]: The TPS is 20.
+[10:47:10]: The current RAM usage is 2597MB / 3072MB (84.54%).
+[10:47:10]: The current player count is 0.
+[10:52:10]: The TPS is 20.
+[10:52:10]: The current RAM usage is 2722MB / 3072MB (88.61%).
+[10:52:10]: The current player count is 0.
+[10:57:10]: The TPS is 20.
+[10:57:10]: The current RAM usage is 2830MB / 3072MB (92.12%).
+[10:57:10]: The current player count is 0.
+[11:02:10]: The TPS is 20.
+[11:02:10]: The current RAM usage is 2176MB / 3072MB (70.83%).
+[11:02:10]: The current player count is 0.
+[11:07:11]: The TPS is 20.
+[11:07:11]: The current RAM usage is 2292MB / 3072MB (74.61%).
+[11:07:11]: The current player count is 0.
+[11:12:10]: The TPS is 20.
+[11:12:10]: The current RAM usage is 2375MB / 3072MB (77.31%).
+[11:12:10]: The current player count is 0.
+[11:17:10]: The TPS is 20.
+[11:17:10]: The current RAM usage is 2567MB / 3072MB (83.56%).
+[11:17:10]: The current player count is 0.
+[11:22:10]: The TPS is 20.
+[11:22:10]: The current RAM usage is 2679MB / 3072MB (87.21%).
+[11:22:10]: The current player count is 0.
+[11:27:10]: The TPS is 20.
+[11:27:10]: The current RAM usage is 2800MB / 3072MB (91.15%).
+[11:27:11]: The current player count is 0.
+[11:32:10]: The TPS is 20.
+[11:32:10]: The current RAM usage is 2071MB / 3072MB (67.42%).
+[11:32:11]: The current player count is 0.
+[11:37:10]: The TPS is 20.
+[11:37:10]: The current RAM usage is 2281MB / 3072MB (74.25%).
+[11:37:10]: The current player count is 0.
+[11:42:10]: The TPS is 20.
+[11:42:10]: The current RAM usage is 2354MB / 3072MB (76.63%).
+[11:42:10]: The current player count is 0.
+[11:47:10]: The TPS is 20.
+[11:47:10]: The current RAM usage is 2500MB / 3072MB (81.38%).
+[11:47:10]: The current player count is 0.
+[11:52:10]: The TPS is 20.
+[11:52:10]: The current RAM usage is 2582MB / 3072MB (84.05%).
+[11:52:10]: The current player count is 0.
+[11:57:10]: The TPS is 20.
+[11:57:10]: The current RAM usage is 2770MB / 3072MB (90.17%).
+[11:57:10]: The current player count is 0.
+[12:02:10]: The TPS is 20.
+[12:02:10]: The current RAM usage is 2114MB / 3072MB (68.82%).
+[12:02:10]: The current player count is 0.
+[12:07:10]: The TPS is 20.
+[12:07:10]: The current RAM usage is 2264MB / 3072MB (73.7%).
+[12:07:10]: The current player count is 0.
+[12:12:10]: The TPS is 20.
+[12:12:10]: The current RAM usage is 2427MB / 3072MB (79%).
+[12:12:10]: The current player count is 0.
+[12:17:10]: The TPS is 20.
+[12:17:11]: The current RAM usage is 2700MB / 3072MB (87.89%).
+[12:17:11]: The current player count is 0.
+[12:22:10]: The TPS is 20.
+[12:22:10]: The current RAM usage is 2270MB / 3072MB (73.89%).
+[12:22:11]: The current player count is 0.
+[12:27:10]: The TPS is 20.
+[12:27:10]: The current RAM usage is 2537MB / 3072MB (82.58%).
+[12:27:10]: The current player count is 0.
+[12:32:10]: The TPS is 20.
+[12:32:10]: The current RAM usage is 2858MB / 3072MB (93.03%).
+[12:32:10]: The current player count is 0.
+[12:37:10]: The TPS is 20.
+[12:37:10]: The current RAM usage is 2095MB / 3072MB (68.2%).
+[12:37:10]: The current player count is 0.
+[12:42:10]: The TPS is 20.
+[12:42:10]: The current RAM usage is 2477MB / 3072MB (80.63%).
+[12:42:10]: The current player count is 0.
+[12:47:10]: The TPS is 20.
+[12:47:10]: The current RAM usage is 2649MB / 3072MB (86.23%).
+[12:47:11]: The current player count is 0.
+[12:52:10]: The TPS is 20.
+[12:52:10]: The current RAM usage is 2129MB / 3072MB (69.3%).
+[12:52:10]: The current player count is 0.
+[12:57:10]: The TPS is 20.
+[12:57:10]: The current RAM usage is 2404MB / 3072MB (78.26%).
+[12:57:11]: The current player count is 0.
+[13:02:10]: The TPS is 20.
+[13:02:10]: The current RAM usage is 2592MB / 3072MB (84.38%).
+[13:02:10]: The current player count is 0.
+[13:07:10]: The TPS is 20.
+[13:07:10]: The current RAM usage is 2809MB / 3072MB (91.44%).
+[13:07:10]: The current player count is 0.
+[13:12:10]: The TPS is 20.
+[13:12:10]: The current RAM usage is 2210MB / 3072MB (71.94%).
+[13:12:10]: The current player count is 0.
+[13:17:10]: The TPS is 20.
+[13:17:10]: The current RAM usage is 2500MB / 3072MB (81.38%).
+[13:17:11]: The current player count is 0.
+[13:22:10]: The TPS is 20.
+[13:22:10]: The current RAM usage is 2685MB / 3072MB (87.4%).
+[13:22:10]: The current player count is 0.
+[13:27:10]: The TPS is 20.
+[13:27:10]: The current RAM usage is 2109MB / 3072MB (68.65%).
+[13:27:10]: The current player count is 0.
+[13:32:10]: The TPS is 20.
+[13:32:10]: The current RAM usage is 2265MB / 3072MB (73.73%).
+[13:32:10]: The current player count is 0.
+[13:37:10]: The TPS is 20.
+[13:37:10]: The current RAM usage is 2530MB / 3072MB (82.36%).
+[13:37:10]: The current player count is 0.
+[13:42:10]: The TPS is 20.
+[13:42:10]: The current RAM usage is 2751MB / 3072MB (89.55%).
+[13:42:11]: The current player count is 0.
+[13:47:10]: The TPS is 20.
+[13:47:10]: The current RAM usage is 2151MB / 3072MB (70.02%).
+[13:47:10]: The current player count is 0.
+[13:52:10]: The TPS is 20.
+[13:52:10]: The current RAM usage is 2410MB / 3072MB (78.45%).
+[13:52:10]: The current player count is 0.
+[13:57:10]: The TPS is 20.
+[13:57:10]: The current RAM usage is 2630MB / 3072MB (85.61%).
+[13:57:10]: The current player count is 0.
+[14:02:10]: The TPS is 20.
+[14:02:10]: The current RAM usage is 2077MB / 3072MB (67.61%).
+[14:02:10]: The current player count is 0.
+[14:07:10]: The TPS is 20.
+[14:07:10]: The current RAM usage is 2232MB / 3072MB (72.66%).
+[14:07:10]: The current player count is 0.
+[14:12:10]: The TPS is 20.
+[14:12:10]: The current RAM usage is 2439MB / 3072MB (79.39%).
+[14:12:10]: The current player count is 0.
+[14:17:10]: The TPS is 20.
+[14:17:10]: The current RAM usage is 2666MB / 3072MB (86.78%).
+[14:17:10]: The current player count is 0.
+[14:22:10]: The TPS is 20.
+[14:22:10]: The current RAM usage is 2080MB / 3072MB (67.71%).
+[14:22:10]: The current player count is 0.
+[14:27:10]: The TPS is 20.
+[14:27:10]: The current RAM usage is 2264MB / 3072MB (73.7%).
+[14:27:11]: The current player count is 0.
+[14:32:10]: The TPS is 20.
+[14:32:10]: The current RAM usage is 2459MB / 3072MB (80.05%).
+[14:32:10]: The current player count is 0.
+[14:37:10]: The TPS is 20.
+[14:37:10]: The current RAM usage is 2709MB / 3072MB (88.18%).
+[14:37:10]: The current player count is 0.
+[14:42:10]: The TPS is 20.
+[14:42:10]: The current RAM usage is 2163MB / 3072MB (70.41%).
+[14:42:10]: The current player count is 0.
+[14:47:10]: The TPS is 20.
+[14:47:10]: The current RAM usage is 2367MB / 3072MB (77.05%).
+[14:47:10]: The current player count is 0.
+[14:52:10]: The TPS is 20.
+[14:52:10]: The current RAM usage is 2532MB / 3072MB (82.42%).
+[14:52:10]: The current player count is 0.
+[14:57:10]: The TPS is 20.
+[14:57:10]: The current RAM usage is 2804MB / 3072MB (91.28%).
+[14:57:10]: The current player count is 0.
+[15:02:10]: The TPS is 20.
+[15:02:10]: The current RAM usage is 2215MB / 3072MB (72.1%).
+[15:02:10]: The current player count is 0.
+[15:07:10]: The TPS is 20.
+[15:07:10]: The current RAM usage is 2475MB / 3072MB (80.57%).
+[15:07:10]: The current player count is 0.
+[15:12:10]: The TPS is 20.
+[15:12:10]: The current RAM usage is 2638MB / 3072MB (85.87%).
+[15:12:10]: The current player count is 0.
+[15:17:10]: The TPS is 20.
+[15:17:10]: The current RAM usage is 2111MB / 3072MB (68.72%).
+[15:17:10]: The current player count is 0.
+[15:22:10]: The TPS is 20.
+[15:22:10]: The current RAM usage is 2312MB / 3072MB (75.26%).
+[15:22:10]: The current player count is 0.
+[15:27:10]: The TPS is 20.
+[15:27:10]: The current RAM usage is 2508MB / 3072MB (81.64%).
+[15:27:10]: The current player count is 0.
+[15:32:10]: The TPS is 20.
+[15:32:10]: The current RAM usage is 2726MB / 3072MB (88.74%).
+[15:32:10]: The current player count is 0.
+[15:37:10]: The TPS is 20.
+[15:37:10]: The current RAM usage is 2148MB / 3072MB (69.92%).
+[15:37:10]: The current player count is 0.
+[15:42:10]: The TPS is 20.
+[15:42:10]: The current RAM usage is 2438MB / 3072MB (79.36%).
+[15:42:10]: The current player count is 0.
+[15:47:10]: The TPS is 20.
+[15:47:10]: The current RAM usage is 2609MB / 3072MB (84.93%).
+[15:47:10]: The current player count is 0.
+[15:52:10]: The TPS is 20.
+[15:52:10]: The current RAM usage is 2068MB / 3072MB (67.32%).
+[15:52:10]: The current player count is 0.
+[15:57:10]: The TPS is 20.
+[15:57:10]: The current RAM usage is 2317MB / 3072MB (75.42%).
+[15:57:10]: The current player count is 0.
+[16:02:10]: The TPS is 20.
+[16:02:10]: The current RAM usage is 2613MB / 3072MB (85.06%).
+[16:02:10]: The current player count is 0.
+[16:07:10]: The TPS is 20.
+[16:07:10]: The current RAM usage is 2820MB / 3072MB (91.8%).
+[16:07:10]: The current player count is 0.
+[16:12:10]: The TPS is 20.
+[16:12:10]: The current RAM usage is 2297MB / 3072MB (74.77%).
+[16:12:10]: The current player count is 0.
+[16:17:10]: The TPS is 20.
+[16:17:10]: The current RAM usage is 2611MB / 3072MB (84.99%).
+[16:17:10]: The current player count is 0.
+[16:22:10]: The TPS is 20.
+[16:22:10]: The current RAM usage is 2866MB / 3072MB (93.29%).
+[16:22:10]: The current player count is 0.
+[16:27:10]: The TPS is 20.
+[16:27:10]: The current RAM usage is 2393MB / 3072MB (77.9%).
+[16:27:10]: The current player count is 0.
+[16:32:10]: The TPS is 20.
+[16:32:10]: The current RAM usage is 2587MB / 3072MB (84.21%).
+[16:32:10]: The current player count is 0.
+[16:37:10]: The TPS is 20.
+[16:37:10]: The current RAM usage is 2099MB / 3072MB (68.33%).
+[16:37:10]: The current player count is 0.
+[16:42:10]: The TPS is 20.
+[16:42:10]: The current RAM usage is 2338MB / 3072MB (76.11%).
+[16:42:10]: The current player count is 0.
+[16:47:10]: The TPS is 20.
+[16:47:10]: The current RAM usage is 2564MB / 3072MB (83.46%).
+[16:47:10]: The current player count is 0.
+[16:52:10]: The TPS is 20.
+[16:52:10]: The current RAM usage is 2766MB / 3072MB (90.04%).
+[16:52:10]: The current player count is 0.
+[16:57:10]: The TPS is 20.
+[16:57:10]: The current RAM usage is 2293MB / 3072MB (74.64%).
+[16:57:10]: The current player count is 0.
+[17:02:10]: The TPS is 20.
+[17:02:10]: The current RAM usage is 2545MB / 3072MB (82.85%).
+[17:02:10]: The current player count is 0.
+[17:07:10]: The TPS is 20.
+[17:07:10]: The current RAM usage is 2828MB / 3072MB (92.06%).
+[17:07:10]: The current player count is 0.
+[17:12:10]: The TPS is 20.
+[17:12:10]: The current RAM usage is 2360MB / 3072MB (76.82%).
+[17:12:10]: The current player count is 0.
+[17:17:10]: The TPS is 20.
+[17:17:10]: The current RAM usage is 2606MB / 3072MB (84.83%).
+[17:17:10]: The current player count is 0.
+[17:22:10]: The TPS is 20.
+[17:22:10]: The current RAM usage is 2119MB / 3072MB (68.98%).
+[17:22:10]: The current player count is 0.
+[17:27:10]: The TPS is 20.
+[17:27:10]: The current RAM usage is 2333MB / 3072MB (75.94%).
+[17:27:10]: The current player count is 0.
+[17:32:10]: The TPS is 20.
+[17:32:10]: The current RAM usage is 2614MB / 3072MB (85.09%).
+[17:32:10]: The current player count is 0.
+[17:37:10]: The TPS is 20.
+[17:37:10]: The current RAM usage is 2862MB / 3072MB (93.16%).
+[17:37:11]: The current player count is 0.
+[17:42:10]: The TPS is 20.
+[17:42:10]: The current RAM usage is 2439MB / 3072MB (79.39%).
+[17:42:10]: The current player count is 0.
+[17:47:10]: The TPS is 20.
+[17:47:10]: The current RAM usage is 2654MB / 3072MB (86.39%).
+[17:47:10]: The current player count is 0.
+[17:52:10]: The TPS is 20.
+[17:52:10]: The current RAM usage is 2146MB / 3072MB (69.86%).
+[17:52:10]: The current player count is 0.
+[17:57:10]: The TPS is 20.
+[17:57:10]: The current RAM usage is 2412MB / 3072MB (78.52%).
+[17:57:10]: The current player count is 0.
+[18:02:10]: The TPS is 20.
+[18:02:10]: The current RAM usage is 2755MB / 3072MB (89.68%).
+[18:02:10]: The current player count is 0.
+[18:07:10]: The TPS is 20.
+[18:07:10]: The current RAM usage is 2228MB / 3072MB (72.53%).
+[18:07:10]: The current player count is 0.
+[18:12:10]: The TPS is 20.
+[18:12:10]: The current RAM usage is 2474MB / 3072MB (80.53%).
+[18:12:10]: The current player count is 0.
+[18:17:10]: The TPS is 20.
+[18:17:10]: The current RAM usage is 2817MB / 3072MB (91.7%).
+[18:17:10]: The current player count is 0.
+[18:22:10]: The TPS is 20.
+[18:22:10]: The current RAM usage is 2297MB / 3072MB (74.77%).
+[18:22:10]: The current player count is 0.
+[18:27:10]: The TPS is 20.
+[18:27:10]: The current RAM usage is 2606MB / 3072MB (84.83%).
+[18:27:10]: The current player count is 0.
+[18:32:10]: The TPS is 20.
+[18:32:10]: The current RAM usage is 2824MB / 3072MB (91.93%).
+[18:32:10]: The current player count is 0.
+[18:37:10]: The TPS is 20.
+[18:37:10]: The current RAM usage is 2417MB / 3072MB (78.68%).
+[18:37:10]: The current player count is 0.
+[18:42:10]: The TPS is 20.
+[18:42:10]: The current RAM usage is 2661MB / 3072MB (86.62%).
+[18:42:10]: The current player count is 0.
+[18:47:10]: The TPS is 20.
+[18:47:10]: The current RAM usage is 2111MB / 3072MB (68.72%).
+[18:47:10]: The current player count is 0.
+[18:52:10]: The TPS is 20.
+[18:52:10]: The current RAM usage is 2352MB / 3072MB (76.56%).
+[18:52:10]: The current player count is 0.
+[18:57:10]: The TPS is 20.
+[18:57:10]: The current RAM usage is 2656MB / 3072MB (86.46%).
+[18:57:10]: The current player count is 0.
+[19:02:10]: The TPS is 20.
+[19:02:10]: The current RAM usage is 2205MB / 3072MB (71.78%).
+[19:02:10]: The current player count is 0.
+[19:07:10]: The TPS is 20.
+[19:07:10]: The current RAM usage is 2548MB / 3072MB (82.94%).
+[19:07:10]: The current player count is 0.
+[19:12:10]: The TPS is 20.
+[19:12:10]: The current RAM usage is 2101MB / 3072MB (68.39%).
+[19:12:10]: The current player count is 0.
+[19:17:10]: The TPS is 20.
+[19:17:10]: The current RAM usage is 2347MB / 3072MB (76.4%).
+[19:17:10]: The current player count is 0.
+[19:22:10]: The TPS is 20.
+[19:22:10]: The current RAM usage is 2673MB / 3072MB (87.01%).
+[19:22:10]: The current player count is 0.
+[19:27:10]: The TPS is 20.
+[19:27:10]: The current RAM usage is 2078MB / 3072MB (67.64%).
+[19:27:10]: The current player count is 0.
+[19:32:10]: The TPS is 20.
+[19:32:10]: The current RAM usage is 2380MB / 3072MB (77.47%).
+[19:32:10]: The current player count is 0.
+[19:37:10]: The TPS is 20.
+[19:37:10]: The current RAM usage is 2702MB / 3072MB (87.96%).
+[19:37:10]: The current player count is 0.
+[19:42:10]: The TPS is 20.
+[19:42:10]: The current RAM usage is 2231MB / 3072MB (72.62%).
+[19:42:10]: The current player count is 0.
+[19:47:10]: The TPS is 20.
+[19:47:10]: The current RAM usage is 2534MB / 3072MB (82.49%).
+[19:47:10]: The current player count is 0.
+[19:52:10]: The TPS is 20.
+[19:52:10]: The current RAM usage is 2080MB / 3072MB (67.71%).
+[19:52:11]: The current player count is 0.
+[19:57:10]: The TPS is 20.
+[19:57:10]: The current RAM usage is 2457MB / 3072MB (79.98%).
+[19:57:10]: The current player count is 0.
+[20:02:10]: The TPS is 20.
+[20:02:10]: The current RAM usage is 2719MB / 3072MB (88.51%).
+[20:02:10]: The current player count is 0.
+[20:07:10]: The TPS is 20.
+[20:07:10]: The current RAM usage is 2249MB / 3072MB (73.21%).
+[20:07:10]: The current player count is 0.
+[20:12:10]: The TPS is 20.
+[20:12:10]: The current RAM usage is 2479MB / 3072MB (80.7%).
+[20:12:10]: The current player count is 0.
+[20:17:10]: The TPS is 20.
+[20:17:10]: The current RAM usage is 2842MB / 3072MB (92.51%).
+[20:17:10]: The current player count is 0.
+[20:22:10]: The TPS is 20.
+[20:22:10]: The current RAM usage is 2350MB / 3072MB (76.5%).
+[20:22:10]: The current player count is 0.
+[20:27:10]: The TPS is 20.
+[20:27:10]: The current RAM usage is 2645MB / 3072MB (86.1%).
+[20:27:10]: The current player count is 0.
+[20:32:10]: The TPS is 20.
+[20:32:10]: The current RAM usage is 2097MB / 3072MB (68.26%).
+[20:32:10]: The current player count is 0.
+[20:37:10]: The TPS is 20.
+[20:37:10]: The current RAM usage is 2439MB / 3072MB (79.39%).
+[20:37:10]: The current player count is 0.
+[20:42:10]: The TPS is 20.
+[20:42:10]: The current RAM usage is 2777MB / 3072MB (90.4%).
+[20:42:10]: The current player count is 0.
+[20:47:10]: The TPS is 20.
+[20:47:10]: The current RAM usage is 2225MB / 3072MB (72.43%).
+[20:47:10]: The current player count is 0.
+[20:50:46]: Lhendy51 joined from the IP 73.154.195.184.
+[20:51:19]: Lhendy51 teleported to 151, 43, 76.
+[20:51:41]: Lhendy51 broke the block NETHERRACK at the location 150, 42, 72.
+[20:52:11]: The TPS is 20.
+[20:52:11]: The current RAM usage is 2078MB / 3072MB (67.64%).
+[20:52:11]: The current player count is 1.
+[20:52:44]: Lhendy51 teleported to 58, 74, -3.
+[20:53:49]: Lhendy51 picked up the item ARROW.
+[20:53:50]: Lhendy51 dropped the item ARROW.
+[20:53:51]: Lhendy51 dropped the item ARROW.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:52]: Lhendy51 teleported to 12, 100, -170.
+[20:54:53]: Lhendy51 teleported to 12, 100, -170.
+[20:54:53]: Lhendy51 teleported to 12, 100, -170.
+[20:54:53]: Lhendy51 teleported to 12, 100, -170.
+[20:54:53]: Lhendy51 teleported to 12, 100, -170.
+[20:54:53]: Lhendy51 teleported to 12, 100, -170.
+[20:54:53]: Lhendy51 teleported to 12, 100, -170.
+[20:54:55]: Lhendy51 teleported to 12, 108, -170.
+[20:54:55]: Lhendy51 teleported to 12, 108, -170.
+[20:57:12]: The TPS is 20.
+[20:57:12]: The current RAM usage is 2127MB / 3072MB (69.24%).
+[20:57:12]: The current player count is 1.
+[20:58:19]: Lhendy51 teleported to 397, 69, -135.
+[20:58:20]: Lhendy51 picked up the item BIRCH_BOAT.
+[20:59:23]: Lhendy51 placed the block GRASS_BLOCK at the location 324, 66, -256.
+[20:59:23]: Lhendy51 placed the block GRASS_BLOCK at the location 323, 66, -256.
+[20:59:24]: Lhendy51 placed the block GRASS_BLOCK at the location 327, 66, -256.
+[20:59:24]: Lhendy51 placed the block GRASS_BLOCK at the location 326, 66, -256.
+[20:59:24]: Lhendy51 placed the block GRASS_BLOCK at the location 325, 66, -256.
+[20:59:25]: Lhendy51 placed the block GRASS_BLOCK at the location 328, 66, -255.
+[20:59:25]: Lhendy51 placed the block GRASS_BLOCK at the location 327, 66, -255.
+[20:59:26]: Lhendy51 placed the block GRASS_BLOCK at the location 326, 66, -255.
+[20:59:27]: Lhendy51 placed the block GRASS_BLOCK at the location 331, 66, -256.
+[20:59:27]: Lhendy51 placed the block GRASS_BLOCK at the location 330, 66, -256.
+[20:59:27]: Lhendy51 placed the block GRASS_BLOCK at the location 329, 66, -256.
+[20:59:28]: Lhendy51 placed the block GRASS_BLOCK at the location 328, 66, -256.
+[20:59:28]: Lhendy51 placed the block GRASS_BLOCK at the location 332, 66, -255.
+[20:59:28]: Lhendy51 placed the block GRASS_BLOCK at the location 331, 66, -255.
+[20:59:29]: Lhendy51 placed the block GRASS_BLOCK at the location 330, 66, -255.
+[20:59:29]: Lhendy51 placed the block GRASS_BLOCK at the location 329, 66, -255.
+[20:59:29]: Lhendy51 placed the block GRASS_BLOCK at the location 332, 66, -256.
+[20:59:30]: Lhendy51 placed the block GRASS_BLOCK at the location 334, 66, -253.
+[20:59:31]: Lhendy51 placed the block GRASS_BLOCK at the location 334, 66, -254.
+[20:59:31]: Lhendy51 placed the block GRASS_BLOCK at the location 334, 66, -255.
+[20:59:31]: Lhendy51 placed the block GRASS_BLOCK at the location 333, 66, -253.
+[20:59:31]: Lhendy51 placed the block GRASS_BLOCK at the location 333, 66, -255.
+[20:59:32]: Lhendy51 placed the block GRASS_BLOCK at the location 333, 67, -255.
+[20:59:32]: Lhendy51 placed the block GRASS_BLOCK at the location 333, 66, -254.
+[20:59:33]: Lhendy51 broke the block GRASS_BLOCK at the location 333, 67, -255.
+[20:59:34]: Lhendy51 picked up the item GRASS_BLOCK.
+[20:59:36]: Lhendy51 placed the block DIRT at the location 330, 66, -254.
+[20:59:36]: Lhendy51 placed the block DIRT at the location 331, 66, -254.
+[20:59:37]: Lhendy51 placed the block DIRT at the location 332, 66, -254.
+[20:59:37]: Lhendy51 placed the block DIRT at the location 331, 66, -253.
+[20:59:37]: Lhendy51 placed the block DIRT at the location 332, 66, -253.
+[20:59:38]: Lhendy51 placed the block GRASS_BLOCK at the location 334, 66, -249.
+[20:59:38]: Lhendy51 placed the block GRASS_BLOCK at the location 334, 66, -250.
+[20:59:39]: Lhendy51 placed the block GRASS_BLOCK at the location 334, 66, -251.
+[20:59:40]: Lhendy51 placed the block DIRT at the location 333, 66, -251.
+[20:59:40]: Lhendy51 placed the block DIRT at the location 333, 66, -252.
+[20:59:40]: Lhendy51 placed the block DIRT at the location 334, 66, -252.
+[20:59:45]: Lhendy51 placed the block DIRT at the location 343, 66, -239.
+[20:59:46]: Lhendy51 placed the block DIRT at the location 343, 66, -240.
+[20:59:46]: Lhendy51 placed the block DIRT at the location 343, 66, -241.
+[20:59:46]: Lhendy51 placed the block DIRT at the location 343, 66, -242.
+[20:59:46]: Lhendy51 placed the block DIRT at the location 343, 66, -243.
+[20:59:47]: Lhendy51 placed the block DIRT at the location 343, 66, -244.
+[20:59:47]: Lhendy51 placed the block DIRT at the location 343, 66, -245.
+[20:59:47]: Lhendy51 placed the block DIRT at the location 343, 66, -247.
+[20:59:47]: Lhendy51 placed the block DIRT at the location 343, 66, -248.
+[20:59:48]: Lhendy51 placed the block DIRT at the location 343, 66, -249.
+[20:59:48]: Lhendy51 placed the block DIRT at the location 343, 66, -250.
+[20:59:48]: Lhendy51 placed the block DIRT at the location 343, 66, -251.
+[20:59:49]: Lhendy51 placed the block DIRT at the location 343, 66, -252.
+[20:59:50]: Lhendy51 placed the block DIRT at the location 343, 65, -253.
+[20:59:50]: Lhendy51 placed the block DIRT at the location 343, 66, -253.
+[20:59:51]: Lhendy51 placed the block DIRT at the location 343, 66, -246.
+[20:59:54]: Lhendy51 placed the block DIRT at the location 343, 65, -254.
+[20:59:54]: Lhendy51 placed the block DIRT at the location 343, 66, -254.
+[20:59:54]: Lhendy51 placed the block DIRT at the location 343, 65, -255.
+[20:59:55]: Lhendy51 placed the block DIRT at the location 343, 66, -255.
+[20:59:55]: Lhendy51 placed the block DIRT at the location 343, 65, -256.
+[20:59:55]: Lhendy51 placed the block DIRT at the location 343, 66, -256.
+[20:59:55]: Lhendy51 placed the block DIRT at the location 343, 65, -257.
+[20:59:56]: Lhendy51 placed the block DIRT at the location 343, 66, -257.
+[20:59:56]: Lhendy51 placed the block DIRT at the location 344, 65, -257.
+[20:59:56]: Lhendy51 placed the block DIRT at the location 343, 66, -258.
+[20:59:57]: Lhendy51 placed the block DIRT at the location 344, 65, -258.
+[20:59:58]: Lhendy51 placed the block DIRT at the location 343, 65, -258.
+[20:59:59]: Lhendy51 placed the block DIRT at the location 343, 65, -259.
+[21:00:00]: Lhendy51 placed the block DIRT at the location 343, 65, -260.
+[21:00:02]: Lhendy51 placed the block DIRT at the location 344, 65, -255.
+[21:00:02]: Lhendy51 placed the block DIRT at the location 344, 65, -256.
+[21:00:03]: Lhendy51 placed the block DIRT at the location 344, 65, -254.
+[21:00:04]: Lhendy51 placed the block DIRT at the location 345, 65, -255.
+[21:00:07]: Lhendy51 placed the block DIRT at the location 344, 65, -259.
+[21:00:08]: Lhendy51 placed the block DIRT at the location 343, 66, -259.
+[21:00:09]: Lhendy51 placed the block DIRT at the location 344, 65, -260.
+[21:00:18]: Lhendy51 placed the block DIRT at the location 309, 65, -254.
+[21:00:18]: Lhendy51 placed the block DIRT at the location 308, 65, -254.
+[21:00:18]: Lhendy51 placed the block DIRT at the location 308, 65, -255.
+[21:00:19]: Lhendy51 placed the block DIRT at the location 316, 65, -256.
+[21:00:20]: Lhendy51 placed the block DIRT at the location 315, 65, -256.
+[21:00:20]: Lhendy51 placed the block DIRT at the location 314, 65, -256.
+[21:00:20]: Lhendy51 placed the block DIRT at the location 313, 65, -256.
+[21:00:24]: Lhendy51 placed the block DIRT at the location 303, 64, -256.
+[21:00:25]: Lhendy51 placed the block DIRT at the location 302, 64, -256.
+[21:00:25]: Lhendy51 placed the block DIRT at the location 301, 64, -256.
+[21:00:25]: Lhendy51 placed the block DIRT at the location 300, 64, -256.
+[21:00:26]: Lhendy51 placed the block DIRT at the location 299, 64, -256.
+[21:00:53]: Lhendy51 broke the block DIRT at the location 214, 73, -257.
+[21:00:53]: Lhendy51 broke the block DIRT at the location 215, 73, -257.
+[21:00:53]: Lhendy51 broke the block DIRT at the location 216, 73, -257.
+[21:00:53]: Lhendy51 broke the block DIRT at the location 217, 73, -257.
+[21:00:54]: Lhendy51 picked up the item DIRT.
+[21:00:54]: Lhendy51 broke the block DIRT at the location 213, 73, -257.
+[21:00:54]: Lhendy51 broke the block DIRT at the location 212, 73, -257.
+[21:00:54]: Lhendy51 broke the block DIRT at the location 211, 73, -257.
+[21:00:55]: Lhendy51 broke the block DIRT at the location 210, 72, -258.
+[21:00:55]: Lhendy51 broke the block DIRT at the location 210, 71, -258.
+[21:00:56]: Lhendy51 broke the block DIRT at the location 211, 72, -257.
+[21:00:57]: Lhendy51 picked up the item DIRT.
+[21:00:59]: Lhendy51 placed the block DIRT at the location 210, 71, -258.
+[21:00:59]: Lhendy51 placed the block DIRT at the location 210, 72, -258.
+[21:01:00]: Lhendy51 picked up the item DIRT.
+[21:01:01]: Lhendy51 picked up the item DIRT.
+[21:01:04]: Lhendy51 broke the block DIRT at the location 209, 73, -264.
+[21:01:04]: Lhendy51 broke the block DIRT at the location 210, 73, -264.
+[21:01:04]: Lhendy51 broke the block DIRT at the location 211, 73, -264.
+[21:01:04]: Lhendy51 broke the block DIRT at the location 212, 73, -264.
+[21:01:05]: Lhendy51 broke the block DIRT at the location 213, 73, -264.
+[21:01:05]: Lhendy51 broke the block DIRT at the location 214, 73, -264.
+[21:01:05]: Lhendy51 picked up the item DIRT.
+[21:01:05]: Lhendy51 broke the block DIRT at the location 215, 73, -264.
+[21:01:05]: Lhendy51 picked up the item DIRT.
+[21:01:06]: Lhendy51 picked up the item DIRT.
+[21:01:06]: Lhendy51 broke the block DIRT at the location 216, 73, -264.
+[21:01:07]: Lhendy51 picked up the item DIRT.
+[21:01:13]: Lhendy51 broke the block DIRT at the location 217, 73, -264.
+[21:01:15]: Lhendy51 picked up the item DIRT.
+[21:02:11]: The TPS is 20.
+[21:02:11]: The current RAM usage is 2351MB / 3072MB (76.53%).
+[21:02:11]: The current player count is 1.
+[21:03:32]: Lhendy51 placed the block ENDER_CHEST at the location 208, 74, -254.
+[21:03:36]: Lhendy51 placed the block PURPLE_BED at the location 208, 74, -253.
+[21:03:45]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 64, -263.
+[21:03:45]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 64, -262.
+[21:03:45]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 65, -261.
+[21:03:46]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 66, -260.
+[21:03:48]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 67, -258.
+[21:03:49]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 67, -259.
+[21:03:51]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 65, -263.
+[21:03:51]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 65, -262.
+[21:03:52]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 66, -263.
+[21:03:53]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 66, -261.
+[21:03:53]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 66, -262.
+[21:03:54]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 67, -260.
+[21:03:54]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 67, -261.
+[21:03:55]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 67, -263.
+[21:03:57]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 67, -262.
+[21:04:40]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 68, -263.
+[21:04:41]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 68, -261.
+[21:04:41]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 68, -262.
+[21:04:42]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 68, -258.
+[21:04:42]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 68, -259.
+[21:04:43]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 68, -260.
+[21:04:43]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 69, -261.
+[21:04:44]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 69, -258.
+[21:04:44]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 69, -259.
+[21:04:44]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 69, -260.
+[21:04:45]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 69, -262.
+[21:04:46]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 69, -263.
+[21:04:48]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 72, -263.
+[21:04:49]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 70, -263.
+[21:04:49]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -263.
+[21:04:50]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 72, -262.
+[21:04:50]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -262.
+[21:04:51]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 70, -262.
+[21:04:52]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 72, -261.
+[21:04:55]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 72, -258.
+[21:04:56]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 72, -259.
+[21:04:56]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 72, -260.
+[21:04:57]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 70, -259.
+[21:04:58]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -258.
+[21:04:58]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 70, -258.
+[21:04:59]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -259.
+[21:05:00]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 70, -260.
+[21:05:01]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -260.
+[21:05:04]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -261.
+[21:05:04]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 70, -261.
+[21:05:15]: Lhendy51 placed the block STONE_BRICKS at the location 217, 63, -264.
+[21:05:15]: Lhendy51 placed the block STONE_BRICKS at the location 216, 63, -264.
+[21:05:16]: Lhendy51 placed the block STONE_BRICKS at the location 217, 64, -264.
+[21:05:16]: Lhendy51 placed the block STONE_BRICKS at the location 216, 64, -264.
+[21:05:17]: Lhendy51 placed the block STONE_BRICKS at the location 217, 65, -264.
+[21:05:18]: Lhendy51 placed the block STONE_BRICKS at the location 216, 65, -264.
+[21:05:19]: Lhendy51 placed the block STONE_BRICKS at the location 217, 66, -264.
+[21:05:19]: Lhendy51 placed the block STONE_BRICKS at the location 216, 66, -264.
+[21:05:20]: Lhendy51 placed the block STONE_BRICKS at the location 217, 67, -264.
+[21:05:20]: Lhendy51 placed the block STONE_BRICKS at the location 216, 67, -264.
+[21:05:20]: Lhendy51 placed the block STONE_BRICKS at the location 217, 68, -264.
+[21:05:21]: Lhendy51 placed the block STONE_BRICKS at the location 216, 68, -264.
+[21:05:21]: Lhendy51 placed the block STONE_BRICKS at the location 217, 69, -264.
+[21:05:21]: Lhendy51 placed the block STONE_BRICKS at the location 216, 69, -264.
+[21:05:22]: Lhendy51 placed the block STONE_BRICKS at the location 217, 70, -264.
+[21:05:22]: Lhendy51 placed the block STONE_BRICKS at the location 216, 70, -264.
+[21:05:24]: Lhendy51 placed the block STONE_BRICKS at the location 217, 73, -264.
+[21:05:24]: Lhendy51 placed the block STONE_BRICKS at the location 216, 73, -264.
+[21:05:28]: Lhendy51 placed the block STONE_BRICKS at the location 217, 72, -264.
+[21:05:29]: Lhendy51 placed the block STONE_BRICKS at the location 217, 71, -264.
+[21:05:30]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -264.
+[21:05:30]: Lhendy51 placed the block STONE_BRICKS at the location 216, 71, -264.
+[21:05:35]: Lhendy51 placed the block STONE_BRICKS at the location 217, 73, -257.
+[21:05:36]: Lhendy51 placed the block STONE_BRICKS at the location 216, 73, -257.
+[21:05:37]: Lhendy51 placed the block STONE_BRICKS at the location 217, 72, -257.
+[21:05:37]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -257.
+[21:05:38]: Lhendy51 placed the block STONE_BRICKS at the location 217, 71, -257.
+[21:05:38]: Lhendy51 placed the block STONE_BRICKS at the location 216, 71, -257.
+[21:05:39]: Lhendy51 placed the block STONE_BRICKS at the location 217, 67, -257.
+[21:05:39]: Lhendy51 placed the block STONE_BRICKS at the location 216, 68, -257.
+[21:05:40]: Lhendy51 placed the block STONE_BRICKS at the location 217, 68, -257.
+[21:05:40]: Lhendy51 placed the block STONE_BRICKS at the location 217, 69, -257.
+[21:05:40]: Lhendy51 placed the block STONE_BRICKS at the location 216, 69, -257.
+[21:05:41]: Lhendy51 placed the block STONE_BRICKS at the location 217, 70, -257.
+[21:05:41]: Lhendy51 placed the block STONE_BRICKS at the location 216, 70, -257.
+[21:05:46]: Lhendy51 placed the block STONE_BRICKS at the location 215, 73, -257.
+[21:05:46]: Lhendy51 placed the block STONE_BRICKS at the location 213, 73, -257.
+[21:05:47]: Lhendy51 broke the block GRASS at the location 212, 73, -256.
+[21:05:47]: Lhendy51 placed the block STONE_BRICKS at the location 211, 73, -257.
+[21:05:47]: Lhendy51 picked up the item WHEAT_SEEDS.
+[21:05:48]: Lhendy51 placed the block STONE_BRICKS at the location 212, 73, -257.
+[21:05:49]: Lhendy51 dropped the item WHEAT_SEEDS.
+[21:05:51]: Lhendy51 placed the block STONE_BRICKS at the location 214, 73, -257.
+[21:05:55]: Lhendy51 placed the block STONE_BRICKS at the location 209, 73, -264.
+[21:05:57]: Lhendy51 placed the block STONE_BRICKS at the location 215, 73, -264.
+[21:05:57]: Lhendy51 placed the block STONE_BRICKS at the location 214, 73, -264.
+[21:06:02]: Lhendy51 placed the block STONE_BRICKS at the location 213, 73, -264.
+[21:06:02]: Lhendy51 placed the block STONE_BRICKS at the location 212, 73, -264.
+[21:06:03]: Lhendy51 placed the block STONE_BRICKS at the location 211, 73, -264.
+[21:06:03]: Lhendy51 placed the block STONE_BRICKS at the location 210, 73, -264.
+[21:06:08]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 215, 72, -258.
+[21:06:08]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 215, 72, -259.
+[21:06:08]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 215, 72, -260.
+[21:06:09]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 215, 72, -261.
+[21:06:10]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 215, 72, -263.
+[21:06:10]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 215, 72, -262.
+[21:06:11]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 214, 72, -263.
+[21:06:11]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 214, 72, -262.
+[21:06:11]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 214, 72, -261.
+[21:06:12]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 214, 72, -258.
+[21:06:12]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 214, 72, -259.
+[21:06:12]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 214, 72, -260.
+[21:06:13]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 213, 72, -258.
+[21:06:13]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 213, 72, -259.
+[21:06:13]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 213, 72, -260.
+[21:06:13]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 213, 72, -261.
+[21:06:14]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 213, 72, -263.
+[21:06:14]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 213, 72, -262.
+[21:06:18]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 211, 72, -258.
+[21:06:18]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 212, 72, -258.
+[21:06:18]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 211, 72, -259.
+[21:06:18]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 212, 72, -259.
+[21:06:19]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 210, 72, -260.
+[21:06:19]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 211, 72, -260.
+[21:06:19]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 212, 72, -260.
+[21:06:21]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 210, 72, -261.
+[21:06:21]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 211, 72, -261.
+[21:06:21]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 212, 72, -261.
+[21:06:22]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 210, 72, -263.
+[21:06:22]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 209, 72, -262.
+[21:06:24]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 210, 72, -262.
+[21:06:24]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 211, 72, -263.
+[21:06:24]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 212, 72, -263.
+[21:06:25]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 212, 72, -262.
+[21:06:25]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 211, 72, -262.
+[21:06:26]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 209, 72, -263.
+[21:06:33]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 72, -263.
+[21:06:33]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 72, -262.
+[21:06:34]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 71, -261.
+[21:06:35]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 72, -261.
+[21:06:38]: Lhendy51 placed the block STONE_BRICK_WALL at the location 216, 71, -261.
+[21:06:40]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 72, -260.
+[21:06:40]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 72, -259.
+[21:06:41]: Lhendy51 broke the block STONE_BRICK_WALL at the location 216, 72, -258.
+[21:06:43]: Lhendy51 picked up the item STONE_BRICK_WALL.
+[21:06:45]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -258.
+[21:06:46]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -259.
+[21:06:47]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -263.
+[21:06:47]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -262.
+[21:06:47]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -261.
+[21:06:48]: Lhendy51 placed the block STONE_BRICKS at the location 216, 72, -260.
+[21:07:11]: Lhendy51 broke the block DIRT at the location 237, 62, -264.
+[21:07:11]: The TPS is 20.
+[21:07:11]: The current RAM usage is 2185MB / 3072MB (71.13%).
+[21:07:11]: The current player count is 1.
+[21:07:11]: Lhendy51 picked up the item DIRT.
+[21:07:11]: Lhendy51 broke the block DIRT at the location 236, 62, -264.
+[21:07:11]: Lhendy51 broke the block DIRT at the location 235, 62, -264.
+[21:07:12]: Lhendy51 picked up the item DIRT.
+[21:07:12]: Lhendy51 picked up the item DIRT.
+[21:07:12]: Lhendy51 broke the block DIRT at the location 234, 62, -264.
+[21:07:12]: Lhendy51 broke the block DIRT at the location 233, 62, -264.
+[21:07:12]: Lhendy51 broke the block SAND at the location 233, 61, -264.
+[21:07:12]: Lhendy51 broke the block SAND at the location 232, 61, -264.
+[21:07:12]: Lhendy51 broke the block DIRT at the location 232, 62, -264.
+[21:07:12]: Lhendy51 broke the block DIRT at the location 231, 62, -264.
+[21:07:12]: Lhendy51 picked up the item DIRT.
+[21:07:12]: Lhendy51 picked up the item SAND.
+[21:07:13]: Lhendy51 broke the block DIRT at the location 230, 62, -264.
+[21:07:13]: Lhendy51 broke the block DIRT at the location 229, 62, -264.
+[21:07:13]: Lhendy51 broke the block DIRT at the location 228, 62, -264.
+[21:07:13]: Lhendy51 broke the block DIRT at the location 227, 62, -264.
+[21:07:14]: Lhendy51 broke the block DIRT at the location 226, 62, -264.
+[21:07:14]: Lhendy51 broke the block DIRT at the location 225, 62, -264.
+[21:07:15]: Lhendy51 broke the block DIRT at the location 224, 62, -264.
+[21:07:15]: Lhendy51 picked up the item DIRT.
+[21:07:15]: Lhendy51 picked up the item DIRT.
+[21:07:15]: Lhendy51 broke the block DIRT at the location 223, 62, -264.
+[21:07:15]: Lhendy51 picked up the item DIRT.
+[21:07:16]: Lhendy51 broke the block DIRT at the location 222, 62, -264.
+[21:07:16]: Lhendy51 picked up the item DIRT.
+[21:07:16]: Lhendy51 broke the block DIRT at the location 221, 62, -264.
+[21:07:16]: Lhendy51 picked up the item DIRT.
+[21:07:16]: Lhendy51 broke the block DIRT at the location 220, 62, -264.
+[21:07:17]: Lhendy51 picked up the item DIRT.
+[21:07:22]: Lhendy51 broke the block DIRT at the location 221, 62, -257.
+[21:07:22]: Lhendy51 broke the block DIRT at the location 221, 60, -257.
+[21:07:22]: Lhendy51 picked up the item DIRT.
+[21:07:23]: Lhendy51 picked up the item DIRT.
+[21:07:26]: Lhendy51 broke the block DIRT at the location 223, 62, -257.
+[21:07:27]: Lhendy51 broke the block DIRT at the location 224, 62, -257.
+[21:07:27]: Lhendy51 picked up the item DIRT.
+[21:07:27]: Lhendy51 broke the block DIRT at the location 222, 62, -257.
+[21:07:27]: Lhendy51 broke the block DIRT at the location 225, 62, -257.
+[21:07:27]: Lhendy51 broke the block DIRT at the location 226, 62, -257.
+[21:07:28]: Lhendy51 broke the block DIRT at the location 227, 62, -257.
+[21:07:28]: Lhendy51 broke the block DIRT at the location 228, 62, -257.
+[21:07:29]: Lhendy51 broke the block DIRT at the location 229, 62, -257.
+[21:07:29]: Lhendy51 broke the block DIRT at the location 230, 62, -257.
+[21:07:30]: Lhendy51 broke the block DIRT at the location 231, 62, -257.
+[21:07:30]: Lhendy51 broke the block DIRT at the location 232, 62, -257.
+[21:07:31]: Lhendy51 picked up the item DIRT.
+[21:07:33]: Lhendy51 broke the block DIRT at the location 233, 62, -257.
+[21:07:34]: Lhendy51 broke the block DIRT at the location 234, 62, -257.
+[21:07:34]: Lhendy51 broke the block DIRT at the location 235, 62, -257.
+[21:07:34]: Lhendy51 broke the block DIRT at the location 236, 62, -257.
+[21:07:35]: Lhendy51 broke the block DIRT at the location 237, 62, -257.
+[21:07:35]: Lhendy51 broke the block DIRT at the location 238, 62, -257.
+[21:07:36]: Lhendy51 picked up the item DIRT.
+[21:07:36]: Lhendy51 picked up the item DIRT.
+[21:07:37]: Lhendy51 picked up the item DIRT.
+[21:07:50]: Lhendy51 broke the block WHITE_CONCRETE at the location 239, 62, -257.
+[21:07:50]: Lhendy51 picked up the item WHITE_CONCRETE.
+[21:08:06]: Lhendy51 placed the block DIRT at the location 252, 61, -256.
+[21:08:06]: Lhendy51 placed the block DIRT at the location 253, 61, -256.
+[21:08:07]: Lhendy51 placed the block DIRT at the location 257, 61, -256.
+[21:08:08]: Lhendy51 placed the block DIRT at the location 256, 61, -256.
+[21:08:08]: Lhendy51 placed the block DIRT at the location 255, 61, -256.
+[21:08:10]: Lhendy51 broke the block DIRT at the location 255, 61, -256.
+[21:08:11]: Lhendy51 picked up the item DIRT.
+[21:08:15]: Lhendy51 broke the block GRASS at the location 253, 64, -253.
+[21:08:30]: Lhendy51 placed the block DIRT at the location 253, 62, -256.
+[21:08:31]: Lhendy51 placed the block DIRT at the location 252, 62, -256.
+[21:08:31]: Lhendy51 placed the block DIRT at the location 256, 62, -256.
+[21:08:32]: Lhendy51 placed the block DIRT at the location 255, 62, -256.
+[21:08:32]: Lhendy51 placed the block DIRT at the location 254, 62, -256.
+[21:08:33]: Lhendy51 placed the block DIRT at the location 258, 62, -254.
+[21:08:33]: Lhendy51 placed the block DIRT at the location 258, 62, -255.
+[21:08:33]: Lhendy51 placed the block DIRT at the location 258, 62, -256.
+[21:08:34]: Lhendy51 placed the block DIRT at the location 257, 62, -254.
+[21:08:34]: Lhendy51 placed the block DIRT at the location 257, 62, -256.
+[21:08:34]: Lhendy51 placed the block DIRT at the location 257, 63, -256.
+[21:08:34]: Lhendy51 placed the block DIRT at the location 257, 62, -255.
+[21:08:35]: Lhendy51 broke the block DIRT at the location 257, 63, -256.
+[21:08:36]: Lhendy51 picked up the item DIRT.
+[21:08:36]: Lhendy51 placed the block DIRT at the location 256, 62, -252.
+[21:08:37]: Lhendy51 placed the block DIRT at the location 256, 62, -253.
+[21:08:37]: Lhendy51 placed the block DIRT at the location 257, 62, -252.
+[21:08:37]: Lhendy51 placed the block DIRT at the location 257, 62, -253.
+[21:08:38]: Lhendy51 placed the block DIRT at the location 256, 62, -254.
+[21:08:38]: Lhendy51 placed the block DIRT at the location 255, 62, -255.
+[21:08:39]: Lhendy51 placed the block DIRT at the location 256, 62, -255.
+[21:08:40]: Lhendy51 placed the block DIRT at the location 251, 62, -255.
+[21:08:41]: Lhendy51 placed the block DIRT at the location 252, 62, -255.
+[21:08:41]: Lhendy51 placed the block DIRT at the location 253, 62, -255.
+[21:08:41]: Lhendy51 placed the block DIRT at the location 254, 62, -255.
+[21:08:42]: Lhendy51 placed the block DIRT at the location 251, 62, -254.
+[21:08:42]: Lhendy51 placed the block DIRT at the location 252, 62, -254.
+[21:08:43]: Lhendy51 placed the block DIRT at the location 253, 62, -254.
+[21:08:43]: Lhendy51 placed the block DIRT at the location 255, 62, -254.
+[21:08:44]: Lhendy51 placed the block DIRT at the location 255, 62, -253.
+[21:08:45]: Lhendy51 placed the block DIRT at the location 254, 62, -252.
+[21:08:45]: Lhendy51 placed the block DIRT at the location 254, 62, -253.
+[21:08:46]: Lhendy51 placed the block DIRT at the location 254, 62, -254.
+[21:08:46]: Lhendy51 placed the block DIRT at the location 252, 62, -253.
+[21:08:47]: Lhendy51 placed the block DIRT at the location 253, 62, -253.
+[21:08:49]: Lhendy51 placed the block DIRT at the location 254, 63, -252.
+[21:09:35]: Lhendy51 broke the block PURPLE_BED at the location 208, 74, -253.
+[21:09:35]: Lhendy51 picked up the item PURPLE_BED.
+[21:09:39]: Lhendy51 broke the block ENDER_CHEST at the location 208, 74, -254.
+[21:09:39]: Lhendy51 picked up the item ENDER_CHEST.
+[21:09:50]: Lhendy51 placed the block STONE_BRICKS at the location 237, 63, -265.
+[21:09:52]: Lhendy51 broke the block STONE_BRICKS at the location 237, 63, -265.
+[21:09:53]: Lhendy51 picked up the item STONE_BRICKS.
+[21:09:55]: Lhendy51 placed the block STONE_BRICKS at the location 237, 62, -264.
+[21:09:55]: Lhendy51 placed the block STONE_BRICKS at the location 236, 62, -264.
+[21:09:56]: Lhendy51 placed the block STONE_BRICKS at the location 235, 62, -264.
+[21:09:57]: Lhendy51 placed the block STONE_BRICKS at the location 234, 62, -264.
+[21:10:03]: Lhendy51 picked up the item INK_SAC.
+[21:10:05]: Lhendy51 placed the block STONE_BRICKS at the location 233, 62, -264.
+[21:10:05]: Lhendy51 placed the block STONE_BRICKS at the location 232, 62, -264.
+[21:10:05]: Lhendy51 placed the block STONE_BRICKS at the location 231, 62, -264.
+[21:10:06]: Lhendy51 placed the block STONE_BRICKS at the location 230, 62, -264.
+[21:10:06]: Lhendy51 placed the block STONE_BRICKS at the location 229, 62, -264.
+[21:10:06]: Lhendy51 placed the block STONE_BRICKS at the location 228, 62, -264.
+[21:10:06]: Lhendy51 placed the block STONE_BRICKS at the location 227, 62, -264.
+[21:10:08]: Lhendy51 placed the block STONE_BRICKS at the location 220, 62, -264.
+[21:10:08]: Lhendy51 placed the block STONE_BRICKS at the location 221, 62, -264.
+[21:10:08]: Lhendy51 placed the block STONE_BRICKS at the location 222, 62, -264.
+[21:10:09]: Lhendy51 placed the block STONE_BRICKS at the location 226, 62, -264.
+[21:10:09]: Lhendy51 placed the block STONE_BRICKS at the location 225, 62, -264.
+[21:10:10]: Lhendy51 placed the block STONE_BRICKS at the location 223, 62, -264.
+[21:10:10]: Lhendy51 placed the block STONE_BRICKS at the location 224, 62, -264.
+[21:10:11]: Lhendy51 picked up the item DIRT.
+[21:10:12]: Lhendy51 picked up the item DIRT.
+[21:10:17]: Lhendy51 placed the block STONE_BRICKS at the location 239, 62, -257.
+[21:10:17]: Lhendy51 placed the block STONE_BRICKS at the location 238, 62, -257.
+[21:10:18]: Lhendy51 placed the block STONE_BRICKS at the location 237, 62, -257.
+[21:10:19]: Lhendy51 placed the block STONE_BRICKS at the location 235, 62, -257.
+[21:10:19]: Lhendy51 placed the block STONE_BRICKS at the location 236, 62, -257.
+[21:10:20]: Lhendy51 placed the block STONE_BRICKS at the location 231, 62, -257.
+[21:10:20]: Lhendy51 placed the block STONE_BRICKS at the location 233, 62, -257.
+[21:10:21]: Lhendy51 placed the block STONE_BRICKS at the location 234, 62, -257.
+[21:10:21]: Lhendy51 placed the block STONE_BRICKS at the location 232, 62, -257.
+[21:10:26]: Lhendy51 placed the block STONE_BRICKS at the location 230, 62, -257.
+[21:10:26]: Lhendy51 placed the block STONE_BRICKS at the location 229, 62, -257.
+[21:10:26]: Lhendy51 placed the block STONE_BRICKS at the location 228, 62, -257.
+[21:10:26]: Lhendy51 placed the block STONE_BRICKS at the location 227, 62, -257.
+[21:10:27]: Lhendy51 placed the block STONE_BRICKS at the location 226, 62, -257.
+[21:10:27]: Lhendy51 placed the block STONE_BRICKS at the location 225, 62, -257.
+[21:10:27]: Lhendy51 placed the block STONE_BRICKS at the location 224, 62, -257.
+[21:10:27]: Lhendy51 placed the block STONE_BRICKS at the location 223, 62, -257.
+[21:10:28]: Lhendy51 placed the block STONE_BRICKS at the location 222, 62, -257.
+[21:10:30]: Lhendy51 placed the block STONE_BRICKS at the location 221, 62, -257.
+[21:10:36]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -258.
+[21:10:37]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 221, 61, -258.
+[21:10:37]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 223, 61, -258.
+[21:10:38]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 222, 61, -258.
+[21:10:38]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -258.
+[21:10:39]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 225, 61, -258.
+[21:10:39]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 224, 61, -258.
+[21:10:45]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 233, 61, -258.
+[21:10:45]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 232, 61, -258.
+[21:10:47]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 227, 61, -258.
+[21:10:47]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 228, 61, -258.
+[21:10:47]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 229, 61, -258.
+[21:10:47]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 230, 61, -258.
+[21:10:48]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 231, 61, -258.
+[21:10:49]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 233, 61, -260.
+[21:10:50]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 233, 61, -259.
+[21:10:53]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 231, 61, -263.
+[21:10:54]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 232, 61, -262.
+[21:10:54]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 232, 61, -261.
+[21:10:55]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 232, 61, -259.
+[21:10:55]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 232, 61, -260.
+[21:10:56]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 231, 61, -259.
+[21:10:56]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 231, 61, -260.
+[21:10:56]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 231, 61, -261.
+[21:10:56]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 231, 61, -262.
+[21:10:57]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 230, 61, -263.
+[21:10:57]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 230, 61, -262.
+[21:10:58]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 230, 61, -260.
+[21:10:58]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 230, 61, -261.
+[21:10:59]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 230, 61, -259.
+[21:10:59]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 229, 61, -259.
+[21:11:00]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 228, 61, -259.
+[21:11:00]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 228, 61, -260.
+[21:11:00]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 229, 61, -260.
+[21:11:01]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 229, 61, -261.
+[21:11:01]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 228, 61, -261.
+[21:11:01]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 229, 61, -262.
+[21:11:01]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 228, 61, -262.
+[21:11:02]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 229, 61, -263.
+[21:11:02]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 228, 61, -263.
+[21:11:03]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 227, 61, -259.
+[21:11:03]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 227, 61, -260.
+[21:11:03]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 227, 61, -262.
+[21:11:04]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 227, 61, -263.
+[21:11:05]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 227, 61, -261.
+[21:11:06]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -259.
+[21:11:06]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -260.
+[21:11:06]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -261.
+[21:11:06]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -261.
+[21:11:07]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -262.
+[21:11:07]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -263.
+[21:11:10]: Lhendy51 broke the block STONE_BRICK_SLAB at the location 226, 61, -261.
+[21:11:11]: Lhendy51 picked up the item STONE_BRICK_SLAB.
+[21:11:12]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 226, 61, -261.
+[21:11:13]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 225, 61, -259.
+[21:11:13]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 225, 61, -260.
+[21:11:14]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 225, 61, -261.
+[21:11:15]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 224, 61, -263.
+[21:11:15]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 224, 61, -262.
+[21:11:16]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 225, 61, -263.
+[21:11:16]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 225, 61, -262.
+[21:11:17]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 224, 61, -259.
+[21:11:17]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 224, 61, -260.
+[21:11:17]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 224, 61, -261.
+[21:11:18]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 221, 61, -263.
+[21:11:20]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -263.
+[21:11:20]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 222, 61, -263.
+[21:11:20]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 223, 61, -263.
+[21:11:33]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -259.
+[21:11:33]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -260.
+[21:11:34]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -262.
+[21:11:34]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -261.
+[21:11:34]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 221, 61, -262.
+[21:11:35]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 221, 61, -261.
+[21:11:35]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 221, 61, -260.
+[21:11:35]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 221, 61, -259.
+[21:11:36]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 222, 61, -259.
+[21:11:36]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 223, 61, -259.
+[21:11:37]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 223, 61, -260.
+[21:11:37]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 222, 61, -260.
+[21:11:38]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 223, 61, -262.
+[21:11:38]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 222, 61, -262.
+[21:11:38]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 222, 61, -261.
+[21:11:39]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 223, 61, -261.
+[21:11:47]: Lhendy51 placed the block STONE_BRICKS at the location 218, 61, -264.
+[21:11:47]: Lhendy51 placed the block STONE_BRICKS at the location 220, 61, -264.
+[21:11:48]: Lhendy51 placed the block STONE_BRICKS at the location 219, 61, -264.
+[21:11:50]: Lhendy51 broke the block STONE_BRICKS at the location 220, 61, -264.
+[21:11:50]: Lhendy51 picked up the item STONE_BRICKS.
+[21:11:54]: Lhendy51 placed the block STONE_BRICKS at the location 217, 61, -264.
+[21:11:58]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -258.
+[21:11:58]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -259.
+[21:11:59]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -260.
+[21:12:00]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -261.
+[21:12:00]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -262.
+[21:12:01]: Lhendy51 placed the block STONE_BRICK_SLAB at the location 220, 61, -263.
+[21:12:11]: The TPS is 20.
+[21:12:11]: The current RAM usage is 2817MB / 3072MB (91.7%).
+[21:12:11]: The current player count is 1.
+[21:12:31]: Lhendy51 broke the block STONE_BRICK_SLAB at the location 225, 61, -260.
+[21:12:32]: Lhendy51 broke the block STONE_BRICK_SLAB at the location 225, 61, -261.
+[21:12:32]: Lhendy51 picked up the item STONE_BRICK_SLAB.
+[21:12:32]: Lhendy51 picked up the item STONE_BRICK_SLAB.
+[21:12:42]: Lhendy51 placed the block STONE_BRICKS at the location 225, 61, -261.
+[21:12:42]: Lhendy51 placed the block STONE_BRICKS at the location 225, 61, -260.
+[21:12:45]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 60, -260.
+[21:12:45]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 60, -261.
+[21:12:46]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 59, -260.
+[21:12:46]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 59, -261.
+[21:12:46]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 58, -260.
+[21:12:47]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 58, -261.
+[21:12:48]: Lhendy51 placed the block STONE_BRICK_WALL at the location 226, 58, -260.
+[21:12:51]: Lhendy51 broke the block STONE_BRICK_WALL at the location 226, 58, -260.
+[21:12:51]: Lhendy51 picked up the item STONE_BRICK_WALL.
+[21:12:53]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 57, -261.
+[21:12:59]: Lhendy51 placed the block STONECUTTER at the location 237, 62, -253.
+[21:13:05]: Lhendy51 broke the block STONECUTTER at the location 237, 62, -253.
+[21:13:05]: Lhendy51 picked up the item STONECUTTER.
+[21:13:10]: Lhendy51 placed the block STONE_BRICK_WALL at the location 225, 57, -260.
+[21:13:15]: Lhendy51 placed the block STONE_BRICK_STAIRS at the location 225, 56, -262.
+[21:13:18]: Lhendy51 placed the block STONE_BRICK_STAIRS at the location 225, 56, -259.
+[21:13:19]: Lhendy51 placed the block STONE_BRICKS at the location 225, 56, -261.
+[21:13:20]: Lhendy51 placed the block STONE_BRICKS at the location 225, 56, -260.
+[21:13:24]: Lhendy51 broke the block STONE_BRICK_SLAB at the location 225, 61, -262.
+[21:13:24]: Lhendy51 picked up the item STONE_BRICK_SLAB.
+[21:13:26]: Lhendy51 placed the block STONE_BRICK_STAIRS at the location 225, 61, -262.
+[21:13:30]: Lhendy51 broke the block STONE_BRICK_SLAB at the location 225, 61, -259.
+[21:13:32]: Lhendy51 placed the block STONE_BRICK_STAIRS at the location 225, 61, -259.
+[21:13:35]: Lhendy51 picked up the item STONE_BRICK_SLAB.
+[21:14:00]: Lhendy51 dropped the item SAND.
+[21:14:47]: Lhendy51 placed the block ENDER_CHEST at the location 113, 71, -252.
+[21:14:49]: Lhendy51 placed the block PURPLE_BED at the location 114, 71, -251.
+[21:14:55]: Lhendy51 placed the block DIRT at the location 113, 71, -256.
+[21:14:55]: Lhendy51 placed the block DIRT at the location 114, 71, -256.
+[21:14:55]: Lhendy51 placed the block DIRT at the location 115, 71, -256.
+[21:14:55]: Lhendy51 placed the block DIRT at the location 116, 71, -256.
+[21:14:56]: Lhendy51 placed the block DIRT at the location 117, 71, -256.
+[21:14:56]: Lhendy51 placed the block DIRT at the location 118, 71, -256.
+[21:14:56]: Lhendy51 placed the block DIRT at the location 119, 71, -256.
+[21:14:56]: Lhendy51 placed the block DIRT at the location 120, 71, -256.
+[21:14:56]: Lhendy51 placed the block DIRT at the location 121, 71, -256.
+[21:14:57]: Lhendy51 placed the block DIRT at the location 122, 71, -256.
+[21:14:57]: Lhendy51 placed the block DIRT at the location 123, 71, -256.
+[21:14:57]: Lhendy51 placed the block DIRT at the location 124, 71, -256.
+[21:14:58]: Lhendy51 placed the block DIRT at the location 125, 71, -256.
+[21:14:58]: Lhendy51 placed the block DIRT at the location 126, 71, -256.
+[21:14:58]: Lhendy51 placed the block DIRT at the location 127, 71, -256.
+[21:14:58]: Lhendy51 placed the block DIRT at the location 128, 71, -256.
+[21:14:58]: Lhendy51 placed the block DIRT at the location 129, 71, -256.
+[21:14:59]: Lhendy51 placed the block DIRT at the location 130, 71, -256.
+[21:14:59]: Lhendy51 placed the block DIRT at the location 131, 71, -256.
+[21:14:59]: Lhendy51 placed the block DIRT at the location 132, 71, -256.
+[21:14:59]: Lhendy51 placed the block DIRT at the location 133, 71, -256.
+[21:15:00]: Lhendy51 placed the block DIRT at the location 134, 71, -256.
+[21:15:00]: Lhendy51 placed the block DIRT at the location 135, 71, -256.
+[21:15:00]: Lhendy51 placed the block DIRT at the location 136, 71, -256.
+[21:15:00]: Lhendy51 placed the block DIRT at the location 137, 71, -256.
+[21:15:00]: Lhendy51 placed the block DIRT at the location 138, 71, -256.
+[21:15:01]: Lhendy51 placed the block DIRT at the location 139, 71, -256.
+[21:15:01]: Lhendy51 placed the block DIRT at the location 140, 71, -256.
+[21:15:01]: Lhendy51 placed the block DIRT at the location 141, 71, -256.
+[21:15:01]: Lhendy51 placed the block DIRT at the location 142, 71, -256.
+[21:15:02]: Lhendy51 placed the block DIRT at the location 143, 71, -256.
+[21:15:02]: Lhendy51 placed the block DIRT at the location 144, 71, -256.
+[21:15:02]: Lhendy51 placed the block DIRT at the location 145, 70, -256.
+[21:15:03]: Lhendy51 placed the block DIRT at the location 146, 70, -256.
+[21:15:03]: Lhendy51 placed the block DIRT at the location 147, 70, -256.
+[21:15:03]: Lhendy51 placed the block DIRT at the location 148, 70, -256.
+[21:15:03]: Lhendy51 placed the block DIRT at the location 149, 70, -256.
+[21:15:03]: Lhendy51 placed the block DIRT at the location 150, 70, -256.
+[21:15:04]: Lhendy51 placed the block DIRT at the location 151, 70, -256.
+[21:15:04]: Lhendy51 placed the block DIRT at the location 152, 70, -256.
+[21:15:04]: Lhendy51 placed the block DIRT at the location 153, 70, -256.
+[21:15:04]: Lhendy51 placed the block DIRT at the location 154, 70, -256.
+[21:15:05]: Lhendy51 placed the block DIRT at the location 155, 70, -256.
+[21:15:26]: Lhendy51 broke the block PURPLE_BED at the location 114, 71, -252.
+[21:15:27]: Lhendy51 picked up the item PURPLE_BED.
+[21:15:34]: Lhendy51 placed the block DIRT at the location 145, 71, -256.
+[21:15:35]: Lhendy51 placed the block DIRT at the location 146, 71, -256.
+[21:15:35]: Lhendy51 placed the block DIRT at the location 147, 71, -256.
+[21:15:35]: Lhendy51 placed the block DIRT at the location 148, 71, -256.
+[21:15:35]: Lhendy51 placed the block DIRT at the location 149, 71, -256.
+[21:15:35]: Lhendy51 placed the block DIRT at the location 150, 71, -256.
+[21:15:36]: Lhendy51 placed the block DIRT at the location 151, 71, -256.
+[21:15:36]: Lhendy51 placed the block DIRT at the location 152, 71, -256.
+[21:15:36]: Lhendy51 placed the block DIRT at the location 155, 71, -256.
+[21:15:37]: Lhendy51 placed the block DIRT at the location 153, 71, -256.
+[21:15:37]: Lhendy51 placed the block DIRT at the location 154, 71, -256.
+[21:15:38]: Lhendy51 placed the block DIRT at the location 158, 71, -256.
+[21:15:38]: Lhendy51 placed the block DIRT at the location 157, 71, -256.
+[21:15:38]: Lhendy51 placed the block DIRT at the location 156, 71, -256.
+[21:15:39]: Lhendy51 placed the block DIRT at the location 161, 71, -256.
+[21:15:39]: Lhendy51 placed the block DIRT at the location 160, 71, -256.
+[21:15:40]: Lhendy51 placed the block DIRT at the location 158, 72, -256.
+[21:15:41]: Lhendy51 broke the block DIRT at the location 158, 72, -256.
+[21:15:42]: Lhendy51 picked up the item DIRT.
+[21:15:42]: Lhendy51 placed the block DIRT at the location 159, 71, -256.
+[21:15:59]: Lhendy51 broke the block ENDER_CHEST at the location 113, 71, -252.
+[21:15:59]: Lhendy51 picked up the item ENDER_CHEST.
+[21:16:09]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -244.
+[21:16:09]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -243.
+[21:16:09]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -242.
+[21:16:09]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -241.
+[21:16:09]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -240.
+[21:16:09]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -239.
+[21:16:10]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:10]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -238.
+[21:16:10]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -237.
+[21:16:10]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -236.
+[21:16:10]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -235.
+[21:16:10]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -234.
+[21:16:10]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -233.
+[21:16:11]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -232.
+[21:16:11]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:11]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -231.
+[21:16:11]: Lhendy51 broke the block DIRT at the location 19, 74, -230.
+[21:16:11]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -230.
+[21:16:11]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:11]: Lhendy51 broke the block DIRT at the location 19, 74, -229.
+[21:16:11]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -229.
+[21:16:11]: Lhendy51 broke the block DIRT at the location 19, 74, -228.
+[21:16:11]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -228.
+[21:16:12]: Lhendy51 broke the block DIRT at the location 19, 74, -227.
+[21:16:12]: Lhendy51 picked up the item DIRT.
+[21:16:12]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -227.
+[21:16:12]: Lhendy51 broke the block DIRT at the location 19, 74, -226.
+[21:16:12]: Lhendy51 picked up the item DIRT.
+[21:16:12]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -226.
+[21:16:12]: Lhendy51 broke the block DIRT at the location 19, 74, -225.
+[21:16:12]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -225.
+[21:16:12]: Lhendy51 broke the block DIRT at the location 19, 74, -224.
+[21:16:12]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -224.
+[21:16:12]: Lhendy51 broke the block DIRT at the location 19, 74, -223.
+[21:16:12]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -223.
+[21:16:12]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:12]: Lhendy51 broke the block DIRT at the location 19, 74, -222.
+[21:16:13]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -222.
+[21:16:13]: Lhendy51 broke the block DIRT at the location 19, 74, -221.
+[21:16:13]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -221.
+[21:16:13]: Lhendy51 broke the block DIRT at the location 19, 74, -220.
+[21:16:13]: Lhendy51 picked up the item DIRT.
+[21:16:13]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -220.
+[21:16:13]: Lhendy51 broke the block DIRT at the location 19, 74, -219.
+[21:16:13]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -219.
+[21:16:13]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:13]: Lhendy51 broke the block DIRT at the location 19, 74, -218.
+[21:16:13]: Lhendy51 picked up the item DIRT.
+[21:16:13]: Lhendy51 picked up the item DIRT.
+[21:16:13]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -218.
+[21:16:13]: Lhendy51 broke the block DIRT at the location 19, 74, -217.
+[21:16:13]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -217.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 74, -216.
+[21:16:14]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -216.
+[21:16:14]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:14]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 74, -215.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 75, -215.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 74, -214.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 75, -214.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 74, -213.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 75, -213.
+[21:16:14]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 74, -212.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 75, -212.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 74, -211.
+[21:16:14]: Lhendy51 broke the block DIRT at the location 19, 75, -211.
+[21:16:15]: Lhendy51 broke the block DIRT at the location 19, 74, -210.
+[21:16:15]: Lhendy51 broke the block DIRT at the location 19, 75, -210.
+[21:16:15]: Lhendy51 picked up the item DIRT.
+[21:16:15]: Lhendy51 broke the block DIRT at the location 19, 74, -209.
+[21:16:15]: Lhendy51 broke the block DIRT at the location 19, 75, -209.
+[21:16:15]: Lhendy51 picked up the item DIRT.
+[21:16:15]: Lhendy51 picked up the item DIRT.
+[21:16:17]: Lhendy51 broke the block COAL_ORE at the location 19, 75, -208.
+[21:16:17]: Lhendy51 broke the block COAL_ORE at the location 19, 74, -208.
+[21:16:18]: Lhendy51 broke the block COAL_ORE at the location 19, 74, -207.
+[21:16:18]: Lhendy51 broke the block STONE at the location 19, 74, -206.
+[21:16:19]: Lhendy51 broke the block DIRT at the location 19, 75, -207.
+[21:16:19]: Lhendy51 picked up the item COAL_ORE.
+[21:16:20]: Lhendy51 picked up the item STONE.
+[21:16:20]: Lhendy51 picked up the item DIRT.
+[21:16:20]: Lhendy51 broke the block STONE at the location 19, 75, -206.
+[21:16:21]: Lhendy51 broke the block STONE at the location 19, 74, -205.
+[21:16:21]: Lhendy51 picked up the item STONE.
+[21:16:22]: Lhendy51 broke the block STONE at the location 19, 74, -204.
+[21:16:23]: Lhendy51 broke the block DIRT at the location 19, 75, -205.
+[21:16:23]: Lhendy51 broke the block DIRT at the location 19, 75, -204.
+[21:16:23]: Lhendy51 broke the block DIRT at the location 19, 75, -203.
+[21:16:23]: Lhendy51 broke the block DIRT at the location 19, 75, -202.
+[21:16:23]: Lhendy51 picked up the item STONE.
+[21:16:23]: Lhendy51 broke the block DIRT at the location 19, 75, -201.
+[21:16:24]: Lhendy51 broke the block DIRT at the location 19, 75, -200.
+[21:16:24]: Lhendy51 broke the block DIRT at the location 19, 75, -199.
+[21:16:25]: Lhendy51 broke the block STONE at the location 19, 74, -203.
+[21:16:25]: Lhendy51 broke the block STONE at the location 19, 74, -202.
+[21:16:25]: Lhendy51 picked up the item DIRT.
+[21:16:26]: Lhendy51 broke the block DIORITE at the location 19, 74, -201.
+[21:16:26]: Lhendy51 picked up the item STONE.
+[21:16:26]: Lhendy51 broke the block DIORITE at the location 19, 74, -200.
+[21:16:26]: Lhendy51 picked up the item DIORITE.
+[21:16:26]: Lhendy51 broke the block DIORITE at the location 19, 74, -199.
+[21:16:26]: Lhendy51 picked up the item DIORITE.
+[21:16:27]: Lhendy51 broke the block DIORITE at the location 19, 74, -198.
+[21:16:27]: Lhendy51 picked up the item DIORITE.
+[21:16:27]: Lhendy51 broke the block DIORITE at the location 19, 74, -197.
+[21:16:28]: Lhendy51 broke the block STONE at the location 19, 74, -196.
+[21:16:30]: Lhendy51 broke the block DIRT at the location 19, 75, -198.
+[21:16:30]: Lhendy51 picked up the item DIRT.
+[21:16:30]: Lhendy51 broke the block DIRT at the location 19, 75, -197.
+[21:16:30]: Lhendy51 picked up the item DIORITE.
+[21:16:30]: Lhendy51 picked up the item DIRT.
+[21:16:30]: Lhendy51 picked up the item STONE.
+[21:16:30]: Lhendy51 picked up the item DIRT.
+[21:16:31]: Lhendy51 broke the block DIORITE at the location 19, 75, -196.
+[21:16:32]: Lhendy51 picked up the item DIORITE.
+[21:16:32]: Lhendy51 broke the block STONE at the location 19, 74, -195.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 75, -195.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 75, -194.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 74, -194.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 74, -193.
+[21:16:34]: Lhendy51 picked up the item STONE.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 74, -192.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 75, -193.
+[21:16:34]: Lhendy51 broke the block DIRT at the location 19, 74, -191.
+[21:16:35]: Lhendy51 broke the block DIRT at the location 19, 75, -192.
+[21:16:35]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 75, -191.
+[21:16:35]: Lhendy51 picked up the item DIRT.
+[21:16:35]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:44]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 76, -192.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 76, -193.
+[21:16:44]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 77, -193.
+[21:16:44]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 77, -194.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 77, -195.
+[21:16:44]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -195.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 76, -194.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 77, -196.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 76, -195.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 77, -197.
+[21:16:44]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:44]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -197.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 76, -196.
+[21:16:44]: Lhendy51 broke the block DIRT at the location 19, 77, -198.
+[21:16:45]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -198.
+[21:16:45]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 76, -197.
+[21:16:45]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -199.
+[21:16:45]: Lhendy51 broke the block DIRT at the location 19, 77, -199.
+[21:16:45]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:45]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -196.
+[21:16:46]: Lhendy51 broke the block DIRT at the location 19, 76, -198.
+[21:16:46]: Lhendy51 broke the block DIRT at the location 19, 77, -200.
+[21:16:46]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -200.
+[21:16:46]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:46]: Lhendy51 broke the block DIRT at the location 19, 76, -199.
+[21:16:46]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -201.
+[21:16:46]: Lhendy51 broke the block DIRT at the location 19, 77, -201.
+[21:16:46]: Lhendy51 broke the block DIRT at the location 19, 76, -200.
+[21:16:46]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -202.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 77, -202.
+[21:16:47]: Lhendy51 picked up the item DIRT.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 76, -201.
+[21:16:47]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -203.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 76, -202.
+[21:16:47]: Lhendy51 picked up the item DIRT.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 77, -203.
+[21:16:47]: Lhendy51 picked up the item DIRT.
+[21:16:47]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -204.
+[21:16:47]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 76, -203.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 77, -204.
+[21:16:47]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -205.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 76, -204.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 77, -205.
+[21:16:47]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -206.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 76, -205.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 77, -206.
+[21:16:47]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -207.
+[21:16:47]: Lhendy51 broke the block DIRT at the location 19, 76, -206.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 77, -207.
+[21:16:48]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -208.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 76, -207.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 77, -208.
+[21:16:48]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 78, -209.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 76, -208.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 77, -209.
+[21:16:48]: Lhendy51 picked up the item DIRT.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 76, -209.
+[21:16:48]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 77, -210.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 76, -210.
+[21:16:48]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 77, -211.
+[21:16:48]: Lhendy51 broke the block DIRT at the location 19, 76, -211.
+[21:16:48]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 77, -212.
+[21:16:49]: Lhendy51 broke the block DIRT at the location 19, 76, -212.
+[21:16:49]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 76, -213.
+[21:16:49]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 76, -214.
+[21:16:49]: Lhendy51 picked up the item DIRT.
+[21:16:49]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 76, -215.
+[21:16:52]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:53]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:54]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:16:55]: Lhendy51 picked up the item DIRT.
+[21:16:56]: Lhendy51 picked up the item DIRT.
+[21:16:59]: Lhendy51 picked up the item DIRT.
+[21:16:59]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:01]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:02]: Lhendy51 picked up the item DIRT.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 74, -204.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 73, -204.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 74, -205.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 73, -205.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 73, -206.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 73, -207.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 74, -206.
+[21:17:07]: Lhendy51 broke the block DIRT at the location 28, 74, -207.
+[21:17:08]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -206.
+[21:17:08]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -205.
+[21:17:08]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -204.
+[21:17:08]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -207.
+[21:17:09]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -203.
+[21:17:09]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:09]: Lhendy51 broke the block DIRT at the location 28, 74, -208.
+[21:17:09]: Lhendy51 picked up the item DIRT.
+[21:17:09]: Lhendy51 broke the block DIRT at the location 28, 73, -208.
+[21:17:10]: Lhendy51 broke the block DIRT at the location 28, 73, -209.
+[21:17:10]: Lhendy51 broke the block DIRT at the location 28, 74, -209.
+[21:17:10]: Lhendy51 broke the block DIRT at the location 28, 74, -210.
+[21:17:10]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -209.
+[21:17:10]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -210.
+[21:17:10]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -211.
+[21:17:11]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -208.
+[21:17:11]: Lhendy51 broke the block DIRT at the location 28, 74, -211.
+[21:17:11]: Lhendy51 broke the block DIRT at the location 28, 74, -212.
+[21:17:11]: The TPS is 20.
+[21:17:11]: The current RAM usage is 2190MB / 3072MB (71.29%).
+[21:17:11]: The current player count is 1.
+[21:17:11]: Lhendy51 picked up the item DIRT.
+[21:17:11]: Lhendy51 broke the block DIRT at the location 28, 73, -210.
+[21:17:11]: Lhendy51 broke the block DIRT at the location 28, 73, -211.
+[21:17:11]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:11]: Lhendy51 broke the block DIRT at the location 28, 73, -212.
+[21:17:12]: Lhendy51 picked up the item DIRT.
+[21:17:12]: Lhendy51 broke the block DIRT at the location 28, 73, -213.
+[21:17:12]: Lhendy51 broke the block DIRT at the location 28, 74, -213.
+[21:17:12]: Lhendy51 broke the block DIRT at the location 28, 74, -214.
+[21:17:12]: Lhendy51 broke the block DIRT at the location 28, 74, -215.
+[21:17:12]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -212.
+[21:17:12]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -213.
+[21:17:12]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -214.
+[21:17:12]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 75, -215.
+[21:17:13]: Lhendy51 broke the block DIRT at the location 28, 73, -214.
+[21:17:13]: Lhendy51 broke the block DIRT at the location 28, 73, -215.
+[21:17:13]: Lhendy51 broke the block DIRT at the location 28, 73, -216.
+[21:17:13]: Lhendy51 broke the block DIRT at the location 28, 73, -217.
+[21:17:13]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:13]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -216.
+[21:17:13]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -217.
+[21:17:13]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -218.
+[21:17:13]: Lhendy51 picked up the item DIRT.
+[21:17:13]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -219.
+[21:17:14]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -220.
+[21:17:14]: Lhendy51 picked up the item DIRT.
+[21:17:14]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -221.
+[21:17:14]: Lhendy51 broke the block DIRT at the location 28, 73, -220.
+[21:17:14]: Lhendy51 broke the block DIRT at the location 28, 73, -221.
+[21:17:14]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:14]: Lhendy51 broke the block DIRT at the location 28, 73, -222.
+[21:17:14]: Lhendy51 broke the block DIRT at the location 28, 73, -219.
+[21:17:14]: Lhendy51 broke the block DIRT at the location 28, 73, -218.
+[21:17:15]: Lhendy51 picked up the item DIRT.
+[21:17:15]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -222.
+[21:17:15]: Lhendy51 picked up the item DIRT.
+[21:17:15]: Lhendy51 picked up the item DIRT.
+[21:17:15]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -223.
+[21:17:15]: Lhendy51 broke the block DIRT at the location 28, 73, -223.
+[21:17:16]: Lhendy51 broke the block DIRT at the location 28, 73, -224.
+[21:17:16]: Lhendy51 picked up the item DIRT.
+[21:17:16]: Lhendy51 picked up the item DIRT.
+[21:17:16]: Lhendy51 broke the block DIRT at the location 28, 73, -225.
+[21:17:16]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -224.
+[21:17:16]: Lhendy51 broke the block DIRT at the location 28, 73, -226.
+[21:17:16]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -225.
+[21:17:16]: Lhendy51 broke the block DIRT at the location 28, 73, -227.
+[21:17:16]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -226.
+[21:17:16]: Lhendy51 picked up the item DIRT.
+[21:17:16]: Lhendy51 broke the block DIRT at the location 28, 73, -228.
+[21:17:16]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -227.
+[21:17:16]: Lhendy51 broke the block DIRT at the location 28, 73, -229.
+[21:17:16]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -228.
+[21:17:17]: Lhendy51 picked up the item DIRT.
+[21:17:17]: Lhendy51 broke the block DIRT at the location 28, 73, -230.
+[21:17:17]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:17]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -229.
+[21:17:17]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:17]: Lhendy51 broke the block DIRT at the location 28, 73, -231.
+[21:17:17]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -230.
+[21:17:17]: Lhendy51 picked up the item DIRT.
+[21:17:17]: Lhendy51 broke the block DIRT at the location 28, 73, -232.
+[21:17:17]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -231.
+[21:17:17]: Lhendy51 picked up the item DIRT.
+[21:17:17]: Lhendy51 picked up the item DIRT.
+[21:17:17]: Lhendy51 broke the block DIRT at the location 28, 73, -233.
+[21:17:17]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -232.
+[21:17:17]: Lhendy51 broke the block DIRT at the location 28, 73, -234.
+[21:17:17]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -233.
+[21:17:17]: Lhendy51 picked up the item DIRT.
+[21:17:17]: Lhendy51 broke the block DIRT at the location 28, 73, -235.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -234.
+[21:17:18]: Lhendy51 picked up the item DIRT.
+[21:17:18]: Lhendy51 broke the block DIRT at the location 28, 73, -236.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -235.
+[21:17:18]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:18]: Lhendy51 broke the block DIRT at the location 28, 73, -237.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -236.
+[21:17:18]: Lhendy51 picked up the item DIRT.
+[21:17:18]: Lhendy51 picked up the item DIRT.
+[21:17:18]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:18]: Lhendy51 broke the block DIRT at the location 28, 73, -238.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -237.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -239.
+[21:17:18]: Lhendy51 picked up the item DIRT.
+[21:17:18]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 74, -238.
+[21:17:18]: Lhendy51 picked up the item DIRT.
+[21:17:18]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:18]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -240.
+[21:17:18]: Lhendy51 picked up the item DIRT.
+[21:17:19]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -241.
+[21:17:19]: Lhendy51 picked up the item DIRT.
+[21:17:19]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:19]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -242.
+[21:17:19]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -243.
+[21:17:19]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -244.
+[21:17:19]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:19]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -245.
+[21:17:19]: Lhendy51 broke the block GRASS_BLOCK at the location 28, 73, -246.
+[21:17:20]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:20]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:24]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -234.
+[21:17:24]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -233.
+[21:17:25]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -233.
+[21:17:25]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -232.
+[21:17:25]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -232.
+[21:17:25]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -235.
+[21:17:25]: Lhendy51 broke the block DIRT at the location 29, 73, -232.
+[21:17:26]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:26]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -231.
+[21:17:26]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -231.
+[21:17:26]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -230.
+[21:17:26]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -231.
+[21:17:26]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -232.
+[21:17:26]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -231.
+[21:17:28]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 73, -232.
+[21:17:29]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -230.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -230.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -229.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -229.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -229.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -228.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -230.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -229.
+[21:17:30]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -228.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -227.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -227.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -227.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -228.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -227.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -228.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -226.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -226.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -226.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -225.
+[21:17:31]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -226.
+[21:17:31]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -225.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -224.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -224.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -223.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -225.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -224.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -225.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -224.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -223.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -222.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -222.
+[21:17:32]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -223.
+[21:17:33]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -222.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -221.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -221.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -220.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -222.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -221.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -223.
+[21:17:33]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -220.
+[21:17:34]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -224.
+[21:17:34]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -219.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -219.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -218.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -217.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -218.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -217.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -218.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -217.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -217.
+[21:17:35]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -216.
+[21:17:35]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -216.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -216.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -215.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -215.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -216.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -215.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -215.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -214.
+[21:17:36]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -214.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -215.
+[21:17:37]: Lhendy51 broke the block DIRT at the location 31, 74, -214.
+[21:17:37]: Lhendy51 broke the block DIRT at the location 30, 74, -214.
+[21:17:37]: Lhendy51 broke the block DIRT at the location 29, 74, -214.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -214.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -214.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -213.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -214.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -213.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -213.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -212.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 75, -213.
+[21:17:37]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 75, -212.
+[21:17:38]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -213.
+[21:17:38]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -213.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 32, 74, -213.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 32, 74, -212.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 31, 74, -213.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 30, 74, -213.
+[21:17:38]: Lhendy51 picked up the item DIRT.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 29, 74, -213.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 30, 74, -212.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 29, 74, -212.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 31, 74, -212.
+[21:17:38]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 75, -212.
+[21:17:38]: Lhendy51 broke the block DIRT at the location 33, 74, -212.
+[21:17:38]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -212.
+[21:17:38]: Lhendy51 broke the block GRASS_BLOCK at the location 35, 74, -213.
+[21:17:38]: Lhendy51 broke the block GRASS_BLOCK at the location 35, 74, -212.
+[21:17:39]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -214.
+[21:17:39]: Lhendy51 broke the block GRASS_BLOCK at the location 35, 74, -211.
+[21:17:39]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -211.
+[21:17:39]: Lhendy51 broke the block DIRT at the location 33, 74, -211.
+[21:17:39]: Lhendy51 broke the block DIRT at the location 32, 74, -211.
+[21:17:39]: Lhendy51 broke the block DIRT at the location 31, 74, -211.
+[21:17:39]: Lhendy51 broke the block DIRT at the location 30, 74, -211.
+[21:17:39]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -212.
+[21:17:39]: Lhendy51 broke the block DIRT at the location 29, 74, -211.
+[21:17:39]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -212.
+[21:17:40]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -211.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -211.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -211.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -210.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 75, -210.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 75, -211.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 75, -211.
+[21:17:40]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -210.
+[21:17:40]: Lhendy51 broke the block DIRT at the location 32, 74, -210.
+[21:17:40]: Lhendy51 broke the block DIRT at the location 31, 74, -210.
+[21:17:40]: Lhendy51 broke the block DIRT at the location 31, 74, -209.
+[21:17:40]: Lhendy51 broke the block DIRT at the location 30, 74, -210.
+[21:17:40]: Lhendy51 broke the block DIRT at the location 30, 74, -209.
+[21:17:40]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:40]: Lhendy51 broke the block DIRT at the location 29, 74, -210.
+[21:17:41]: Lhendy51 broke the block DIRT at the location 29, 74, -209.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -210.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -210.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -209.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -209.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -209.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 75, -209.
+[21:17:41]: Lhendy51 broke the block GRASS at the location 34, 75, -209.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -209.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 35, 74, -210.
+[21:17:41]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -210.
+[21:17:41]: Lhendy51 broke the block DIRT at the location 32, 74, -209.
+[21:17:42]: Lhendy51 broke the block DIRT at the location 32, 74, -208.
+[21:17:42]: Lhendy51 broke the block DIRT at the location 31, 74, -208.
+[21:17:42]: Lhendy51 broke the block DIRT at the location 30, 74, -208.
+[21:17:42]: Lhendy51 broke the block DIRT at the location 29, 74, -208.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -208.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -208.
+[21:17:42]: Lhendy51 picked up the item DIRT.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -208.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 75, -208.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -206.
+[21:17:42]: Lhendy51 broke the block GRASS at the location 33, 75, -207.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 34, 74, -208.
+[21:17:42]: Lhendy51 broke the block GRASS at the location 35, 74, -208.
+[21:17:42]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -209.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -208.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 33, 74, -207.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -207.
+[21:17:43]: Lhendy51 picked up the item DIRT.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 75, -207.
+[21:17:43]: Lhendy51 broke the block DIRT at the location 31, 74, -207.
+[21:17:43]: Lhendy51 broke the block DIRT at the location 30, 74, -207.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -207.
+[21:17:43]: Lhendy51 broke the block DIRT at the location 30, 74, -206.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -207.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -206.
+[21:17:43]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 75, -206.
+[21:17:44]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -205.
+[21:17:44]: Lhendy51 picked up the item DIRT.
+[21:17:44]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -204.
+[21:17:44]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 74, -206.
+[21:17:44]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 74, -205.
+[21:17:44]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -205.
+[21:17:44]: Lhendy51 broke the block DIRT at the location 29, 74, -205.
+[21:17:44]: Lhendy51 broke the block DIRT at the location 29, 74, -206.
+[21:17:44]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:44]: Lhendy51 broke the block DIRT at the location 29, 74, -207.
+[21:17:44]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 75, -205.
+[21:17:45]: Lhendy51 picked up the item WHEAT_SEEDS.
+[21:17:45]: Lhendy51 broke the block GRASS_BLOCK at the location 30, 74, -204.
+[21:17:45]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 74, -204.
+[21:17:45]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:45]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:47]: Lhendy51 dropped the item WHEAT_SEEDS.
+[21:17:50]: Lhendy51 picked up the item DIRT.
+[21:17:52]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:53]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:55]: Lhendy51 picked up the item DIRT.
+[21:17:57]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:17:59]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:17]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 76, -191.
+[21:18:17]: Lhendy51 broke the block DIRT at the location 18, 76, -192.
+[21:18:17]: Lhendy51 broke the block DIRT at the location 18, 77, -192.
+[21:18:17]: Lhendy51 broke the block DIRT at the location 18, 77, -193.
+[21:18:17]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -193.
+[21:18:17]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -194.
+[21:18:18]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -192.
+[21:18:18]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:18]: Lhendy51 picked up the item DIRT.
+[21:18:18]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -195.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 77, -194.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 77, -195.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 76, -194.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 76, -195.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 76, -193.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 76, -196.
+[21:18:19]: Lhendy51 picked up the item DIRT.
+[21:18:19]: Lhendy51 broke the block DIRT at the location 18, 76, -197.
+[21:18:19]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 77, -196.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 77, -197.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 77, -198.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 78, -196.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 78, -197.
+[21:18:20]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -197.
+[21:18:20]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -196.
+[21:18:20]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -198.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 78, -198.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 78, -199.
+[21:18:20]: Lhendy51 broke the block DIRT at the location 18, 77, -199.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 77, -200.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 76, -199.
+[21:18:21]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 76, -200.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 76, -198.
+[21:18:21]: Lhendy51 picked up the item DIRT.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 76, -201.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 77, -201.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 78, -200.
+[21:18:21]: Lhendy51 broke the block DIRT at the location 18, 78, -201.
+[21:18:22]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -200.
+[21:18:22]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -201.
+[21:18:22]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -199.
+[21:18:22]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -202.
+[21:18:22]: Lhendy51 broke the block DIRT at the location 18, 78, -202.
+[21:18:22]: Lhendy51 broke the block DIRT at the location 18, 78, -203.
+[21:18:22]: Lhendy51 picked up the item DIRT.
+[21:18:22]: Lhendy51 broke the block DIRT at the location 18, 77, -202.
+[21:18:22]: Lhendy51 broke the block DIRT at the location 18, 77, -203.
+[21:18:22]: Lhendy51 broke the block DIRT at the location 18, 77, -204.
+[21:18:22]: Lhendy51 broke the block DIRT at the location 18, 76, -203.
+[21:18:23]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:23]: Lhendy51 broke the block DIRT at the location 18, 76, -204.
+[21:18:23]: Lhendy51 broke the block DIRT at the location 18, 76, -202.
+[21:18:23]: Lhendy51 broke the block DIRT at the location 18, 76, -205.
+[21:18:24]: Lhendy51 broke the block DIRT at the location 18, 77, -205.
+[21:18:24]: Lhendy51 broke the block DIRT at the location 18, 77, -206.
+[21:18:24]: Lhendy51 broke the block DIRT at the location 18, 78, -204.
+[21:18:24]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -204.
+[21:18:24]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -205.
+[21:18:24]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 79, -203.
+[21:18:24]: Lhendy51 broke the block DIRT at the location 18, 78, -205.
+[21:18:24]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -206.
+[21:18:24]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -207.
+[21:18:24]: Lhendy51 broke the block DIRT at the location 18, 77, -207.
+[21:18:24]: Lhendy51 broke the block DIRT at the location 18, 77, -208.
+[21:18:25]: Lhendy51 broke the block DIRT at the location 18, 76, -206.
+[21:18:25]: Lhendy51 broke the block DIRT at the location 18, 76, -207.
+[21:18:25]: Lhendy51 picked up the item DIRT.
+[21:18:25]: Lhendy51 broke the block DIRT at the location 18, 76, -208.
+[21:18:25]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:25]: Lhendy51 broke the block DIRT at the location 18, 76, -209.
+[21:18:25]: Lhendy51 broke the block DIRT at the location 18, 77, -209.
+[21:18:25]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 77, -210.
+[21:18:25]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:25]: Lhendy51 picked up the item DIRT.
+[21:18:25]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -208.
+[21:18:25]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 78, -209.
+[21:18:26]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 77, -211.
+[21:18:26]: Lhendy51 picked up the item DIRT.
+[21:18:26]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 77, -212.
+[21:18:26]: Lhendy51 picked up the item POPPY.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 76, -211.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 76, -210.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 76, -212.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 75, -212.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 75, -213.
+[21:18:26]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 76, -213.
+[21:18:26]: Lhendy51 broke the block DIRT at the location 18, 75, -214.
+[21:18:26]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 76, -214.
+[21:18:27]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 76, -215.
+[21:18:27]: Lhendy51 picked up the item DIRT.
+[21:18:27]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 77, -213.
+[21:18:27]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 76, -216.
+[21:18:27]: Lhendy51 picked up the item DIRT.
+[21:18:27]: Lhendy51 picked up the item DIRT.
+[21:18:27]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -217.
+[21:18:27]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -218.
+[21:18:27]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:29]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:29]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:31]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -212.
+[21:18:31]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -214.
+[21:18:32]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -213.
+[21:18:33]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -218.
+[21:18:33]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -217.
+[21:18:35]: Lhendy51 picked up the item DIRT.
+[21:18:36]: Lhendy51 picked up the item DIRT.
+[21:18:45]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -193.
+[21:18:45]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -194.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -195.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -196.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -197.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -198.
+[21:18:46]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:46]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -199.
+[21:18:46]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -200.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -201.
+[21:18:46]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:46]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -202.
+[21:18:47]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:47]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -203.
+[21:18:47]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:47]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -204.
+[21:18:47]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -205.
+[21:18:47]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:47]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -206.
+[21:18:47]: Lhendy51 broke the block GRASS_BLOCK at the location 17, 79, -207.
+[21:18:48]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -204.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -203.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -202.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -201.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -200.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -199.
+[21:18:49]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:49]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:49]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:49]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -198.
+[21:18:50]: Lhendy51 broke the block GRASS_BLOCK at the location 16, 80, -197.
+[21:18:50]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:50]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:50]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:50]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:18:50]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:19:11]: Lhendy51 broke the block COAL_ORE at the location 18, 74, -192.
+[21:19:11]: Lhendy51 broke the block STONE at the location 18, 74, -193.
+[21:19:12]: Lhendy51 broke the block STONE at the location 19, 73, -193.
+[21:19:12]: Lhendy51 broke the block STONE at the location 19, 73, -194.
+[21:19:12]: Lhendy51 picked up the item STONE.
+[21:19:12]: Lhendy51 broke the block STONE at the location 18, 74, -194.
+[21:19:12]: Lhendy51 picked up the item STONE.
+[21:19:13]: Lhendy51 broke the block DIORITE at the location 18, 74, -195.
+[21:19:13]: Lhendy51 picked up the item STONE.
+[21:19:13]: Lhendy51 broke the block STONE at the location 19, 73, -195.
+[21:19:14]: Lhendy51 broke the block STONE at the location 19, 73, -196.
+[21:19:14]: Lhendy51 picked up the item STONE.
+[21:19:14]: Lhendy51 broke the block DIORITE at the location 18, 74, -196.
+[21:19:14]: Lhendy51 broke the block DIORITE at the location 18, 75, -196.
+[21:19:14]: Lhendy51 picked up the item STONE.
+[21:19:14]: Lhendy51 picked up the item DIORITE.
+[21:19:15]: Lhendy51 broke the block DIORITE at the location 18, 74, -197.
+[21:19:15]: Lhendy51 broke the block DIORITE at the location 18, 75, -197.
+[21:19:16]: Lhendy51 broke the block STONE at the location 19, 73, -197.
+[21:19:16]: Lhendy51 picked up the item DIORITE.
+[21:19:16]: Lhendy51 picked up the item STONE.
+[21:19:16]: Lhendy51 broke the block DIORITE at the location 18, 74, -198.
+[21:19:16]: Lhendy51 broke the block DIORITE at the location 18, 75, -198.
+[21:19:17]: Lhendy51 picked up the item DIORITE.
+[21:19:17]: Lhendy51 broke the block DIORITE at the location 18, 74, -199.
+[21:19:17]: Lhendy51 broke the block DIORITE at the location 18, 75, -199.
+[21:19:17]: Lhendy51 picked up the item DIORITE.
+[21:19:18]: Lhendy51 broke the block DIORITE at the location 18, 74, -200.
+[21:19:18]: Lhendy51 broke the block DIORITE at the location 18, 75, -200.
+[21:19:18]: Lhendy51 broke the block STONE at the location 19, 73, -198.
+[21:19:19]: Lhendy51 picked up the item STONE.
+[21:19:19]: Lhendy51 broke the block STONE at the location 19, 73, -200.
+[21:19:19]: Lhendy51 broke the block STONE at the location 19, 73, -201.
+[21:19:20]: Lhendy51 broke the block STONE at the location 19, 73, -199.
+[21:19:20]: Lhendy51 picked up the item DIORITE.
+[21:19:20]: Lhendy51 broke the block STONE at the location 19, 73, -202.
+[21:19:20]: Lhendy51 picked up the item STONE.
+[21:19:20]: Lhendy51 broke the block STONE at the location 19, 73, -203.
+[21:19:21]: Lhendy51 picked up the item STONE.
+[21:19:21]: Lhendy51 broke the block STONE at the location 19, 73, -205.
+[21:19:21]: Lhendy51 picked up the item STONE.
+[21:19:21]: Lhendy51 broke the block STONE at the location 19, 73, -206.
+[21:19:22]: Lhendy51 broke the block STONE at the location 19, 73, -204.
+[21:19:22]: Lhendy51 picked up the item STONE.
+[21:19:22]: Lhendy51 broke the block STONE at the location 19, 73, -207.
+[21:19:22]: Lhendy51 picked up the item STONE.
+[21:19:22]: Lhendy51 picked up the item STONE.
+[21:19:22]: Lhendy51 broke the block STONE at the location 19, 73, -208.
+[21:19:23]: Lhendy51 picked up the item STONE.
+[21:19:24]: Lhendy51 broke the block STONE at the location 19, 73, -213.
+[21:19:24]: Lhendy51 broke the block STONE at the location 19, 73, -212.
+[21:19:25]: Lhendy51 broke the block STONE at the location 19, 73, -214.
+[21:19:25]: Lhendy51 picked up the item STONE.
+[21:19:25]: Lhendy51 picked up the item STONE.
+[21:19:25]: Lhendy51 picked up the item STONE.
+[21:19:25]: Lhendy51 broke the block STONE at the location 19, 73, -215.
+[21:19:26]: Lhendy51 broke the block STONE at the location 18, 74, -213.
+[21:19:26]: Lhendy51 picked up the item STONE.
+[21:19:26]: Lhendy51 picked up the item STONE.
+[21:19:29]: Lhendy51 picked up the item STONE.
+[21:19:31]: Lhendy51 picked up the item COAL_ORE.
+[21:19:35]: Lhendy51 broke the block DIORITE at the location 18, 74, -201.
+[21:19:35]: Lhendy51 broke the block DIORITE at the location 18, 75, -201.
+[21:19:36]: Lhendy51 picked up the item DIORITE.
+[21:19:36]: Lhendy51 broke the block STONE at the location 18, 74, -202.
+[21:19:36]: Lhendy51 picked up the item DIORITE.
+[21:19:36]: Lhendy51 picked up the item STONE.
+[21:19:36]: Lhendy51 broke the block STONE at the location 18, 74, -203.
+[21:19:36]: Lhendy51 broke the block DIORITE at the location 18, 75, -202.
+[21:19:37]: Lhendy51 picked up the item DIORITE.
+[21:19:37]: Lhendy51 broke the block STONE at the location 18, 75, -203.
+[21:19:37]: Lhendy51 broke the block STONE at the location 18, 75, -204.
+[21:19:37]: Lhendy51 picked up the item STONE.
+[21:19:38]: Lhendy51 broke the block STONE at the location 18, 74, -204.
+[21:19:38]: Lhendy51 picked up the item STONE.
+[21:19:38]: Lhendy51 broke the block STONE at the location 18, 74, -205.
+[21:19:39]: Lhendy51 broke the block STONE at the location 18, 75, -205.
+[21:19:39]: Lhendy51 picked up the item STONE.
+[21:19:39]: Lhendy51 broke the block STONE at the location 18, 75, -206.
+[21:19:39]: Lhendy51 picked up the item STONE.
+[21:19:39]: Lhendy51 broke the block STONE at the location 18, 74, -206.
+[21:19:39]: Lhendy51 picked up the item STONE.
+[21:19:40]: Lhendy51 broke the block STONE at the location 18, 75, -207.
+[21:19:40]: Lhendy51 picked up the item STONE.
+[21:19:40]: Lhendy51 broke the block STONE at the location 18, 74, -207.
+[21:19:40]: Lhendy51 picked up the item STONE.
+[21:19:41]: Lhendy51 picked up the item STONE.
+[21:19:43]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -213.
+[21:19:44]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -215.
+[21:19:44]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -214.
+[21:19:44]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -213.
+[21:19:44]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -212.
+[21:19:50]: Lhendy51 dropped the item POPPY.
+[21:19:51]: Lhendy51 dropped the item WHITE_CONCRETE.
+[21:19:54]: Lhendy51 picked up the item STONE.
+[21:19:56]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -193.
+[21:19:56]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -194.
+[21:19:56]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -195.
+[21:19:56]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -196.
+[21:19:56]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -197.
+[21:19:57]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -198.
+[21:19:57]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -199.
+[21:19:57]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -200.
+[21:19:59]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -208.
+[21:19:59]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -207.
+[21:19:59]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -206.
+[21:20:00]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -205.
+[21:20:00]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -204.
+[21:20:00]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -201.
+[21:20:01]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -202.
+[21:20:01]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 73, -203.
+[21:20:03]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -192.
+[21:20:03]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -193.
+[21:20:04]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -194.
+[21:20:04]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -195.
+[21:20:05]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -198.
+[21:20:05]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -197.
+[21:20:05]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -196.
+[21:20:07]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -207.
+[21:20:07]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -206.
+[21:20:07]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -205.
+[21:20:07]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -204.
+[21:20:08]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -203.
+[21:20:08]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -202.
+[21:20:08]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -199.
+[21:20:09]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -200.
+[21:20:09]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 74, -201.
+[21:20:11]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -196.
+[21:20:11]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -197.
+[21:20:11]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -198.
+[21:20:12]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -199.
+[21:20:12]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -200.
+[21:20:12]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -201.
+[21:20:12]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -202.
+[21:20:12]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -203.
+[21:20:13]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -204.
+[21:20:13]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -205.
+[21:20:13]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 74, -205.
+[21:20:14]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -207.
+[21:20:14]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -206.
+[21:20:15]: Lhendy51 broke the block GRASS_BLOCK at the location 19, 74, -205.
+[21:20:16]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:17]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -206.
+[21:20:17]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:21]: Lhendy51 broke the block STONE at the location 17, 76, -206.
+[21:20:21]: Lhendy51 picked up the item STONE.
+[21:20:23]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 76, -206.
+[21:20:23]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 75, -206.
+[21:20:30]: Lhendy51 picked up the item DIRT.
+[21:20:30]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:37]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -233.
+[21:20:37]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -232.
+[21:20:37]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -231.
+[21:20:37]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -230.
+[21:20:38]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -229.
+[21:20:38]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -228.
+[21:20:38]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -227.
+[21:20:38]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -226.
+[21:20:38]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -225.
+[21:20:38]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -224.
+[21:20:39]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -223.
+[21:20:39]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -222.
+[21:20:39]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 75, -221.
+[21:20:39]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:39]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:40]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:42]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:20:43]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:21:10]: Lhendy51 placed the block GRASS_BLOCK at the location 51, 71, -256.
+[21:21:11]: Lhendy51 placed the block GRASS_BLOCK at the location 51, 71, -255.
+[21:21:11]: Lhendy51 placed the block GRASS_BLOCK at the location 52, 71, -256.
+[21:21:12]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -256.
+[21:21:12]: Lhendy51 placed the block GRASS_BLOCK at the location 53, 71, -256.
+[21:21:12]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -255.
+[21:21:12]: Lhendy51 placed the block GRASS_BLOCK at the location 53, 71, -255.
+[21:21:13]: Lhendy51 placed the block GRASS_BLOCK at the location 52, 71, -255.
+[21:21:13]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -254.
+[21:21:13]: Lhendy51 placed the block GRASS_BLOCK at the location 53, 71, -254.
+[21:21:14]: Lhendy51 placed the block GRASS_BLOCK at the location 52, 71, -254.
+[21:21:16]: Lhendy51 placed the block GRASS_BLOCK at the location 52, 71, -253.
+[21:21:16]: Lhendy51 placed the block GRASS_BLOCK at the location 53, 71, -253.
+[21:21:16]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -253.
+[21:21:17]: Lhendy51 placed the block GRASS_BLOCK at the location 52, 71, -252.
+[21:21:17]: Lhendy51 placed the block GRASS_BLOCK at the location 53, 71, -252.
+[21:21:17]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -252.
+[21:21:18]: Lhendy51 placed the block GRASS_BLOCK at the location 53, 71, -251.
+[21:21:18]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -251.
+[21:21:19]: Lhendy51 placed the block GRASS_BLOCK at the location 54, 71, -250.
+[21:21:19]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -251.
+[21:21:19]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -250.
+[21:21:20]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -251.
+[21:21:20]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -250.
+[21:21:22]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -256.
+[21:21:22]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -255.
+[21:21:23]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -254.
+[21:21:23]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -252.
+[21:21:23]: Lhendy51 placed the block GRASS_BLOCK at the location 55, 71, -253.
+[21:21:24]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -256.
+[21:21:24]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -255.
+[21:21:25]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -253.
+[21:21:26]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -253.
+[21:21:27]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -254.
+[21:21:27]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 71, -252.
+[21:21:28]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -250.
+[21:21:28]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -251.
+[21:21:28]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -252.
+[21:21:30]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -256.
+[21:21:30]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -255.
+[21:21:31]: Lhendy51 placed the block GRASS_BLOCK at the location 57, 71, -254.
+[21:21:32]: Lhendy51 placed the block GRASS_BLOCK at the location 58, 71, -256.
+[21:21:32]: Lhendy51 placed the block GRASS_BLOCK at the location 58, 71, -255.
+[21:21:32]: Lhendy51 placed the block GRASS_BLOCK at the location 58, 71, -254.
+[21:21:33]: Lhendy51 placed the block GRASS_BLOCK at the location 58, 71, -251.
+[21:21:33]: Lhendy51 placed the block GRASS_BLOCK at the location 58, 71, -252.
+[21:21:33]: Lhendy51 placed the block GRASS_BLOCK at the location 58, 71, -253.
+[21:21:36]: Lhendy51 placed the block GRASS_BLOCK at the location 59, 71, -256.
+[21:21:36]: Lhendy51 placed the block GRASS_BLOCK at the location 59, 71, -255.
+[21:21:36]: Lhendy51 placed the block GRASS_BLOCK at the location 59, 71, -254.
+[21:21:37]: Lhendy51 placed the block GRASS_BLOCK at the location 59, 71, -252.
+[21:21:37]: Lhendy51 placed the block GRASS_BLOCK at the location 59, 71, -253.
+[21:21:41]: Lhendy51 broke the block GRASS_BLOCK at the location 62, 70, -252.
+[21:21:41]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:21:44]: Lhendy51 placed the block GRASS_BLOCK at the location 60, 71, -256.
+[21:21:44]: Lhendy51 placed the block GRASS_BLOCK at the location 60, 71, -255.
+[21:21:44]: Lhendy51 placed the block GRASS_BLOCK at the location 60, 71, -254.
+[21:21:45]: Lhendy51 placed the block GRASS_BLOCK at the location 60, 71, -253.
+[21:21:46]: Lhendy51 placed the block GRASS_BLOCK at the location 60, 71, -252.
+[21:21:46]: Lhendy51 placed the block GRASS_BLOCK at the location 61, 71, -256.
+[21:21:46]: Lhendy51 placed the block GRASS_BLOCK at the location 61, 71, -255.
+[21:21:47]: Lhendy51 placed the block GRASS_BLOCK at the location 61, 71, -254.
+[21:21:47]: Lhendy51 placed the block GRASS_BLOCK at the location 61, 71, -253.
+[21:21:47]: Lhendy51 placed the block GRASS_BLOCK at the location 61, 71, -252.
+[21:21:48]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 71, -254.
+[21:21:48]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 71, -253.
+[21:21:48]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 71, -252.
+[21:21:49]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 71, -256.
+[21:21:49]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 71, -255.
+[21:21:52]: Lhendy51 placed the block GRASS_BLOCK at the location 56, 70, -249.
+[21:21:57]: Lhendy51 broke the block GRASS_BLOCK at the location 62, 71, -252.
+[21:21:57]: Lhendy51 broke the block GRASS_BLOCK at the location 62, 71, -253.
+[21:21:57]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:21:59]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 70, -253.
+[21:21:59]: Lhendy51 placed the block GRASS_BLOCK at the location 62, 70, -252.
+[21:22:04]: Lhendy51 placed the block GRASS_BLOCK at the location 59, 71, -251.
+[21:22:05]: Lhendy51 placed the block GRASS_BLOCK at the location 63, 71, -256.
+[21:22:05]: Lhendy51 placed the block GRASS_BLOCK at the location 64, 71, -256.
+[21:22:06]: Lhendy51 placed the block GRASS_BLOCK at the location 65, 71, -256.
+[21:22:06]: Lhendy51 placed the block GRASS_BLOCK at the location 66, 71, -256.
+[21:22:06]: Lhendy51 placed the block GRASS_BLOCK at the location 67, 71, -256.
+[21:22:07]: Lhendy51 placed the block GRASS_BLOCK at the location 68, 71, -256.
+[21:22:07]: Lhendy51 placed the block GRASS_BLOCK at the location 69, 71, -256.
+[21:22:08]: Lhendy51 placed the block GRASS_BLOCK at the location 70, 71, -256.
+[21:22:08]: Lhendy51 placed the block GRASS_BLOCK at the location 71, 71, -256.
+[21:22:08]: Lhendy51 placed the block GRASS_BLOCK at the location 72, 71, -256.
+[21:22:08]: Lhendy51 placed the block GRASS_BLOCK at the location 73, 71, -256.
+[21:22:09]: Lhendy51 placed the block GRASS_BLOCK at the location 74, 71, -256.
+[21:22:09]: Lhendy51 placed the block GRASS_BLOCK at the location 75, 71, -256.
+[21:22:09]: Lhendy51 placed the block GRASS_BLOCK at the location 76, 71, -256.
+[21:22:11]: The TPS is 20.
+[21:22:11]: The current RAM usage is 2406MB / 3072MB (78.32%).
+[21:22:11]: The current player count is 1.
+[21:22:33]: Lhendy51 placed the block ENDER_CHEST at the location 135, 73, -270.
+[21:22:37]: Lhendy51 placed the block Utilities (MAGENTA_SHULKER_BOX) at the location 136, 73, -270.
+[21:23:07]: Lhendy51 emptied a LAVA_BUCKET at the location 69, 72, -268.
+[21:23:09]: Lhendy51 emptied a LAVA_BUCKET at the location 69, 72, -267.
+[21:23:32]: Lhendy51 broke the block MAGENTA_SHULKER_BOX at the location 136, 73, -270.
+[21:23:33]: Lhendy51 picked up the item Utilities (MAGENTA_SHULKER_BOX).
+[21:23:35]: Lhendy51 broke the block ENDER_CHEST at the location 135, 73, -270.
+[21:23:36]: Lhendy51 picked up the item ENDER_CHEST.
+[21:24:14]: Lhendy51 placed the block GRASS_BLOCK at the location 106, 72, -265.
+[21:24:15]: Lhendy51 placed the block GRASS_BLOCK at the location 107, 72, -265.
+[21:24:15]: Lhendy51 placed the block GRASS_BLOCK at the location 108, 72, -265.
+[21:24:15]: Lhendy51 placed the block GRASS_BLOCK at the location 109, 72, -265.
+[21:24:15]: Lhendy51 placed the block GRASS_BLOCK at the location 110, 72, -265.
+[21:24:15]: Lhendy51 placed the block GRASS_BLOCK at the location 111, 72, -265.
+[21:24:16]: Lhendy51 placed the block GRASS_BLOCK at the location 112, 72, -265.
+[21:24:16]: Lhendy51 placed the block GRASS_BLOCK at the location 113, 72, -265.
+[21:24:16]: Lhendy51 placed the block GRASS_BLOCK at the location 114, 72, -265.
+[21:24:16]: Lhendy51 placed the block GRASS_BLOCK at the location 115, 72, -265.
+[21:24:16]: Lhendy51 placed the block GRASS_BLOCK at the location 116, 72, -265.
+[21:24:16]: Lhendy51 placed the block GRASS_BLOCK at the location 117, 72, -265.
+[21:24:17]: Lhendy51 placed the block GRASS_BLOCK at the location 118, 72, -265.
+[21:24:18]: Lhendy51 placed the block GRASS_BLOCK at the location 118, 72, -266.
+[21:24:18]: Lhendy51 placed the block GRASS_BLOCK at the location 119, 72, -265.
+[21:24:18]: Lhendy51 placed the block GRASS_BLOCK at the location 120, 72, -266.
+[21:24:18]: Lhendy51 placed the block GRASS_BLOCK at the location 120, 72, -265.
+[21:24:19]: Lhendy51 placed the block GRASS_BLOCK at the location 119, 72, -266.
+[21:24:20]: Lhendy51 placed the block GRASS_BLOCK at the location 121, 72, -266.
+[21:24:20]: Lhendy51 placed the block GRASS_BLOCK at the location 121, 72, -265.
+[21:24:20]: Lhendy51 placed the block GRASS_BLOCK at the location 122, 72, -266.
+[21:24:20]: Lhendy51 placed the block GRASS_BLOCK at the location 122, 72, -265.
+[21:24:20]: Lhendy51 placed the block GRASS_BLOCK at the location 123, 72, -266.
+[21:24:21]: Lhendy51 placed the block GRASS_BLOCK at the location 124, 72, -266.
+[21:24:22]: Lhendy51 placed the block GRASS_BLOCK at the location 124, 72, -265.
+[21:24:23]: Lhendy51 placed the block GRASS_BLOCK at the location 123, 72, -265.
+[21:24:23]: Lhendy51 placed the block GRASS_BLOCK at the location 125, 72, -265.
+[21:24:23]: Lhendy51 placed the block GRASS_BLOCK at the location 126, 72, -265.
+[21:24:24]: Lhendy51 placed the block GRASS_BLOCK at the location 127, 72, -265.
+[21:24:24]: Lhendy51 placed the block GRASS_BLOCK at the location 128, 72, -265.
+[21:24:24]: Lhendy51 placed the block GRASS_BLOCK at the location 129, 72, -266.
+[21:24:24]: Lhendy51 placed the block GRASS_BLOCK at the location 129, 72, -265.
+[21:24:25]: Lhendy51 placed the block GRASS_BLOCK at the location 130, 72, -266.
+[21:24:25]: Lhendy51 placed the block GRASS_BLOCK at the location 130, 72, -265.
+[21:24:25]: Lhendy51 placed the block GRASS_BLOCK at the location 131, 72, -267.
+[21:24:26]: Lhendy51 placed the block GRASS_BLOCK at the location 131, 72, -266.
+[21:24:27]: Lhendy51 placed the block GRASS_BLOCK at the location 132, 72, -268.
+[21:24:27]: Lhendy51 placed the block GRASS_BLOCK at the location 132, 72, -267.
+[21:24:27]: Lhendy51 placed the block GRASS_BLOCK at the location 133, 72, -268.
+[21:25:02]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -186.
+[21:25:02]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -185.
+[21:25:03]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -179.
+[21:25:03]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -180.
+[21:25:04]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -181.
+[21:25:04]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -182.
+[21:25:04]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -184.
+[21:25:05]: Lhendy51 placed the block GRASS_BLOCK at the location 19, 71, -183.
+[21:25:06]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -175.
+[21:25:06]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -176.
+[21:25:07]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -177.
+[21:25:07]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -176.
+[21:25:07]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -177.
+[21:25:07]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -177.
+[21:25:08]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -178.
+[21:25:08]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -178.
+[21:25:08]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -178.
+[21:25:10]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -179.
+[21:25:11]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -179.
+[21:25:11]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -179.
+[21:25:13]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -180.
+[21:25:13]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -180.
+[21:25:14]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -180.
+[21:25:14]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -181.
+[21:25:14]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -181.
+[21:25:14]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -181.
+[21:25:15]: Lhendy51 placed the block GRASS_BLOCK at the location 16, 71, -182.
+[21:25:15]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -182.
+[21:25:15]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -182.
+[21:25:16]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -183.
+[21:25:16]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -183.
+[21:25:16]: Lhendy51 placed the block GRASS_BLOCK at the location 17, 71, -184.
+[21:25:17]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -185.
+[21:25:17]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 72, -185.
+[21:25:17]: Lhendy51 placed the block GRASS_BLOCK at the location 18, 71, -184.
+[21:25:18]: Lhendy51 broke the block GRASS_BLOCK at the location 18, 72, -185.
+[21:25:19]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:25:38]: Lhendy51 placed the block GRASS_BLOCK at the location 21, 69, -167.
+[21:25:38]: Lhendy51 placed the block GRASS_BLOCK at the location 21, 70, -167.
+[21:25:38]: Lhendy51 placed the block GRASS_BLOCK at the location 21, 71, -167.
+[21:25:39]: Lhendy51 placed the block GRASS_BLOCK at the location 20, 69, -167.
+[21:25:41]: Lhendy51 placed the block DIRT at the location 20, 70, -167.
+[21:25:41]: Lhendy51 placed the block DIRT at the location 20, 71, -167.
+[21:25:42]: Lhendy51 placed the block DIRT at the location 15, 69, -167.
+[21:25:43]: Lhendy51 placed the block DIRT at the location 15, 70, -167.
+[21:25:43]: Lhendy51 placed the block DIRT at the location 15, 71, -167.
+[21:25:43]: Lhendy51 placed the block DIRT at the location 16, 70, -167.
+[21:25:43]: Lhendy51 placed the block DIRT at the location 16, 69, -167.
+[21:25:44]: Lhendy51 placed the block DIRT at the location 16, 71, -167.
+[21:25:45]: Lhendy51 placed the block DIRT at the location 19, 71, -167.
+[21:25:45]: Lhendy51 placed the block DIRT at the location 18, 71, -167.
+[21:25:45]: Lhendy51 placed the block DIRT at the location 18, 71, -166.
+[21:25:46]: Lhendy51 placed the block DIRT at the location 17, 71, -167.
+[21:25:47]: Lhendy51 broke the block DIRT at the location 18, 71, -166.
+[21:25:47]: Lhendy51 picked up the item DIRT.
+[21:25:48]: Lhendy51 placed the block DIRT at the location 19, 69, -167.
+[21:25:49]: Lhendy51 placed the block DIRT at the location 17, 69, -167.
+[21:25:49]: Lhendy51 placed the block DIRT at the location 18, 69, -167.
+[21:25:49]: Lhendy51 placed the block DIRT at the location 17, 70, -167.
+[21:25:50]: Lhendy51 placed the block DIRT at the location 19, 70, -167.
+[21:25:50]: Lhendy51 placed the block DIRT at the location 18, 70, -167.
+[21:25:51]: Lhendy51 placed the block DIRT at the location 15, 70, -166.
+[21:25:52]: Lhendy51 placed the block DIRT at the location 16, 70, -166.
+[21:25:52]: Lhendy51 placed the block DIRT at the location 17, 70, -166.
+[21:25:53]: Lhendy51 placed the block DIRT at the location 19, 70, -166.
+[21:25:53]: Lhendy51 placed the block DIRT at the location 18, 70, -166.
+[21:25:54]: Lhendy51 placed the block DIRT at the location 19, 69, -166.
+[21:25:54]: Lhendy51 placed the block DIRT at the location 17, 69, -166.
+[21:25:54]: Lhendy51 placed the block DIRT at the location 16, 69, -166.
+[21:25:54]: Lhendy51 placed the block DIRT at the location 15, 69, -166.
+[21:25:55]: Lhendy51 placed the block DIRT at the location 18, 69, -166.
+[21:25:56]: Lhendy51 placed the block DIRT at the location 15, 71, -166.
+[21:25:57]: Lhendy51 placed the block DIRT at the location 16, 71, -166.
+[21:25:57]: Lhendy51 placed the block DIRT at the location 17, 71, -166.
+[21:25:57]: Lhendy51 placed the block DIRT at the location 18, 71, -166.
+[21:25:58]: Lhendy51 placed the block DIRT at the location 15, 69, -165.
+[21:25:59]: Lhendy51 placed the block DIRT at the location 16, 69, -165.
+[21:25:59]: Lhendy51 placed the block DIRT at the location 17, 69, -165.
+[21:25:59]: Lhendy51 placed the block DIRT at the location 18, 69, -165.
+[21:26:00]: Lhendy51 placed the block DIRT at the location 16, 69, -162.
+[21:26:00]: Lhendy51 placed the block DIRT at the location 15, 69, -163.
+[21:26:00]: Lhendy51 placed the block DIRT at the location 16, 69, -163.
+[21:26:01]: Lhendy51 placed the block DIRT at the location 15, 69, -164.
+[21:26:01]: Lhendy51 placed the block DIRT at the location 16, 69, -164.
+[21:26:01]: Lhendy51 placed the block DIRT at the location 17, 69, -164.
+[21:26:02]: Lhendy51 placed the block DIRT at the location 15, 70, -165.
+[21:26:02]: Lhendy51 placed the block DIRT at the location 16, 70, -165.
+[21:26:03]: Lhendy51 placed the block DIRT at the location 17, 70, -165.
+[21:26:04]: Lhendy51 placed the block DIRT at the location 15, 70, -164.
+[21:26:04]: Lhendy51 placed the block DIRT at the location 16, 70, -164.
+[21:26:11]: Lhendy51 placed the block ENDER_CHEST at the location 32, 70, -177.
+[21:26:13]: Lhendy51 placed the block PURPLE_BED at the location 34, 70, -175.
+[21:26:21]: Lhendy51 broke the block PURPLE_BED at the location 33, 70, -175.
+[21:26:22]: Lhendy51 picked up the item PURPLE_BED.
+[21:26:22]: Lhendy51 placed the block PURPLE_BED at the location 31, 70, -177.
+[21:26:23]: Lhendy51 broke the block PURPLE_BED at the location 31, 70, -177.
+[21:26:24]: Lhendy51 picked up the item PURPLE_BED.
+[21:26:27]: Lhendy51 broke the block ENDER_CHEST at the location 32, 70, -177.
+[21:26:27]: Lhendy51 picked up the item ENDER_CHEST.
+[21:26:30]: Lhendy51 placed the block DIRT at the location 25, 71, -169.
+[21:26:31]: Lhendy51 placed the block DIRT at the location 26, 71, -170.
+[21:26:32]: Lhendy51 placed the block DIRT at the location 27, 71, -171.
+[21:26:32]: Lhendy51 placed the block DIRT at the location 27, 71, -172.
+[21:26:33]: Lhendy51 placed the block DIRT at the location 28, 71, -173.
+[21:26:35]: Lhendy51 placed the block DIRT at the location 28, 71, -174.
+[21:26:36]: Lhendy51 placed the block DIRT at the location 28, 71, -175.
+[21:26:36]: Lhendy51 placed the block DIRT at the location 28, 71, -176.
+[21:26:36]: Lhendy51 placed the block DIRT at the location 28, 71, -177.
+[21:26:36]: Lhendy51 placed the block DIRT at the location 28, 71, -178.
+[21:26:36]: Lhendy51 placed the block DIRT at the location 28, 71, -179.
+[21:26:37]: Lhendy51 placed the block DIRT at the location 28, 71, -180.
+[21:26:37]: Lhendy51 placed the block DIRT at the location 28, 71, -181.
+[21:26:37]: Lhendy51 placed the block DIRT at the location 28, 71, -182.
+[21:26:37]: Lhendy51 placed the block DIRT at the location 28, 71, -183.
+[21:26:38]: Lhendy51 placed the block DIRT at the location 28, 71, -184.
+[21:26:38]: Lhendy51 placed the block DIRT at the location 28, 71, -185.
+[21:26:38]: Lhendy51 placed the block DIRT at the location 28, 71, -186.
+[21:26:42]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -187.
+[21:26:42]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -188.
+[21:26:42]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -189.
+[21:26:42]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -190.
+[21:26:42]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -191.
+[21:26:43]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -192.
+[21:26:43]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -193.
+[21:26:43]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -194.
+[21:26:43]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -195.
+[21:26:44]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -197.
+[21:26:45]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -196.
+[21:26:45]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -201.
+[21:26:46]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -200.
+[21:26:46]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -199.
+[21:26:46]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 71, -198.
+[21:26:51]: Lhendy51 broke the block GRASS_BLOCK at the location 29, 73, -203.
+[21:26:52]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:26:52]: Lhendy51 broke the block GRASS_BLOCK at the location 31, 73, -204.
+[21:26:53]: Lhendy51 broke the block GRASS_BLOCK at the location 32, 73, -204.
+[21:26:53]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:26:53]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:27:01]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -199.
+[21:27:01]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -198.
+[21:27:01]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -197.
+[21:27:01]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -196.
+[21:27:02]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -195.
+[21:27:02]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -194.
+[21:27:02]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -193.
+[21:27:02]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -192.
+[21:27:02]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -191.
+[21:27:03]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -190.
+[21:27:03]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -189.
+[21:27:03]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -188.
+[21:27:03]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -186.
+[21:27:04]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -185.
+[21:27:04]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -184.
+[21:27:04]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -183.
+[21:27:04]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -182.
+[21:27:04]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -181.
+[21:27:06]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -187.
+[21:27:07]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -177.
+[21:27:07]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -179.
+[21:27:07]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -180.
+[21:27:08]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -178.
+[21:27:09]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -174.
+[21:27:09]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -175.
+[21:27:09]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -176.
+[21:27:10]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -173.
+[21:27:11]: The TPS is 20.
+[21:27:11]: The current RAM usage is 2173MB / 3072MB (70.74%).
+[21:27:11]: The current player count is 1.
+[21:27:11]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 70, -171.
+[21:27:11]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 70, -172.
+[21:27:12]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 70, -172.
+[21:27:13]: Lhendy51 placed the block GRASS_BLOCK at the location 27, 70, -170.
+[21:27:13]: Lhendy51 placed the block GRASS_BLOCK at the location 28, 70, -170.
+[21:27:14]: Lhendy51 placed the block GRASS_BLOCK at the location 25, 70, -168.
+[21:27:15]: Lhendy51 placed the block GRASS_BLOCK at the location 26, 70, -169.
+[21:27:17]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 69, -171.
+[21:27:18]: Lhendy51 placed the block GRASS_BLOCK at the location 29, 69, -170.
+[21:27:20]: Lhendy51 placed the block GRASS_BLOCK at the location 30, 69, -173.
+[21:27:22]: Lhendy51 placed the block GRASS_BLOCK at the location 30, 69, -172.
+[21:27:29]: Lhendy51 placed the block GRASS_BLOCK at the location 15, 70, -163.
+[21:27:29]: Lhendy51 placed the block GRASS_BLOCK at the location 15, 70, -162.
+[21:27:32]: Lhendy51 broke the block GRASS_BLOCK at the location 15, 71, -161.
+[21:27:33]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:31:59]: Lhendy51 teleported to 9, 80, 6.
+[21:32:00]: Lhendy51 picked up the item ROTTEN_FLESH.
+[21:32:00]: Lhendy51 picked up the item GOLDEN_SWORD.
+[21:32:11]: The TPS is 20.
+[21:32:11]: The current RAM usage is 2280MB / 3072MB (74.22%).
+[21:32:11]: The current player count is 1.
+[21:32:26]: Lhendy51 placed the block GRASS_BLOCK at the location 151, 42, 75.
+[21:32:26]: Lhendy51 placed the block GRASS_BLOCK at the location 152, 42, 75.
+[21:32:27]: Lhendy51 placed the block GRASS_BLOCK at the location 151, 42, 74.
+[21:32:27]: Lhendy51 placed the block GRASS_BLOCK at the location 152, 42, 74.
+[21:32:38]: Lhendy51 broke the block GRASS_BLOCK at the location 152, 42, 75.
+[21:32:38]: Lhendy51 broke the block GRASS_BLOCK at the location 151, 42, 74.
+[21:32:39]: Lhendy51 broke the block GRASS_BLOCK at the location 152, 42, 74.
+[21:32:39]: Lhendy51 broke the block GRASS_BLOCK at the location 151, 42, 75.
+[21:32:39]: Lhendy51 picked up the item GRASS_BLOCK.
+[21:32:44]: Lhendy51 teleported to 1228, 65, 606.
+[21:33:33]: Lhendy51 dropped the item GOLDEN_SWORD.
+[21:33:33]: Lhendy51 dropped the item ROTTEN_FLESH.
+[21:33:53]: Lhendy51 placed the block Utilities (MAGENTA_SHULKER_BOX) at the location 1266, 121, 634.
+[21:33:58]: Lhendy51 broke the block MAGENTA_SHULKER_BOX at the location 1266, 121, 634.
+[21:33:58]: Lhendy51 picked up the item Utilities (MAGENTA_SHULKER_BOX).
+[21:36:46]: Lhendy51 broke the block SOUL_LANTERN at the location 1264, 13, 646.
+[21:36:46]: Lhendy51 picked up the item SOUL_LANTERN.
+[21:36:54]: Lhendy51 placed the block SOUL_LANTERN at the location 1248, 40, 643.
+[21:37:11]: The TPS is 20.
+[21:37:11]: The current RAM usage is 2247MB / 3072MB (73.14%).
+[21:37:11]: The current player count is 1.
+[21:37:12]: Lhendy51 broke the block SOUL_LANTERN at the location 1248, 40, 643.
+[21:37:13]: Lhendy51 picked up the item SOUL_LANTERN.
+[21:37:19]: Lhendy51 placed the block SOUL_LANTERN at the location 1264, 13, 646.
+[21:42:11]: The TPS is 20.
+[21:42:11]: The current RAM usage is 2425MB / 3072MB (78.94%).
+[21:42:11]: The current player count is 1.
+[21:47:11]: The TPS is 20.
+[21:47:11]: The current RAM usage is 2210MB / 3072MB (71.94%).
+[21:47:11]: The current player count is 1.
+[21:52:11]: The TPS is 20.
+[21:52:11]: The current RAM usage is 2371MB / 3072MB (77.18%).
+[21:52:11]: The current player count is 1.
+[21:57:11]: The TPS is 20.
+[21:57:11]: The current RAM usage is 2565MB / 3072MB (83.5%).
+[21:57:11]: The current player count is 1.
+[22:02:11]: The TPS is 20.
+[22:02:11]: The current RAM usage is 2100MB / 3072MB (68.36%).
+[22:02:11]: The current player count is 1.
+[22:07:11]: The TPS is 20.
+[22:07:11]: The current RAM usage is 2418MB / 3072MB (78.71%).
+[22:07:11]: The current player count is 1.
+[22:12:11]: The TPS is 20.
+[22:12:11]: The current RAM usage is 2394MB / 3072MB (77.93%).
+[22:12:11]: The current player count is 1.
+[22:17:11]: The TPS is 20.
+[22:17:11]: The current RAM usage is 2155MB / 3072MB (70.15%).
+[22:17:11]: The current player count is 1.
+[22:18:46]: Lhendy51 quit at the location 1264, 11, 642. Their IP was 73.154.195.184.
+[22:22:10]: The TPS is 20.
+[22:22:10]: The current RAM usage is 2733MB / 3072MB (88.96%).
+[22:22:10]: The current player count is 0.
+[22:24:35]: Lhendy51 joined from the IP 73.154.195.184.
+[22:25:08]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:11]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:31]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:32]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:34]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:34]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:35]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:36]: Lhendy51 picked up the item SLIME_BALL.
+[22:25:39]: Lhendy51 picked up the item SLIME_BALL.
+[22:26:03]: Lhendy51 broke the block COAL_ORE at the location 1293, 11, 620.
+[22:26:04]: Lhendy51 broke the block COAL_ORE at the location 1292, 11, 620.
+[22:26:04]: Lhendy51 picked up the item COAL_ORE.
+[22:26:04]: Lhendy51 broke the block COAL_ORE at the location 1292, 11, 619.
+[22:26:04]: Lhendy51 picked up the item COAL_ORE.
+[22:26:05]: Lhendy51 broke the block COAL_ORE at the location 1293, 11, 619.
+[22:26:05]: Lhendy51 picked up the item COAL_ORE.
+[22:26:05]: Lhendy51 picked up the item COAL_ORE.
+[22:26:05]: Lhendy51 broke the block COAL_ORE at the location 1293, 11, 618.
+[22:26:06]: Lhendy51 broke the block COAL_ORE at the location 1292, 11, 618.
+[22:26:06]: Lhendy51 picked up the item COAL_ORE.
+[22:26:06]: Lhendy51 picked up the item COAL_ORE.
+[22:26:06]: Lhendy51 broke the block COAL_ORE at the location 1292, 11, 617.
+[22:26:07]: Lhendy51 picked up the item COAL_ORE.
+[22:26:10]: Lhendy51 broke the block COAL_ORE at the location 1297, 15, 609.
+[22:26:10]: Lhendy51 broke the block COAL_ORE at the location 1296, 15, 609.
+[22:26:11]: Lhendy51 broke the block COAL_ORE at the location 1296, 15, 608.
+[22:26:11]: Lhendy51 picked up the item COAL_ORE.
+[22:26:11]: Lhendy51 broke the block COAL_ORE at the location 1297, 15, 608.
+[22:26:11]: Lhendy51 picked up the item COAL_ORE.
+[22:26:12]: Lhendy51 broke the block COAL_ORE at the location 1297, 15, 607.
+[22:26:12]: Lhendy51 picked up the item COAL_ORE.
+[22:26:12]: Lhendy51 broke the block COAL_ORE at the location 1296, 15, 607.
+[22:26:12]: Lhendy51 picked up the item COAL_ORE.
+[22:26:13]: Lhendy51 picked up the item COAL_ORE.
+[22:27:11]: The TPS is 20.
+[22:27:11]: The current RAM usage is 2133MB / 3072MB (69.43%).
+[22:27:11]: The current player count is 1.
+[22:32:11]: The TPS is 20.
+[22:32:11]: The current RAM usage is 2502MB / 3072MB (81.45%).
+[22:32:11]: The current player count is 1.
+[22:33:46]: Lhendy51 quit at the location 1264, 121, 629. Their IP was 73.154.195.184.
+[22:37:10]: The TPS is 20.
+[22:37:10]: The current RAM usage is 2802MB / 3072MB (91.21%).
+[22:37:10]: The current player count is 0.
+[22:42:10]: The TPS is 20.
+[22:42:10]: The current RAM usage is 2398MB / 3072MB (78.06%).
+[22:42:10]: The current player count is 0.
+[22:43:17]: Lhendy51 joined from the IP 73.154.195.184.
+[22:44:07]: Lhendy51 broke the block STONE at the location 1223, 56, 650.
+[22:44:07]: Lhendy51 broke the block STONE at the location 1222, 56, 649.
+[22:44:08]: Lhendy51 picked up the item STONE.
+[22:44:08]: Lhendy51 picked up the item STONE.
+[22:44:17]: Lhendy51 placed the block STONE at the location 1222, 56, 649.
+[22:44:17]: Lhendy51 placed the block STONE at the location 1223, 56, 650.
+[22:44:41]: Lhendy51 teleported to 151, 43, 76.
+[22:45:18]: Lhendy51 teleported to 58, 74, 2.
+[22:47:11]: The TPS is 20.
+[22:47:11]: The current RAM usage is 1960MB / 3072MB (63.8%).
+[22:47:11]: The current player count is 1.
+[22:48:33]: Lhendy51 teleported to 57, 63, -128.
+[22:48:33]: Lhendy51 teleported to 57, 64, -128.
+[22:50:11]: Lhendy51 placed the block ENDER_CHEST at the location 58, 72, -38.
+[22:50:13]: Lhendy51 placed the block Mumbox (RED_SHULKER_BOX) at the location 59, 72, -38.
+[22:50:15]: Lhendy51 dropped the item DROPPER.
+[22:50:19]: Lhendy51 picked up the item DROPPER.
+[22:50:27]: Lhendy51 broke the block PACKED_ICE at the location 116, 69, -39.
+[22:50:28]: Lhendy51 picked up the item PACKED_ICE.
+[22:50:30]: Lhendy51 placed the block DROPPER at the location 116, 69, -39.
+[22:50:38]: Lhendy51 placed the block STONE_PRESSURE_PLATE at the location 116, 70, -39.
+[22:50:59]: Lhendy51 picked up the item PACKED_ICE.
+[22:51:08]: Lhendy51 teleported to 115, 70, -43.
+[22:51:08]: Lhendy51 teleported to 115, 70, -43.
+[22:51:11]: Lhendy51 broke the block STONE_PRESSURE_PLATE at the location 116, 70, -39.
+[22:51:12]: Lhendy51 picked up the item STONE_PRESSURE_PLATE.
+[22:51:17]: Lhendy51 placed the block STONE_PRESSURE_PLATE at the location 115, 70, -39.
+[22:51:18]: Lhendy51 picked up the item PACKED_ICE.
+[22:51:26]: Lhendy51 picked up the item BIRCH_BOAT.
+[22:51:45]: Lhendy51 teleported to 141, 68, -52.
+[22:51:45]: Lhendy51 teleported to 141, 68, -52.
+[22:51:46]: Lhendy51 picked up the item BIRCH_BOAT.
+[22:51:50]: Lhendy51 picked up the item PACKED_ICE.
+[22:52:11]: The TPS is 20.
+[22:52:11]: The current RAM usage is 2296MB / 3072MB (74.74%).
+[22:52:11]: The current player count is 1.
+[22:52:15]: Lhendy51 picked up the item PACKED_ICE.
+[22:52:26]: Lhendy51 teleported to 115, 70, -41.
+[22:52:26]: Lhendy51 teleported to 115, 70, -41.
+[22:52:30]: Lhendy51 picked up the item BIRCH_BOAT.
+[22:52:33]: Lhendy51 broke the block PACKED_ICE at the location 114, 69, -39.
+[22:52:33]: Lhendy51 picked up the item PACKED_ICE.
+[22:52:33]: Lhendy51 broke the block PACKED_ICE at the location 115, 69, -39.
+[22:52:34]: Lhendy51 picked up the item STONE_PRESSURE_PLATE.
+[22:52:34]: Lhendy51 picked up the item PACKED_ICE.
+[22:52:36]: Lhendy51 placed the block STONE at the location 115, 69, -39.
+[22:52:36]: Lhendy51 placed the block STONE at the location 114, 69, -39.
+[22:52:39]: Lhendy51 placed the block STONE_PRESSURE_PLATE at the location 115, 70, -39.
+[22:53:09]: Lhendy51 picked up the item Drillmasters (NETHERITE_BOOTS).
+[22:53:33]: Lhendy51 teleported to 400, 69, -139.
+[22:53:33]: Lhendy51 teleported to 400, 69, -139.
+[22:53:35]: Lhendy51 picked up the item BIRCH_BOAT.
+[22:54:16]: Lhendy51 broke the block RED_SHULKER_BOX at the location 59, 72, -38.
+[22:54:16]: Lhendy51 picked up the item Mumbox (RED_SHULKER_BOX).
+[22:54:18]: Lhendy51 broke the block ENDER_CHEST at the location 58, 72, -38.
+[22:54:19]: Lhendy51 picked up the item ENDER_CHEST.
+[22:56:16]: Lhendy51 placed the block ENDER_CHEST at the location 10, 67, 35.
+[22:56:19]: Lhendy51 dropped the item CRAFTING_TABLE.
+[22:56:21]: Lhendy51 picked up the item CRAFTING_TABLE.
+[22:56:21]: Lhendy51 placed the block CRAFTING_TABLE at the location 11, 67, 35.
+[22:56:28]: Lhendy51 broke the block CRAFTING_TABLE at the location 11, 67, 35.
+[22:56:28]: Lhendy51 picked up the item CRAFTING_TABLE.
+[22:56:34]: Lhendy51 broke the block ENDER_CHEST at the location 10, 67, 35.
+[22:56:34]: Lhendy51 picked up the item ENDER_CHEST.
+[22:56:53]: Lhendy51 teleported to 9, 80, 7.
+[22:57:11]: The TPS is 20.
+[22:57:11]: The current RAM usage is 2359MB / 3072MB (76.79%).
+[22:57:11]: The current player count is 1.
+[22:57:23]: Lhendy51 teleported to 1228, 65, 606.
+[22:57:25]: Lhendy51 teleported to 1228, 65, 606.
+[22:57:41]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 70, 635.
+[22:57:41]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1225, 69, 636.
+[22:57:42]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 69, 637.
+[22:57:44]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 71, 631.
+[22:57:45]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1223, 71, 630.
+[22:57:45]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 71, 630.
+[22:57:46]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 72, 630.
+[22:57:46]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1223, 71, 629.
+[22:57:47]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 71, 629.
+[22:57:47]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 72, 629.
+[22:57:48]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1224, 73, 630.
+[22:57:50]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1226, 70, 631.
+[22:57:51]: Lhendy51 broke the block DIAMOND_BLOCK at the location 1226, 70, 631.
+[22:57:52]: Lhendy51 picked up the item DIAMOND_BLOCK.
+[22:57:53]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1225, 72, 631.
+[22:57:53]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1225, 71, 631.
+[22:57:54]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1225, 71, 632.
+[22:57:55]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1226, 70, 632.
+[22:57:57]: Lhendy51 placed the block DIAMOND_BLOCK at the location 1226, 69, 634.
+[22:59:40]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[22:59:43]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[22:59:47]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[22:59:49]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[22:59:52]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[22:59:54]: Lhendy51 picked up the item Waterboy (TRIDENT).
+[23:00:28]: Lhendy51 broke the block CHAIN at the location 1265, 124, 635.
+[23:00:29]: Lhendy51 picked up the item CHAIN.
+[23:00:32]: Lhendy51 placed the block CHAIN at the location 1265, 124, 635.
+[23:00:32]: Lhendy51 picked up the item SOUL_LANTERN.
+[23:00:33]: Lhendy51 placed the block SOUL_LANTERN at the location 1265, 123, 635.
+[23:00:55]: Lhendy51 quit at the location 1261, 121, 629. Their IP was 73.154.195.184.
+[23:02:18]: The TPS is 19.99.
+[23:02:18]: The current RAM usage is 2431MB / 3072MB (79.13%).
+[23:02:18]: The current player count is 0.
+[23:07:17]: The TPS is 20.
+[23:07:17]: The current RAM usage is 1974MB / 3072MB (64.26%).
+[23:07:17]: The current player count is 0.
+[23:12:17]: The TPS is 20.
+[23:12:17]: The current RAM usage is 2146MB / 3072MB (69.86%).
+[23:12:17]: The current player count is 0.
+[23:17:17]: The TPS is 20.
+[23:17:17]: The current RAM usage is 2285MB / 3072MB (74.38%).
+[23:17:17]: The current player count is 0.
+[23:22:17]: The TPS is 20.
+[23:22:17]: The current RAM usage is 2357MB / 3072MB (76.73%).
+[23:22:17]: The current player count is 0.
+[23:27:17]: The TPS is 20.
+[23:27:17]: The current RAM usage is 2397MB / 3072MB (78.03%).
+[23:27:17]: The current player count is 0.
+[23:32:17]: The TPS is 20.
+[23:32:17]: The current RAM usage is 2399MB / 3072MB (78.09%).
+[23:32:17]: The current player count is 0.
+[23:37:17]: The TPS is 20.
+[23:37:17]: The current RAM usage is 2537MB / 3072MB (82.58%).
+[23:37:17]: The current player count is 0.
+[23:42:17]: The TPS is 20.
+[23:42:17]: The current RAM usage is 2590MB / 3072MB (84.31%).
+[23:42:17]: The current player count is 0.
+[23:47:17]: The TPS is 20.
+[23:47:17]: The current RAM usage is 2667MB / 3072MB (86.82%).
+[23:47:17]: The current player count is 0.
+[23:52:17]: The TPS is 20.
+[23:52:17]: The current RAM usage is 2701MB / 3072MB (87.92%).
+[23:52:17]: The current player count is 0.
+[23:57:17]: The TPS is 20.
+[23:57:17]: The current RAM usage is 2761MB / 3072MB (89.88%).
+[23:57:17]: The current player count is 0.

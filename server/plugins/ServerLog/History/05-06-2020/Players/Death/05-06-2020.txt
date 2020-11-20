@@ -1,0 +1,36 @@
+[01:03:58]: Austin_Powers_ died because of THORNS.
+[01:06:48]: Comrade91 died because of FALL.
+[01:13:34]: Austin_Powers_ died because of DROWNING.
+[01:14:39]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[01:15:17]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[01:16:14]: Austin_Powers_ died because of ENTITY_ATTACK by Borps with Borp's Sharp Object (DIAMOND_SWORD).
+[01:16:44]: Austin_Powers_ died because of ENTITY_ATTACK by ya_boi_ehoff with THIS TOOK 32 GODAMN LEVES TO RENAME (DIAMOND_SWORD).
+[01:17:05]: Austin_Powers_ died because of ENTITY_ATTACK by ya_boi_ehoff with THIS TOOK 32 GODAMN LEVES TO RENAME (DIAMOND_SWORD).
+[01:21:09]: Comrade91 died because of FALL.
+[01:25:42]: Comrade91 died because of FALL.
+[01:27:07]: BenDoesMusic died because of FALL.
+[01:30:17]: Austin_Powers_ died because of FALL.
+[01:38:52]: ya_boi_ehoff died because of FALL.
+[03:08:49]: Austin_Powers_ died because of ENTITY_ATTACK by ya_boi_ehoff with THIS TOOK 32 GODAMN LEVES TO RENAME (DIAMOND_SWORD).
+[03:28:09]: Austin_Powers_ died because of FIRE_TICK.
+[03:38:34]: Comrade91 died because of FALL.
+[04:09:31]: Austin_Powers_ died because of FALL.
+[04:23:48]: Comrade91 died because of FALL.
+[04:27:51]: Austin_Powers_ died because of ENTITY_ATTACK by Zombie Pigman.
+[04:32:40]: Austin_Powers_ died because of FALL.
+[04:33:06]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[04:34:40]: Austin_Powers_ died because of FALL.
+[04:37:45]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[04:39:01]: Austin_Powers_ died because of ENTITY_ATTACK by BenDoesMusic with The Circumciser Mk. 3 (DIAMOND_SWORD).
+[04:42:46]: Comrade91 died because of FALL.
+[04:48:07]: Austin_Powers_ died because of FALL.
+[04:55:10]: Austin_Powers_ died because of VOID.
+[04:57:10]: BenDoesMusic died because of FALL.
+[21:36:10]: captainasia_ died because of FALL.
+[21:40:56]: Borps died because of ENTITY_ATTACK by BenjaboyQ with Quinticus (DIAMOND_SWORD).
+[21:45:04]: captainasia_ died because of FALL.
+[21:48:58]: captainasia_ died because of FALL.
+[21:56:15]: spotttedleaf died because of FALL.
+[22:35:04]: BenDoesMusic died because of ENTITY_ATTACK by Iron Golem.
+[23:14:10]: Borps died because of FALL.
+[23:50:02]: Austin_Powers_ died because of ENTITY_ATTACK by Magma Cube.

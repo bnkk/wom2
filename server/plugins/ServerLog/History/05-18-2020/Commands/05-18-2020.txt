@@ -1,0 +1,205 @@
+[20:42:43]: Lhendy51 ran the command /tp @s BenjaboyQ.
+[20:42:54]: Lhendy51 ran the command /tp @s BenjaboyQ.
+[20:43:05]: Lhendy51 ran the command /gamemode spectator.
+[20:43:15]: Lhendy51 ran the command /tp @s BenjaboyQ.
+[20:45:11]: Lhendy51 ran the command /help.
+[20:45:20]: Lhendy51 ran the command /minecraft.
+[20:45:44]: Lhendy51 ran the command /tp Lhendy51 BenjaboyQ.
+[21:14:38]: Lhendy51 ran the command /gamemode spectator.
+[21:16:15]: Lhendy51 ran the command /gamemode survival.
+[21:45:02]: BenDoesMusic ran the command /msg BenjaboyQ i think we have emi on our side now.
+[21:45:16]: BenjaboyQ ran the command /tell BenDoesMusic excellent.
+[21:47:20]: BenDoesMusic ran the command /day.
+[21:47:20]: BenDoesMusic ran the command /time set day.
+[21:49:24]: BenDoesMusic ran the command /msg BenjaboyQ we have to have the vote soon.
+[21:54:52]: Austin_Powers_ ran the command /me either.
+[21:58:12]: Borps ran the command /tp Lhendy51.
+[21:58:40]: Borps ran the command /thru.
+[21:58:41]: Borps ran the command /thru.
+[21:59:48]: Borps ran the command /title @a title {"¯\_(ツ)_/¯"}.
+[22:00:01]: BenjaboyQ ran the command /tell BenDoesMusic i liberated your head.
+[22:00:10]: BenDoesMusic ran the command /msg BenjaboyQ we need to find his stash of heads.
+[22:00:12]: Borps ran the command /title @a title "meep".
+[22:00:28]: Borps ran the command /title @a title "(╯°□°）╯︵ ┻━┻".
+[22:00:50]: Borps ran the command /tp Austin_Powers_.
+[22:00:57]: Borps ran the command /gmsp.
+[22:00:57]: Borps ran the command /gamemode spectator.
+[22:01:00]: Borps ran the command /tp BenDoesMusic.
+[22:02:25]: Borps ran the command /gmc.
+[22:02:25]: Borps ran the command /gamemode creative.
+[22:07:53]: Borps ran the command /hologram.
+[22:09:46]: BenDoesMusic ran the command /day.
+[22:09:46]: BenDoesMusic ran the command /time set day.
+[22:10:28]: Borps ran the command /summon minecraft:armor_stand ~ ~1 ~ {Invisible:1,direction:[0.0,0.0,0.0],ExplosionPower:0,CustomName:"if you come in here with frost walker, i will hunt you down",CustomNameVisible:true}.
+[22:10:50]: Borps ran the command /kill @e[type=minecraft:armor_stand].
+[22:11:09]: Austin_Powers_ ran the command /no.
+[22:11:24]: Borps ran the command /thru.
+[22:12:01]: BenDoesMusic ran the command /tp TARDIS_360 BenDoesMusic.
+[22:12:24]: BenDoesMusic ran the command /tp Borps.
+[22:15:59]: Borps ran the command /summon armor_stand ~ ~ ~ {Invisible:1,Invulnerable:1,CustomName:"\"if you come in here with frost walker, i will make your life hell\"",CustomNameVisible:1,NoGravity:1,Marker:1b,Small:1,Tags:"\"Xtag\""}.
+[22:16:39]: Borps ran the command /kill @e[type=minecraft:armor_stand,tag=Xtag].
+[22:17:36]: Borps ran the command /kill @e[type=minecraft:armor_stand].
+[22:18:01]: Borps ran the command /summon armor_stand ~ ~1 ~ {Invisible:1,Invulnerable:1,CustomName:"\"if you come in here with frost walker, i will make your life hell\"",CustomNameVisible:1,NoGravity:1,Marker:1b,Small:1,Tags:"\"Xtag\""}.
+[22:18:15]: Borps ran the command /tp TARDIS_360.
+[22:20:36]: Borps ran the command /bossbar add 1 "¯\\_(ツ)_/¯".
+[22:20:45]: Borps ran the command /bossbar set minecraft:1 visible true.
+[22:20:50]: Borps ran the command /bossbar set minecraft:1 players @a.
+[22:21:08]: Borps ran the command /bossbar add 2 "(╯°□°）╯︵ ┻━┻".
+[22:21:14]: Borps ran the command /bossbar set minecraft:2 players @a.
+[22:21:38]: Borps ran the command /bossbar add 3 "┬─┬ ノ( ゜-゜ノ)".
+[22:21:43]: Borps ran the command /bossbar set minecraft:3 players @a.
+[22:22:14]: Borps ran the command /bossbar set minecraft:1 color blue.
+[22:22:17]: Borps ran the command /bossbar set minecraft:1 color red.
+[22:22:19]: Borps ran the command /bossbar set minecraft:1 color blue.
+[22:22:26]: Borps ran the command /bossbar set minecraft:2 color red.
+[22:22:33]: Borps ran the command /bossbar set minecraft:2 max 100.
+[22:22:36]: Borps ran the command /bossbar set minecraft:2 max 10.
+[22:22:38]: Borps ran the command /bossbar set minecraft:2 max 100.
+[22:22:44]: Borps ran the command /bossbar set minecraft:2 value 100.
+[22:22:51]: Borps ran the command /bossbar set minecraft:1 value 100.
+[22:22:57]: Borps ran the command /bossbar set minecraft:3 value 100.
+[22:24:07]: Borps ran the command /tp Austin_Powers_.
+[22:24:45]: Borps ran the command /tp Lhendy51.
+[22:31:42]: Borps ran the command /kick BenDoesMusic cum.
+[22:31:59]: Borps ran the command /lp group moderator permission info.
+[22:32:17]: Borps ran the command /lp group moderator permission unset ab.*.
+[22:32:36]: Borps ran the command /bossbar remove minecraft:1.
+[22:32:38]: Borps ran the command /bossbar remove minecraft:2.
+[22:32:39]: Borps ran the command /bossbar remove minecraft:3.
+[22:32:53]: Borps ran the command /kick BenDoesMusic cum.
+[22:33:03]: Borps ran the command /lp group moderator permission unset ab.kick.*.
+[22:33:18]: Borps ran the command /kick BenDoesMusic cum.
+[22:33:54]: Austin_Powers_ ran the command /.
+[22:34:32]: Borps ran the command /tempmute Austin_Powers_ 1h big cum.
+[22:35:05]: Borps ran the command /openinv BenDoesMusic.
+[22:35:45]: Borps ran the command /openinv BenDoesMusic.
+[22:35:57]: Borps ran the command /day.
+[22:35:57]: Borps ran the command /time set day.
+[22:36:41]: Borps ran the command /openinv BenDoesMusic.
+[22:36:58]: Borps ran the command /unmute Austin_Powers_.
+[22:37:16]: Borps ran the command /openinv BenDoesMusic.
+[22:37:36]: Borps ran the command /openinv BenDoesMusic.
+[22:39:08]: Borps ran the command /gmsp.
+[22:39:08]: Borps ran the command /gamemode spectator.
+[22:40:09]: BenjaboyQ ran the command /tell BenDoesMusic the revolution cannot come fast enough.
+[22:41:03]: Borps ran the command /gmc.
+[22:41:03]: Borps ran the command /gamemode creative.
+[22:43:48]: Borps ran the command /shopkeeper.
+[22:43:58]: Borps ran the command /shopkeeper.
+[22:44:44]: Borps ran the command /summon minecraft:creeper ~ ~ ~ {powered:1,Fuse:4}.
+[22:44:51]: BenDoesMusic ran the command /tp Borps.
+[22:45:01]: Borps ran the command /tp TARDIS_360 @s.
+[22:45:41]: Borps ran the command /tp 0 100 0.
+[22:46:53]: BenDoesMusic ran the command /tp BenjaboyQ BenDoesMusic.
+[22:47:50]: Borps ran the command /spr colors.
+[22:48:03]: Borps ran the command /tab player.
+[22:48:34]: Borps ran the command /tp BenDoesMusic.
+[22:49:11]: Borps ran the command /tab player Austin_Powers_ belowname [&5Groovy&r].
+[22:49:35]: BenjaboyQ ran the command /tell TARDIS_360 that will soon change.... will be explained soon.
+[22:49:58]: TARDIS_360 ran the command /msg BenjaboyQ im so excited.
+[22:50:27]: Borps ran the command /title @a actionbar {"color":"green","text":"Austin_Powers_ has been demoted from Co-Dictator to Groovy"}.
+[22:50:42]: BenjaboyQ ran the command /tell TARDIS_360 the current establisment is corrupt... we have proof of cheat items on their possession... strong leadership will return soon.
+[22:51:07]: TARDIS_360 ran the command /msg BenjaboyQ when does the revolution start?.
+[22:51:28]: BenjaboyQ ran the command /tell TARDIS_360 sometime this week... we have the hidden majority.
+[22:51:45]: BenjaboyQ ran the command /tell TARDIS_360 do not forget our friendship.
+[22:52:00]: TARDIS_360 ran the command /msg BenjaboyQ who else is in on it? i gotchu. cod is forever.
+[22:52:21]: Borps ran the command /thru.
+[22:52:24]: BenjaboyQ ran the command /tell TARDIS_360 ben, braydon, erik ,hunter, ethan.
+[22:52:33]: BenjaboyQ ran the command /tell TARDIS_360 this cannot be leaked.
+[22:52:48]: TARDIS_360 ran the command /msg BenDoesMusic sick, of course! i would never betray the codfather.
+[22:52:56]: BenDoesMusic ran the command /msg TARDIS_360 wrong person.
+[22:53:10]: Borps ran the command /tp TARDIS_360.
+[22:53:16]: TARDIS_360 ran the command /msg BenjaboyQ im sorrryyyy youre in on it anyways.
+[22:53:26]: Borps ran the command /tp 0 100 0.
+[22:53:30]: BenjaboyQ ran the command /tell TARDIS_360 what did you do.
+[22:53:47]: TARDIS_360 ran the command /msg BenjaboyQ sent "of course" to other ben oops.
+[22:53:58]: BenjaboyQ ran the command /tell TARDIS_360 oh you good.
+[22:54:09]: TARDIS_360 ran the command /msg BenjaboyQ okay good lol.
+[22:54:44]: BenjaboyQ ran the command /tell BenDoesMusic emi is firmly on our side, revolution should start tomorrow.
+[22:54:54]: BenDoesMusic ran the command /msg BenjaboyQ perfect.
+[22:55:27]: Borps ran the command /tp 0 100 0.
+[22:58:55]: Borps ran the command /day.
+[22:58:55]: Borps ran the command /time set day.
+[22:59:14]: BenDoesMusic ran the command /msg BenjaboyQ when is the white house being built.
+[22:59:23]: BenjaboyQ ran the command /tell BenDoesMusic tomorrow.
+[22:59:28]: BenDoesMusic ran the command /msg BenjaboyQ ok.
+[23:00:01]: BenjaboyQ ran the command /tell BenDoesMusic already made blueprints.
+[23:04:50]: Borps ran the command /reload confirm.
+[23:06:25]: Borps ran the command /datapack list.
+[23:08:52]: Borps ran the command /mute BenjaboyQ.
+[23:09:01]: Borps ran the command /unmute BenjaboyQ.
+[23:11:50]: Borps ran the command /lp group default permission set ab.notify.*.
+[23:11:58]: Borps ran the command /mute BenjaboyQ.
+[23:12:12]: Borps ran the command /unmute BenjaboyQ.
+[23:12:24]: Borps ran the command /lp group default permission unset ab.notify.*.
+[23:12:35]: Borps ran the command /lp group default permission set ab.mute.notify.
+[23:12:45]: Borps ran the command /lp group default permission set ab.kick.notify.
+[23:12:50]: Borps ran the command /lp group default permission set ab.ban.notify.
+[23:13:23]: Borps ran the command /mute BenDoesMusic.
+[23:13:29]: Borps ran the command /unmute BenDoesMusic.
+[23:14:31]: Borps ran the command /thru.
+[23:15:40]: Borps ran the command /summon chicken ~ ~ ~ {Passengers:[{id:zombie,IsBaby:1}]}.
+[23:16:38]: Borps ran the command /summon chicken ~ ~ ~ {Passengers:[{id:zombie,IsBaby:1,Passengers:[{id:spider}]}]}.
+[23:20:06]: Borps ran the command /summon minecraft:pig ~ ~ ~ {NoAI:1,Invincible:1,Passengers:[{id:zombie_pigman,NoAI:1,HandItems:[{id:golden_sword,Count:1b}]}]}.
+[23:21:13]: Lhendy51 ran the command /tp Lhendy51 BenDoesMusic.
+[23:21:33]: Borps ran the command /summon minecraft:pig ~ ~ ~ {NoAI:1,Invulnerable:1,Passengers:[{id:zombie_pigman,NoAI:1,HandItems:[{id:golden_sword,Count:1b}],Invulnerable:1}]}.
+[23:21:51]: Borps ran the command /give BenDoesMusic minecraft:name_tag.
+[23:22:24]: Borps ran the command /summon minecraft:chicken ~ ~ ~ {Passengers:[{id:zombie,IsBaby:1}]}.
+[23:23:09]: Borps ran the command /give BenDoesMusic minecraft:name_tag.
+[23:23:10]: Borps ran the command /summon minecraft:chicken ~ ~ ~ {Passengers:[{id:zombie,IsBaby:1}]}.
+[23:24:08]: Borps ran the command /summon minecraft:pig ~ ~ ~ {NoAI:1,Invulnerable:1,Passengers:[{id:zombie_pigman,NoAI:1,HandItems:[{id:golden_sword,Count:1b}],Invulnerable:1,Passengers:[{id:bee}]}]}.
+[23:25:05]: Borps ran the command /summon minecraft:pig ~ ~ ~ {NoAI:1,Invulnerable:1,Passengers:[{id:zombie_pigman,NoAI:1,HandItems:[{id:golden_sword,Count:1b}],Invulnerable:1,Passengers:[{id:bee}]}]}.
+[23:27:03]: Borps ran the command /give Borps lead.
+[23:27:14]: Borps ran the command /summon minecraft:pig ~ ~ ~ {Invulnerable:1,Passengers:[{id:zombie_pigman,NoAI:1,HandItems:[{id:golden_sword,Count:1b}],Invulnerable:1,Passengers:[{id:bee}]}]}.
+[23:28:51]: Borps ran the command /summon minecraft:pig ~ ~ ~ {Invulnerable:1,Passengers:[{id:zombie_pigman,NoAI:1,HandItems:[{id:golden_sword,Count:1b}],Invulnerable:1,Passengers:[{id:bee,Passengers:[{id:cow}]}]}]}.
+[23:30:39]: Borps ran the command /summon bat ~ ~1 ~ {NoAI:1,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat}]}]}]}]}]}.
+[23:31:37]: Borps ran the command /summon bat ~ ~1 ~ {NoAI:1,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat,Passengers:[{id:bat}]}]}]}]}]}]}]}]}]}.
+[23:32:15]: Borps ran the command /give Borps lead.
+[23:33:24]: BenDoesMusic ran the command /summon minecraft:end_crystal.
+[23:33:50]: Borps ran the command /kill @e[type=minecraft:end_crystal].
+[23:34:01]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:04]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:04]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:05]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:05]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:05]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:06]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:06]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:06]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:07]: BenDoesMusic ran the command /summon minecraft:ender_pearl.
+[23:34:27]: BenDoesMusic ran the command /summon minecraft:giant.
+[23:35:03]: Borps ran the command /summon minecraft:end_crystal ~ ~ ~ {Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal}]}]}]}.
+[23:35:48]: Borps ran the command /kill @e[type=minecraft:end_crystal].
+[23:36:18]: BenDoesMusic ran the command /day.
+[23:36:18]: BenDoesMusic ran the command /time set day.
+[23:36:33]: Borps ran the command /summon minecraft:end_crystal ~ ~ ~ {Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal}]}]}]}]}]}.
+[23:37:55]: BenDoesMusic ran the command /summon minecraft:end_crystal.
+[23:37:56]: Borps ran the command /thru.
+[23:38:00]: Borps ran the command /kill @e[type=minecraft:end_crystal].
+[23:38:06]: Borps ran the command /tp Austin_Powers_ Borps.
+[23:38:08]: BenDoesMusic ran the command /gamemode spectator.
+[23:38:14]: BenDoesMusic ran the command /gamemode survival.
+[23:38:21]: Borps ran the command /summon minecraft:end_crystal ~ ~ ~ {Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal,Passengers:[{id:end_crystal}]}]}]}]}]}.
+[23:39:57]: Borps ran the command /summon minecraft:end_crystal ~ ~ ~ {ExplosionRadius:50}.
+[23:40:20]: BenDoesMusic ran the command /tp Borps.
+[23:40:26]: Borps ran the command /summon minecraft:end_crystal ~ ~ ~ {ExplosionRadius:127}.
+[23:40:43]: BenDoesMusic ran the command /tp Borps.
+[23:40:48]: Borps ran the command /summon minecraft:end_crystal ~ ~ ~ {Explosionpower:127}.
+[23:41:31]: Borps ran the command /summon minecraft:creeper ~ ~ ~ {ExplosionPower:255}.
+[23:41:37]: BenDoesMusic ran the command /tp Borps.
+[23:41:38]: BenDoesMusic ran the command /tp Borps.
+[23:41:51]: Borps ran the command /summon minecraft:fireball ~ ~1 ~ {ExplosionPower:2147483647}.
+[23:42:02]: Borps ran the command /summon minecraft:creeper ~ ~1 ~ {ExplosionRadius:127}.
+[23:42:14]: BenDoesMusic ran the command /tp Borps.
+[23:42:39]: Borps ran the command /summon minecraft:end_crystal.
+[23:44:56]: Borps ran the command /summon minecraft:creeper ~ ~ ~ {NoAI:1,powered:1,Fuse:4,ExplosionRadius:127}.
+[23:45:02]: BenDoesMusic ran the command /gamemode survival.
+[23:45:05]: BenDoesMusic ran the command /gamemode spectator.
+[23:46:34]: Borps ran the command /day.
+[23:46:34]: Borps ran the command /time set day.
+[23:46:45]: Borps ran the command /summon minecraft:creeper ~ ~ ~ {NoAI:1,powered:1,Fuse:4,ExplosionRadius:127}.
+[23:47:22]: BenDoesMusic ran the command /gamemode creative.
+[23:47:40]: BenDoesMusic ran the command /gamemode survival.
+[23:48:13]: BenDoesMusic ran the command /gamemode creative.
+[23:48:22]: BenDoesMusic ran the command /gamemode survival.
+[23:50:17]: BenDoesMusic ran the command /gamemode spectator.

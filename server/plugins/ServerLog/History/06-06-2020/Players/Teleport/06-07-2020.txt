@@ -1,0 +1,5 @@
+[00:00:24]: Austin_Powers_ teleported to 25, 129, -242.
+[00:00:44]: Austin_Powers_ teleported to -589, 85, -738.
+[00:00:45]: Austin_Powers_ teleported to -589, 85, -738.
+[00:01:29]: Austin_Powers_ teleported to -73, 129, -94.
+[00:02:00]: Austin_Powers_ teleported to 58, 74, 2.

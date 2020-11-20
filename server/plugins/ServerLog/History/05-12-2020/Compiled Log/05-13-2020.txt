@@ -1,0 +1,100 @@
+[00:00:03]: BenDoesMusic broke the block GRASS at the location 1484, 65, 175.
+[00:00:09]: BenDoesMusic broke the block GRASS at the location 1483, 67, 207.
+[00:00:10]: BenDoesMusic broke the block GRASS at the location 1483, 68, 212.
+[00:00:10]: BenDoesMusic broke the block GRASS at the location 1481, 69, 211.
+[00:00:12]: BenDoesMusic broke the block GRASS at the location 1482, 69, 215.
+[00:00:13]: BenDoesMusic broke the block GRASS at the location 1484, 69, 216.
+[00:00:14]: BenDoesMusic broke the block GRASS at the location 1485, 69, 220.
+[00:00:14]: BenDoesMusic broke the block GRASS at the location 1482, 69, 222.
+[00:00:15]: BenDoesMusic broke the block GRASS at the location 1486, 69, 221.
+[00:00:15]: BenDoesMusic broke the block GRASS at the location 1486, 69, 222.
+[00:00:16]: BenDoesMusic broke the block GRASS at the location 1486, 68, 220.
+[00:00:18]: BenDoesMusic broke the block GRASS at the location 1485, 69, 226.
+[00:00:18]: BenDoesMusic broke the block GRASS at the location 1486, 69, 228.
+[00:00:19]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:19]: BenDoesMusic broke the block GRASS at the location 1486, 69, 231.
+[00:00:19]: BenDoesMusic broke the block GRASS at the location 1486, 69, 232.
+[00:00:20]: BenDoesMusic broke the block GRASS at the location 1486, 69, 233.
+[00:00:20]: BenDoesMusic broke the block GRASS at the location 1486, 69, 234.
+[00:00:20]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:20]: BenDoesMusic broke the block GRASS at the location 1487, 69, 235.
+[00:00:20]: BenDoesMusic broke the block GRASS at the location 1487, 69, 236.
+[00:00:21]: BenDoesMusic broke the block GRASS at the location 1489, 69, 237.
+[00:00:21]: BenDoesMusic broke the block GRASS at the location 1489, 69, 236.
+[00:00:21]: BenDoesMusic broke the block GRASS at the location 1489, 69, 238.
+[00:00:21]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:21]: BenDoesMusic broke the block GRASS at the location 1490, 69, 240.
+[00:00:22]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:23]: BenDoesMusic broke the block GRASS at the location 1490, 69, 236.
+[00:00:23]: BenDoesMusic broke the block GRASS at the location 1489, 69, 235.
+[00:00:23]: BenDoesMusic broke the block GRASS at the location 1488, 69, 234.
+[00:00:23]: BenDoesMusic broke the block GRASS at the location 1489, 69, 233.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1491, 69, 232.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1489, 69, 232.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1488, 69, 232.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1488, 69, 230.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1489, 69, 231.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1489, 69, 230.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1487, 69, 230.
+[00:00:24]: BenDoesMusic broke the block GRASS at the location 1489, 69, 229.
+[00:00:24]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:25]: BenDoesMusic broke the block GRASS at the location 1489, 69, 228.
+[00:00:25]: BenDoesMusic broke the block GRASS at the location 1488, 69, 228.
+[00:00:25]: BenDoesMusic broke the block GRASS at the location 1489, 69, 227.
+[00:00:25]: BenDoesMusic broke the block GRASS at the location 1491, 69, 228.
+[00:00:25]: BenDoesMusic broke the block GRASS at the location 1491, 69, 229.
+[00:00:26]: BenDoesMusic broke the block GRASS at the location 1491, 69, 230.
+[00:00:26]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:29]: BenDoesMusic broke the block GRASS at the location 1495, 68, 232.
+[00:00:29]: BenDoesMusic broke the block GRASS at the location 1495, 68, 233.
+[00:00:30]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:30]: BenDoesMusic emptied a WATER_BUCKET at the location 1493, 68, 235.
+[00:00:34]: BenDoesMusic broke the block GRASS at the location 1496, 68, 241.
+[00:00:35]: BenDoesMusic broke the block GRASS at the location 1493, 68, 244.
+[00:00:35]: BenDoesMusic broke the block GRASS at the location 1495, 68, 245.
+[00:00:35]: BenDoesMusic broke the block GRASS at the location 1496, 68, 245.
+[00:00:35]: BenDoesMusic broke the block GRASS at the location 1496, 68, 244.
+[00:00:36]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:37]: BenDoesMusic emptied a WATER_BUCKET at the location 1499, 66, 243.
+[00:00:39]: BenDoesMusic broke the block GRASS at the location 1501, 67, 237.
+[00:00:39]: BenDoesMusic broke the block GRASS at the location 1503, 67, 237.
+[00:00:46]: BenDoesMusic emptied a WATER_BUCKET at the location 1498, 67, 250.
+[00:00:46]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:00:48]: BenDoesMusic broke the block GRASS at the location 1498, 67, 248.
+[00:00:51]: BenDoesMusic broke the block GRASS at the location 1501, 69, 257.
+[00:00:51]: BenDoesMusic broke the block GRASS at the location 1502, 69, 257.
+[00:00:52]: BenDoesMusic broke the block GRASS at the location 1509, 69, 258.
+[00:00:54]: BenDoesMusic broke the block GRASS at the location 1513, 70, 263.
+[00:00:55]: BenDoesMusic broke the block GRASS at the location 1514, 69, 257.
+[00:00:56]: BenDoesMusic broke the block GRASS at the location 1514, 69, 258.
+[00:00:57]: BenDoesMusic emptied a WATER_BUCKET at the location 1511, 67, 256.
+[00:00:57]: BenDoesMusic broke the block GRASS at the location 1510, 68, 257.
+[00:00:58]: BenDoesMusic broke the block GRASS at the location 1513, 68, 255.
+[00:00:59]: BenDoesMusic emptied a WATER_BUCKET at the location 1514, 66, 253.
+[00:01:00]: BenDoesMusic broke the block GRASS at the location 1515, 67, 252.
+[00:01:01]: BenDoesMusic broke the block GRASS at the location 1512, 67, 255.
+[00:01:03]: BenDoesMusic broke the block GRASS at the location 1506, 65, 251.
+[00:01:05]: BenDoesMusic placed the block DIRT at the location 1504, 64, 252.
+[00:01:05]: BenDoesMusic placed the block DIRT at the location 1505, 64, 252.
+[00:01:05]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:01:07]: BenDoesMusic broke the block GRASS at the location 1508, 66, 241.
+[00:01:08]: BenDoesMusic broke the block GRASS at the location 1509, 66, 239.
+[00:01:08]: BenDoesMusic broke the block GRASS at the location 1511, 65, 242.
+[00:01:09]: BenDoesMusic broke the block GRASS at the location 1511, 65, 240.
+[00:01:10]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:01:12]: BenDoesMusic broke the block GRASS at the location 1517, 62, 239.
+[00:01:13]: BenDoesMusic broke the block GRASS at the location 1518, 63, 242.
+[00:01:13]: BenDoesMusic picked up the item WHEAT_SEEDS.
+[00:01:13]: BenDoesMusic broke the block GRASS at the location 1518, 63, 246.
+[00:01:14]: BenDoesMusic broke the block GRASS at the location 1519, 63, 247.
+[00:01:14]: BenDoesMusic broke the block GRASS at the location 1519, 63, 246.
+[00:01:14]: BenDoesMusic broke the block GRASS at the location 1517, 63, 248.
+[00:01:14]: BenDoesMusic broke the block GRASS at the location 1518, 63, 248.
+[00:01:15]: BenDoesMusic broke the block GRASS at the location 1519, 63, 249.
+[00:01:47]: BenDoesMusic dropped the item DIRT.
+[00:01:48]: BenDoesMusic dropped the item DIRT.
+[00:01:48]: BenDoesMusic dropped the item DIRT.
+[00:01:48]: BenDoesMusic dropped the item DIRT.
+[00:01:48]: BenDoesMusic dropped the item DIRT.
+[00:01:49]: BenDoesMusic dropped the item WHEAT_SEEDS.
+[00:01:55]: BenDoesMusic quit at the location 1484, 70, 291. Their IP was 98.111.229.85.

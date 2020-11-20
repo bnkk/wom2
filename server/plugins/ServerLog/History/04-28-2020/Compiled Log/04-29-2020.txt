@@ -1,0 +1,41 @@
+[00:00:02]: Borps placed the block GLOWSTONE at the location -3, 29, -27.
+[00:00:03]: Borps placed the block GLOWSTONE at the location -2, 29, -28.
+[00:00:05]: Borps broke the block SMOOTH_QUARTZ at the location -4, 29, -28.
+[00:00:06]: Borps placed the block GLOWSTONE at the location -4, 29, -28.
+[00:00:07]: Borps broke the block SMOOTH_QUARTZ at the location -5, 29, -27.
+[00:00:08]: Borps placed the block GLOWSTONE at the location -5, 29, -27.
+[00:00:11]: patheticsteam teleported to 5, 129, 0.
+[00:00:20]: Lhendy51 teleported to 44, 72, -2.
+[00:00:34]: Borps broke the block STONE at the location -7, 28, -30.
+[00:00:35]: Lhendy51 teleported to 5, 129, -1.
+[00:00:38]: Borps broke the block STONE at the location -7, 27, -30.
+[00:00:38]: Borps broke the block STONE at the location -8, 28, -30.
+[00:00:39]: Borps broke the block STONE at the location -8, 27, -30.
+[00:00:39]: Borps broke the block STONE at the location -9, 28, -30.
+[00:00:39]: Borps broke the block STONE at the location -9, 27, -30.
+[00:00:39]: Borps broke the block STONE at the location -10, 28, -30.
+[00:00:40]: Borps broke the block STONE at the location -10, 27, -30.
+[00:00:40]: Borps broke the block STONE at the location -10, 29, -30.
+[00:00:40]: Borps broke the block STONE at the location -9, 29, -30.
+[00:00:41]: Borps broke the block STONE at the location -8, 29, -30.
+[00:00:41]: Borps broke the block STONE at the location -7, 29, -30.
+[00:00:41]: Borps broke the block STONE at the location -7, 30, -30.
+[00:00:42]: Borps broke the block STONE at the location -8, 30, -30.
+[00:00:42]: Borps broke the block STONE at the location -9, 30, -30.
+[00:00:42]: Borps broke the block STONE at the location -10, 30, -30.
+[00:00:44]: Borps placed the block BEDROCK at the location -10, 27, -30.
+[00:00:45]: Borps placed the block BEDROCK at the location -9, 27, -30.
+[00:00:45]: Borps placed the block BEDROCK at the location -8, 27, -30.
+[00:00:45]: Borps placed the block BEDROCK at the location -7, 27, -30.
+[00:00:46]: Borps placed the block BEDROCK at the location -7, 28, -30.
+[00:00:46]: Borps placed the block BEDROCK at the location -7, 30, -30.
+[00:00:46]: Borps placed the block BEDROCK at the location -8, 30, -30.
+[00:00:47]: Borps placed the block BEDROCK at the location -10, 30, -30.
+[00:00:47]: Borps placed the block BEDROCK at the location -9, 30, -30.
+[00:00:48]: Borps placed the block BEDROCK at the location -10, 29, -30.
+[00:00:48]: Borps placed the block BEDROCK at the location -9, 29, -30.
+[00:00:48]: Borps placed the block BEDROCK at the location -8, 29, -30.
+[00:00:49]: Borps placed the block BEDROCK at the location -7, 29, -30.
+[00:00:49]: Borps placed the block BEDROCK at the location -10, 28, -30.
+[00:00:49]: Borps placed the block BEDROCK at the location -9, 28, -30.
+[00:00:50]: Borps placed the block BEDROCK at the location -8, 28, -30.

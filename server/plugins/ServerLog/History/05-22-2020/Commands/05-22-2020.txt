@@ -1,0 +1,42 @@
+[14:49:35]: BenDoesMusic ran the command /weather clear.
+[14:49:38]: BenDoesMusic ran the command /weather clear.
+[14:49:43]: BenDoesMusic ran the command /time set 0.
+[14:49:45]: BenDoesMusic ran the command /time set day.
+[16:06:45]: Borps ran the command /lp user BenDoesMusic parent set moderator.
+[16:06:54]: Borps ran the command /spr colors.
+[16:07:18]: Borps ran the command /tab player BenDoesMusic tabsuffix [&dMod&r].
+[21:08:00]: BenDoesMusic ran the command /gamemode spectator.
+[21:09:38]: BenDoesMusic ran the command /gamemode survival.
+[21:14:30]: BenjaboyQ ran the command /tell BenDoesMusic no killing whatsoever. this is a clean race.
+[21:14:44]: BenDoesMusic ran the command /msg BenjaboyQ of course.
+[21:15:35]: BenDoesMusic ran the command /msg BenjaboyQ where do the votes go.
+[21:16:09]: BenjaboyQ ran the command /tell BenDoesMusic just below.
+[21:16:23]: BenDoesMusic ran the command /msg BenjaboyQ is there like a trapdoor or do we just dig.
+[21:16:47]: BenjaboyQ ran the command /tell BenDoesMusic dig. if it were a trapdoor itd encourage peeking.
+[21:32:51]: BenDoesMusic ran the command /msg Borps you can vote too.
+[21:33:08]: Borps ran the command /msg BenDoesMusic god is not voting.
+[21:34:56]: Borps ran the command /bossbar add 1.
+[21:35:57]: Borps ran the command /bossbar add 1 {"color":"gold","text":"Vote in the election at 1460 / 270! Candidates are Logan^2 vs. Ben^2"}.
+[21:36:15]: Borps ran the command /bossbar set 1 players @a.
+[21:36:21]: Borps ran the command /gmsp.
+[21:36:21]: Borps ran the command /gamemode spectator.
+[21:36:37]: Borps ran the command /gmc.
+[21:36:37]: Borps ran the command /gamemode creative.
+[21:36:59]: Borps ran the command /bossbar set minecraft:1 value 100.
+[21:37:11]: Borps ran the command /bossbar set minecraft:1 color red.
+[21:37:34]: Borps ran the command /gmsp.
+[21:37:34]: Borps ran the command /gamemode spectator.
+[21:37:47]: Borps ran the command /gmc.
+[21:37:47]: Borps ran the command /gamemode creative.
+[21:41:32]: Borps ran the command /gmsp.
+[21:41:32]: Borps ran the command /gamemode spectator.
+[21:41:37]: Borps ran the command /tp BenDoesMusic.
+[21:41:53]: Borps ran the command /tp Lhendy51.
+[21:42:57]: BenjaboyQ ran the command /tell BenDoesMusic remember to be polite my guy.
+[21:43:15]: Borps ran the command /tellraw @a {"color":"red","bold":"true","text":"THE ELECTION WILL CONTINUE!"}.
+[21:45:10]: Lhendy51 ran the command /summon bee.
+[21:45:12]: Lhendy51 ran the command /summon bee.
+[21:45:20]: Lhendy51 ran the command /summon bee.
+[21:45:22]: Lhendy51 ran the command /summon bee.
+[22:34:27]: Lhendy51 ran the command /locate.
+[23:25:59]: Lhendy51 ran the command /xp.

@@ -1,0 +1,16 @@
+[00:03:16]: BenDoesMusic quit at the location 67, 167, 71. Their IP was 98.111.253.55.
+[00:03:42]: Lhendy51 quit at the location 14, 196, 41. Their IP was 73.154.195.184.
+[08:20:56]: thebrendan quit at the location 0, 11, 86. Their IP was 71.61.224.181.
+[15:57:15]: thebrendan quit at the location -66, 17, -52. Their IP was 71.61.224.181.
+[16:01:33]: captainasia_ quit at the location 56, 99, 84. Their IP was 24.154.114.227.
+[16:56:32]: captainasia_ quit at the location 25, 77, -6. Their IP was 24.154.114.227.
+[17:16:45]: captainasia_ quit at the location 49, 38, 30. Their IP was 24.154.114.227.
+[17:29:16]: captainasia_ quit at the location 1281, 64, 760. Their IP was 24.154.114.227.
+[19:04:40]: captainasia_ quit at the location 1290, 65, 763. Their IP was 24.154.114.227.
+[21:59:20]: BenDoesMusic quit at the location 74, 155, 67. Their IP was 98.111.253.55.
+[22:36:12]: BenjaboyQ quit at the location 24, 70, 13. Their IP was 96.236.218.9.
+[23:05:37]: BenjaboyQ quit at the location 28, 77, -7. Their IP was 96.236.218.9.
+[23:25:42]: TARDIS_360 quit at the location -1751, 76, -1235. Their IP was 73.154.210.58.
+[23:29:39]: captainasia_ quit at the location 8, 86, 11. Their IP was 24.154.114.227.
+[23:48:25]: Lhendy51 quit at the location 5469, 60, 9041. Their IP was 73.154.195.184.
+[23:50:48]: BenDoesMusic quit at the location 27, 77, -45. Their IP was 98.111.253.55.

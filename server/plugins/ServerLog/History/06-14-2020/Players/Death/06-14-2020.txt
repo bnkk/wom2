@@ -1,0 +1,5 @@
+[20:11:05]: captainasia_ died because of ENTITY_ATTACK by Zombie.
+[20:42:50]: CreeperMKB died because of ENTITY_EXPLOSION.
+[21:41:05]: ColeOutlaw died because of FALL.
+[22:57:14]: captainasia_ died because of FALL.
+[22:59:26]: captainasia_ died because of ENTITY_ATTACK by Lhendy51 with Circumcisor IV (DIAMOND_SWORD).

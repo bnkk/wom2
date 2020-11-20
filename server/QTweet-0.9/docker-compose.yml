@@ -1,0 +1,42 @@
+version: "3.7"
+
+services:
+  qtweet:
+    build: 
+      context: .
+      args:
+        PREFIX: "${PREFIX}"
+        BOT_NAME: "${BOT_NAME}"
+    image: navenn_t/qtweet
+    restart: on-failure
+    environment:
+      TZ: ${TIMEZONE}
+      PGHOST: postgres
+      PGDATABASE: ${DB_NAME}
+      PGPASSWORD: ${DB_PASSWORD}
+      PGUSER: ${DB_USER}
+      DISCORD_TOKEN: ${DISCORD_TOKEN}
+      TWITTER_ID: ${TWITTER_ID}
+      TWITTER_SECRET: ${TWITTER_SECRET}
+      TWITTER_TOKEN: ${TWITTER_TOKEN}
+      TWITTER_TOKEN_SECRET: ${TWITTER_TOKEN_SECRET}
+      DBL_TOKEN: ${DBL_TOKEN}
+      PREFIX: ${PREFIX}
+      BOT_NAME: ${BOT_NAME}
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:12.1-alpine
+    restart: always
+    volumes:
+      - ./db-init:/docker-entrypoint-initdb.d
+      - pgdata:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      DEFAULT_LANG: ${DEFAULT_LANG}
+
+volumes:
+  pgdata:

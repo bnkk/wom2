@@ -1,0 +1,9 @@
+[15:03:14]: theredbook kicked. Their IP was 73.52.219.140. Reason: You logged in from another location
+[20:50:57]: Lhendy51 kicked. Their IP was 73.154.195.184. Reason: You logged in from another location
+[20:52:04]: Borps kicked. Their IP was 2.0.0.10. Reason: You logged in from another location
+[20:52:09]: Lhendy51 kicked. Their IP was 73.154.195.184. Reason: You logged in from another location
+[20:53:35]: Borps kicked. Their IP was 2.0.0.10. Reason: You logged in from another location
+[21:11:22]: Borps kicked. Their IP was 2.0.0.10. Reason: You logged in from another location
+[21:12:29]: Lhendy51 kicked. Their IP was 73.154.195.184. Reason: You logged in from another location
+[21:12:30]: captainasia_ kicked. Their IP was 24.154.114.227. Reason: You logged in from another location
+[21:50:46]: Lhendy51 kicked. Their IP was 73.154.195.184. Reason: You logged in from another location

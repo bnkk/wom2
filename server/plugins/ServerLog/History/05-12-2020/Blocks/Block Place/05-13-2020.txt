@@ -1,0 +1,2 @@
+[00:01:05]: BenDoesMusic placed the block DIRT at the location 1504, 64, 252.
+[00:01:05]: BenDoesMusic placed the block DIRT at the location 1505, 64, 252.

@@ -1,0 +1,9 @@
+[08:13:46]: thebrendan died because of ENTITY_ATTACK by Zombified Piglin.
+[08:20:32]: thebrendan died because of FALL.
+[08:27:00]: thebrendan died because of FALL.
+[11:39:58]: thebrendan died because of ENTITY_ATTACK by Endermite.
+[11:42:36]: thebrendan died because of ENTITY_ATTACK by Enderman.
+[11:45:55]: thebrendan died because of FALL.
+[11:48:06]: thebrendan died because of FALL.
+[22:27:05]: captainasia_ died because of ENTITY_ATTACK by BenjaboyQ with Quinticus (DIAMOND_SWORD).
+[22:48:12]: captainasia_ died because of FALL.

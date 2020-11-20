@@ -1,0 +1,2 @@
+[00:30:15]: Austin_Powers_ died because of ENTITY_EXPLOSION.
+[00:30:32]: Austin_Powers_ died because of ENTITY_ATTACK by Iron Golem.

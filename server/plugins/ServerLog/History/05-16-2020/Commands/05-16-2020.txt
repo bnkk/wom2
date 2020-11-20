@@ -1,0 +1,2 @@
+[09:29:21]: Borps ran the command /day.
+[09:29:21]: Borps ran the command /time set day.

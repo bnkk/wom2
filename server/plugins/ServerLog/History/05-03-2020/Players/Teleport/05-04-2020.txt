@@ -1,0 +1,4 @@
+[00:00:24]: BenDoesMusic teleported to 26, 129, -242.
+[00:01:17]: BenDoesMusic teleported to -6315, 70, -3136.
+[00:01:44]: BenDoesMusic teleported to -790, 129, -392.
+[00:02:36]: BenDoesMusic teleported to 44, 72, 0.

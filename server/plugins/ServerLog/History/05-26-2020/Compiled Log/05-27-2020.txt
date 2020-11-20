@@ -1,0 +1,130 @@
+[00:00:00]: captainasia_ broke the block STONE at the location -169, 47, -37.
+[00:00:00]: Lhendy51 placed the block SPRUCE_SLAB at the location 841, 64, 370.
+[00:00:00]: captainasia_ picked up the item COBBLESTONE.
+[00:00:00]: captainasia_ picked up the item COBBLESTONE.
+[00:00:00]: captainasia_ broke the block STONE at the location -170, 48, -37.
+[00:00:00]: captainasia_ picked up the item COBBLESTONE.
+[00:00:00]: captainasia_ picked up the item COBBLESTONE.
+[00:00:01]: captainasia_ broke the block STONE at the location -171, 48, -37.
+[00:00:01]: captainasia_ picked up the item COBBLESTONE.
+[00:00:01]: captainasia_ broke the block STONE at the location -170, 47, -37.
+[00:00:01]: captainasia_ picked up the item COBBLESTONE.
+[00:00:01]: Lhendy51 placed the block SPRUCE_SLAB at the location 842, 64, 369.
+[00:00:01]: captainasia_ picked up the item COBBLESTONE.
+[00:00:02]: captainasia_ broke the block STONE at the location -171, 47, -37.
+[00:00:02]: captainasia_ broke the block STONE at the location -172, 48, -37.
+[00:00:02]: captainasia_ picked up the item COBBLESTONE.
+[00:00:02]: Lhendy51 placed the block SPRUCE_SLAB at the location 841, 62, 369.
+[00:00:02]: captainasia_ broke the block STONE at the location -172, 47, -37.
+[00:00:02]: captainasia_ picked up the item COBBLESTONE.
+[00:00:03]: captainasia_ broke the block STONE at the location -172, 48, -38.
+[00:00:03]: captainasia_ picked up the item COBBLESTONE.
+[00:00:03]: captainasia_ broke the block STONE at the location -172, 47, -38.
+[00:00:03]: captainasia_ picked up the item COBBLESTONE.
+[00:00:03]: captainasia_ broke the block STONE at the location -171, 48, -38.
+[00:00:04]: captainasia_ picked up the item COBBLESTONE.
+[00:00:04]: captainasia_ picked up the item COBBLESTONE.
+[00:00:05]: Lhendy51 broke the block SPRUCE_SLAB at the location 841, 62, 369.
+[00:00:05]: Lhendy51 picked up the item SPRUCE_SLAB.
+[00:00:11]: captainasia_ placed the block COBBLESTONE at the location -156, 47, -37.
+[00:00:11]: captainasia_ placed the block COBBLESTONE at the location -156, 48, -37.
+[00:00:12]: captainasia_ placed the block COBBLESTONE at the location -156, 49, -37.
+[00:00:12]: Austin_Powers_ teleported to 785, 65, 311.
+[00:00:12]: captainasia_ placed the block COBBLESTONE at the location -156, 50, -37.
+[00:00:12]: Lhendy51 placed the block SPRUCE_SLAB at the location 842, 64, 370.
+[00:00:13]: captainasia_ placed the block COBBLESTONE at the location -156, 51, -37.
+[00:00:13]: captainasia_ placed the block COBBLESTONE at the location -156, 52, -37.
+[00:00:14]: captainasia_ placed the block COBBLESTONE at the location -156, 53, -37.
+[00:00:14]: Lhendy51 placed the block SPRUCE_SLAB at the location 843, 64, 369.
+[00:00:14]: captainasia_ placed the block COBBLESTONE at the location -156, 54, -37.
+[00:00:14]: Lhendy51 placed the block SPRUCE_SLAB at the location 843, 64, 370.
+[00:00:14]: captainasia_ placed the block COBBLESTONE at the location -156, 55, -37.
+[00:00:16]: Lhendy51 placed the block SPRUCE_SLAB at the location 844, 64, 369.
+[00:00:16]: captainasia_ placed the block COBBLESTONE at the location -156, 56, -37.
+[00:00:16]: Lhendy51 placed the block SPRUCE_SLAB at the location 844, 64, 370.
+[00:00:16]: captainasia_ placed the block COBBLESTONE at the location -156, 57, -37.
+[00:00:17]: Lhendy51 placed the block SPRUCE_SLAB at the location 845, 64, 369.
+[00:00:17]: Lhendy51 placed the block SPRUCE_SLAB at the location 845, 64, 370.
+[00:00:17]: captainasia_ placed the block COBBLESTONE at the location -156, 58, -37.
+[00:00:17]: captainasia_ placed the block COBBLESTONE at the location -156, 59, -37.
+[00:00:18]: Lhendy51 placed the block SPRUCE_SLAB at the location 846, 64, 370.
+[00:00:18]: captainasia_ placed the block COBBLESTONE at the location -156, 60, -37.
+[00:00:18]: captainasia_ placed the block COBBLESTONE at the location -156, 61, -37.
+[00:00:18]: Lhendy51 placed the block SPRUCE_SLAB at the location 846, 64, 369.
+[00:00:19]: captainasia_ placed the block COBBLESTONE at the location -156, 62, -37.
+[00:00:19]: Lhendy51 placed the block SPRUCE_SLAB at the location 847, 64, 369.
+[00:00:19]: captainasia_ placed the block COBBLESTONE at the location -156, 63, -37.
+[00:00:20]: Lhendy51 placed the block SPRUCE_SLAB at the location 847, 64, 370.
+[00:00:20]: captainasia_ placed the block COBBLESTONE at the location -156, 64, -37.
+[00:00:20]: captainasia_ placed the block COBBLESTONE at the location -156, 65, -37.
+[00:00:21]: Lhendy51 placed the block SPRUCE_SLAB at the location 848, 64, 369.
+[00:00:21]: Lhendy51 placed the block SPRUCE_SLAB at the location 848, 64, 370.
+[00:00:21]: captainasia_ placed the block COBBLESTONE at the location -156, 66, -37.
+[00:00:21]: captainasia_ placed the block COBBLESTONE at the location -156, 67, -37.
+[00:00:22]: captainasia_ placed the block COBBLESTONE at the location -156, 68, -37.
+[00:00:22]: captainasia_ placed the block COBBLESTONE at the location -156, 69, -37.
+[00:00:23]: Lhendy51 placed the block SPRUCE_SLAB at the location 848, 63, 370.
+[00:00:23]: Lhendy51 placed the block SPRUCE_SLAB at the location 848, 63, 369.
+[00:00:23]: captainasia_ placed the block COBBLESTONE at the location -156, 70, -37.
+[00:00:23]: Lhendy51 placed the block SPRUCE_SLAB at the location 849, 63, 369.
+[00:00:23]: captainasia_ placed the block COBBLESTONE at the location -156, 71, -37.
+[00:00:23]: Lhendy51 placed the block SPRUCE_SLAB at the location 849, 63, 370.
+[00:00:25]: captainasia_ broke the block DIRT at the location -156, 73, -36.
+[00:00:26]: captainasia_ picked up the item DIRT.
+[00:00:27]: captainasia_ broke the block GRASS_BLOCK at the location -156, 74, -36.
+[00:00:27]: captainasia_ picked up the item DIRT.
+[00:00:29]: captainasia_ placed the block DIRT at the location -156, 73, -36.
+[00:00:29]: Lhendy51 placed the block SPRUCE_SLAB at the location 850, 63, 369.
+[00:00:29]: captainasia_ placed the block DIRT at the location -156, 74, -36.
+[00:00:29]: Lhendy51 placed the block SPRUCE_SLAB at the location 850, 63, 370.
+[00:00:30]: Lhendy51 placed the block SPRUCE_SLAB at the location 851, 63, 369.
+[00:00:30]: Lhendy51 placed the block SPRUCE_SLAB at the location 851, 63, 370.
+[00:00:31]: Lhendy51 placed the block SPRUCE_SLAB at the location 852, 63, 369.
+[00:00:31]: Lhendy51 placed the block SPRUCE_SLAB at the location 852, 63, 370.
+[00:00:33]: Lhendy51 placed the block SPRUCE_SLAB at the location 852, 63, 369.
+[00:00:33]: Lhendy51 placed the block SPRUCE_SLAB at the location 852, 63, 370.
+[00:00:34]: Lhendy51 placed the block SPRUCE_SLAB at the location 853, 63, 369.
+[00:00:34]: Lhendy51 placed the block SPRUCE_SLAB at the location 853, 63, 370.
+[00:00:36]: Lhendy51 placed the block SPRUCE_SLAB at the location 854, 63, 369.
+[00:00:36]: Lhendy51 placed the block SPRUCE_SLAB at the location 854, 63, 370.
+[00:00:36]: Lhendy51 placed the block SPRUCE_SLAB at the location 855, 63, 369.
+[00:00:37]: Lhendy51 placed the block SPRUCE_SLAB at the location 855, 63, 370.
+[00:00:38]: Lhendy51 placed the block SPRUCE_SLAB at the location 856, 63, 369.
+[00:00:38]: Lhendy51 placed the block SPRUCE_SLAB at the location 856, 63, 370.
+[00:00:38]: Lhendy51 placed the block SPRUCE_SLAB at the location 857, 63, 369.
+[00:00:38]: Lhendy51 placed the block SPRUCE_SLAB at the location 857, 63, 370.
+[00:00:40]: Lhendy51 placed the block SPRUCE_SLAB at the location 858, 63, 369.
+[00:00:40]: Lhendy51 placed the block SPRUCE_SLAB at the location 858, 63, 370.
+[00:00:41]: Lhendy51 placed the block SPRUCE_SLAB at the location 859, 63, 369.
+[00:00:41]: Lhendy51 placed the block SPRUCE_SLAB at the location 859, 63, 370.
+[00:00:50]: Lhendy51 broke the block KELP_PLANT at the location 862, 61, 370.
+[00:00:50]: Lhendy51 broke the block KELP at the location 860, 62, 370.
+[00:00:51]: Lhendy51 picked up the item KELP.
+[00:00:52]: Lhendy51 broke the block KELP at the location 862, 61, 371.
+[00:00:53]: Lhendy51 broke the block KELP_PLANT at the location 860, 61, 371.
+[00:00:53]: Lhendy51 broke the block KELP at the location 860, 62, 369.
+[00:00:53]: Lhendy51 broke the block KELP_PLANT at the location 861, 61, 369.
+[00:00:53]: Lhendy51 broke the block KELP at the location 860, 62, 368.
+[00:00:53]: Lhendy51 broke the block KELP at the location 859, 62, 368.
+[00:00:54]: Lhendy51 picked up the item KELP.
+[00:00:55]: Lhendy51 broke the block KELP at the location 860, 61, 370.
+[00:00:56]: Lhendy51 picked up the item KELP.
+[00:00:56]: Lhendy51 placed the block SPRUCE_SLAB at the location 859, 62, 369.
+[00:00:56]: Lhendy51 placed the block SPRUCE_SLAB at the location 859, 62, 370.
+[00:00:58]: Lhendy51 placed the block SPRUCE_SLAB at the location 860, 62, 370.
+[00:00:58]: Lhendy51 placed the block SPRUCE_SLAB at the location 860, 63, 370.
+[00:01:00]: Lhendy51 placed the block SPRUCE_SLAB at the location 860, 62, 369.
+[00:01:01]: Lhendy51 broke the block SPRUCE_SLAB at the location 860, 63, 370.
+[00:01:02]: Lhendy51 picked up the item SPRUCE_SLAB.
+[00:01:03]: Austin_Powers_ broke the block COBBLESTONE at the location 70, 70, 42.
+[00:01:03]: Austin_Powers_ picked up the item COBBLESTONE.
+[00:01:05]: Austin_Powers_ placed the block COBBLESTONE at the location 70, 70, 42.
+[00:01:07]: Lhendy51 placed the block SPRUCE_SLAB at the location 861, 62, 370.
+[00:01:08]: Lhendy51 placed the block SPRUCE_SLAB at the location 862, 62, 370.
+[00:01:08]: Austin_Powers_ quit at the location 71, 69, 43. Their IP was 73.154.194.210.
+[00:01:09]: Lhendy51 placed the block SPRUCE_SLAB at the location 863, 62, 370.
+[00:01:10]: Lhendy51 placed the block SPRUCE_SLAB at the location 861, 62, 369.
+[00:01:10]: Lhendy51 placed the block SPRUCE_SLAB at the location 862, 62, 369.
+[00:01:12]: Lhendy51 broke the block KELP at the location 863, 62, 369.
+[00:01:12]: Lhendy51 placed the block SPRUCE_SLAB at the location 863, 62, 369.
+[00:01:12]: Lhendy51 picked up the item KELP.

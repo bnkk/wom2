@@ -1,0 +1,4 @@
+[00:02:39]: captainasia_ picked up the item ARROW.
+[00:02:39]: captainasia_ picked up the item BONE.
+[00:02:39]: captainasia_ picked up the item GOLD_NUGGET.
+[00:02:39]: captainasia_ picked up the item ROTTEN_FLESH.

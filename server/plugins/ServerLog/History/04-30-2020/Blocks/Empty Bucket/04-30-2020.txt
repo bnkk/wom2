@@ -1,0 +1,8 @@
+[22:53:52]: BenjaboyQ emptied a WATER_BUCKET at the location -6334, 69, -3147.
+[22:53:52]: BenjaboyQ emptied a WATER_BUCKET at the location -6334, 69, -3146.
+[22:53:53]: BenjaboyQ emptied a WATER_BUCKET at the location -6333, 69, -3146.
+[22:53:53]: BenjaboyQ emptied a WATER_BUCKET at the location -6333, 69, -3147.
+[22:53:54]: BenjaboyQ emptied a WATER_BUCKET at the location -6332, 69, -3147.
+[22:53:54]: BenjaboyQ emptied a WATER_BUCKET at the location -6332, 69, -3146.
+[22:54:00]: BenjaboyQ emptied a WATER_BUCKET at the location -6335, 69, -3146.
+[22:54:01]: BenjaboyQ emptied a WATER_BUCKET at the location -6335, 69, -3147.

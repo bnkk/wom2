@@ -1,0 +1,5 @@
+[00:45:42]: BenDoesMusic died because of FALL.
+[02:32:01]: Comrade91 died because of FALL.
+[02:32:17]: Comrade91 died because of FALL.
+[14:16:05]: Lhendy51 died because of STARVATION.
+[22:45:46]: Lhendy51 died because of ENTITY_ATTACK by Guardian using magic.

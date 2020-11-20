@@ -1,0 +1,121 @@
+[12:07:29]: Borps ran the command /gm spectator.
+[12:07:29]: Borps ran the command /gamemode spectator.
+[17:42:38]: Borps ran the command /gm survival.
+[17:42:38]: Borps ran the command /gamemode survival.
+[17:43:44]: Borps ran the command /c.
+[17:43:48]: Borps ran the command /gm creative.
+[17:43:48]: Borps ran the command /gamemode creative.
+[17:44:11]: Borps ran the command /s.
+[17:49:20]: Borps ran the command /mycmd-reload commands.
+[17:49:22]: Borps ran the command /gmc.
+[17:49:22]: Borps ran the command /gamemode creative.
+[17:49:25]: Borps ran the command /gms.
+[17:49:25]: Borps ran the command /gamemode survival.
+[17:49:46]: Borps ran the command /gmc.
+[17:49:46]: Borps ran the command /gamemode creative.
+[20:13:53]: BenjaboyQ ran the command /tell BenjaboyQ should we approach red or is it too early.
+[20:14:12]: BenjaboyQ ran the command /tell BenDoesMusic should we approach red or is it too early.
+[20:14:21]: BenDoesMusic ran the command /msg BenjaboyQ it might be too early.
+[20:14:32]: BenjaboyQ ran the command /tell BenDoesMusic yeah agreed.
+[20:17:38]: BenDoesMusic ran the command /day.
+[20:17:39]: BenDoesMusic ran the command /time set day.
+[20:27:15]: BenDoesMusic ran the command /ay.
+[20:27:16]: BenDoesMusic ran the command /day.
+[20:27:16]: BenDoesMusic ran the command /time set day.
+[20:29:23]: BenjaboyQ ran the command /tell BenDoesMusic lookin for a spot for party hq/white house.
+[20:29:50]: BenjaboyQ ran the command /tell BenDoesMusic thinkin one of the islands around here.
+[20:33:25]: BenDoesMusic ran the command /tp BenjaboyQ.
+[20:36:28]: BenDoesMusic ran the command /day.
+[20:36:28]: BenDoesMusic ran the command /time set day.
+[20:40:53]: BenjaboyQ ran the command /tell BenDoesMusic we dont compromise bud.
+[20:41:04]: BenjaboyQ ran the command /tell BenDoesMusic plus you can emerald trade for it.
+[20:41:09]: BenDoesMusic ran the command /msg BenjaboyQ i lost the island.
+[20:41:32]: BenjaboyQ ran the command /tell BenDoesMusic north northeast of the volcano.
+[20:41:35]: BenDoesMusic ran the command /tp BenjaboyQ.
+[20:42:16]: BenjaboyQ ran the command /tell BenDoesMusic concrete is too flat.
+[20:45:45]: BenDoesMusic ran the command /weather clera.
+[20:45:47]: BenDoesMusic ran the command /weather clear.
+[20:50:51]: BenjaboyQ ran the command /tell BenDoesMusic i think hes a loganite too.
+[20:51:00]: BenDoesMusic ran the command /msg BenjaboyQ honestly it could go either way.
+[20:51:18]: BenjaboyQ ran the command /tell BenDoesMusic he built that ship for logan hes a logan simp.
+[20:51:28]: BenDoesMusic ran the command /msg BenjaboyQ he just likes to build.
+[20:51:52]: BenjaboyQ ran the command /tell BenDoesMusic if you think its a good idea we can give him a talk.
+[20:52:02]: BenDoesMusic ran the command /msg BenjaboyQ hes not on a lot though.
+[21:04:47]: BenjaboyQ ran the command /tell BenDoesMusic ben were gonna need green and gray concrete powder and quartz in bulk.
+[21:05:04]: BenDoesMusic ran the command /msg BenjaboyQ i can try.
+[21:05:25]: BenjaboyQ ran the command /tell BenDoesMusic you can use the gravel mountain and my ink stash by my base.
+[21:06:01]: BenjaboyQ ran the command /tell BenDoesMusic unless you wanna do a cobble road like a noob.
+[21:06:09]: BenDoesMusic ran the command /msg BenjaboyQ of course not.
+[21:07:22]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 5 5.
+[21:08:09]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 12 12.
+[21:08:43]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 5 5.
+[21:08:48]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 4 4.
+[21:09:05]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 3 3.
+[21:09:12]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 1 1.
+[21:09:20]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 1 1.
+[21:09:42]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 1 1.
+[21:09:59]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 5 5.
+[21:10:11]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 2 3.
+[21:11:06]: BenDoesMusic ran the command /imagemap 7degreesbrassband.png scale 4 4.
+[21:34:45]: BenDoesMusic ran the command /day.
+[21:34:45]: BenDoesMusic ran the command /time set day.
+[21:35:36]: BenjaboyQ ran the command /tell BenDoesMusic i can take the gray concrete.
+[21:44:52]: BenDoesMusic ran the command /tp Lhendy51.
+[21:45:12]: BenDoesMusic ran the command /tp Lhendy51.
+[21:46:50]: BenDoesMusic ran the command /heal.
+[21:46:56]: BenDoesMusic ran the command /gamemode spectator.
+[21:47:24]: BenDoesMusic ran the command /gamemode creative.
+[21:47:58]: BenDoesMusic ran the command /gamemode spectator.
+[21:48:09]: BenDoesMusic ran the command /gamemode survival.
+[21:48:35]: BenDoesMusic ran the command /tp 0 80 0.
+[21:48:42]: BenDoesMusic ran the command /gamemode spectator.
+[21:49:23]: BenDoesMusic ran the command /gamemode creative.
+[21:49:31]: BenDoesMusic ran the command /gamemode survival.
+[21:49:34]: BenDoesMusic ran the command /tp CreeperMKB.
+[21:51:30]: BenDoesMusic ran the command /msg BenjaboyQ if you messaged me recently i was afk so i didnt see it.
+[21:51:53]: BenjaboyQ ran the command /tell BenDoesMusic didnt send anything important.
+[21:51:59]: BenDoesMusic ran the command /msg BenjaboyQ ok.
+[21:52:12]: BenjaboyQ ran the command /tell BenDoesMusic but i have plenty of gray conc so please focus on green conc powder.
+[21:52:23]: BenDoesMusic ran the command /msg BenjaboyQ ok.
+[21:56:04]: BenjaboyQ ran the command /tell BenDoesMusic btw once we start building the wh the secrets out so just keep that in mind.
+[21:56:19]: BenDoesMusic ran the command /msg BenjaboyQ not unless somebody sees it.
+[21:56:50]: BenjaboyQ ran the command /tell BenDoesMusic people can already see the road and nether portal.
+[21:57:12]: BenDoesMusic ran the command /msg BenjaboyQ nobody is gonna go through.
+[21:57:33]: BenjaboyQ ran the command /tell BenDoesMusic ok yeah.
+[22:13:26]: Borps ran the command /gms.
+[22:13:26]: Borps ran the command /gamemode survival.
+[22:14:44]: Borps ran the command /gmc.
+[22:14:44]: Borps ran the command /gamemode creative.
+[22:16:18]: Borps ran the command /give @s minecraft:splash_potion{CustomPotionEffects:[{Id:25,Amplifier:126,Duration:60}]}.
+[22:19:31]: Borps ran the command /openender Borps.
+[22:21:27]: Borps ran the command /data.
+[22:21:33]: Borps ran the command /data get storage.
+[22:21:47]: Borps ran the command /data get storage.
+[22:21:52]: Borps ran the command /data get storage inventory.
+[22:21:57]: Borps ran the command /data get storage Borps.
+[22:22:01]: Borps ran the command /data get storage borps.
+[22:22:23]: Borps ran the command /data get entity Borps.
+[22:22:40]: Lhendy51 ran the command /openinv captainasia_.
+[22:22:41]: Borps ran the command /data get entity Borps {Slots:1}.
+[22:22:45]: Borps ran the command /data get entity Borps {Slot:1}.
+[22:22:55]: Borps ran the command /data get entity Borps {Inventory:1}.
+[22:28:33]: Borps ran the command /data get entity Borps {Inventory:1}.
+[22:28:36]: Borps ran the command /data get entity Borps.
+[22:28:41]: Borps ran the command /data get entity Borps.
+[22:28:50]: Borps ran the command /data get entity Borps.
+[22:32:26]: Borps ran the command /gms.
+[22:32:26]: Borps ran the command /gamemode survival.
+[22:32:55]: Borps ran the command /gmc.
+[22:32:55]: Borps ran the command /gamemode creative.
+[22:34:14]: Borps ran the command /gms.
+[22:34:14]: Borps ran the command /gamemode survival.
+[22:35:40]: Borps ran the command /gmc.
+[22:35:40]: Borps ran the command /gamemode creative.
+[22:36:56]: Borps ran the command /summon creeper.
+[22:37:00]: Borps ran the command /summon lightning.
+[22:37:12]: Borps ran the command /summon creeper.
+[22:37:16]: Borps ran the command /summon minecraft:lightning_bolt.
+[22:37:21]: Borps ran the command /summon creeper.
+[22:37:22]: Borps ran the command /summon minecraft:lightning_bolt.
+[22:37:49]: Borps ran the command /summon creeper.
+[22:37:50]: Borps ran the command /summon minecraft:lightning_bolt.

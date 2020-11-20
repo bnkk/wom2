@@ -1,0 +1,9 @@
+[21:26:30]: Lhendy51 emptied a WATER_BUCKET at the location 73, 79, -43.
+[21:26:30]: Lhendy51 emptied a WATER_BUCKET at the location 73, 80, -43.
+[21:26:31]: Lhendy51 emptied a WATER_BUCKET at the location 73, 81, -43.
+[21:43:25]: Austin_Powers_ emptied a WATER_BUCKET at the location 59, 68, 36.
+[21:59:09]: Austin_Powers_ emptied a WATER_BUCKET at the location 58, 67, 36.
+[21:59:11]: Austin_Powers_ emptied a WATER_BUCKET at the location 58, 66, 36.
+[21:59:12]: Austin_Powers_ emptied a WATER_BUCKET at the location 58, 65, 36.
+[21:59:16]: Austin_Powers_ emptied a WATER_BUCKET at the location 58, 64, 36.
+[21:59:21]: Austin_Powers_ emptied a WATER_BUCKET at the location 58, 63, 36.
